@@ -1,0 +1,58 @@
+{
+    "450": {
+        "name": "Đồng Hới",
+        "type": "thanh-pho",
+        "name_with_type": "Thành Phố Đồng Hới",
+        "code": "450",
+        "parent_code": "44"
+    },
+    "452": {
+        "name": "Minh Hóa",
+        "type": "huyen",
+        "name_with_type": "Huyện Minh Hóa",
+        "code": "452",
+        "parent_code": "44"
+    },
+    "453": {
+        "name": "Tuyên Hóa",
+        "type": "huyen",
+        "name_with_type": "Huyện Tuyên Hóa",
+        "code": "453",
+        "parent_code": "44"
+    },
+    "454": {
+        "name": "Quảng Trạch",
+        "type": "huyen",
+        "name_with_type": "Huyện Quảng Trạch",
+        "code": "454",
+        "parent_code": "44"
+    },
+    "455": {
+        "name": "Bố Trạch",
+        "type": "huyen",
+        "name_with_type": "Huyện Bố Trạch",
+        "code": "455",
+        "parent_code": "44"
+    },
+    "456": {
+        "name": "Quảng Ninh",
+        "type": "huyen",
+        "name_with_type": "Huyện Quảng Ninh",
+        "code": "456",
+        "parent_code": "44"
+    },
+    "457": {
+        "name": "Lệ Thủy",
+        "type": "huyen",
+        "name_with_type": "Huyện Lệ Thủy",
+        "code": "457",
+        "parent_code": "44"
+    },
+    "458": {
+        "name": "Ba Đồn",
+        "type": "thi-xa",
+        "name_with_type": "Thị xã Ba Đồn",
+        "code": "458",
+        "parent_code": "44"
+    }
+}

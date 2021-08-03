@@ -1,0 +1,90 @@
+.Swal2ConfirmDialog.swal2-toast {
+  border-radius: 50px;
+  box-shadow: 0 0 0 1px #aaa;
+
+  .swal2-actions > .btn {
+    border-radius: 16px;
+  }
+
+  .swal2-actions > .btn + .btn {
+    margin-left: 7px;
+  }
+
+  .swal2-content {
+    padding-left: 15px;
+    padding-right: 10px;
+  }
+
+  &.swal2-show {
+    animation: showSweetToast .25s;
+  }
+
+  &.swal2-hide {
+    animation: hideSweetToast .15s forwards;
+  }
+}
+
+.swal2-popup.Swal2ConfirmDialog {
+  padding: 0;
+  border-radius: 6px;
+  background-color: #fff;
+  min-width: 320px;
+  max-width: 360px;
+
+  .swal2-header,
+  .swal2-footer {
+    display: none !important;
+  }
+
+  .swal2-content {
+    color: #444;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 30px;
+
+    @mixin in-small() {
+      font-size: 15px;
+      padding: 30px 20px;
+    }
+  }
+
+  .swal2-actions {
+    margin: 0;
+    display: flex;
+    border-top: 1px solid #eee;
+
+    > [type="button"] {
+      color: #444;
+      font-size: 13px;
+      background: #fff;
+      font-weight: 700;
+      line-height: 50px;
+      flex: 1 1;
+      border: 0;
+      cursor: pointer;
+      padding: 0 10px;
+      user-select: none;
+      white-space: nowrap;
+
+      &:focus {
+        outline: none;
+        background: #f2f2f2;
+        transition: background-color 0.24s ease-out;
+      }
+
+      &:first-child {
+        border-bottom-left-radius: 6px;
+      }
+
+      &:last-child {
+        color: #0095ff;
+        border-left: 1px solid #eee;
+        border-bottom-right-radius: 6px;
+      }
+    }
+  }
+
+  &--alert .swal2-actions .swal2-confirm {
+    border-bottom-left-radius: 6px;
+  }
+}

@@ -1,0 +1,58 @@
+{
+    "256": {
+        "name": "Bắc Ninh",
+        "type": "thanh-pho",
+        "name_with_type": "Thành phố Bắc Ninh",
+        "code": "256",
+        "parent_code": "27"
+    },
+    "258": {
+        "name": "Yên Phong",
+        "type": "huyen",
+        "name_with_type": "Huyện Yên Phong",
+        "code": "258",
+        "parent_code": "27"
+    },
+    "259": {
+        "name": "Quế Võ",
+        "type": "huyen",
+        "name_with_type": "Huyện Quế Võ",
+        "code": "259",
+        "parent_code": "27"
+    },
+    "260": {
+        "name": "Tiên Du",
+        "type": "huyen",
+        "name_with_type": "Huyện Tiên Du",
+        "code": "260",
+        "parent_code": "27"
+    },
+    "261": {
+        "name": "Từ Sơn",
+        "type": "thi-xa",
+        "name_with_type": "Thị xã Từ Sơn",
+        "code": "261",
+        "parent_code": "27"
+    },
+    "262": {
+        "name": "Thuận Thành",
+        "type": "huyen",
+        "name_with_type": "Huyện Thuận Thành",
+        "code": "262",
+        "parent_code": "27"
+    },
+    "263": {
+        "name": "Gia Bình",
+        "type": "huyen",
+        "name_with_type": "Huyện Gia Bình",
+        "code": "263",
+        "parent_code": "27"
+    },
+    "264": {
+        "name": "Lương Tài",
+        "type": "huyen",
+        "name_with_type": "Huyện Lương Tài",
+        "code": "264",
+        "parent_code": "27"
+    }
+}

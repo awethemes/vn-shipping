@@ -1,0 +1,51 @@
+{
+    "070": {
+        "name": "Tuyên Quang",
+        "type": "thanh-pho",
+        "name_with_type": "Thành phố Tuyên Quang",
+        "code": "070",
+        "parent_code": "08"
+    },
+    "071": {
+        "name": "Lâm Bình",
+        "type": "huyen",
+        "name_with_type": "Huyện Lâm Bình",
+        "code": "071",
+        "parent_code": "08"
+    },
+    "072": {
+        "name": "Na Hang",
+        "type": "huyen",
+        "name_with_type": "Huyện Na Hang",
+        "code": "072",
+        "parent_code": "08"
+    },
+    "073": {
+        "name": "Chiêm Hóa",
+        "type": "huyen",
+        "name_with_type": "Huyện Chiêm Hóa",
+        "code": "073",
+        "parent_code": "08"
+    },
+    "074": {
+        "name": "Hàm Yên",
+        "type": "huyen",
+        "name_with_type": "Huyện Hàm Yên",
+        "code": "074",
+        "parent_code": "08"
+    },
+    "075": {
+        "name": "Yên Sơn",
+        "type": "huyen",
+        "name_with_type": "Huyện Yên Sơn",
+        "code": "075",
+        "parent_code": "08"
+    },
+    "076": {
+        "name": "Sơn Dương",
+        "type": "huyen",
+        "name_with_type": "Huyện Sơn Dương",
+        "code": "076",
+        "parent_code": "08"
+    }
+}

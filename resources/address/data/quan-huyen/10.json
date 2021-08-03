@@ -1,0 +1,65 @@
+{
+    "080": {
+        "name": "Lào Cai",
+        "type": "thanh-pho",
+        "name_with_type": "Thành phố Lào Cai",
+        "code": "080",
+        "parent_code": "10"
+    },
+    "082": {
+        "name": "Bát Xát",
+        "type": "huyen",
+        "name_with_type": "Huyện Bát Xát",
+        "code": "082",
+        "parent_code": "10"
+    },
+    "083": {
+        "name": "Mường Khương",
+        "type": "huyen",
+        "name_with_type": "Huyện Mường Khương",
+        "code": "083",
+        "parent_code": "10"
+    },
+    "084": {
+        "name": "Si Ma Cai",
+        "type": "huyen",
+        "name_with_type": "Huyện Si Ma Cai",
+        "code": "084",
+        "parent_code": "10"
+    },
+    "085": {
+        "name": "Bắc Hà",
+        "type": "huyen",
+        "name_with_type": "Huyện Bắc Hà",
+        "code": "085",
+        "parent_code": "10"
+    },
+    "086": {
+        "name": "Bảo Thắng",
+        "type": "huyen",
+        "name_with_type": "Huyện Bảo Thắng",
+        "code": "086",
+        "parent_code": "10"
+    },
+    "087": {
+        "name": "Bảo Yên",
+        "type": "huyen",
+        "name_with_type": "Huyện Bảo Yên",
+        "code": "087",
+        "parent_code": "10"
+    },
+    "088": {
+        "name": "Sa Pa",
+        "type": "thi-xa",
+        "name_with_type": "Thị xã Sa Pa",
+        "code": "088",
+        "parent_code": "10"
+    },
+    "089": {
+        "name": "Văn Bàn",
+        "type": "huyen",
+        "name_with_type": "Huyện Văn Bàn",
+        "code": "089",
+        "parent_code": "10"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "awethemes/vn-shipping",
+    "description": "",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": "^7.1.8",
+        "ext-json": "*",
+        "symfony/options-resolver": "^4.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5",
+        "mockery/mockery": "^1.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VNShipping\\": "inc/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "install-wp-test": [
+            "bash bin/install-wp-tests.sh wptest_vnshipping root 'secret' localhost latest"
+        ],
+        "post-install-cmd": [
+            "@prefix-dependencies"
+        ],
+        "post-update-cmd": [
+            "@prefix-dependencies"
+        ],
+        "prefix-dependencies": [
+            "./bin/install-php-scoper.sh",
+            "@php ./bin/php-scoper add-prefix -c .scoper.inc.php --output-dir=./third-party --force",
+            "echo '{ \"autoload\": { \"classmap\": [\"\"] } }' > ./third-party/composer.json",
+            "@composer dump-autoload --working-dir ./third-party --no-dev --classmap-authoritative --optimize",
+            "echo '{ \"autoload\": { \"classmap\": [\"\"] } }' > ./inc/composer.json",
+            "@composer dump-autoload --working-dir ./inc --no-dev --classmap-authoritative --optimize"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "7.1.8"
+        }
+    }
+}

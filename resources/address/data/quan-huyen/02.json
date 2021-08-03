@@ -1,0 +1,79 @@
+{
+    "024": {
+        "name": "Hà Giang",
+        "type": "thanh-pho",
+        "name_with_type": "Thành phố Hà Giang",
+        "code": "024",
+        "parent_code": "02"
+    },
+    "026": {
+        "name": "Đồng Văn",
+        "type": "huyen",
+        "name_with_type": "Huyện Đồng Văn",
+        "code": "026",
+        "parent_code": "02"
+    },
+    "027": {
+        "name": "Mèo Vạc",
+        "type": "huyen",
+        "name_with_type": "Huyện Mèo Vạc",
+        "code": "027",
+        "parent_code": "02"
+    },
+    "028": {
+        "name": "Yên Minh",
+        "type": "huyen",
+        "name_with_type": "Huyện Yên Minh",
+        "code": "028",
+        "parent_code": "02"
+    },
+    "029": {
+        "name": "Quản Bạ",
+        "type": "huyen",
+        "name_with_type": "Huyện Quản Bạ",
+        "code": "029",
+        "parent_code": "02"
+    },
+    "030": {
+        "name": "Vị Xuyên",
+        "type": "huyen",
+        "name_with_type": "Huyện Vị Xuyên",
+        "code": "030",
+        "parent_code": "02"
+    },
+    "031": {
+        "name": "Bắc Mê",
+        "type": "huyen",
+        "name_with_type": "Huyện Bắc Mê",
+        "code": "031",
+        "parent_code": "02"
+    },
+    "032": {
+        "name": "Hoàng Su Phì",
+        "type": "huyen",
+        "name_with_type": "Huyện Hoàng Su Phì",
+        "code": "032",
+        "parent_code": "02"
+    },
+    "033": {
+        "name": "Xín Mần",
+        "type": "huyen",
+        "name_with_type": "Huyện Xín Mần",
+        "code": "033",
+        "parent_code": "02"
+    },
+    "034": {
+        "name": "Bắc Quang",
+        "type": "huyen",
+        "name_with_type": "Huyện Bắc Quang",
+        "code": "034",
+        "parent_code": "02"
+    },
+    "035": {
+        "name": "Quang Bình",
+        "type": "huyen",
+        "name_with_type": "Huyện Quang Bình",
+        "code": "035",
+        "parent_code": "02"
+    }
+}
