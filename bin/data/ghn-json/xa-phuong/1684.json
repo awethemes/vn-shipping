@@ -1,0 +1,312 @@
+[
+    {
+        "WardCode": "800209",
+        "DistrictID": 1684,
+        "WardName": "Phường Châu Sơn",
+        "NameExtension": [
+            "Phường Châu Sơn",
+            "Chau Son",
+            "Phuong Chau Son",
+            "chauson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:06.653744 +0700 +07 m=+31.319963937",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120211",
+        "DistrictID": 1684,
+        "WardName": "Xã Vinh Sơn",
+        "NameExtension": [
+            "Xã Vinh Sơn",
+            "X.Vinh Sơn",
+            "X Vinh Sơn",
+            "Vinh Sơn",
+            "Vinh Son",
+            "Xa Vinh Son",
+            "vinhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410655 +0700 +07 m=+0.046992262",
+        "UpdatedAt": "2020-09-29 13:59:22.040384 +0700 +07 m=+586.696064249",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120210",
+        "DistrictID": 1684,
+        "WardName": "Xã Tân Quang",
+        "NameExtension": [
+            "Xã Tân Quang",
+            "X.Tân Quang",
+            "X Tân Quang",
+            "Tân Quang",
+            "Tan Quang",
+            "Xa Tan Quang",
+            "tanquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410656 +0700 +07 m=+0.046993652",
+        "UpdatedAt": "2020-09-29 13:59:22.076042 +0700 +07 m=+586.731719829",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120209",
+        "DistrictID": 1684,
+        "WardName": "Xã Bình Sơn",
+        "NameExtension": [
+            "Xã Bình Sơn",
+            "X.Bình Sơn",
+            "X Bình Sơn",
+            "Bình Sơn",
+            "Binh Son",
+            "Xa Binh Son",
+            "binhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410659 +0700 +07 m=+0.046996511",
+        "UpdatedAt": "2020-09-29 13:59:22.126208 +0700 +07 m=+586.781885408",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120208",
+        "DistrictID": 1684,
+        "WardName": "Xã Bá Xuyên",
+        "NameExtension": [
+            "Xã Bá Xuyên",
+            "X.Bá Xuyên",
+            "X Bá Xuyên",
+            "Bá Xuyên",
+            "Ba Xuyen",
+            "Xa Ba Xuyen",
+            "baxuyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410661 +0700 +07 m=+0.046997977",
+        "UpdatedAt": "2020-09-29 13:59:22.164496 +0700 +07 m=+586.820172318",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120207",
+        "DistrictID": 1684,
+        "WardName": "Phường Thắng Lợi",
+        "NameExtension": [
+            "Phường Thắng Lợi",
+            "P.Thắng Lợi",
+            "P Thắng Lợi",
+            "Thắng Lợi",
+            "Thang Loi",
+            "Phuong Thang Loi",
+            "thangloi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410652 +0700 +07 m=+0.046989413",
+        "UpdatedAt": "2020-09-29 13:59:22.20012 +0700 +07 m=+586.855796111",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120206",
+        "DistrictID": 1684,
+        "WardName": "Phường Phố Cò",
+        "NameExtension": [
+            "Phường Phố Cò",
+            "P.Phố Cò",
+            "P Phố Cò",
+            "Phố Cò",
+            "Pho Co",
+            "Phuong Pho Co",
+            "phoco"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410654 +0700 +07 m=+0.046990887",
+        "UpdatedAt": "2020-09-29 13:59:22.23544 +0700 +07 m=+586.891115453",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120205",
+        "DistrictID": 1684,
+        "WardName": "Phường Mỏ Chè",
+        "NameExtension": [
+            "Phường Mỏ Chè",
+            "P.Mỏ Chè",
+            "P Mỏ Chè",
+            "Mỏ Chè",
+            "Mo Che",
+            "Phuong Mo Che",
+            "moche"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410649 +0700 +07 m=+0.046986475",
+        "UpdatedAt": "2020-09-29 13:59:22.2784 +0700 +07 m=+586.934073746",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120204",
+        "DistrictID": 1684,
+        "WardName": "Phường Lương Sơn",
+        "NameExtension": [
+            "Phường Lương Sơn",
+            "P.Lương Sơn",
+            "P Lương Sơn",
+            "Lương Sơn",
+            "Luong Son",
+            "Phuong Luong Son",
+            "Xã Lương Sơn",
+            "luongson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410646 +0700 +07 m=+0.046983560",
+        "UpdatedAt": "2020-09-29 13:59:22.35148 +0700 +07 m=+587.007152813",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120203",
+        "DistrictID": 1684,
+        "WardName": "Phường Lương Châu",
+        "NameExtension": [
+            "Phường Lương Châu",
+            "P.Lương Châu",
+            "P Lương Châu",
+            "Lương Châu",
+            "Luong Chau",
+            "Phuong Luong Chau",
+            "luongchau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410648 +0700 +07 m=+0.046985014",
+        "UpdatedAt": "2020-09-29 13:59:22.401513 +0700 +07 m=+587.057184953",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120202",
+        "DistrictID": 1684,
+        "WardName": "Phường Cải Đan",
+        "NameExtension": [
+            "Phường Cải Đan",
+            "P.Cải Đan",
+            "P Cải Đan",
+            "Cải Đan",
+            "Cai Dan",
+            "Phuong Cai Dan",
+            "caidan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410651 +0700 +07 m=+0.046987974",
+        "UpdatedAt": "2020-09-29 13:59:22.475751 +0700 +07 m=+587.131421375",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "120201",
+        "DistrictID": 1684,
+        "WardName": "Phường Bách Quang",
+        "NameExtension": [
+            "Phường Bách Quang",
+            "P.Bách Quang",
+            "P Bách Quang",
+            "Bách Quang",
+            "Bach Quang",
+            "Phuong Bach Quang",
+            "bachquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.410658 +0700 +07 m=+0.046995113",
+        "UpdatedAt": "2020-09-29 13:59:22.528305 +0700 +07 m=+587.183974892",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "WardCode": "800071",
+        "DistrictID": 2016,
+        "WardName": "Xã Tân Bình",
+        "NameExtension": [
+            "Xã Tân Bình",
+            "Tan Binh",
+            "Xa Tan Binh",
+            "tanbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:15.452375 +0700 +07 m=+40.118428413",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491111",
+        "DistrictID": 2016,
+        "WardName": "Xã Tân Phước Tây",
+        "NameExtension": [
+            "Xã Tân Phước Tây",
+            "X.Tân Phước Tây",
+            "X Tân Phước Tây",
+            "Tân Phước Tây",
+            "Tan Phuoc Tay",
+            "Xa Tan Phuoc Tay",
+            "tanphuoctay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404161 +0700 +07 m=+0.040497909",
+        "UpdatedAt": "2020-09-29 13:52:03.238882 +0700 +07 m=+147.902889216",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491110",
+        "DistrictID": 2016,
+        "WardName": "Xã Quê Mỹ Thạnh",
+        "NameExtension": [
+            "Xã Quê Mỹ Thạnh",
+            "X.Quê Mỹ Thạnh",
+            "X Quê Mỹ Thạnh",
+            "Quê Mỹ Thạnh",
+            "Que My Thanh",
+            "Xa Que My Thanh",
+            "quemythanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404155 +0700 +07 m=+0.040492620",
+        "UpdatedAt": "2020-09-29 13:52:03.27376 +0700 +07 m=+147.937766529",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491109",
+        "DistrictID": 2016,
+        "WardName": "Xã Nhựt Ninh",
+        "NameExtension": [
+            "Xã Nhựt Ninh",
+            "X.Nhựt Ninh",
+            "X Nhựt Ninh",
+            "Nhựt Ninh",
+            "Nhut Ninh",
+            "Xa Nhut Ninh",
+            "nhutninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404166 +0700 +07 m=+0.040503458",
+        "UpdatedAt": "2020-09-29 13:52:03.306242 +0700 +07 m=+147.970248190",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491108",
+        "DistrictID": 2016,
+        "WardName": "Xã Mỹ Bình",
+        "NameExtension": [
+            "Xã Mỹ Bình",
+            "X.Mỹ Bình",
+            "X Mỹ Bình",
+            "Mỹ Bình",
+            "My Binh",
+            "Xa My Binh",
+            "mybinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404153 +0700 +07 m=+0.040489842",
+        "UpdatedAt": "2020-09-29 13:52:03.345474 +0700 +07 m=+148.009479661",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491107",
+        "DistrictID": 2016,
+        "WardName": "Xã Lạc Tấn",
+        "NameExtension": [
+            "Xã Lạc Tấn",
+            "X.Lạc Tấn",
+            "X Lạc Tấn",
+            "Lạc Tấn",
+            "Lac Tan",
+            "Xa Lac Tan",
+            "lactan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404158 +0700 +07 m=+0.040495137",
+        "UpdatedAt": "2020-09-29 13:52:03.379001 +0700 +07 m=+148.043005796",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491106",
+        "DistrictID": 2016,
+        "WardName": "Xã Đức Tân",
+        "NameExtension": [
+            "Xã Đức Tân",
+            "X.Đức Tân",
+            "X Đức Tân",
+            "Đức Tân",
+            "Duc Tan",
+            "Xa Duc Tan",
+            "ductan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404165 +0700 +07 m=+0.040502063",
+        "UpdatedAt": "2020-09-29 13:52:03.412345 +0700 +07 m=+148.076348502",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491105",
+        "DistrictID": 2016,
+        "WardName": "Xã Bình Trinh Đông",
+        "NameExtension": [
+            "Xã Bình Trinh Đông",
+            "X.Bình Trinh Đông",
+            "X Bình Trinh Đông",
+            "Bình Trinh Đông",
+            "Binh Trinh Dong",
+            "Xa Binh Trinh Dong",
+            "binhtrinhdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404159 +0700 +07 m=+0.040496521",
+        "UpdatedAt": "2020-09-29 13:52:03.444751 +0700 +07 m=+148.108754490",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491104",
+        "DistrictID": 2016,
+        "WardName": "Xã Bình Tịnh",
+        "NameExtension": [
+            "Xã Bình Tịnh",
+            "X.Bình Tịnh",
+            "X Bình Tịnh",
+            "Bình Tịnh",
+            "Binh Tinh",
+            "Xa Binh Tinh",
+            "binhtinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404163 +0700 +07 m=+0.040500652",
+        "UpdatedAt": "2020-09-29 13:52:03.478336 +0700 +07 m=+148.142338382",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491103",
+        "DistrictID": 2016,
+        "WardName": "Xã Bình Lãng",
+        "NameExtension": [
+            "Xã Bình Lãng",
+            "X.Bình Lãng",
+            "X Bình Lãng",
+            "Bình Lãng",
+            "Binh Lang",
+            "Xa Binh Lang",
+            "binhlang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404162 +0700 +07 m=+0.040499262",
+        "UpdatedAt": "2020-09-29 13:52:03.518569 +0700 +07 m=+148.182570795",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491102",
+        "DistrictID": 2016,
+        "WardName": "Xã An Nhựt Tân",
+        "NameExtension": [
+            "Xã An Nhựt Tân",
+            "X.An Nhựt Tân",
+            "X An Nhựt Tân",
+            "An Nhựt Tân",
+            "An Nhut Tan",
+            "Xa An Nhut Tan",
+            "annhuttan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404154 +0700 +07 m=+0.040491224",
+        "UpdatedAt": "2020-09-29 13:52:03.553579 +0700 +07 m=+148.217580204",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "491101",
+        "DistrictID": 2016,
+        "WardName": "Thị trấn Tân Trụ",
+        "NameExtension": [
+            "Thị trấn Tân Trụ",
+            "TT.Tân Trụ",
+            "TT Tân Trụ",
+            "Tân Trụ",
+            "Tan Tru",
+            "Thi tran Tan Tru",
+            "tantru"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.404151 +0700 +07 m=+0.040488481",
+        "UpdatedAt": "2020-09-29 13:52:03.586975 +0700 +07 m=+148.250975677",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

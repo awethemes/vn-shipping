@@ -12,5 +12,5 @@ package-lock.json
 /vendor/
 .env
 .idea/
-bin/data
+#bin/data
 bin/vendor

@@ -1,0 +1,226 @@
+[
+    {
+        "DistrictID": 3281,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Tiền Hải",
+        "Code": "2607",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tiền Hải",
+            "H.Tiền Hải",
+            "H Tiền Hải",
+            "Tiền Hải",
+            "Tien Hai",
+            "Huyen Tien Hai",
+            "tienhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432084 +0700 +07 m=+0.016030122",
+        "UpdatedAt": "2020-09-29 13:42:43.000406 +0700 +07 m=+15.502816171",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1951,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Kiến Xương",
+        "Code": "2606",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kiến Xương",
+            "H.Kiến Xương",
+            "H Kiến Xương",
+            "Kiến Xương",
+            "Kien Xuong",
+            "Huyen Kien Xuong",
+            "kienxuong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432496 +0700 +07 m=+0.016442071",
+        "UpdatedAt": "2020-09-29 13:42:57.160384 +0700 +07 m=+29.662525743",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1869,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Thái Thụy",
+        "Code": "2608",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thái Thụy",
+            "H.Thái Thụy",
+            "H Thái Thụy",
+            "Thái Thụy",
+            "Thai Thuy",
+            "Huyen Thai Thuy",
+            "thaithuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431892 +0700 +07 m=+0.015838011",
+        "UpdatedAt": "2020-09-29 13:43:00.986825 +0700 +07 m=+33.488893399",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1868,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Quỳnh Phụ",
+        "Code": "2602",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quỳnh Phụ",
+            "H.Quỳnh Phụ",
+            "H Quỳnh Phụ",
+            "Quỳnh Phụ",
+            "Quynh Phu",
+            "Huyen Quynh Phu",
+            "quynhphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431889 +0700 +07 m=+0.015834435",
+        "UpdatedAt": "2020-09-29 13:43:01.039455 +0700 +07 m=+33.541523314",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1867,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Hưng Hà",
+        "Code": "2603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hưng Hà",
+            "H.Hưng Hà",
+            "H Hưng Hà",
+            "Hưng Hà",
+            "Hung Ha",
+            "Huyen Hung Ha",
+            "hungha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431887 +0700 +07 m=+0.015832919",
+        "UpdatedAt": "2020-09-29 13:43:01.076384 +0700 +07 m=+33.578451346",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1716,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Vũ Thư",
+        "Code": "2605",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vũ Thư",
+            "H.Vũ Thư",
+            "H Vũ Thư",
+            "Vũ Thư",
+            "Vu Thu",
+            "Huyen Vu Thu",
+            "vuthu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431747 +0700 +07 m=+0.015692853",
+        "UpdatedAt": "2020-09-29 13:43:07.884375 +0700 +07 m=+40.386312371",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1715,
+        "ProvinceID": 226,
+        "DistrictName": "Huyện Đông Hưng",
+        "Code": "2604",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đông Hưng",
+            "H.Đông Hưng",
+            "H Đông Hưng",
+            "Đông Hưng",
+            "Dong Hung",
+            "Huyen Dong Hung",
+            "donghung"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431745 +0700 +07 m=+0.015691130",
+        "UpdatedAt": "2020-09-29 13:43:07.929511 +0700 +07 m=+40.431448122",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1599,
+        "ProvinceID": 226,
+        "DistrictName": "Thành phố Thái Bình",
+        "Code": "2601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Thái Bình",
+            "TP.Thái Bình",
+            "TP Thái Bình",
+            "Thái Bình",
+            "Thai Binh",
+            "Thanh pho Thai Binh",
+            "thaibinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431809 +0700 +07 m=+0.015755296",
+        "UpdatedAt": "2020-09-29 13:43:10.975727 +0700 +07 m=+43.477605992",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

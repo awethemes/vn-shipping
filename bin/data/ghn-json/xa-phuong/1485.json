@@ -1,0 +1,211 @@
+[
+    {
+        "WardCode": "1A0608",
+        "DistrictID": 1485,
+        "WardName": "Phường Yên Hoà",
+        "NameExtension": [
+            "Phường Yên Hoà",
+            "P.Yên Hoà",
+            "P Yên Hoà",
+            "Yên Hoà",
+            "Yen Hoa",
+            "Phuong Yen Hoa",
+            "Phường Yên Hòa",
+            "yenhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397856 +0700 +07 m=+0.034192918",
+        "UpdatedAt": "2020-09-29 13:58:07.54899 +0700 +07 m=+512.206082873",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0607",
+        "DistrictID": 1485,
+        "WardName": "Phường Trung Hoà",
+        "NameExtension": [
+            "Phường Trung Hoà",
+            "Phường Trung Hòa",
+            "P.Trung Hoà",
+            "P Trung Hoà",
+            "Trung Hoà",
+            "Trung Hoa",
+            "Phuong Trung Hoa",
+            "trunghoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397862 +0700 +07 m=+0.034199334",
+        "UpdatedAt": "2020-09-29 13:58:07.595724 +0700 +07 m=+512.252815439",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0606",
+        "DistrictID": 1485,
+        "WardName": "Phường Quan Hoa",
+        "NameExtension": [
+            "Phường Quan Hoa",
+            "P.Quan Hoa",
+            "P Quan Hoa",
+            "Quan Hoa",
+            "Phuong Quan Hoa",
+            "quanhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397853 +0700 +07 m=+0.034189870",
+        "UpdatedAt": "2020-09-29 13:58:07.68872 +0700 +07 m=+512.345809709",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0605",
+        "DistrictID": 1485,
+        "WardName": "Phường Nghĩa Tân",
+        "NameExtension": [
+            "Phường Nghĩa Tân",
+            "P.Nghĩa Tân",
+            "P Nghĩa Tân",
+            "Nghĩa Tân",
+            "Nghia Tan",
+            "Phuong Nghia Tan",
+            "nghiatan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39784 +0700 +07 m=+0.034177035",
+        "UpdatedAt": "2020-09-29 13:58:07.727483 +0700 +07 m=+512.384572317",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0604",
+        "DistrictID": 1485,
+        "WardName": "Phường Nghĩa Đô",
+        "NameExtension": [
+            "Phường Nghĩa Đô",
+            "P.Nghĩa Đô",
+            "P Nghĩa Đô",
+            "Nghĩa Đô",
+            "Nghia Do",
+            "Phuong Nghia Do",
+            "nghiado"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397837 +0700 +07 m=+0.034173987",
+        "UpdatedAt": "2020-09-29 13:58:07.777658 +0700 +07 m=+512.434746049",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0603",
+        "DistrictID": 1485,
+        "WardName": "Phường Mai Dịch",
+        "NameExtension": [
+            "Phường Mai Dịch",
+            "P.Mai Dịch",
+            "P Mai Dịch",
+            "Mai Dịch",
+            "Mai Dich",
+            "Phuong Mai Dich",
+            "maidich"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397843 +0700 +07 m=+0.034180218",
+        "UpdatedAt": "2020-09-29 13:58:07.816216 +0700 +07 m=+512.473303666",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0602",
+        "DistrictID": 1485,
+        "WardName": "Phường Dịch Vọng Hậu",
+        "NameExtension": [
+            "Phường Dịch Vọng Hậu",
+            "P.Dịch Vọng Hậu",
+            "P Dịch Vọng Hậu",
+            "Dịch Vọng Hậu",
+            "Dich Vong Hau",
+            "Phuong Dich Vong Hau",
+            "dichvonghau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39785 +0700 +07 m=+0.034186843",
+        "UpdatedAt": "2020-09-29 13:58:07.854979 +0700 +07 m=+512.512065830",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0601",
+        "DistrictID": 1485,
+        "WardName": "Phường Dịch Vọng",
+        "NameExtension": [
+            "Phường Dịch Vọng",
+            "P.Dịch Vọng",
+            "P Dịch Vọng",
+            "Dịch Vọng",
+            "Dich Vong",
+            "Phuong Dich Vong",
+            "dichvong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397846 +0700 +07 m=+0.034183217",
+        "UpdatedAt": "2020-09-29 13:58:07.890538 +0700 +07 m=+512.547624295",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

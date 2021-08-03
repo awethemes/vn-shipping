@@ -1,0 +1,380 @@
+[
+    {
+        "DistrictID": 3311,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Văn Quan",
+        "Code": "1006",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Văn Quan",
+            "H.Văn Quan",
+            "H Văn Quan",
+            "Văn Quan",
+            "Van Quan",
+            "Huyen Van Quan",
+            "vanquan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432163 +0700 +07 m=+0.016108850",
+        "UpdatedAt": "2020-09-29 13:42:42.051035 +0700 +07 m=+14.553463151",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3310,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Văn Lãng",
+        "Code": "1004",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Văn Lãng",
+            "H.Văn Lãng",
+            "H Văn Lãng",
+            "Văn Lãng",
+            "Van Lang",
+            "Huyen Van Lang",
+            "vanlang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432164 +0700 +07 m=+0.016110271",
+        "UpdatedAt": "2020-09-29 13:42:42.124006 +0700 +07 m=+14.626432586",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3182,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Đình Lập",
+        "Code": "1010",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đình Lập",
+            "H.Đình Lập",
+            "H Đình Lập",
+            "Đình Lập",
+            "Dinh Lap",
+            "Huyen Dinh Lap",
+            "dinhlap"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432608 +0700 +07 m=+0.016553847",
+        "UpdatedAt": "2020-09-29 13:42:45.653022 +0700 +07 m=+18.155381824",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3156,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Chi Lăng",
+        "Code": "1009",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chi Lăng",
+            "H.Chi Lăng",
+            "H Chi Lăng",
+            "Chi Lăng",
+            "Chi Lang",
+            "Huyen Chi Lang",
+            "chilang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43261 +0700 +07 m=+0.016555349",
+        "UpdatedAt": "2020-09-29 13:42:45.850514 +0700 +07 m=+18.352870443",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3138,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Bình Gia",
+        "Code": "1003",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Gia",
+            "H.Bình Gia",
+            "H Bình Gia",
+            "Bình Gia",
+            "Binh Gia",
+            "Huyen Binh Gia",
+            "binhgia"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432166 +0700 +07 m=+0.016111666",
+        "UpdatedAt": "2020-09-29 13:42:46.576279 +0700 +07 m=+19.078620746",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3134,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Bắc Sơn",
+        "Code": "1005",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Sơn",
+            "H.Bắc Sơn",
+            "H Bắc Sơn",
+            "Bắc Sơn",
+            "Bac Son",
+            "Huyen Bac Son",
+            "bacson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432167 +0700 +07 m=+0.016113107",
+        "UpdatedAt": "2020-09-29 13:42:46.648661 +0700 +07 m=+19.151002364",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2036,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Tràng Định",
+        "Code": "1002",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tràng Định",
+            "H.Tràng Định",
+            "H Tràng Định",
+            "Tràng Định",
+            "Trang Dinh",
+            "Huyen Trang Dinh",
+            "trangdinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432785 +0700 +07 m=+0.016730778",
+        "UpdatedAt": "2020-09-29 13:42:53.204167 +0700 +07 m=+25.706383691",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1963,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Lộc Bình",
+        "Code": "1008",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lộc Bình",
+            "H.Lộc Bình",
+            "H Lộc Bình",
+            "Lộc Bình",
+            "Loc Binh",
+            "Huyen Loc Binh",
+            "locbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432524 +0700 +07 m=+0.016469751",
+        "UpdatedAt": "2020-09-29 13:42:56.708636 +0700 +07 m=+29.210785648",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1948,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Hữu Lũng",
+        "Code": "1011",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hữu Lũng",
+            "H.Hữu Lũng",
+            "H Hữu Lũng",
+            "Hữu Lũng",
+            "Huu Lung",
+            "Huyen Huu Lung",
+            "huulung"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432492 +0700 +07 m=+0.016437741",
+        "UpdatedAt": "2020-09-29 13:42:57.282545 +0700 +07 m=+29.784684380",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "To": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "Return": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ]
+        },
+        "UpdatedIP": "171.235.189.251",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-06-22T11:18:46.244Z"
+    },
+    {
+        "DistrictID": 1904,
+        "ProvinceID": 247,
+        "DistrictName": "Huyện Cao Lộc",
+        "Code": "1007",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cao Lộc",
+            "H.Cao Lộc",
+            "H Cao Lộc",
+            "Cao Lộc",
+            "Cao Loc",
+            "Huyen Cao Loc",
+            "caoloc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431975 +0700 +07 m=+0.015920494",
+        "UpdatedAt": "2020-09-29 13:42:59.46994 +0700 +07 m=+31.972037957",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1642,
+        "ProvinceID": 247,
+        "DistrictName": "Thành phố Lạng Sơn",
+        "Code": "1001",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Lạng Sơn",
+            "TP.Lạng Sơn",
+            "TP Lạng Sơn",
+            "Lạng Sơn",
+            "Lang Son",
+            "Thanh pho Lang Son",
+            "langson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431668 +0700 +07 m=+0.015614092",
+        "UpdatedAt": "2020-09-29 13:43:09.99021 +0700 +07 m=+42.492107837",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

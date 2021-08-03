@@ -1,0 +1,474 @@
+[
+    {
+        "DistrictID": 2165,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Mang Yang",
+        "Code": "3803",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mang Yang",
+            "H.Mang Yang",
+            "H Mang Yang",
+            "Mang Yang",
+            "Huyen Mang Yang",
+            "mangyang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432041 +0700 +07 m=+0.015986860",
+        "UpdatedAt": "2020-09-29 13:42:49.136836 +0700 +07 m=+21.639129553",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2152,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Krông Pa",
+        "Code": "3811",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Pa",
+            "H.Krông Pa",
+            "H Krông Pa",
+            "Krông Pa",
+            "Krong Pa",
+            "Huyen Krong Pa",
+            "krongpa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432028 +0700 +07 m=+0.015973459",
+        "UpdatedAt": "2020-09-29 13:42:49.49316 +0700 +07 m=+21.995446744",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2149,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Kông Chro",
+        "Code": "3806",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kông Chro",
+            "H.Kông Chro",
+            "H Kông Chro",
+            "Kông Chro",
+            "Kong Chro",
+            "Huyen Kong Chro",
+            "kongchro"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432023 +0700 +07 m=+0.015969162",
+        "UpdatedAt": "2020-09-29 13:42:49.615821 +0700 +07 m=+22.118105938",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2144,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Kbang",
+        "Code": "3804",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kbang",
+            "H.Kbang",
+            "H Kbang",
+            "Kbang",
+            "Huyen Kbang",
+            "kbang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432015 +0700 +07 m=+0.015960500",
+        "UpdatedAt": "2020-09-29 13:42:49.750253 +0700 +07 m=+22.252534756",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2119,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Đắk Pơ",
+        "Code": "3815",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Pơ",
+            "Huyện Đăk Pơ",
+            "H.Đắk Pơ",
+            "H Đắk Pơ",
+            "Đắk Pơ",
+            "Dak Po",
+            "Huyen Dak Po",
+            "dakpo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432896 +0700 +07 m=+0.016841985",
+        "UpdatedAt": "2020-09-29 13:42:50.327996 +0700 +07 m=+22.830267256",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2118,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Đắk Đoa",
+        "Code": "3813",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Đoa",
+            "Huyện Đăk Đoa",
+            "H.Đắk Đoa",
+            "H Đắk Đoa",
+            "Đắk Đoa",
+            "Dak Doa",
+            "Huyen Dak Doa",
+            "dakdoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432895 +0700 +07 m=+0.016840462",
+        "UpdatedAt": "2020-09-29 13:42:50.469337 +0700 +07 m=+22.971605381",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2101,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Chư Pưh",
+        "Code": "3817",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chư Pưh",
+            "H.Chư Pưh",
+            "H Chư Pưh",
+            "Chư Pưh",
+            "Chu Puh",
+            "Huyen Chu Puh",
+            "chupuh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432868 +0700 +07 m=+0.016814096",
+        "UpdatedAt": "2020-09-29 13:42:51.113858 +0700 +07 m=+23.616114164",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1801,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Chư Păh",
+        "Code": "3802",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chư Păh",
+            "H.Chư Păh",
+            "H Chư Păh",
+            "Chư Păh",
+            "Chu Pah",
+            "Huyen Chu Pah",
+            "chupah"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.4323 +0700 +07 m=+0.016245827",
+        "UpdatedAt": "2020-09-29 13:43:04.052881 +0700 +07 m=+36.554891229",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1800,
+        "ProvinceID": 207,
+        "DistrictName": "Thị xã An Khê",
+        "Code": "3805",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã An Khê",
+            "TX.An Khê",
+            "TX An Khê",
+            "An Khê",
+            "An Khe",
+            "Thi xa An Khe",
+            "ankhe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432299 +0700 +07 m=+0.016244419",
+        "UpdatedAt": "2020-09-29 13:43:04.089411 +0700 +07 m=+36.591421285",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1799,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Ia Pa",
+        "Code": "3814",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ia Pa",
+            "H.Ia Pa",
+            "H Ia Pa",
+            "Ia Pa",
+            "Huyen Ia Pa",
+            "iapa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432297 +0700 +07 m=+0.016242958",
+        "UpdatedAt": "2020-09-29 13:43:04.123293 +0700 +07 m=+36.625302278",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1798,
+        "ProvinceID": 207,
+        "DistrictName": "Thị xã Ayun Pa",
+        "Code": "3810",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Ayun Pa",
+            "TX.Ayun Pa",
+            "TX Ayun Pa",
+            "Ayun Pa",
+            "Thi xa Ayun Pa",
+            "ayunpa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432294 +0700 +07 m=+0.016240027",
+        "UpdatedAt": "2020-09-29 13:43:04.174181 +0700 +07 m=+36.676189261",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1797,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Phú Thiện",
+        "Code": "3816",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Thiện",
+            "H.Phú Thiện",
+            "H Phú Thiện",
+            "Phú Thiện",
+            "Phu Thien",
+            "Huyen Phu Thien",
+            "phuthien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432293 +0700 +07 m=+0.016238551",
+        "UpdatedAt": "2020-09-29 13:43:04.2135 +0700 +07 m=+36.715507692",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1796,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Chư Sê",
+        "Code": "3809",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chư Sê",
+            "H.Chư Sê",
+            "H Chư Sê",
+            "Chư Sê",
+            "Chu Se",
+            "Huyen Chu Se",
+            "chuse"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432291 +0700 +07 m=+0.016237145",
+        "UpdatedAt": "2020-09-29 13:43:04.261267 +0700 +07 m=+36.763274096",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1795,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Chư Prông",
+        "Code": "3808",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chư Prông",
+            "H.Chư Prông",
+            "H Chư Prông",
+            "Chư Prông",
+            "Chu Prong",
+            "Huyen Chu Prong",
+            "chuprong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43229 +0700 +07 m=+0.016235656",
+        "UpdatedAt": "2020-09-29 13:43:04.351322 +0700 +07 m=+36.853326936",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1794,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Đức Cơ",
+        "Code": "3807",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đức Cơ",
+            "H.Đức Cơ",
+            "H Đức Cơ",
+            "Đức Cơ",
+            "Duc Co",
+            "Huyen Duc Co",
+            "ducco"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432288 +0700 +07 m=+0.016234225",
+        "UpdatedAt": "2020-09-29 13:43:04.399413 +0700 +07 m=+36.901416749",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1793,
+        "ProvinceID": 207,
+        "DistrictName": "Huyện Ia Grai",
+        "Code": "3812",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ia Grai",
+            "H.Ia Grai",
+            "H Ia Grai",
+            "Ia Grai",
+            "Huyen Ia Grai",
+            "iagrai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432287 +0700 +07 m=+0.016232698",
+        "UpdatedAt": "2020-09-29 13:43:04.46391 +0700 +07 m=+36.965913318",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1546,
+        "ProvinceID": 207,
+        "DistrictName": "Thành phố Pleiku",
+        "Code": "3801",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Pleiku",
+            "TP.Pleiku",
+            "TP Pleiku",
+            "Pleiku",
+            "Thanh pho Pleiku",
+            "pleiku"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431633 +0700 +07 m=+0.015578741",
+        "UpdatedAt": "2020-09-29 13:43:12.119125 +0700 +07 m=+44.620982211",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

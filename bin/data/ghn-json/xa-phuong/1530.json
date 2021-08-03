@@ -1,0 +1,132 @@
+[
+    {
+        "WardCode": "40505",
+        "DistrictID": 1530,
+        "WardName": "Phường Hòa Minh",
+        "NameExtension": [
+            "Phường Hòa Minh",
+            "P.Hòa Minh",
+            "P Hòa Minh",
+            "Hòa Minh",
+            "Hoa Minh",
+            "Phuong Hoa Minh",
+            "hoaminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395 +0700 +07 m=+0.031337349",
+        "UpdatedAt": "2020-09-29 13:52:55.760466 +0700 +07 m=+200.423476548",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40504",
+        "DistrictID": 1530,
+        "WardName": "Phường Hòa Khánh Nam",
+        "NameExtension": [
+            "Phường Hòa Khánh Nam",
+            "P.Hòa Khánh Nam",
+            "P Hòa Khánh Nam",
+            "Hòa Khánh Nam",
+            "Hoa Khanh Nam",
+            "Phuong Hoa Khanh Nam",
+            "hoakhanhnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394998 +0700 +07 m=+0.031335804",
+        "UpdatedAt": "2020-09-29 13:52:55.795751 +0700 +07 m=+200.458760463",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40503",
+        "DistrictID": 1530,
+        "WardName": "Phường Hòa Khánh Bắc",
+        "NameExtension": [
+            "Phường Hòa Khánh Bắc",
+            "P.Hòa Khánh Bắc",
+            "P Hòa Khánh Bắc",
+            "Hòa Khánh Bắc",
+            "Hoa Khanh Bac",
+            "Phuong Hoa Khanh Bac",
+            "hoakhanhbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394996 +0700 +07 m=+0.031333491",
+        "UpdatedAt": "2020-09-29 13:52:55.829515 +0700 +07 m=+200.492523847",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40502",
+        "DistrictID": 1530,
+        "WardName": "Phường Hòa Hiệp Nam",
+        "NameExtension": [
+            "Phường Hòa Hiệp Nam",
+            "P.Hòa Hiệp Nam",
+            "P Hòa Hiệp Nam",
+            "Hòa Hiệp Nam",
+            "Hoa Hiep Nam",
+            "Phuong Hoa Hiep Nam",
+            "hoahiepnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394995 +0700 +07 m=+0.031331955",
+        "UpdatedAt": "2020-09-29 13:52:55.871893 +0700 +07 m=+200.534901604",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40501",
+        "DistrictID": 1530,
+        "WardName": "Phường Hòa Hiệp Bắc",
+        "NameExtension": [
+            "Phường Hòa Hiệp Bắc",
+            "P.Hòa Hiệp Bắc",
+            "P Hòa Hiệp Bắc",
+            "Hòa Hiệp Bắc",
+            "Hoa Hiep Bac",
+            "Phuong Hoa Hiep Bac",
+            "hoahiepbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394993 +0700 +07 m=+0.031330390",
+        "UpdatedAt": "2020-09-29 13:52:55.9069 +0700 +07 m=+200.569907270",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

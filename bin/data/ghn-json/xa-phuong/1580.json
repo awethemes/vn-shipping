@@ -1,0 +1,28 @@
+[
+    {
+        "WardCode": "220250",
+        "DistrictID": 1580,
+        "WardName": "Phường đặc biệt",
+        "NameExtension": [
+            "Phường đặc biệt",
+            "P.đặc biệt",
+            "P đặc biệt",
+            "đặc biệt",
+            "dac biet",
+            "Phuong dac biet",
+            "dacbiet"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414326 +0700 +07 m=+0.050663023",
+        "UpdatedAt": "2020-09-29 13:57:11.109002 +0700 +07 m=+455.767166276",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

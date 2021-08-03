@@ -1,0 +1,253 @@
+[
+    {
+        "DistrictID": 2186,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Ngọc Hiển",
+        "Code": "6107",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ngọc Hiển",
+            "H.Ngọc Hiển",
+            "H Ngọc Hiển",
+            "Ngọc Hiển",
+            "Ngoc Hien",
+            "Huyen Ngoc Hien",
+            "ngochien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432067 +0700 +07 m=+0.016012806",
+        "UpdatedAt": "2020-09-29 13:42:48.656627 +0700 +07 m=+21.158929525",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2042,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện U Minh",
+        "Code": "6103",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện U Minh",
+            "H.U Minh",
+            "H U Minh",
+            "U Minh",
+            "Huyen U Minh",
+            "uminh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432794 +0700 +07 m=+0.016739530",
+        "UpdatedAt": "2020-09-29 13:42:52.996862 +0700 +07 m=+25.499082419",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2038,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Trần Văn Thời",
+        "Code": "6104",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trần Văn Thời",
+            "H.Trần Văn Thời",
+            "H Trần Văn Thời",
+            "Trần Văn Thời",
+            "Tran Van Thoi",
+            "Huyen Tran Van Thoi",
+            "tranvanthoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432788 +0700 +07 m=+0.016733817",
+        "UpdatedAt": "2020-09-29 13:42:53.130371 +0700 +07 m=+25.632589260",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1922,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Đầm Dơi",
+        "Code": "6106",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đầm Dơi",
+            "H.Đầm Dơi",
+            "H Đầm Dơi",
+            "Đầm Dơi",
+            "Dam Doi",
+            "Huyen Dam Doi",
+            "damdoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432401 +0700 +07 m=+0.016347037",
+        "UpdatedAt": "2020-09-29 13:42:58.513497 +0700 +07 m=+31.015612234",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1901,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Cái Nước",
+        "Code": "6105",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cái Nước",
+            "H.Cái Nước",
+            "H Cái Nước",
+            "Cái Nước",
+            "Cai Nuoc",
+            "Huyen Cai Nuoc",
+            "cainuoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43197 +0700 +07 m=+0.015916158",
+        "UpdatedAt": "2020-09-29 13:42:59.571999 +0700 +07 m=+32.074094776",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1883,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Phú Tân",
+        "Code": "6109",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Tân",
+            "H.Phú Tân",
+            "H Phú Tân",
+            "Phú Tân",
+            "Phu Tan",
+            "Huyen Phu Tan",
+            "phutan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431914 +0700 +07 m=+0.015859408",
+        "UpdatedAt": "2020-09-29 13:43:00.296825 +0700 +07 m=+32.798907076",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1783,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Năm Căn",
+        "Code": "6108",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Năm Căn",
+            "H.Năm Căn",
+            "H Năm Căn",
+            "Năm Căn",
+            "Nam Can",
+            "Huyen Nam Can",
+            "namcan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43227 +0700 +07 m=+0.016215354",
+        "UpdatedAt": "2020-09-29 13:43:04.93015 +0700 +07 m=+37.432143735",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1782,
+        "ProvinceID": 252,
+        "DistrictName": "Huyện Thới Bình",
+        "Code": "6102",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thới Bình",
+            "H.Thới Bình",
+            "H Thới Bình",
+            "Thới Bình",
+            "Thoi Binh",
+            "Huyen Thoi Binh",
+            "thoibinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432268 +0700 +07 m=+0.016213941",
+        "UpdatedAt": "2020-09-29 13:43:04.972987 +0700 +07 m=+37.474980416",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1654,
+        "ProvinceID": 252,
+        "DistrictName": "Thành phố Cà Mau",
+        "Code": "6101",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Cà Mau",
+            "TP.Cà Mau",
+            "TP Cà Mau",
+            "Cà Mau",
+            "Ca Mau",
+            "Thanh pho Ca Mau",
+            "camau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43168 +0700 +07 m=+0.015626352",
+        "UpdatedAt": "2020-09-29 13:43:09.807731 +0700 +07 m=+42.309632527",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

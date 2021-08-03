@@ -1,0 +1,79 @@
+[
+    {
+        "WardCode": "620203",
+        "DistrictID": 2060,
+        "WardName": "Xã Lay Nưa",
+        "NameExtension": [
+            "Xã Lay Nưa",
+            "X.Lay Nưa",
+            "X Lay Nưa",
+            "Lay Nưa",
+            "Lay Nua",
+            "Xa Lay Nua",
+            "laynua"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395549 +0700 +07 m=+0.031886257",
+        "UpdatedAt": "2020-09-29 13:50:38.548479 +0700 +07 m=+63.214093757",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "620202",
+        "DistrictID": 2060,
+        "WardName": "Phường Sông Đà",
+        "NameExtension": [
+            "Phường Sông Đà",
+            "P.Sông Đà",
+            "P Sông Đà",
+            "Sông Đà",
+            "Song Da",
+            "Phuong Song Da",
+            "songda"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395546 +0700 +07 m=+0.031883283",
+        "UpdatedAt": "2020-09-29 13:50:38.585044 +0700 +07 m=+63.250658366",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "620201",
+        "DistrictID": 2060,
+        "WardName": "Phường Na Lay",
+        "NameExtension": [
+            "Phường Na Lay",
+            "P.Na Lay",
+            "P Na Lay",
+            "Na Lay",
+            "Phuong Na Lay",
+            "nalay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395547 +0700 +07 m=+0.031884764",
+        "UpdatedAt": "2020-09-29 13:50:38.63713 +0700 +07 m=+63.302742884",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "WardCode": "40706",
+        "DistrictID": 1531,
+        "WardName": "Phường Khuê Trung",
+        "NameExtension": [
+            "Phường Khuê Trung",
+            "P.Khuê Trung",
+            "P Khuê Trung",
+            "Khuê Trung",
+            "Khue Trung",
+            "Phuong Khue Trung",
+            "khuetrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395055 +0700 +07 m=+0.031392583",
+        "UpdatedAt": "2020-09-29 13:52:55.107088 +0700 +07 m=+199.770110733",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40705",
+        "DistrictID": 1531,
+        "WardName": "Phường Hòa Xuân",
+        "NameExtension": [
+            "Phường Hòa Xuân",
+            "P.Hòa Xuân",
+            "P Hòa Xuân",
+            "Hòa Xuân",
+            "Hoa Xuan",
+            "Phuong Hoa Xuan",
+            "hoaxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395063 +0700 +07 m=+0.031400096",
+        "UpdatedAt": "2020-09-29 13:52:55.141932 +0700 +07 m=+199.804954046",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40704",
+        "DistrictID": 1531,
+        "WardName": "Phường Hòa Thọ Tây",
+        "NameExtension": [
+            "Phường Hòa Thọ Tây",
+            "P.Hòa Thọ Tây",
+            "P Hòa Thọ Tây",
+            "Hòa Thọ Tây",
+            "Hoa Tho Tay",
+            "Phuong Hoa Tho Tay",
+            "hoathotay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39506 +0700 +07 m=+0.031397041",
+        "UpdatedAt": "2020-09-29 13:52:55.177084 +0700 +07 m=+199.840105541",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40703",
+        "DistrictID": 1531,
+        "WardName": "Phường Hòa Thọ Đông",
+        "NameExtension": [
+            "Phường Hòa Thọ Đông",
+            "P.Hòa Thọ Đông",
+            "P Hòa Thọ Đông",
+            "Hòa Thọ Đông",
+            "Hoa Tho Dong",
+            "Phuong Hoa Tho Dong",
+            "hoathodong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395061 +0700 +07 m=+0.031398569",
+        "UpdatedAt": "2020-09-29 13:52:55.21036 +0700 +07 m=+199.873380615",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40702",
+        "DistrictID": 1531,
+        "WardName": "Phường Hòa Phát",
+        "NameExtension": [
+            "Phường Hòa Phát",
+            "P.Hòa Phát",
+            "P Hòa Phát",
+            "Hòa Phát",
+            "Hoa Phat",
+            "Phuong Hoa Phat",
+            "hoaphat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395057 +0700 +07 m=+0.031394056",
+        "UpdatedAt": "2020-09-29 13:52:55.246076 +0700 +07 m=+199.909095765",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40701",
+        "DistrictID": 1531,
+        "WardName": "Phường Hòa An",
+        "NameExtension": [
+            "Phường Hòa An",
+            "P.Hòa An",
+            "P Hòa An",
+            "Hòa An",
+            "Hoa An",
+            "Phuong Hoa An",
+            "hoaan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395058 +0700 +07 m=+0.031395560",
+        "UpdatedAt": "2020-09-29 13:52:55.281407 +0700 +07 m=+199.944426400",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

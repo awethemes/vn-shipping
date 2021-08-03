@@ -1,0 +1,184 @@
+[
+    {
+        "WardCode": "501207",
+        "DistrictID": 2059,
+        "WardName": "Xã Tân Hội",
+        "NameExtension": [
+            "Xã Tân Hội",
+            "X.Tân Hội",
+            "X Tân Hội",
+            "Tân Hội",
+            "Tan Hoi",
+            "Xa Tan Hoi",
+            "tanhoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396081 +0700 +07 m=+0.032418093",
+        "UpdatedAt": "2020-09-29 13:51:54.611818 +0700 +07 m=+139.275989152",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501206",
+        "DistrictID": 2059,
+        "WardName": "Xã Bình Thạnh",
+        "NameExtension": [
+            "Xã Bình Thạnh",
+            "X.Bình Thạnh",
+            "X Bình Thạnh",
+            "Bình Thạnh",
+            "Binh Thanh",
+            "Xa Binh Thanh",
+            "binhthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396079 +0700 +07 m=+0.032415984",
+        "UpdatedAt": "2020-09-29 13:51:54.651885 +0700 +07 m=+139.316055550",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501205",
+        "DistrictID": 2059,
+        "WardName": "Xã An Bình B",
+        "NameExtension": [
+            "Xã An Bình B",
+            "X.An Bình B",
+            "X An Bình B",
+            "An Bình B",
+            "An Binh B",
+            "Xa An Binh B",
+            "anbinhb"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396169 +0700 +07 m=+0.032506166",
+        "UpdatedAt": "2020-09-29 13:51:54.690368 +0700 +07 m=+139.354537639",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501204",
+        "DistrictID": 2059,
+        "WardName": "Xã An Bình A",
+        "NameExtension": [
+            "Xã An Bình A",
+            "X.An Bình A",
+            "X An Bình A",
+            "An Bình A",
+            "An Binh A",
+            "Xa An Binh A",
+            "anbinha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396171 +0700 +07 m=+0.032507974",
+        "UpdatedAt": "2020-09-29 13:51:54.72366 +0700 +07 m=+139.387828785",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501203",
+        "DistrictID": 2059,
+        "WardName": "Phường An Thạnh",
+        "NameExtension": [
+            "Phường An Thạnh",
+            "P.An Thạnh",
+            "P An Thạnh",
+            "An Thạnh",
+            "An Thanh",
+            "Phuong An Thanh",
+            "anthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396077 +0700 +07 m=+0.032414112",
+        "UpdatedAt": "2020-09-29 13:51:54.76411 +0700 +07 m=+139.428278339",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501202",
+        "DistrictID": 2059,
+        "WardName": "Phường An Lộc",
+        "NameExtension": [
+            "Phường An Lộc",
+            "P.An Lộc",
+            "P An Lộc",
+            "An Lộc",
+            "An Loc",
+            "Phuong An Loc",
+            "anloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396075 +0700 +07 m=+0.032412609",
+        "UpdatedAt": "2020-09-29 13:51:54.803948 +0700 +07 m=+139.468115629",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "501201",
+        "DistrictID": 2059,
+        "WardName": "Phường An Lạc",
+        "NameExtension": [
+            "Phường An Lạc",
+            "P.An Lạc",
+            "P An Lạc",
+            "An Lạc",
+            "An Lac",
+            "Phuong An Lac",
+            "anlac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396083 +0700 +07 m=+0.032420807",
+        "UpdatedAt": "2020-09-29 13:51:54.837914 +0700 +07 m=+139.502080809",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

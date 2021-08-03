@@ -1,0 +1,257 @@
+[
+    {
+        "WardCode": "800110",
+        "DistrictID": 1903,
+        "WardName": "Xã Thanh An",
+        "NameExtension": [
+            "Xã Thanh An",
+            "Thanh An",
+            "Xa Thanh An",
+            "thanhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:13.415048 +0700 +07 m=+38.081139627",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320509",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Tuyền",
+        "NameExtension": [
+            "Xã Cam Tuyền",
+            "X.Cam Tuyền",
+            "X Cam Tuyền",
+            "Cam Tuyền",
+            "Cam Tuyen",
+            "Xa Cam Tuyen",
+            "camtuyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409324 +0700 +07 m=+0.045661518",
+        "UpdatedAt": "2020-09-29 13:54:13.861847 +0700 +07 m=+278.523374853",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320508",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Thủy",
+        "NameExtension": [
+            "Xã Cam Thủy",
+            "X.Cam Thủy",
+            "X Cam Thủy",
+            "Cam Thủy",
+            "Cam Thuy",
+            "Xa Cam Thuy",
+            "camthuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409327 +0700 +07 m=+0.045664274",
+        "UpdatedAt": "2020-09-29 13:54:13.909452 +0700 +07 m=+278.570979466",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320507",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Thành",
+        "NameExtension": [
+            "Xã Cam Thành",
+            "X.Cam Thành",
+            "X Cam Thành",
+            "Cam Thành",
+            "Cam Thanh",
+            "Xa Cam Thanh",
+            "camthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40933 +0700 +07 m=+0.045667063",
+        "UpdatedAt": "2020-09-29 13:54:13.960966 +0700 +07 m=+278.622492646",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320506",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Thanh",
+        "NameExtension": [
+            "Xã Cam Thanh",
+            "X.Cam Thanh",
+            "X Cam Thanh",
+            "Cam Thanh",
+            "Xa Cam Thanh",
+            "camthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409328 +0700 +07 m=+0.045665669",
+        "UpdatedAt": "2020-09-29 13:54:13.998582 +0700 +07 m=+278.660107090",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320505",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Nghĩa",
+        "NameExtension": [
+            "Xã Cam Nghĩa",
+            "X.Cam Nghĩa",
+            "X Cam Nghĩa",
+            "Cam Nghĩa",
+            "Cam Nghia",
+            "Xa Cam Nghia",
+            "camnghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409334 +0700 +07 m=+0.045671275",
+        "UpdatedAt": "2020-09-29 13:54:14.035261 +0700 +07 m=+278.696785831",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320504",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Hiếu",
+        "NameExtension": [
+            "Xã Cam Hiếu",
+            "X.Cam Hiếu",
+            "X Cam Hiếu",
+            "Cam Hiếu",
+            "Cam Hieu",
+            "Xa Cam Hieu",
+            "camhieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409331 +0700 +07 m=+0.045668458",
+        "UpdatedAt": "2020-09-29 13:54:14.094221 +0700 +07 m=+278.755744969",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320503",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam Chính",
+        "NameExtension": [
+            "Xã Cam Chính",
+            "X.Cam Chính",
+            "X Cam Chính",
+            "Cam Chính",
+            "Cam Chinh",
+            "Xa Cam Chinh",
+            "camchinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409333 +0700 +07 m=+0.045669847",
+        "UpdatedAt": "2020-09-29 13:54:14.13484 +0700 +07 m=+278.796362636",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320502",
+        "DistrictID": 1903,
+        "WardName": "Xã Cam An",
+        "NameExtension": [
+            "Xã Cam An",
+            "X.Cam An",
+            "X Cam An",
+            "Cam An",
+            "Xa Cam An",
+            "caman"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409326 +0700 +07 m=+0.045662905",
+        "UpdatedAt": "2020-09-29 13:54:14.172401 +0700 +07 m=+278.833923287",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320501",
+        "DistrictID": 1903,
+        "WardName": "Thị trấn Cam Lộ",
+        "NameExtension": [
+            "Thị trấn Cam Lộ",
+            "TT.Cam Lộ",
+            "TT Cam Lộ",
+            "Cam Lộ",
+            "Cam Lo",
+            "Thi tran Cam Lo",
+            "camlo"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409323 +0700 +07 m=+0.045659939",
+        "UpdatedAt": "2020-09-29 13:54:14.214752 +0700 +07 m=+278.876273440",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

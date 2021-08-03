@@ -1,0 +1,918 @@
+[
+    {
+        "WardCode": "90768",
+        "DistrictID": 3695,
+        "WardName": "Phường An Khánh",
+        "NameExtension": [
+            "P. An Khánh",
+            "P. An Khanh",
+            "ankhanh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:37:00.733Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:37:00.733Z"
+    },
+    {
+        "WardCode": "90767",
+        "DistrictID": 3695,
+        "WardName": "Phường Bình Trưng Tây",
+        "NameExtension": [
+            "P. Bình Trưng Tây",
+            "P. Binh Trung Tay",
+            "Phuong Binh Trung Tay",
+            "binhtrungtay"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:36:31.183Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:36:31.183Z"
+    },
+    {
+        "WardCode": "90766",
+        "DistrictID": 3695,
+        "WardName": "Phường Bình Trưng Đông",
+        "NameExtension": [
+            "P. Bình Trưng Đông",
+            "P. Binh Trung Dong",
+            "Phuong Binh Trung Dong",
+            "binhtrungdong"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:35:55.493Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:35:55.493Z"
+    },
+    {
+        "WardCode": "90765",
+        "DistrictID": 3695,
+        "WardName": "Phường An Phú",
+        "NameExtension": [
+            "P. An Phú",
+            "P. An Phu",
+            "Phuong An Phu",
+            "anphu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:35:11.831Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:35:11.831Z"
+    },
+    {
+        "WardCode": "90764",
+        "DistrictID": 3695,
+        "WardName": "Phường Thảo Điền",
+        "NameExtension": [
+            "P. Thảo Điền",
+            "P. Thao Dien",
+            "Phuong Thao Dien",
+            "thaodien"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:34:43.027Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:34:43.027Z"
+    },
+    {
+        "WardCode": "90763",
+        "DistrictID": 3695,
+        "WardName": "Phường Phú Hữu",
+        "NameExtension": [
+            "P. Phú Hữu",
+            "P. Phu Huu",
+            "Phuong Phu Huu",
+            "phuhuu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:32:47.079Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:32:47.079Z"
+    },
+    {
+        "WardCode": "90762",
+        "DistrictID": 3695,
+        "WardName": "Phường Phước Bình",
+        "NameExtension": [
+            "P. Phước Bình",
+            "P. Phuoc Binh",
+            "Phuong Phuoc Binh",
+            "phuocbinh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:32:11.46Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:32:11.46Z"
+    },
+    {
+        "WardCode": "90761",
+        "DistrictID": 3695,
+        "WardName": "Phường Long Trường",
+        "NameExtension": [
+            "P. Long Trường",
+            "P. Long Truong",
+            "Phuong Long Truong",
+            "longtruong"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:30:40.4Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:30:40.4Z"
+    },
+    {
+        "WardCode": "90760",
+        "DistrictID": 3695,
+        "WardName": "Phường Long Phước",
+        "NameExtension": [
+            "P. Long Phước",
+            "P. Long Phuoc",
+            "Phuong Long Phuoc",
+            "longphuoc"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:30:07.678Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:30:07.678Z"
+    },
+    {
+        "WardCode": "90759",
+        "DistrictID": 3695,
+        "WardName": "Phường Trường Thạnh",
+        "NameExtension": [
+            "P. Trường Thạnh",
+            "P. Truong Thanh",
+            "Phuong Truong Thanh",
+            "truongthanh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:29:32.121Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:29:32.121Z"
+    },
+    {
+        "WardCode": "90758",
+        "DistrictID": 3695,
+        "WardName": "Phường Phước Long B",
+        "NameExtension": [
+            "P. Phước Long B",
+            "P. Phuoc Long B",
+            "Phuong Phuoc Long B",
+            "phuoclongb"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:28:36.326Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:28:36.326Z"
+    },
+    {
+        "WardCode": "90757",
+        "DistrictID": 3695,
+        "WardName": "Phường Phước Long A",
+        "NameExtension": [
+            "P. Phước Long A",
+            "P. Phuoc Long A",
+            "Phuong Phuoc Long A",
+            "phuoclonga"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:27:50.972Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:27:50.972Z"
+    },
+    {
+        "WardCode": "90756",
+        "DistrictID": 3695,
+        "WardName": "Phường Tăng Nhơn Phú B",
+        "NameExtension": [
+            "P. Tăng Nhơn Phú B",
+            "P. Tang Nhon Phu B",
+            "Phuong Tang Nhon Phu B",
+            "tangnhonphub"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:21:35.21Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:21:35.21Z"
+    },
+    {
+        "WardCode": "90755",
+        "DistrictID": 3695,
+        "WardName": "Phường Tăng Nhơn Phú A",
+        "NameExtension": [
+            "P. Tăng Nhơn Phú A",
+            "P. Tang Nhon Phu A",
+            "Phuong Tang Nhon Phu A",
+            "tangnhonphua"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:20:47.769Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:20:47.769Z"
+    },
+    {
+        "WardCode": "90754",
+        "DistrictID": 3695,
+        "WardName": "Phường Hiệp Phú",
+        "NameExtension": [
+            "P. Hiệp Phú",
+            "P. Hiep Phu",
+            "Phuong Hiep Phú",
+            "hiepphu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:19:49.495Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:19:49.495Z"
+    },
+    {
+        "WardCode": "90753",
+        "DistrictID": 3695,
+        "WardName": "Phường Tân Phú",
+        "NameExtension": [
+            "P. Tân Phú",
+            "P. Tan Phu",
+            "Phuong Tan Phu",
+            "tanphu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:19:03.973Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:19:03.973Z"
+    },
+    {
+        "WardCode": "90752",
+        "DistrictID": 3695,
+        "WardName": "Phường Long Thạnh Mỹ",
+        "NameExtension": [
+            "P. Long Thạnh Mỹ",
+            "P. Long Thanh My",
+            "Phuong Long Thanh My",
+            "longthanhmy"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:18:01.998Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:18:01.998Z"
+    },
+    {
+        "WardCode": "90751",
+        "DistrictID": 3695,
+        "WardName": "Phường Long Bình",
+        "NameExtension": [
+            "P. Long Bình",
+            "P. Long Binh",
+            "Phuong Long Binh",
+            "longbinh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:17:19.088Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:18:21.272Z"
+    },
+    {
+        "WardCode": "90750",
+        "DistrictID": 3695,
+        "WardName": "Phường Thủ Thiêm",
+        "NameExtension": [
+            "P. Thủ Thiêm",
+            "P. Thu Thiem",
+            "Phuong Thu Thiem",
+            "thuthiem"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:16:49.097Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:16:49.097Z"
+    },
+    {
+        "WardCode": "90749",
+        "DistrictID": 3695,
+        "WardName": "Phường An Lợi Đông",
+        "NameExtension": [
+            "P. An Lợi Đông",
+            "P. An Loi Dong",
+            "Phuong An Loi Dong",
+            "anloidong"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:16:18.198Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:16:18.198Z"
+    },
+    {
+        "WardCode": "90748",
+        "DistrictID": 3695,
+        "WardName": "Phường Thạnh Mỹ Lợi",
+        "NameExtension": [
+            "P. Thạnh Mỹ Lợi",
+            "P. Thanh My Loi",
+            "Phuong Thanh My Loi",
+            "thanhmyloi"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:15:36.507Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:15:36.507Z"
+    },
+    {
+        "WardCode": "90747",
+        "DistrictID": 3695,
+        "WardName": "Phường Cát Lái",
+        "NameExtension": [
+            "P. Cát Lái",
+            "P. Cat Lai",
+            "Phuong Cat Lai",
+            "catlai"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:15:01.434Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:15:01.434Z"
+    },
+    {
+        "WardCode": "90746",
+        "DistrictID": 3695,
+        "WardName": "Phường Trường Thọ",
+        "NameExtension": [
+            "P. Trường Thọ",
+            "P. Truong Tho",
+            "Phuong Truong Tho",
+            "truongtho"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:14:27.777Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:14:27.777Z"
+    },
+    {
+        "WardCode": "90745",
+        "DistrictID": 3695,
+        "WardName": "Phường Bình Thọ",
+        "NameExtension": [
+            "P. Bình Thọ",
+            "P. Binh Tho",
+            "Phuong Binh Tho",
+            "binhtho"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:13:26.37Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:13:26.37Z"
+    },
+    {
+        "WardCode": "90744",
+        "DistrictID": 3695,
+        "WardName": "Phường Linh Đông",
+        "NameExtension": [
+            "P. Linh Đông",
+            "P. Linh Dong",
+            "Phuong Linh Dong",
+            "linhdong"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:12:55.248Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:12:55.248Z"
+    },
+    {
+        "WardCode": "90743",
+        "DistrictID": 3695,
+        "WardName": "Phường Linh Tây",
+        "NameExtension": [
+            "P. Linh Tây",
+            "P. Linh Tay",
+            "Phuong Linh Tay",
+            "linhtay"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:10:35.375Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:10:35.375Z"
+    },
+    {
+        "WardCode": "90742",
+        "DistrictID": 3695,
+        "WardName": "Phường Linh Chiểu",
+        "NameExtension": [
+            "P. Linh Chiểu",
+            "P. Linh Chieu",
+            "Phuong Linh Chieu",
+            "linhchieu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:09:56.805Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:09:56.805Z"
+    },
+    {
+        "WardCode": "90741",
+        "DistrictID": 3695,
+        "WardName": "Phường Hiệp Bình Chánh",
+        "NameExtension": [
+            "P. Hiệp Bình Chánh",
+            "P. Hiep Binh Chanh",
+            "Phuong Hiep Binh Chanh",
+            "hiepbinhchanh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:09:25.815Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:13:47.285Z"
+    },
+    {
+        "WardCode": "90740",
+        "DistrictID": 3695,
+        "WardName": "Phường Hiệp Bình Phước",
+        "NameExtension": [
+            "P. Hiệp Bình Phước",
+            "P. Hiep Binh Phuoc",
+            "Phuong Hiep Binh Phuoc",
+            "hiepbinhphuoc"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:08:28.044Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:08:28.044Z"
+    },
+    {
+        "WardCode": "90739",
+        "DistrictID": 3695,
+        "WardName": "Phường Tam Phú",
+        "NameExtension": [
+            "P. Tam Phú",
+            "P. Tam Phu",
+            "Phuong Tam Phu",
+            "tamphu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:07:23.788Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:07:23.788Z"
+    },
+    {
+        "WardCode": "90738",
+        "DistrictID": 3695,
+        "WardName": "Phường Tam Bình",
+        "NameExtension": [
+            "P. Tam Bình",
+            "P. Tam Binh",
+            "Phuong Tam Binh",
+            "tambinh"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:06:26.578Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:06:26.578Z"
+    },
+    {
+        "WardCode": "90737",
+        "DistrictID": 3695,
+        "WardName": "Phường Linh Trung",
+        "NameExtension": [
+            "P. Linh Trung",
+            "Phuong Linh Trung",
+            "linhtrung"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:05:40.988Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:05:40.988Z"
+    },
+    {
+        "WardCode": "90736",
+        "DistrictID": 3695,
+        "WardName": "Phường Bình Chiểu",
+        "NameExtension": [
+            "P. Bình Chiểu",
+            "Phuong Binh Chieu",
+            "P. Binh Chieu",
+            "binhchieu"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:05:00.61Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:05:00.61Z"
+    },
+    {
+        "WardCode": "90735",
+        "DistrictID": 3695,
+        "WardName": "Phường Linh Xuân",
+        "NameExtension": [
+            "P. Linh Xuân",
+            "Phuong Linh Xuan",
+            "P. Linh Xuan",
+            "linhxuan"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:03:05.859Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-25T08:11:59.986Z"
+    }
+]

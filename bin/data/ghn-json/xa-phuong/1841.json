@@ -1,0 +1,834 @@
+[
+    {
+        "WardCode": "250532",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Xá",
+        "NameExtension": [
+            "Xã Yên Xá",
+            "X.Yên Xá",
+            "X Yên Xá",
+            "Yên Xá",
+            "Yen Xa",
+            "Xa Yen Xa",
+            "yenxa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405347 +0700 +07 m=+0.041684603",
+        "UpdatedAt": "2020-09-29 13:56:23.292083 +0700 +07 m=+407.951154045",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250531",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Trung",
+        "NameExtension": [
+            "Xã Yên Trung",
+            "X.Yên Trung",
+            "X Yên Trung",
+            "Yên Trung",
+            "Yen Trung",
+            "Xa Yen Trung",
+            "yentrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405324 +0700 +07 m=+0.041661492",
+        "UpdatedAt": "2020-09-29 13:56:23.330229 +0700 +07 m=+407.989299806",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250530",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Trị",
+        "NameExtension": [
+            "Xã Yên Trị",
+            "X.Yên Trị",
+            "X Yên Trị",
+            "Yên Trị",
+            "Yen Tri",
+            "Xa Yen Tri",
+            "yentri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405377 +0700 +07 m=+0.041714366",
+        "UpdatedAt": "2020-09-29 13:56:23.367111 +0700 +07 m=+408.026181341",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250529",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Tiến",
+        "NameExtension": [
+            "Xã Yên Tiến",
+            "X.Yên Tiến",
+            "X Yên Tiến",
+            "Yên Tiến",
+            "Yen Tien",
+            "Xa Yen Tien",
+            "yentien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40536 +0700 +07 m=+0.041697719",
+        "UpdatedAt": "2020-09-29 13:56:23.405336 +0700 +07 m=+408.064405599",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250528",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Thọ",
+        "NameExtension": [
+            "Xã Yên Thọ",
+            "X.Yên Thọ",
+            "X Yên Thọ",
+            "Yên Thọ",
+            "Yen Tho",
+            "Xa Yen Tho",
+            "yentho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405331 +0700 +07 m=+0.041668044",
+        "UpdatedAt": "2020-09-29 13:56:23.584582 +0700 +07 m=+408.243648247",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250527",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Thành",
+        "NameExtension": [
+            "Xã Yên Thành",
+            "X.Yên Thành",
+            "X Yên Thành",
+            "Yên Thành",
+            "Yen Thanh",
+            "Xa Yen Thanh",
+            "yenthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405326 +0700 +07 m=+0.041663107",
+        "UpdatedAt": "2020-09-29 13:56:23.632921 +0700 +07 m=+408.291986088",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250526",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Thắng",
+        "NameExtension": [
+            "Xã Yên Thắng",
+            "X.Yên Thắng",
+            "X Yên Thắng",
+            "Yên Thắng",
+            "Yen Thang",
+            "Xa Yen Thang",
+            "yenthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405362 +0700 +07 m=+0.041699326",
+        "UpdatedAt": "2020-09-29 13:56:23.684229 +0700 +07 m=+408.343292474",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250525",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Tân",
+        "NameExtension": [
+            "Xã Yên Tân",
+            "X.Yên Tân",
+            "X Yên Tân",
+            "Yên Tân",
+            "Yen Tan",
+            "Xa Yen Tan",
+            "yentan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405327 +0700 +07 m=+0.041664714",
+        "UpdatedAt": "2020-09-29 13:56:23.717835 +0700 +07 m=+408.376898026",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250524",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Quang",
+        "NameExtension": [
+            "Xã Yên Quang",
+            "X.Yên Quang",
+            "X Yên Quang",
+            "Yên Quang",
+            "Yen Quang",
+            "Xa Yen Quang",
+            "yenquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405359 +0700 +07 m=+0.041696099",
+        "UpdatedAt": "2020-09-29 13:56:23.75382 +0700 +07 m=+408.412882247",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250523",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Phương",
+        "NameExtension": [
+            "Xã Yên Phương",
+            "X.Yên Phương",
+            "X Yên Phương",
+            "Yên Phương",
+            "Yen Phuong",
+            "Xa Yen Phuong",
+            "yenphuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405336 +0700 +07 m=+0.041672869",
+        "UpdatedAt": "2020-09-29 13:56:23.838562 +0700 +07 m=+408.497622733",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250522",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Phúc",
+        "NameExtension": [
+            "Xã Yên Phúc",
+            "X.Yên Phúc",
+            "X Yên Phúc",
+            "Yên Phúc",
+            "Yen Phuc",
+            "Xa Yen Phuc",
+            "yenphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405364 +0700 +07 m=+0.041700948",
+        "UpdatedAt": "2020-09-29 13:56:23.88087 +0700 +07 m=+408.539930237",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250521",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Phú",
+        "NameExtension": [
+            "Xã Yên Phú",
+            "X.Yên Phú",
+            "X Yên Phú",
+            "Yên Phú",
+            "Yen Phu",
+            "Xa Yen Phu",
+            "yenphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405342 +0700 +07 m=+0.041679662",
+        "UpdatedAt": "2020-09-29 13:56:23.918293 +0700 +07 m=+408.577353030",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250520",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Phong",
+        "NameExtension": [
+            "Xã Yên Phong",
+            "X.Yên Phong",
+            "X Yên Phong",
+            "Yên Phong",
+            "Yen Phong",
+            "Xa Yen Phong",
+            "yenphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405352 +0700 +07 m=+0.041689535",
+        "UpdatedAt": "2020-09-29 13:56:23.961106 +0700 +07 m=+408.620164491",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250519",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Ninh",
+        "NameExtension": [
+            "Xã Yên Ninh",
+            "X.Yên Ninh",
+            "X Yên Ninh",
+            "Yên Ninh",
+            "Yen Ninh",
+            "Xa Yen Ninh",
+            "yenninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405354 +0700 +07 m=+0.041691149",
+        "UpdatedAt": "2020-09-29 13:56:23.997593 +0700 +07 m=+408.656651151",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250518",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Nhân",
+        "NameExtension": [
+            "Xã Yên Nhân",
+            "X.Yên Nhân",
+            "X Yên Nhân",
+            "Yên Nhân",
+            "Yen Nhan",
+            "Xa Yen Nhan",
+            "yennhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405375 +0700 +07 m=+0.041712702",
+        "UpdatedAt": "2020-09-29 13:56:24.044968 +0700 +07 m=+408.704025175",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250517",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Nghĩa",
+        "NameExtension": [
+            "Xã Yên Nghĩa",
+            "X.Yên Nghĩa",
+            "X Yên Nghĩa",
+            "Yên Nghĩa",
+            "Yen Nghia",
+            "Xa Yen Nghia",
+            "yennghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405332 +0700 +07 m=+0.041669619",
+        "UpdatedAt": "2020-09-29 13:56:24.08965 +0700 +07 m=+408.748706599",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250516",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Mỹ",
+        "NameExtension": [
+            "Xã Yên Mỹ",
+            "X.Yên Mỹ",
+            "X Yên Mỹ",
+            "Yên Mỹ",
+            "Yen My",
+            "Xa Yen My",
+            "yenmy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405344 +0700 +07 m=+0.041681311",
+        "UpdatedAt": "2020-09-29 13:56:24.135253 +0700 +07 m=+408.794307892",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250515",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Minh",
+        "NameExtension": [
+            "Xã Yên Minh",
+            "X.Yên Minh",
+            "X Yên Minh",
+            "Yên Minh",
+            "Yen Minh",
+            "Xa Yen Minh",
+            "yenminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405334 +0700 +07 m=+0.041671268",
+        "UpdatedAt": "2020-09-29 13:56:24.193908 +0700 +07 m=+408.852961740",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250514",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Lương",
+        "NameExtension": [
+            "Xã Yên Lương",
+            "X.Yên Lương",
+            "X Yên Lương",
+            "Yên Lương",
+            "Yen Luong",
+            "Xa Yen Luong",
+            "yenluong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405355 +0700 +07 m=+0.041692745",
+        "UpdatedAt": "2020-09-29 13:56:24.226692 +0700 +07 m=+408.885745970",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250513",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Lợi",
+        "NameExtension": [
+            "Xã Yên Lợi",
+            "X.Yên Lợi",
+            "X Yên Lợi",
+            "Yên Lợi",
+            "Yen Loi",
+            "Xa Yen Loi",
+            "yenloi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405329 +0700 +07 m=+0.041666324",
+        "UpdatedAt": "2020-09-29 13:56:24.291095 +0700 +07 m=+408.950146987",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250512",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Lộc",
+        "NameExtension": [
+            "Xã Yên Lộc",
+            "X.Yên Lộc",
+            "X Yên Lộc",
+            "Yên Lộc",
+            "Yen Loc",
+            "Xa Yen Loc",
+            "yenloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405367 +0700 +07 m=+0.041704232",
+        "UpdatedAt": "2020-09-29 13:56:24.328992 +0700 +07 m=+408.988043260",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250511",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Khánh",
+        "NameExtension": [
+            "Xã Yên Khánh",
+            "X.Yên Khánh",
+            "X Yên Khánh",
+            "Yên Khánh",
+            "Yen Khanh",
+            "Xa Yen Khanh",
+            "yenkhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405351 +0700 +07 m=+0.041687912",
+        "UpdatedAt": "2020-09-29 13:56:24.424648 +0700 +07 m=+409.083698109",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250510",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Khang",
+        "NameExtension": [
+            "Xã Yên Khang",
+            "X.Yên Khang",
+            "X Yên Khang",
+            "Yên Khang",
+            "Yen Khang",
+            "Xa Yen Khang",
+            "yenkhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405374 +0700 +07 m=+0.041711018",
+        "UpdatedAt": "2020-09-29 13:56:24.477066 +0700 +07 m=+409.136114478",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250509",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Hưng",
+        "NameExtension": [
+            "Xã Yên Hưng",
+            "X.Yên Hưng",
+            "X Yên Hưng",
+            "Yên Hưng",
+            "Yen Hung",
+            "Xa Yen Hung",
+            "yenhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405349 +0700 +07 m=+0.041686251",
+        "UpdatedAt": "2020-09-29 13:56:24.523063 +0700 +07 m=+409.182110796",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250508",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Hồng",
+        "NameExtension": [
+            "Xã Yên Hồng",
+            "X.Yên Hồng",
+            "X Yên Hồng",
+            "Yên Hồng",
+            "Yen Hong",
+            "Xa Yen Hong",
+            "yenhong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405357 +0700 +07 m=+0.041694418",
+        "UpdatedAt": "2020-09-29 13:56:24.561161 +0700 +07 m=+409.220207909",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250507",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Dương",
+        "NameExtension": [
+            "Xã Yên Dương",
+            "X.Yên Dương",
+            "X Yên Dương",
+            "Yên Dương",
+            "Yen Duong",
+            "Xa Yen Duong",
+            "yenduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405346 +0700 +07 m=+0.041682938",
+        "UpdatedAt": "2020-09-29 13:56:24.606494 +0700 +07 m=+409.265540481",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250506",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Đồng",
+        "NameExtension": [
+            "Xã Yên Đồng",
+            "X.Yên Đồng",
+            "X Yên Đồng",
+            "Yên Đồng",
+            "Yen Dong",
+            "Xa Yen Dong",
+            "yendong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405372 +0700 +07 m=+0.041709372",
+        "UpdatedAt": "2020-09-29 13:56:24.730155 +0700 +07 m=+409.389199379",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250505",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Cường",
+        "NameExtension": [
+            "Xã Yên Cường",
+            "X.Yên Cường",
+            "X Yên Cường",
+            "Yên Cường",
+            "Yen Cuong",
+            "Xa Yen Cuong",
+            "yencuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405365 +0700 +07 m=+0.041702573",
+        "UpdatedAt": "2020-09-29 13:56:24.764173 +0700 +07 m=+409.423216394",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250504",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Chính",
+        "NameExtension": [
+            "Xã Yên Chính",
+            "X.Yên Chính",
+            "X Yên Chính",
+            "Yên Chính",
+            "Yen Chinh",
+            "Xa Yen Chinh",
+            "yenchinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405339 +0700 +07 m=+0.041676408",
+        "UpdatedAt": "2020-09-29 13:56:24.81812 +0700 +07 m=+409.477163353",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250503",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Bình",
+        "NameExtension": [
+            "Xã Yên Bình",
+            "X.Yên Bình",
+            "X Yên Bình",
+            "Yên Bình",
+            "Yen Binh",
+            "Xa Yen Binh",
+            "yenbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405341 +0700 +07 m=+0.041678025",
+        "UpdatedAt": "2020-09-29 13:56:24.867083 +0700 +07 m=+409.526124481",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250502",
+        "DistrictID": 1841,
+        "WardName": "Xã Yên Bằng",
+        "NameExtension": [
+            "Xã Yên Bằng",
+            "X.Yên Bằng",
+            "X Yên Bằng",
+            "Yên Bằng",
+            "Yen Bang",
+            "Xa Yen Bang",
+            "yenbang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405369 +0700 +07 m=+0.041705847",
+        "UpdatedAt": "2020-09-29 13:56:24.901843 +0700 +07 m=+409.560884111",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "250501",
+        "DistrictID": 1841,
+        "WardName": "Thị trấn Lâm",
+        "NameExtension": [
+            "Thị trấn Lâm",
+            "TT.Lâm",
+            "TT Lâm",
+            "Lâm",
+            "Lam",
+            "Thi tran Lam",
+            "lam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405323 +0700 +07 m=+0.041659844",
+        "UpdatedAt": "2020-09-29 13:56:25.047753 +0700 +07 m=+409.706791165",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

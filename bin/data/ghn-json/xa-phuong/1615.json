@@ -1,0 +1,366 @@
+[
+    {
+        "WardCode": "270114",
+        "DistrictID": 1615,
+        "WardName": "Xã Ninh Tiến",
+        "NameExtension": [
+            "Xã Ninh Tiến",
+            "X.Ninh Tiến",
+            "X Ninh Tiến",
+            "Ninh Tiến",
+            "Ninh Tien",
+            "Xa Ninh Tien",
+            "Phường Ninh Tiến",
+            "ninhtien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40636 +0700 +07 m=+0.042696883",
+        "UpdatedAt": "2020-09-29 13:55:54.464122 +0700 +07 m=+379.123740980",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270113",
+        "DistrictID": 1615,
+        "WardName": "Xã Ninh Phúc",
+        "NameExtension": [
+            "Xã Ninh Phúc",
+            "X.Ninh Phúc",
+            "X Ninh Phúc",
+            "Ninh Phúc",
+            "Ninh Phuc",
+            "Xa Ninh Phuc",
+            "ninhphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406361 +0700 +07 m=+0.042698316",
+        "UpdatedAt": "2020-09-29 13:55:54.502401 +0700 +07 m=+379.162020690",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270112",
+        "DistrictID": 1615,
+        "WardName": "Xã Ninh Nhất",
+        "NameExtension": [
+            "Xã Ninh Nhất",
+            "X.Ninh Nhất",
+            "X Ninh Nhất",
+            "Ninh Nhất",
+            "Ninh Nhat",
+            "Xa Ninh Nhat",
+            "ninhnhat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406358 +0700 +07 m=+0.042695507",
+        "UpdatedAt": "2020-09-29 13:55:54.555736 +0700 +07 m=+379.215353088",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270111",
+        "DistrictID": 1615,
+        "WardName": "Phường Vân Giang",
+        "NameExtension": [
+            "Phường Vân Giang",
+            "P.Vân Giang",
+            "P Vân Giang",
+            "Vân Giang",
+            "Van Giang",
+            "Phuong Van Giang",
+            "vangiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406349 +0700 +07 m=+0.042686284",
+        "UpdatedAt": "2020-09-29 13:55:54.613525 +0700 +07 m=+379.273140987",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270110",
+        "DistrictID": 1615,
+        "WardName": "Phường Thanh Bình",
+        "NameExtension": [
+            "Phường Thanh Bình",
+            "P.Thanh Bình",
+            "P Thanh Bình",
+            "Thanh Bình",
+            "Thanh Binh",
+            "Phuong Thanh Binh",
+            "thanhbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406347 +0700 +07 m=+0.042684781",
+        "UpdatedAt": "2020-09-29 13:55:54.650501 +0700 +07 m=+379.310115976",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270109",
+        "DistrictID": 1615,
+        "WardName": "Phường Tân Thành",
+        "NameExtension": [
+            "Phường Tân Thành",
+            "P.Tân Thành",
+            "P Tân Thành",
+            "Tân Thành",
+            "Tan Thanh",
+            "Phuong Tan Thanh",
+            "tanthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406346 +0700 +07 m=+0.042683229",
+        "UpdatedAt": "2020-09-29 13:55:54.684085 +0700 +07 m=+379.343699771",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270108",
+        "DistrictID": 1615,
+        "WardName": "Phường Phúc Thành",
+        "NameExtension": [
+            "Phường Phúc Thành",
+            "P.Phúc Thành",
+            "P Phúc Thành",
+            "Phúc Thành",
+            "Phuc Thanh",
+            "Phuong Phuc Thanh",
+            "phucthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406352 +0700 +07 m=+0.042689701",
+        "UpdatedAt": "2020-09-29 13:55:54.720561 +0700 +07 m=+379.380175647",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270107",
+        "DistrictID": 1615,
+        "WardName": "Phường Ninh Sơn",
+        "NameExtension": [
+            "Phường Ninh Sơn",
+            "P.Ninh Sơn",
+            "P Ninh Sơn",
+            "Ninh Sơn",
+            "Ninh Son",
+            "Phuong Ninh Son",
+            "ninhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406363 +0700 +07 m=+0.042699893",
+        "UpdatedAt": "2020-09-29 13:55:54.790459 +0700 +07 m=+379.450070910",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270106",
+        "DistrictID": 1615,
+        "WardName": "Phường Ninh Phong",
+        "NameExtension": [
+            "Phường Ninh Phong",
+            "P.Ninh Phong",
+            "P Ninh Phong",
+            "Ninh Phong",
+            "Phuong Ninh Phong",
+            "ninhphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406364 +0700 +07 m=+0.042701441",
+        "UpdatedAt": "2020-09-29 13:55:54.82639 +0700 +07 m=+379.486001230",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270105",
+        "DistrictID": 1615,
+        "WardName": "Phường Ninh Khánh",
+        "NameExtension": [
+            "Phường Ninh Khánh",
+            "P.Ninh Khánh",
+            "P Ninh Khánh",
+            "Ninh Khánh",
+            "Ninh Khanh",
+            "Phuong Ninh Khanh",
+            "ninhkhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406357 +0700 +07 m=+0.042694067",
+        "UpdatedAt": "2020-09-29 13:55:54.862086 +0700 +07 m=+379.521696493",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270104",
+        "DistrictID": 1615,
+        "WardName": "Phường Nam Thành",
+        "NameExtension": [
+            "Phường Nam Thành",
+            "P.Nam Thành",
+            "P Nam Thành",
+            "Nam Thành",
+            "Nam Thanh",
+            "Phuong Nam Thanh",
+            "namthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406355 +0700 +07 m=+0.042692626",
+        "UpdatedAt": "2020-09-29 13:55:54.896251 +0700 +07 m=+379.555861762",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270103",
+        "DistrictID": 1615,
+        "WardName": "Phường Nam Bình",
+        "NameExtension": [
+            "Phường Nam Bình",
+            "P.Nam Bình",
+            "P Nam Bình",
+            "Nam Bình",
+            "Nam Binh",
+            "Phuong Nam Binh",
+            "nambinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406354 +0700 +07 m=+0.042691171",
+        "UpdatedAt": "2020-09-29 13:55:54.929896 +0700 +07 m=+379.589506110",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270102",
+        "DistrictID": 1615,
+        "WardName": "Phường Đông Thành",
+        "NameExtension": [
+            "Phường Đông Thành",
+            "P.Đông Thành",
+            "P Đông Thành",
+            "Đông Thành",
+            "Dong Thanh",
+            "Phuong Dong Thanh",
+            "dongthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406344 +0700 +07 m=+0.042681558",
+        "UpdatedAt": "2020-09-29 13:55:54.963789 +0700 +07 m=+379.623398184",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270101",
+        "DistrictID": 1615,
+        "WardName": "Phường Bích Đào",
+        "NameExtension": [
+            "Phường Bích Đào",
+            "P.Bích Đào",
+            "P Bích Đào",
+            "Bích Đào",
+            "Bich Dao",
+            "Phuong Bich Dao",
+            "bichdao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406351 +0700 +07 m=+0.042688149",
+        "UpdatedAt": "2020-09-29 13:55:55.002974 +0700 +07 m=+379.662582285",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

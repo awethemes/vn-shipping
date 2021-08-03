@@ -1,0 +1,829 @@
+[
+    {
+        "WardCode": "800287",
+        "DistrictID": 1858,
+        "WardName": "Thị Trấn Phong Nha",
+        "NameExtension": [
+            "Thị Trấn Phong Nha",
+            "Phong Nha",
+            "Thi Tran Phong Nha",
+            "phongnha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.821691 +0700 +07 m=+27.487983416",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800286",
+        "DistrictID": 1858,
+        "WardName": "Xã Hải Phú",
+        "NameExtension": [
+            "Xã Hải Phú",
+            "Hai Phu",
+            "Xa Hai Phu",
+            "haiphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.863324 +0700 +07 m=+27.529616261",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310530",
+        "DistrictID": 1858,
+        "WardName": "Xã Xuân Trạch",
+        "NameExtension": [
+            "Xã Xuân Trạch",
+            "X.Xuân Trạch",
+            "X Xuân Trạch",
+            "Xuân Trạch",
+            "Xuan Trach",
+            "Xa Xuan Trach",
+            "xuantrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.4081 +0700 +07 m=+0.044437270",
+        "UpdatedAt": "2020-09-29 13:54:23.70032 +0700 +07 m=+288.361661255",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310529",
+        "DistrictID": 1858,
+        "WardName": "Xã Vạn Trạch",
+        "NameExtension": [
+            "Xã Vạn Trạch",
+            "X.Vạn Trạch",
+            "X Vạn Trạch",
+            "Vạn Trạch",
+            "Van Trach",
+            "Xa Van Trach",
+            "vantrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408125 +0700 +07 m=+0.044462221",
+        "UpdatedAt": "2020-09-29 13:54:23.733431 +0700 +07 m=+288.394771933",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310528",
+        "DistrictID": 1858,
+        "WardName": "Xã Trung Trạch",
+        "NameExtension": [
+            "Xã Trung Trạch",
+            "X.Trung Trạch",
+            "X Trung Trạch",
+            "Trung Trạch",
+            "Trung Trach",
+            "Xa Trung Trach",
+            "trungtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408129 +0700 +07 m=+0.044466304",
+        "UpdatedAt": "2020-09-29 13:54:23.76705 +0700 +07 m=+288.428390297",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310527",
+        "DistrictID": 1858,
+        "WardName": "Xã Thượng Trạch",
+        "NameExtension": [
+            "Xã Thượng Trạch",
+            "X.Thượng Trạch",
+            "X Thượng Trạch",
+            "Thượng Trạch",
+            "Thuong Trach",
+            "Xa Thuong Trach",
+            "thuongtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408114 +0700 +07 m=+0.044451142",
+        "UpdatedAt": "2020-09-29 13:54:23.817639 +0700 +07 m=+288.478978400",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310526",
+        "DistrictID": 1858,
+        "WardName": "Xã Thanh Trạch",
+        "NameExtension": [
+            "Xã Thanh Trạch",
+            "X.Thanh Trạch",
+            "X Thanh Trạch",
+            "Thanh Trạch",
+            "Thanh Trach",
+            "Xa Thanh Trach",
+            "thanhtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408107 +0700 +07 m=+0.044444191",
+        "UpdatedAt": "2020-09-29 13:54:23.852342 +0700 +07 m=+288.513679992",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310525",
+        "DistrictID": 1858,
+        "WardName": "Xã Tây Trạch",
+        "NameExtension": [
+            "Xã Tây Trạch",
+            "X.Tây Trạch",
+            "X Tây Trạch",
+            "Tây Trạch",
+            "Tay Trach",
+            "Xa Tay Trach",
+            "taytrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40813 +0700 +07 m=+0.044467695",
+        "UpdatedAt": "2020-09-29 13:54:23.895202 +0700 +07 m=+288.556539085",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310524",
+        "DistrictID": 1858,
+        "WardName": "Xã Tân Trạch",
+        "NameExtension": [
+            "Xã Tân Trạch",
+            "X.Tân Trạch",
+            "X Tân Trạch",
+            "Tân Trạch",
+            "Tan Trach",
+            "Xa Tan Trach",
+            "tantrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408136 +0700 +07 m=+0.044473409",
+        "UpdatedAt": "2020-09-29 13:54:23.929185 +0700 +07 m=+288.590521617",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310523",
+        "DistrictID": 1858,
+        "WardName": "Xã Sơn Trạch",
+        "NameExtension": [
+            "Xã Sơn Trạch",
+            "X.Sơn Trạch",
+            "X Sơn Trạch",
+            "Sơn Trạch",
+            "Son Trach",
+            "Xa Son Trach",
+            "sontrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408123 +0700 +07 m=+0.044460570",
+        "UpdatedAt": "2020-09-29 13:54:23.968256 +0700 +07 m=+288.629592447",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310522",
+        "DistrictID": 1858,
+        "WardName": "Xã Sơn Lộc",
+        "NameExtension": [
+            "Xã Sơn Lộc",
+            "X.Sơn Lộc",
+            "X Sơn Lộc",
+            "Sơn Lộc",
+            "Son Loc",
+            "Xa Son Loc",
+            "sonloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408115 +0700 +07 m=+0.044452531",
+        "UpdatedAt": "2020-09-29 13:54:24.002181 +0700 +07 m=+288.663516598",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310521",
+        "DistrictID": 1858,
+        "WardName": "Xã Phúc Trạch",
+        "NameExtension": [
+            "Xã Phúc Trạch",
+            "X.Phúc Trạch",
+            "X Phúc Trạch",
+            "Phúc Trạch",
+            "Phuc Trach",
+            "Xa Phuc Trach",
+            "phuctrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40811 +0700 +07 m=+0.044446951",
+        "UpdatedAt": "2020-09-29 13:54:24.062998 +0700 +07 m=+288.724332163",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310520",
+        "DistrictID": 1858,
+        "WardName": "Xã Phú Trạch",
+        "NameExtension": [
+            "Xã Phú Trạch",
+            "X.Phú Trạch",
+            "X Phú Trạch",
+            "Phú Trạch",
+            "Phu Trach",
+            "Xa Phu Trach",
+            "phutrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408117 +0700 +07 m=+0.044453958",
+        "UpdatedAt": "2020-09-29 13:54:24.101939 +0700 +07 m=+288.763272184",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310519",
+        "DistrictID": 1858,
+        "WardName": "Xã Phú Định",
+        "NameExtension": [
+            "Xã Phú Định",
+            "X.Phú Định",
+            "X Phú Định",
+            "Phú Định",
+            "Phu Dinh",
+            "Xa Phu Dinh",
+            "phudinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408128 +0700 +07 m=+0.044464941",
+        "UpdatedAt": "2020-09-29 13:54:24.134 +0700 +07 m=+288.795332613",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310518",
+        "DistrictID": 1858,
+        "WardName": "Xã Nhân Trạch",
+        "NameExtension": [
+            "Xã Nhân Trạch",
+            "X.Nhân Trạch",
+            "X Nhân Trạch",
+            "Nhân Trạch",
+            "Nhan Trach",
+            "Xa Nhan Trach",
+            "nhantrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408135 +0700 +07 m=+0.044472033",
+        "UpdatedAt": "2020-09-29 13:54:24.168379 +0700 +07 m=+288.829711210",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310517",
+        "DistrictID": 1858,
+        "WardName": "Xã Nam Trạch",
+        "NameExtension": [
+            "Xã Nam Trạch",
+            "X.Nam Trạch",
+            "X Nam Trạch",
+            "Nam Trạch",
+            "Nam Trach",
+            "Xa Nam Trach",
+            "namtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408138 +0700 +07 m=+0.044474834",
+        "UpdatedAt": "2020-09-29 13:54:24.202923 +0700 +07 m=+288.864254262",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310516",
+        "DistrictID": 1858,
+        "WardName": "Xã Mỹ Trạch",
+        "NameExtension": [
+            "Xã Mỹ Trạch",
+            "X.Mỹ Trạch",
+            "X Mỹ Trạch",
+            "Mỹ Trạch",
+            "My Trach",
+            "Xa My Trach",
+            "mytrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408101 +0700 +07 m=+0.044438650",
+        "UpdatedAt": "2020-09-29 13:54:24.236595 +0700 +07 m=+288.897925603",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310515",
+        "DistrictID": 1858,
+        "WardName": "Xã Lý Trạch",
+        "NameExtension": [
+            "Xã Lý Trạch",
+            "X.Lý Trạch",
+            "X Lý Trạch",
+            "Lý Trạch",
+            "Ly Trach",
+            "Xa Ly Trach",
+            "lytrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408139 +0700 +07 m=+0.044476204",
+        "UpdatedAt": "2020-09-29 13:54:24.275195 +0700 +07 m=+288.936525748",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310514",
+        "DistrictID": 1858,
+        "WardName": "Xã Liên Trạch",
+        "NameExtension": [
+            "Xã Liên Trạch",
+            "X.Liên Trạch",
+            "X Liên Trạch",
+            "Liên Trạch",
+            "Lien Trach",
+            "Xa Lien Trach",
+            "lientrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408108 +0700 +07 m=+0.044445589",
+        "UpdatedAt": "2020-09-29 13:54:24.311931 +0700 +07 m=+288.973260779",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310513",
+        "DistrictID": 1858,
+        "WardName": "Xã Lâm Trạch",
+        "NameExtension": [
+            "Xã Lâm Trạch",
+            "X.Lâm Trạch",
+            "X Lâm Trạch",
+            "Lâm Trạch",
+            "Lam Trach",
+            "Xa Lam Trach",
+            "lamtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408105 +0700 +07 m=+0.044442810",
+        "UpdatedAt": "2020-09-29 13:54:24.347855 +0700 +07 m=+289.009183986",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310512",
+        "DistrictID": 1858,
+        "WardName": "Xã Hưng Trạch",
+        "NameExtension": [
+            "Xã Hưng Trạch",
+            "X.Hưng Trạch",
+            "X Hưng Trạch",
+            "Hưng Trạch",
+            "Hung Trach",
+            "Xa Hung Trach",
+            "hungtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408118 +0700 +07 m=+0.044455382",
+        "UpdatedAt": "2020-09-29 13:54:24.384447 +0700 +07 m=+289.045774880",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310511",
+        "DistrictID": 1858,
+        "WardName": "Xã Hoàn Trạch",
+        "NameExtension": [
+            "Xã Hoàn Trạch",
+            "X.Hoàn Trạch",
+            "X Hoàn Trạch",
+            "Hoàn Trạch",
+            "Hoan Trach",
+            "Xa Hoan Trach",
+            "hoantrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408126 +0700 +07 m=+0.044463579",
+        "UpdatedAt": "2020-09-29 13:54:24.424126 +0700 +07 m=+289.085453782",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310510",
+        "DistrictID": 1858,
+        "WardName": "Xã Hòa Trạch",
+        "NameExtension": [
+            "Xã Hòa Trạch",
+            "X.Hòa Trạch",
+            "X Hòa Trạch",
+            "Hòa Trạch",
+            "Hoa Trach",
+            "Xa Hoa Trach",
+            "hoatrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408132 +0700 +07 m=+0.044469087",
+        "UpdatedAt": "2020-09-29 13:54:24.468024 +0700 +07 m=+289.129350298",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310509",
+        "DistrictID": 1858,
+        "WardName": "Xã Hải Trạch",
+        "NameExtension": [
+            "Xã Hải Trạch",
+            "X.Hải Trạch",
+            "X Hải Trạch",
+            "Hải Trạch",
+            "Hai Trach",
+            "Xa Hai Trach",
+            "haitrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408112 +0700 +07 m=+0.044449738",
+        "UpdatedAt": "2020-09-29 13:54:24.506787 +0700 +07 m=+289.168113282",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310508",
+        "DistrictID": 1858,
+        "WardName": "Xã Hạ Trạch",
+        "NameExtension": [
+            "Xã Hạ Trạch",
+            "X.Hạ Trạch",
+            "X Hạ Trạch",
+            "Hạ Trạch",
+            "Ha Trach",
+            "Xa Ha Trach",
+            "hatrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408103 +0700 +07 m=+0.044440073",
+        "UpdatedAt": "2020-09-29 13:54:24.546744 +0700 +07 m=+289.208069205",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310507",
+        "DistrictID": 1858,
+        "WardName": "Xã Đức Trạch",
+        "NameExtension": [
+            "Xã Đức Trạch",
+            "X.Đức Trạch",
+            "X Đức Trạch",
+            "Đức Trạch",
+            "Duc Trach",
+            "Xa Duc Trach",
+            "ductrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408122 +0700 +07 m=+0.044459204",
+        "UpdatedAt": "2020-09-29 13:54:24.614662 +0700 +07 m=+289.275986311",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310506",
+        "DistrictID": 1858,
+        "WardName": "Xã Đồng Trạch",
+        "NameExtension": [
+            "Xã Đồng Trạch",
+            "X.Đồng Trạch",
+            "X Đồng Trạch",
+            "Đồng Trạch",
+            "Dong Trach",
+            "Xa Dong Trach",
+            "dongtrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40812 +0700 +07 m=+0.044457800",
+        "UpdatedAt": "2020-09-29 13:54:24.662173 +0700 +07 m=+289.323495818",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310505",
+        "DistrictID": 1858,
+        "WardName": "Xã Đại Trạch",
+        "NameExtension": [
+            "Xã Đại Trạch",
+            "X.Đại Trạch",
+            "X Đại Trạch",
+            "Đại Trạch",
+            "Dai Trach",
+            "Xa Dai Trach",
+            "daitrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408133 +0700 +07 m=+0.044470666",
+        "UpdatedAt": "2020-09-29 13:54:24.698357 +0700 +07 m=+289.359679187",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310504",
+        "DistrictID": 1858,
+        "WardName": "Xã Cự Nẫm",
+        "NameExtension": [
+            "Xã Cự Nẫm",
+            "X.Cự Nẫm",
+            "X Cự Nẫm",
+            "Cự Nẫm",
+            "Cu Nam",
+            "Xa Cu Nam",
+            "cunam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408111 +0700 +07 m=+0.044448360",
+        "UpdatedAt": "2020-09-29 13:54:24.743109 +0700 +07 m=+289.404430319",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310503",
+        "DistrictID": 1858,
+        "WardName": "Xã Bắc Trạch",
+        "NameExtension": [
+            "Xã Bắc Trạch",
+            "X.Bắc Trạch",
+            "X Bắc Trạch",
+            "Bắc Trạch",
+            "Bac Trach",
+            "Xa Bac Trach",
+            "bactrach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408104 +0700 +07 m=+0.044441429",
+        "UpdatedAt": "2020-09-29 13:54:24.779906 +0700 +07 m=+289.441227134",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310502",
+        "DistrictID": 1858,
+        "WardName": "Thị trấn NT Việt Trung",
+        "NameExtension": [
+            "Thị Trấn Nông Trường Việt Trung",
+            "Thị trấn NT Việt Trung",
+            "TT.NT Việt Trung",
+            "TT NT Việt Trung",
+            "NT Việt Trung",
+            "NT Viet Trung",
+            "Thi tran NT Viet Trung",
+            "ntviettrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408099 +0700 +07 m=+0.044435903",
+        "UpdatedAt": "2020-09-29 13:54:24.821055 +0700 +07 m=+289.482374993",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "310501",
+        "DistrictID": 1858,
+        "WardName": "Thị trấn Hoàn Lão",
+        "NameExtension": [
+            "Thị trấn Hoàn Lão",
+            "TT.Hoàn Lão",
+            "TT Hoàn Lão",
+            "Hoàn Lão",
+            "Hoan Lao",
+            "Thi tran Hoan Lao",
+            "hoanlao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408097 +0700 +07 m=+0.044434497",
+        "UpdatedAt": "2020-09-29 13:54:24.855346 +0700 +07 m=+289.516665296",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

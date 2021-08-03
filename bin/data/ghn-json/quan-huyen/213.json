@@ -1,0 +1,253 @@
+[
+    {
+        "DistrictID": 3158,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Chợ Lách",
+        "Code": "5603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chợ Lách",
+            "H.Chợ Lách",
+            "H Chợ Lách",
+            "Chợ Lách",
+            "Cho Lach",
+            "Huyen Cho Lach",
+            "cholach"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432 +0700 +07 m=+0.015945694",
+        "UpdatedAt": "2020-09-29 13:42:45.75981 +0700 +07 m=+18.262167778",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2028,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Thạnh Phú",
+        "Code": "5608",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thạnh Phú",
+            "H.Thạnh Phú",
+            "H Thạnh Phú",
+            "Thạnh Phú",
+            "Thanh Phu",
+            "Huyen Thanh Phu",
+            "thanhphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432773 +0700 +07 m=+0.016718984",
+        "UpdatedAt": "2020-09-29 13:42:53.734674 +0700 +07 m=+26.236880485",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1975,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Mỏ Cày Nam",
+        "Code": "5609",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mỏ Cày Nam",
+            "H.Mỏ Cày Nam",
+            "H Mỏ Cày Nam",
+            "Mỏ Cày Nam",
+            "Mo Cay Nam",
+            "Huyen Mo Cay Nam",
+            "mocaynam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432545 +0700 +07 m=+0.016490925",
+        "UpdatedAt": "2020-09-29 13:42:56.188897 +0700 +07 m=+28.691056992",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1974,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Mỏ Cày Bắc",
+        "Code": "5604",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mỏ Cày Bắc",
+            "H.Mỏ Cày Bắc",
+            "H Mỏ Cày Bắc",
+            "Mỏ Cày Bắc",
+            "Mo Cay Bac",
+            "Huyen Mo Cay Bac",
+            "mocaybac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43254 +0700 +07 m=+0.016485847",
+        "UpdatedAt": "2020-09-29 13:42:56.222338 +0700 +07 m=+28.724497565",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1937,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Giồng Trôm",
+        "Code": "5605",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Giồng Trôm",
+            "H.Giồng Trôm",
+            "H Giồng Trôm",
+            "Giồng Trôm",
+            "Giong Trom",
+            "Huyen Giong Trom",
+            "giongtrom"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432424 +0700 +07 m=+0.016369428",
+        "UpdatedAt": "2020-09-29 13:42:57.858453 +0700 +07 m=+30.360580736",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1895,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Bình Đại",
+        "Code": "5606",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Đại",
+            "H.Bình Đại",
+            "H Bình Đại",
+            "Bình Đại",
+            "Binh Dai",
+            "Huyen Binh Dai",
+            "binhdai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431961 +0700 +07 m=+0.015907083",
+        "UpdatedAt": "2020-09-29 13:42:59.790864 +0700 +07 m=+32.292955927",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1888,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Ba Tri",
+        "Code": "5607",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ba Tri",
+            "H.Ba Tri",
+            "H Ba Tri",
+            "Ba Tri",
+            "Huyen Ba Tri",
+            "batri"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431924 +0700 +07 m=+0.015869442",
+        "UpdatedAt": "2020-09-29 13:43:00.094537 +0700 +07 m=+32.596622419",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1742,
+        "ProvinceID": 213,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5602",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431791 +0700 +07 m=+0.015736421",
+        "UpdatedAt": "2020-09-29 13:43:06.838389 +0700 +07 m=+39.340346941",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1558,
+        "ProvinceID": 213,
+        "DistrictName": "Thành phố Bến Tre",
+        "Code": "5601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Bến Tre",
+            "TP.Bến Tre",
+            "TP Bến Tre",
+            "Bến Tre",
+            "Ben Tre",
+            "Thanh pho Ben Tre",
+            "bentre"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431565 +0700 +07 m=+0.015510830",
+        "UpdatedAt": "2020-09-29 13:43:11.871272 +0700 +07 m=+44.373133678",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

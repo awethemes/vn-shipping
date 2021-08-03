@@ -1,0 +1,572 @@
+[
+    {
+        "WardCode": "800016",
+        "DistrictID": 1811,
+        "WardName": "Xã Lâm Hợp",
+        "NameExtension": [
+            "Xã Lâm Hợp",
+            "Lam Hop",
+            "Xa Lam Hop",
+            "lamhop"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:18.582896 +0700 +07 m=+43.248889508",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301021",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Xuân",
+        "NameExtension": [
+            "Xã Kỳ Xuân",
+            "X.Kỳ Xuân",
+            "X Kỳ Xuân",
+            "Kỳ Xuân",
+            "Ky Xuan",
+            "Xa Ky Xuan",
+            "kyxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399562 +0700 +07 m=+0.035899224",
+        "UpdatedAt": "2020-09-29 13:54:36.330356 +0700 +07 m=+300.991457695",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301020",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Văn",
+        "NameExtension": [
+            "Xã Kỳ Văn",
+            "X.Kỳ Văn",
+            "X Kỳ Văn",
+            "Kỳ Văn",
+            "Ky Van",
+            "Xa Ky Van",
+            "kyvan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399573 +0700 +07 m=+0.035910271",
+        "UpdatedAt": "2020-09-29 13:54:36.36372 +0700 +07 m=+301.024821435",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301019",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Trung",
+        "NameExtension": [
+            "Xã Kỳ Trung",
+            "X.Kỳ Trung",
+            "X Kỳ Trung",
+            "Kỳ Trung",
+            "Ky Trung",
+            "Xa Ky Trung",
+            "kytrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399574 +0700 +07 m=+0.035911633",
+        "UpdatedAt": "2020-09-29 13:54:36.438995 +0700 +07 m=+301.100094779",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301018",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Tiến",
+        "NameExtension": [
+            "Xã Kỳ Tiến",
+            "X.Kỳ Tiến",
+            "X Kỳ Tiến",
+            "Kỳ Tiến",
+            "Ky Tien",
+            "Xa Ky Tien",
+            "kytien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399567 +0700 +07 m=+0.035904729",
+        "UpdatedAt": "2020-09-29 13:54:36.480224 +0700 +07 m=+301.141323063",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301017",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Thượng",
+        "NameExtension": [
+            "Xã Kỳ Thượng",
+            "X.Kỳ Thượng",
+            "X Kỳ Thượng",
+            "Kỳ Thượng",
+            "Ky Thuong",
+            "Xa Ky Thuong",
+            "kythuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399579 +0700 +07 m=+0.035915922",
+        "UpdatedAt": "2020-09-29 13:54:36.512297 +0700 +07 m=+301.173395211",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301016",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Thư",
+        "NameExtension": [
+            "Xã Kỳ Thư",
+            "X.Kỳ Thư",
+            "X Kỳ Thư",
+            "Kỳ Thư",
+            "Ky Thu",
+            "Xa Ky Thu",
+            "kythu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399581 +0700 +07 m=+0.035918761",
+        "UpdatedAt": "2020-09-29 13:54:36.556303 +0700 +07 m=+301.217400105",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301015",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Thọ",
+        "NameExtension": [
+            "Xã Kỳ Thọ",
+            "X.Kỳ Thọ",
+            "X Kỳ Thọ",
+            "Kỳ Thọ",
+            "Ky Tho",
+            "Xa Ky Tho",
+            "kytho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399576 +0700 +07 m=+0.035913034",
+        "UpdatedAt": "2020-09-29 13:54:36.59476 +0700 +07 m=+301.255856194",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301014",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Tây",
+        "NameExtension": [
+            "Xã Kỳ Tây",
+            "X.Kỳ Tây",
+            "X Kỳ Tây",
+            "Kỳ Tây",
+            "Ky Tay",
+            "Xa Ky Tay",
+            "kytay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399577 +0700 +07 m=+0.035914550",
+        "UpdatedAt": "2020-09-29 13:54:36.627694 +0700 +07 m=+301.288789862",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301013",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Tân",
+        "NameExtension": [
+            "Xã Kỳ Tân",
+            "X.Kỳ Tân",
+            "X Kỳ Tân",
+            "Kỳ Tân",
+            "Ky Tan",
+            "Xa Ky Tan",
+            "kytan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399584 +0700 +07 m=+0.035921508",
+        "UpdatedAt": "2020-09-29 13:54:36.661295 +0700 +07 m=+301.322389987",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301012",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Sơn",
+        "NameExtension": [
+            "Xã Kỳ Sơn",
+            "X.Kỳ Sơn",
+            "X Kỳ Sơn",
+            "Kỳ Sơn",
+            "Ky Son",
+            "Xa Ky Son",
+            "kyson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399588 +0700 +07 m=+0.035925637",
+        "UpdatedAt": "2020-09-29 13:54:36.694612 +0700 +07 m=+301.355706602",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301011",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Phú",
+        "NameExtension": [
+            "Xã Kỳ Phú",
+            "X.Kỳ Phú",
+            "X Kỳ Phú",
+            "Kỳ Phú",
+            "Ky Phu",
+            "Xa Ky Phu",
+            "kyphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399565 +0700 +07 m=+0.035901998",
+        "UpdatedAt": "2020-09-29 13:54:36.728345 +0700 +07 m=+301.389438858",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301010",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Phong",
+        "NameExtension": [
+            "Xã Kỳ Phong",
+            "X.Kỳ Phong",
+            "X Kỳ Phong",
+            "Kỳ Phong",
+            "Ky Phong",
+            "Xa Ky Phong",
+            "kyphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399566 +0700 +07 m=+0.035903367",
+        "UpdatedAt": "2020-09-29 13:54:36.77002 +0700 +07 m=+301.431113126",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301009",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Lâm",
+        "NameExtension": [
+            "Xã Kỳ Lâm",
+            "X.Kỳ Lâm",
+            "X Kỳ Lâm",
+            "Kỳ Lâm",
+            "Ky Lam",
+            "Xa Ky Lam",
+            "kylam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399587 +0700 +07 m=+0.035924262",
+        "UpdatedAt": "2020-09-29 13:54:36.848139 +0700 +07 m=+301.509230256",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301008",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Lạc",
+        "NameExtension": [
+            "Xã Kỳ Lạc",
+            "X.Kỳ Lạc",
+            "X Kỳ Lạc",
+            "Kỳ Lạc",
+            "Ky Lac",
+            "Xa Ky Lac",
+            "kylac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39959 +0700 +07 m=+0.035927010",
+        "UpdatedAt": "2020-09-29 13:54:36.881853 +0700 +07 m=+301.542943645",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301007",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Khang",
+        "NameExtension": [
+            "Xã Kỳ Khang",
+            "X.Kỳ Khang",
+            "X Kỳ Khang",
+            "Kỳ Khang",
+            "Ky Khang",
+            "Xa Ky Khang",
+            "kykhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399572 +0700 +07 m=+0.035908893",
+        "UpdatedAt": "2020-09-29 13:54:36.913618 +0700 +07 m=+301.574708642",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301006",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Hợp",
+        "NameExtension": [
+            "Xã Kỳ Hợp",
+            "X.Kỳ Hợp",
+            "X Kỳ Hợp",
+            "Kỳ Hợp",
+            "Ky Hop",
+            "Xa Ky Hop",
+            "kyhop"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399586 +0700 +07 m=+0.035922876",
+        "UpdatedAt": "2020-09-29 13:54:36.946883 +0700 +07 m=+301.607972642",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301005",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Hải",
+        "NameExtension": [
+            "Xã Kỳ Hải",
+            "X.Kỳ Hải",
+            "X Kỳ Hải",
+            "Kỳ Hải",
+            "Ky Hai",
+            "Xa Ky Hai",
+            "Xã Kỳ Hà",
+            "kyhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39958 +0700 +07 m=+0.035917301",
+        "UpdatedAt": "2020-09-29 13:54:36.982481 +0700 +07 m=+301.643570325",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301004",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Giang",
+        "NameExtension": [
+            "Xã Kỳ Giang",
+            "X.Kỳ Giang",
+            "X Kỳ Giang",
+            "Kỳ Giang",
+            "Ky Giang",
+            "Xa Ky Giang",
+            "kygiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399569 +0700 +07 m=+0.035906142",
+        "UpdatedAt": "2020-09-29 13:54:37.019497 +0700 +07 m=+301.680585282",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301003",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Đồng",
+        "NameExtension": [
+            "Xã Kỳ Đồng",
+            "X.Kỳ Đồng",
+            "X Kỳ Đồng",
+            "Kỳ Đồng",
+            "Ky Dong",
+            "Xa Ky Dong",
+            "kydong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39957 +0700 +07 m=+0.035907510",
+        "UpdatedAt": "2020-09-29 13:54:37.070234 +0700 +07 m=+301.731321468",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301002",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Châu",
+        "NameExtension": [
+            "Xã Kỳ Châu",
+            "X.Kỳ Châu",
+            "X Kỳ Châu",
+            "Kỳ Châu",
+            "Ky Chau",
+            "Xa Ky Chau",
+            "kychau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399583 +0700 +07 m=+0.035920132",
+        "UpdatedAt": "2020-09-29 13:54:37.106951 +0700 +07 m=+301.768038333",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "301001",
+        "DistrictID": 1811,
+        "WardName": "Xã Kỳ Bắc",
+        "NameExtension": [
+            "Xã Kỳ Bắc",
+            "X.Kỳ Bắc",
+            "X Kỳ Bắc",
+            "Kỳ Bắc",
+            "Ky Bac",
+            "Xa Ky Bac",
+            "kybac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399563 +0700 +07 m=+0.035900599",
+        "UpdatedAt": "2020-09-29 13:54:37.146227 +0700 +07 m=+301.807313121",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

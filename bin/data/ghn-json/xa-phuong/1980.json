@@ -1,0 +1,366 @@
+[
+    {
+        "WardCode": "70514",
+        "DistrictID": 1980,
+        "WardName": "Xã Vàng San",
+        "NameExtension": [
+            "Xã Vàng San",
+            "X.Vàng San",
+            "X Vàng San",
+            "Vàng San",
+            "Vang San",
+            "Xa Vang San",
+            "vangsan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402534 +0700 +07 m=+0.038871423",
+        "UpdatedAt": "2020-09-29 13:50:22.108348 +0700 +07 m=+46.774275272",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70513",
+        "DistrictID": 1980,
+        "WardName": "Xã Thu Lũm",
+        "NameExtension": [
+            "Xã Thu Lũm",
+            "X.Thu Lũm",
+            "X Thu Lũm",
+            "Thu Lũm",
+            "Thu Lum",
+            "Xa Thu Lum",
+            "thulum"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402519 +0700 +07 m=+0.038855928",
+        "UpdatedAt": "2020-09-29 13:50:22.168884 +0700 +07 m=+46.834810173",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70512",
+        "DistrictID": 1980,
+        "WardName": "Xã Tà Tổng",
+        "NameExtension": [
+            "Xã Tà Tổng",
+            "X.Tà Tổng",
+            "X Tà Tổng",
+            "Tà Tổng",
+            "Ta Tong",
+            "Xa Ta Tong",
+            "tatong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402531 +0700 +07 m=+0.038868675",
+        "UpdatedAt": "2020-09-29 13:50:22.207821 +0700 +07 m=+46.873745848",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70511",
+        "DistrictID": 1980,
+        "WardName": "Xã Tá Bạ",
+        "NameExtension": [
+            "Xã Tá Bạ",
+            "X.Tá Bạ",
+            "X Tá Bạ",
+            "Tá Bạ",
+            "Ta Ba",
+            "Xa Ta Ba",
+            "taba"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402521 +0700 +07 m=+0.038858754",
+        "UpdatedAt": "2020-09-29 13:50:22.263366 +0700 +07 m=+46.929289990",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70510",
+        "DistrictID": 1980,
+        "WardName": "Xã Pa Vệ Sử",
+        "NameExtension": [
+            "Xã Pa Vệ Sử",
+            "X.Pa Vệ Sử",
+            "X Pa Vệ Sử",
+            "Pa Vệ Sử",
+            "Pa Ve Su",
+            "Xa Pa Ve Su",
+            "pavesu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402526 +0700 +07 m=+0.038863044",
+        "UpdatedAt": "2020-09-29 13:50:22.309854 +0700 +07 m=+46.975776940",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70509",
+        "DistrictID": 1980,
+        "WardName": "Xã Pa ủ",
+        "NameExtension": [
+            "Xã Pa ủ",
+            "X.Pa ủ",
+            "X Pa ủ",
+            "Pa ủ",
+            "Pa u",
+            "Xa Pa u",
+            "pau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402523 +0700 +07 m=+0.038860181",
+        "UpdatedAt": "2020-09-29 13:50:22.358397 +0700 +07 m=+47.024318898",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70508",
+        "DistrictID": 1980,
+        "WardName": "Xã Nậm Khao",
+        "NameExtension": [
+            "Xã Nậm Khao",
+            "X.Nậm Khao",
+            "X Nậm Khao",
+            "Nậm Khao",
+            "Nam Khao",
+            "Xa Nam Khao",
+            "namkhao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40253 +0700 +07 m=+0.038867265",
+        "UpdatedAt": "2020-09-29 13:50:22.403673 +0700 +07 m=+47.069593924",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70507",
+        "DistrictID": 1980,
+        "WardName": "Xã Mường Tè",
+        "NameExtension": [
+            "Xã Mường Tè",
+            "X.Mường Tè",
+            "X Mường Tè",
+            "Mường Tè",
+            "Muong Te",
+            "Xa Muong Te",
+            "muongte"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402524 +0700 +07 m=+0.038861610",
+        "UpdatedAt": "2020-09-29 13:50:22.439505 +0700 +07 m=+47.105425932",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70506",
+        "DistrictID": 1980,
+        "WardName": "Xã Mù Cả",
+        "NameExtension": [
+            "Xã Mù Cả",
+            "X.Mù Cả",
+            "X Mù Cả",
+            "Mù Cả",
+            "Mu Ca",
+            "Xa Mu Ca",
+            "muca"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402527 +0700 +07 m=+0.038864465",
+        "UpdatedAt": "2020-09-29 13:50:22.546841 +0700 +07 m=+47.212759588",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70505",
+        "DistrictID": 1980,
+        "WardName": "Xã Kan Hồ",
+        "NameExtension": [
+            "Xã Kan Hồ",
+            "X.Kan Hồ",
+            "X Kan Hồ",
+            "Kan Hồ",
+            "Kan Ho",
+            "Xa Kan Ho",
+            "kanho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402535 +0700 +07 m=+0.038872797",
+        "UpdatedAt": "2020-09-29 13:50:22.587359 +0700 +07 m=+47.253276531",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70504",
+        "DistrictID": 1980,
+        "WardName": "Xã Ka Lăng",
+        "NameExtension": [
+            "Xã Ka Lăng",
+            "X.Ka Lăng",
+            "X Ka Lăng",
+            "Ka Lăng",
+            "Ka Lang",
+            "Xa Ka Lang",
+            "kalang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40252 +0700 +07 m=+0.038857291",
+        "UpdatedAt": "2020-09-29 13:50:22.623232 +0700 +07 m=+47.289148551",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70503",
+        "DistrictID": 1980,
+        "WardName": "Xã Bun Tở",
+        "NameExtension": [
+            "Xã Bun Tở",
+            "X.Bun Tở",
+            "X Bun Tở",
+            "Bun Tở",
+            "Bun To",
+            "Xa Bun To",
+            "bunto"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402529 +0700 +07 m=+0.038865880",
+        "UpdatedAt": "2020-09-29 13:50:22.665353 +0700 +07 m=+47.331269183",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70502",
+        "DistrictID": 1980,
+        "WardName": "Xã Bum Nưa",
+        "NameExtension": [
+            "Xã Bum Nưa",
+            "X.Bum Nưa",
+            "X Bum Nưa",
+            "Bum Nưa",
+            "Bum Nua",
+            "Xa Bum Nua",
+            "bumnua"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402533 +0700 +07 m=+0.038870083",
+        "UpdatedAt": "2020-09-29 13:50:22.703575 +0700 +07 m=+47.369490740",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70501",
+        "DistrictID": 1980,
+        "WardName": "Thị trấn Mường Tè",
+        "NameExtension": [
+            "Thị trấn Mường Tè",
+            "TT.Mường Tè",
+            "TT Mường Tè",
+            "Mường Tè",
+            "Muong Te",
+            "Thi tran Muong Te",
+            "muongte"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402517 +0700 +07 m=+0.038854543",
+        "UpdatedAt": "2020-09-29 13:50:22.755014 +0700 +07 m=+47.420928183",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

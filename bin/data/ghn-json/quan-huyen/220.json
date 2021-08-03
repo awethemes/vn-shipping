@@ -1,0 +1,254 @@
+[
+    {
+        "DistrictID": 3317,
+        "ProvinceID": 220,
+        "DistrictName": "Huyện Vĩnh Thạnh",
+        "Code": "5507",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vĩnh Thạnh",
+            "H.Vĩnh Thạnh",
+            "H Vĩnh Thạnh",
+            "Vĩnh Thạnh",
+            "Vinh Thanh",
+            "Huyen Vinh Thanh",
+            "vinhthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432156 +0700 +07 m=+0.016101599",
+        "UpdatedAt": "2020-09-29 13:42:41.798952 +0700 +07 m=+14.301384914",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3300,
+        "ProvinceID": 220,
+        "DistrictName": "Huyện Thới Lai",
+        "Code": "5509",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thới Lai",
+            "H.Thới Lai",
+            "H Thới Lai",
+            "Thới Lai",
+            "Thoi Lai",
+            "Huyen Thoi Lai",
+            "thoilai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432204 +0700 +07 m=+0.016149711",
+        "UpdatedAt": "2020-09-29 13:42:42.415093 +0700 +07 m=+14.917514036",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3250,
+        "ProvinceID": 220,
+        "DistrictName": "Huyện Phong Điền",
+        "Code": "5505",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phong Điền",
+            "H.Phong Điền",
+            "H Phong Điền",
+            "Phong Điền",
+            "Phong Dien",
+            "Huyen Phong Dien",
+            "phongdien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432599 +0700 +07 m=+0.016545235",
+        "UpdatedAt": "2020-09-29 13:42:43.848389 +0700 +07 m=+16.350782892",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3150,
+        "ProvinceID": 220,
+        "DistrictName": "Huyện Cờ Đỏ",
+        "Code": "5506",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cờ Đỏ",
+            "H.Cờ Đỏ",
+            "H Cờ Đỏ",
+            "Cờ Đỏ",
+            "Co Do",
+            "Huyen Co Do",
+            "codo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432601 +0700 +07 m=+0.016546725",
+        "UpdatedAt": "2020-09-29 13:42:46.131651 +0700 +07 m=+18.634001568",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1576,
+        "ProvinceID": 220,
+        "DistrictName": "Quận Thốt Nốt",
+        "Code": "5508",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Thốt Nốt",
+            "Q.Thốt Nốt",
+            "Q Thốt Nốt",
+            "Thốt Nốt",
+            "Thot Not",
+            "Quan Thot Not",
+            "thotnot"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431604 +0700 +07 m=+0.015550008",
+        "UpdatedAt": "2020-09-29 13:43:11.450984 +0700 +07 m=+43.952853613",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1575,
+        "ProvinceID": 220,
+        "DistrictName": "Quận Ô Môn",
+        "Code": "5504",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Ô Môn",
+            "Q.Ô Môn",
+            "Q Ô Môn",
+            "Ô Môn",
+            "O Mon",
+            "Quan O Mon",
+            "omon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431603 +0700 +07 m=+0.015548524",
+        "UpdatedAt": "2020-09-29 13:43:11.490724 +0700 +07 m=+43.992593405",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1574,
+        "ProvinceID": 220,
+        "DistrictName": "Quận Cái Răng",
+        "Code": "5503",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Cái Răng",
+            "Q.Cái Răng",
+            "Q Cái Răng",
+            "Cái Răng",
+            "Cai Rang",
+            "Quan Cai Rang",
+            "cairang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431601 +0700 +07 m=+0.015546869",
+        "UpdatedAt": "2020-09-29 13:43:11.538457 +0700 +07 m=+44.040325340",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1573,
+        "ProvinceID": 220,
+        "DistrictName": "Quận Bình Thủy",
+        "Code": "5502",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Bình Thủy",
+            "Q.Bình Thủy",
+            "Q Bình Thủy",
+            "Bình Thủy",
+            "Binh Thuy",
+            "Quan Binh Thuy",
+            "binhthuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431599 +0700 +07 m=+0.015545333",
+        "UpdatedAt": "2020-09-29 13:43:11.572764 +0700 +07 m=+44.074631540",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1572,
+        "ProvinceID": 220,
+        "DistrictName": "Quận Ninh Kiều",
+        "Code": "5501",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Ninh Kiều",
+            "Q.Ninh Kiều",
+            "Q Ninh Kiều",
+            "Ninh Kiều",
+            "Ninh Kieu",
+            "Quan Ninh Kieu",
+            "ninhkieu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431598 +0700 +07 m=+0.015543798",
+        "UpdatedAt": "2020-09-29 13:43:11.60749 +0700 +07 m=+44.109356906",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

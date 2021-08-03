@@ -1,0 +1,233 @@
+[
+    {
+        "DistrictID": 3327,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Yên Mô",
+        "Code": "2706",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Mô",
+            "H.Yên Mô",
+            "H Yên Mô",
+            "Yên Mô",
+            "Yen Mo",
+            "Huyen Yen Mo",
+            "yenmo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432176 +0700 +07 m=+0.016121824",
+        "UpdatedAt": "2020-09-29 13:42:41.611461 +0700 +07 m=+14.113897027",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3247,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Nho Quan",
+        "Code": "2703",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nho Quan",
+            "H.Nho Quan",
+            "H Nho Quan",
+            "Nho Quan",
+            "Huyen Nho Quan",
+            "nhoquan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432733 +0700 +07 m=+0.016678469",
+        "UpdatedAt": "2020-09-29 13:42:43.94654 +0700 +07 m=+16.448932471",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3205,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Kim Sơn",
+        "Code": "2707",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kim Sơn",
+            "H.Kim Sơn",
+            "H Kim Sơn",
+            "Kim Sơn",
+            "Kim Son",
+            "Huyen Kim Son",
+            "kimson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432177 +0700 +07 m=+0.016123291",
+        "UpdatedAt": "2020-09-29 13:42:45.006592 +0700 +07 m=+17.508964291",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3191,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Gia Viễn",
+        "Code": "2704",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gia Viễn",
+            "H.Gia Viễn",
+            "H Gia Viễn",
+            "Gia Viễn",
+            "Gia Vien",
+            "Huyen Gia Vien",
+            "giavien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432179 +0700 +07 m=+0.016124714",
+        "UpdatedAt": "2020-09-29 13:42:45.446975 +0700 +07 m=+17.949338826",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1944,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Hoa Lư",
+        "Code": "2705",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hoa Lư",
+            "H.Hoa Lư",
+            "H Hoa Lư",
+            "Hoa Lư",
+            "Hoa Lu",
+            "Huyen Hoa Lu",
+            "hoalu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432486 +0700 +07 m=+0.016431775",
+        "UpdatedAt": "2020-09-29 13:42:57.419459 +0700 +07 m=+29.921595656",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1714,
+        "ProvinceID": 233,
+        "DistrictName": "Huyện Yên Khánh",
+        "Code": "2708",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Khánh",
+            "H.Yên Khánh",
+            "H Yên Khánh",
+            "Yên Khánh",
+            "Yen Khanh",
+            "Huyen Yen Khanh",
+            "yenkhanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431744 +0700 +07 m=+0.015689643",
+        "UpdatedAt": "2020-09-29 13:43:07.96491 +0700 +07 m=+40.466846665",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1713,
+        "ProvinceID": 233,
+        "DistrictName": "Thành phố Tam Điệp",
+        "Code": "2702",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Tam Điệp",
+            "Thành Phố Tam Điệp",
+            "TX.Tam Điệp",
+            "TX Tam Điệp",
+            "Tam Điệp",
+            "Tam Diep",
+            "Thi xa Tam Diep",
+            "Thanh pho Tam Diep",
+            "tamdiep",
+            "TP Tam Điệp",
+            "TP Tam Diep"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431742 +0700 +07 m=+0.015688212",
+        "UpdatedAt": "2020-09-29 13:43:08.006579 +0700 +07 m=+40.508514276",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:58:45.088Z"
+    },
+    {
+        "DistrictID": 1615,
+        "ProvinceID": 233,
+        "DistrictName": "Thành phố Ninh Bình",
+        "Code": "2701",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Ninh Bình",
+            "TP.Ninh Bình",
+            "TP Ninh Bình",
+            "Ninh Bình",
+            "Ninh Binh",
+            "Thanh pho Ninh Binh",
+            "ninhbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432189 +0700 +07 m=+0.016134915",
+        "UpdatedAt": "2020-09-29 13:43:10.641595 +0700 +07 m=+43.143480649",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

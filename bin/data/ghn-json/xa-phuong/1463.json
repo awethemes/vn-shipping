@@ -1,0 +1,313 @@
+[
+    {
+        "WardCode": "21812",
+        "DistrictID": 1463,
+        "WardName": "Phường Trường Thọ",
+        "NameExtension": [
+            "Phường Trường Thọ",
+            "P.Trường Thọ",
+            "P Trường Thọ",
+            "Trường Thọ",
+            "Truong Tho",
+            "Phuong Truong Tho",
+            "truongtho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400524 +0700 +07 m=+0.036861234",
+        "UpdatedAt": "2020-09-29 13:57:13.743302 +0700 +07 m=+458.401416213",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21811",
+        "DistrictID": 1463,
+        "WardName": "Phường Tam Phú",
+        "NameExtension": [
+            "Phường Tam Phú",
+            "P.Tam Phú",
+            "P Tam Phú",
+            "Tam Phú",
+            "Tam Phu",
+            "Phuong Tam Phu",
+            "tamphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400512 +0700 +07 m=+0.036849650",
+        "UpdatedAt": "2020-09-29 13:57:13.779549 +0700 +07 m=+458.437662670",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21810",
+        "DistrictID": 1463,
+        "WardName": "Phường Tam Bình",
+        "NameExtension": [
+            "Phường Tam Bình",
+            "P.Tam Bình",
+            "P Tam Bình",
+            "Tam Bình",
+            "Tam Binh",
+            "Phuong Tam Binh",
+            "tambinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400511 +0700 +07 m=+0.036848099",
+        "UpdatedAt": "2020-09-29 13:57:13.816059 +0700 +07 m=+458.474171065",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21809",
+        "DistrictID": 1463,
+        "WardName": "Phường Linh Xuân",
+        "NameExtension": [
+            "Phường Linh Xuân",
+            "P.Linh Xuân",
+            "P Linh Xuân",
+            "Linh Xuân",
+            "Linh Xuan",
+            "Phuong Linh Xuan",
+            "linhxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400506 +0700 +07 m=+0.036842883",
+        "UpdatedAt": "2020-09-29 13:57:13.850114 +0700 +07 m=+458.508226150",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21808",
+        "DistrictID": 1463,
+        "WardName": "Phường Linh Trung",
+        "NameExtension": [
+            "Phường Linh Trung",
+            "P.Linh Trung",
+            "P Linh Trung",
+            "Linh Trung",
+            "Phuong Linh Trung",
+            "linhtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400509 +0700 +07 m=+0.036845839",
+        "UpdatedAt": "2020-09-29 13:57:13.885481 +0700 +07 m=+458.543592022",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21807",
+        "DistrictID": 1463,
+        "WardName": "Phường Linh Tây",
+        "NameExtension": [
+            "Phường Linh Tây",
+            "P.Linh Tây",
+            "P Linh Tây",
+            "Linh Tây",
+            "Linh Tay",
+            "Phuong Linh Tay",
+            "linhtay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400518 +0700 +07 m=+0.036855612",
+        "UpdatedAt": "2020-09-29 13:57:13.919833 +0700 +07 m=+458.577943804",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21806",
+        "DistrictID": 1463,
+        "WardName": "Phường Linh Đông",
+        "NameExtension": [
+            "Phường Linh Đông",
+            "P.Linh Đông",
+            "P Linh Đông",
+            "Linh Đông",
+            "Linh Dong",
+            "Phuong Linh Dong",
+            "linhdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400521 +0700 +07 m=+0.036858150",
+        "UpdatedAt": "2020-09-29 13:57:13.960679 +0700 +07 m=+458.618788330",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21805",
+        "DistrictID": 1463,
+        "WardName": "Phường Linh Chiểu",
+        "NameExtension": [
+            "Phường Linh Chiểu",
+            "P.Linh Chiểu",
+            "P Linh Chiểu",
+            "Linh Chiểu",
+            "Linh Chieu",
+            "Phuong Linh Chieu",
+            "linhchieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400517 +0700 +07 m=+0.036854158",
+        "UpdatedAt": "2020-09-29 13:57:13.997997 +0700 +07 m=+458.656106028",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21804",
+        "DistrictID": 1463,
+        "WardName": "Phường Hiệp Bình Phước",
+        "NameExtension": [
+            "Phường Hiệp Bình Phước",
+            "P.Hiệp Bình Phước",
+            "P Hiệp Bình Phước",
+            "Hiệp Bình Phước",
+            "Hiep Binh Phuoc",
+            "Phuong Hiep Binh Phuoc",
+            "hiepbinhphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400514 +0700 +07 m=+0.036851199",
+        "UpdatedAt": "2020-09-29 13:57:14.033266 +0700 +07 m=+458.691374465",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21803",
+        "DistrictID": 1463,
+        "WardName": "Phường Hiệp Bình Chánh",
+        "NameExtension": [
+            "Phường Hiệp Bình Chánh",
+            "P.Hiệp Bình Chánh",
+            "P Hiệp Bình Chánh",
+            "Hiệp Bình Chánh",
+            "Hiep Binh Chanh",
+            "Phuong Hiep Binh Chanh",
+            "hiepbinhchanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400515 +0700 +07 m=+0.036852688",
+        "UpdatedAt": "2020-09-29 13:57:14.070851 +0700 +07 m=+458.728958929",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21802",
+        "DistrictID": 1463,
+        "WardName": "Phường Bình Thọ",
+        "NameExtension": [
+            "Phường Bình Thọ",
+            "P.Bình Thọ",
+            "P Bình Thọ",
+            "Bình Thọ",
+            "Binh Tho",
+            "Phuong Binh Tho",
+            "binhtho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400522 +0700 +07 m=+0.036859675",
+        "UpdatedAt": "2020-09-29 13:57:14.115591 +0700 +07 m=+458.773697848",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "21801",
+        "DistrictID": 1463,
+        "WardName": "Phường Bình Chiểu",
+        "NameExtension": [
+            "Phường Bình Chiểu",
+            "P.Bình Chiểu",
+            "P Bình Chiểu",
+            "Bình Chiểu",
+            "Binh Chieu",
+            "Phuong Binh Chieu",
+            "binhchieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400507 +0700 +07 m=+0.036844346",
+        "UpdatedAt": "2020-09-29 13:57:14.151619 +0700 +07 m=+458.809724614",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

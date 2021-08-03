@@ -1,0 +1,210 @@
+[
+    {
+        "WardCode": "550208",
+        "DistrictID": 1573,
+        "WardName": "Phường Trà Nóc",
+        "NameExtension": [
+            "Phường Trà Nóc",
+            "P.Trà Nóc",
+            "P Trà Nóc",
+            "Trà Nóc",
+            "Tra Noc",
+            "Phuong Tra Noc",
+            "tranoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394549 +0700 +07 m=+0.030886780",
+        "UpdatedAt": "2020-09-29 13:51:23.192708 +0700 +07 m=+107.857475525",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550207",
+        "DistrictID": 1573,
+        "WardName": "Phường Trà An",
+        "NameExtension": [
+            "Phường Trà An",
+            "P.Trà An",
+            "P Trà An",
+            "Trà An",
+            "Tra An",
+            "Phuong Tra An",
+            "traan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394548 +0700 +07 m=+0.030885258",
+        "UpdatedAt": "2020-09-29 13:51:23.227558 +0700 +07 m=+107.892324515",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550206",
+        "DistrictID": 1573,
+        "WardName": "Phường Thới An Đông",
+        "NameExtension": [
+            "Phường Thới An Đông",
+            "P.Thới An Đông",
+            "P Thới An Đông",
+            "Thới An Đông",
+            "Thoi An Dong",
+            "Phuong Thoi An Dong",
+            "thoiandong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394551 +0700 +07 m=+0.030888609",
+        "UpdatedAt": "2020-09-29 13:51:23.266 +0700 +07 m=+107.930766083",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550205",
+        "DistrictID": 1573,
+        "WardName": "Phường Long Tuyền",
+        "NameExtension": [
+            "Phường Long Tuyền",
+            "P.Long Tuyền",
+            "P Long Tuyền",
+            "Long Tuyền",
+            "Long Tuyen",
+            "Phuong Long Tuyen",
+            "longtuyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394557 +0700 +07 m=+0.030894658",
+        "UpdatedAt": "2020-09-29 13:51:23.301138 +0700 +07 m=+107.965903488",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550204",
+        "DistrictID": 1573,
+        "WardName": "Phường Long Hòa",
+        "NameExtension": [
+            "Phường Long Hòa",
+            "P.Long Hòa",
+            "P Long Hòa",
+            "Long Hòa",
+            "Long Hoa",
+            "Phuong Long Hoa",
+            "longhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394556 +0700 +07 m=+0.030893083",
+        "UpdatedAt": "2020-09-29 13:51:23.334679 +0700 +07 m=+107.999443843",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550203",
+        "DistrictID": 1573,
+        "WardName": "Phường Bùi Hữu Nghĩa",
+        "NameExtension": [
+            "Phường Bùi Hữu Nghĩa",
+            "P.Bùi Hữu Nghĩa",
+            "P Bùi Hữu Nghĩa",
+            "Bùi Hữu Nghĩa",
+            "Bui Huu Nghia",
+            "Phuong Bui Huu Nghia",
+            "buihuunghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394554 +0700 +07 m=+0.030891567",
+        "UpdatedAt": "2020-09-29 13:51:23.367988 +0700 +07 m=+108.032751765",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550202",
+        "DistrictID": 1573,
+        "WardName": "Phường Bình Thủy",
+        "NameExtension": [
+            "Phường Bình Thủy",
+            "P.Bình Thủy",
+            "P Bình Thủy",
+            "Bình Thủy",
+            "Binh Thuy",
+            "Phuong Binh Thuy",
+            "binhthuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394546 +0700 +07 m=+0.030883650",
+        "UpdatedAt": "2020-09-29 13:51:23.40535 +0700 +07 m=+108.070113254",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550201",
+        "DistrictID": 1573,
+        "WardName": "Phường An Thới",
+        "NameExtension": [
+            "Phường An Thới",
+            "P.An Thới",
+            "P An Thới",
+            "An Thới",
+            "An Thoi",
+            "Phuong An Thoi",
+            "anthoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394553 +0700 +07 m=+0.030890067",
+        "UpdatedAt": "2020-09-29 13:51:23.43772 +0700 +07 m=+108.102482496",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

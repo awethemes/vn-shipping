@@ -1,0 +1,282 @@
+[
+    {
+        "DistrictID": 3323,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Xuân Trường",
+        "Code": "2503",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Xuân Trường",
+            "H.Xuân Trường",
+            "H Xuân Trường",
+            "Xuân Trường",
+            "Xuan Truong",
+            "Huyen Xuan Truong",
+            "xuantruong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432731 +0700 +07 m=+0.016677007",
+        "UpdatedAt": "2020-09-29 13:42:41.649668 +0700 +07 m=+14.152103680",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3319,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Vụ Bản",
+        "Code": "2506",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vụ Bản",
+            "H.Vụ Bản",
+            "H Vụ Bản",
+            "Vụ Bản",
+            "Vu Ban",
+            "Huyen Vu Ban",
+            "vuban"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432611 +0700 +07 m=+0.016556807",
+        "UpdatedAt": "2020-09-29 13:42:41.75547 +0700 +07 m=+14.257903468",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3308,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Trực Ninh",
+        "Code": "2508",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trực Ninh",
+            "H.Trực Ninh",
+            "H Trực Ninh",
+            "Trực Ninh",
+            "Truc Ninh",
+            "Huyen Truc Ninh",
+            "trucninh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432612 +0700 +07 m=+0.016558219",
+        "UpdatedAt": "2020-09-29 13:42:42.162781 +0700 +07 m=+14.665207032",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3243,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Nghĩa Hưng",
+        "Code": "2509",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nghĩa Hưng",
+            "H.Nghĩa Hưng",
+            "H Nghĩa Hưng",
+            "Nghĩa Hưng",
+            "Nghia Hung",
+            "Huyen Nghia Hung",
+            "nghiahung"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43273 +0700 +07 m=+0.016675520",
+        "UpdatedAt": "2020-09-29 13:42:44.020834 +0700 +07 m=+16.523224727",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3193,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Giao Thủy",
+        "Code": "2504",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Giao Thủy",
+            "H.Giao Thủy",
+            "H Giao Thủy",
+            "Giao Thủy",
+            "Giao Thuy",
+            "Huyen Giao Thuy",
+            "giaothuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432169 +0700 +07 m=+0.016114528",
+        "UpdatedAt": "2020-09-29 13:42:45.411604 +0700 +07 m=+17.913968538",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1983,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Nam Trực",
+        "Code": "2507",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nam Trực",
+            "H.Nam Trực",
+            "H Nam Trực",
+            "Nam Trực",
+            "Nam Truc",
+            "Huyen Nam Truc",
+            "namtruc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432557 +0700 +07 m=+0.016502579",
+        "UpdatedAt": "2020-09-29 13:42:55.790371 +0700 +07 m=+28.292538512",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1981,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Mỹ Lộc",
+        "Code": "2502",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mỹ Lộc",
+            "H.Mỹ Lộc",
+            "H Mỹ Lộc",
+            "Mỹ Lộc",
+            "My Loc",
+            "Huyen My Loc",
+            "myloc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432554 +0700 +07 m=+0.016499714",
+        "UpdatedAt": "2020-09-29 13:42:55.865505 +0700 +07 m=+28.367671077",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1841,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Ý Yên",
+        "Code": "2505",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ý Yên",
+            "H.Ý Yên",
+            "H Ý Yên",
+            "Ý Yên",
+            "Y Yen",
+            "Huyen Y Yen",
+            "yyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431842 +0700 +07 m=+0.015788162",
+        "UpdatedAt": "2020-09-29 13:43:02.20875 +0700 +07 m=+34.710795398",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1840,
+        "ProvinceID": 231,
+        "DistrictName": "Huyện Hải Hậu",
+        "Code": "2510",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hải Hậu",
+            "H.Hải Hậu",
+            "H Hải Hậu",
+            "Hải Hậu",
+            "Hai Hau",
+            "Huyen Hai Hau",
+            "haihau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431841 +0700 +07 m=+0.015786665",
+        "UpdatedAt": "2020-09-29 13:43:02.286416 +0700 +07 m=+34.788460525",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1613,
+        "ProvinceID": 231,
+        "DistrictName": "Thành phố Nam Định",
+        "Code": "2501",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Nam Định",
+            "TP.Nam Định",
+            "TP Nam Định",
+            "Nam Định",
+            "Nam Dinh",
+            "Thanh pho Nam Dinh",
+            "namdinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431627 +0700 +07 m=+0.015572903",
+        "UpdatedAt": "2020-09-29 13:43:10.714725 +0700 +07 m=+43.216609478",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

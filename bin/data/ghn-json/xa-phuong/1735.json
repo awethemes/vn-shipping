@@ -1,0 +1,362 @@
+[
+    {
+        "WardCode": "340314",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Vinh",
+        "NameExtension": [
+            "Xã Duy Vinh",
+            "X.Duy Vinh",
+            "X Duy Vinh",
+            "Duy Vinh",
+            "Xa Duy Vinh",
+            "duyvinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408373 +0700 +07 m=+0.044710281",
+        "UpdatedAt": "2020-09-29 13:53:57.957251 +0700 +07 m=+262.619080868",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340313",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Trung",
+        "NameExtension": [
+            "Xã Duy Trung",
+            "X.Duy Trung",
+            "X Duy Trung",
+            "Duy Trung",
+            "Xa Duy Trung",
+            "duytrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408369 +0700 +07 m=+0.044706086",
+        "UpdatedAt": "2020-09-29 13:53:57.989012 +0700 +07 m=+262.650841315",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340312",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Trinh",
+        "NameExtension": [
+            "Xã Duy Trinh",
+            "X.Duy Trinh",
+            "X Duy Trinh",
+            "Duy Trinh",
+            "Xa Duy Trinh",
+            "duytrinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408366 +0700 +07 m=+0.044703250",
+        "UpdatedAt": "2020-09-29 13:53:58.048683 +0700 +07 m=+262.710511469",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340311",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Thu",
+        "NameExtension": [
+            "Xã Duy Thu",
+            "X.Duy Thu",
+            "X Duy Thu",
+            "Duy Thu",
+            "Xa Duy Thu",
+            "duythu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408359 +0700 +07 m=+0.044696058",
+        "UpdatedAt": "2020-09-29 13:53:58.087532 +0700 +07 m=+262.749359219",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340310",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Thành",
+        "NameExtension": [
+            "Xã Duy Thành",
+            "X.Duy Thành",
+            "X Duy Thành",
+            "Duy Thành",
+            "Duy Thanh",
+            "Xa Duy Thanh",
+            "duythanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408372 +0700 +07 m=+0.044708882",
+        "UpdatedAt": "2020-09-29 13:53:58.14799 +0700 +07 m=+262.809816464",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340309",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Tân",
+        "NameExtension": [
+            "Xã Duy Tân",
+            "X.Duy Tân",
+            "X Duy Tân",
+            "Duy Tân",
+            "Duy Tan",
+            "Xa Duy Tan",
+            "duytan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408362 +0700 +07 m=+0.044698849",
+        "UpdatedAt": "2020-09-29 13:53:58.182862 +0700 +07 m=+262.844687273",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340308",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Sơn",
+        "NameExtension": [
+            "Xã Duy Sơn",
+            "X.Duy Sơn",
+            "X Duy Sơn",
+            "Duy Sơn",
+            "Duy Son",
+            "Xa Duy Son",
+            "duyson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408367 +0700 +07 m=+0.044704660",
+        "UpdatedAt": "2020-09-29 13:53:58.226015 +0700 +07 m=+262.887839548",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340307",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Phước",
+        "NameExtension": [
+            "Xã Duy Phước",
+            "X.Duy Phước",
+            "X Duy Phước",
+            "Duy Phước",
+            "Duy Phuoc",
+            "Xa Duy Phuoc",
+            "duyphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40837 +0700 +07 m=+0.044707508",
+        "UpdatedAt": "2020-09-29 13:53:58.266481 +0700 +07 m=+262.928304693",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340306",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Phú",
+        "NameExtension": [
+            "Xã Duy Phú",
+            "X.Duy Phú",
+            "X Duy Phú",
+            "Duy Phú",
+            "Duy Phu",
+            "Xa Duy Phu",
+            "duyphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40836 +0700 +07 m=+0.044697468",
+        "UpdatedAt": "2020-09-29 13:53:58.304523 +0700 +07 m=+262.966345811",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340305",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Nghĩa",
+        "NameExtension": [
+            "Xã Duy Nghĩa",
+            "X.Duy Nghĩa",
+            "X Duy Nghĩa",
+            "Duy Nghĩa",
+            "Duy Nghia",
+            "Xa Duy Nghia",
+            "duynghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408374 +0700 +07 m=+0.044711672",
+        "UpdatedAt": "2020-09-29 13:53:58.346653 +0700 +07 m=+263.008475358",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340304",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Hòa",
+        "NameExtension": [
+            "Xã Duy Hòa",
+            "X.Duy Hòa",
+            "X Duy Hòa",
+            "Duy Hòa",
+            "Duy Hoa",
+            "Xa Duy Hoa",
+            "duyhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408363 +0700 +07 m=+0.044700482",
+        "UpdatedAt": "2020-09-29 13:53:58.380932 +0700 +07 m=+263.042754154",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340303",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Hải",
+        "NameExtension": [
+            "Xã Duy Hải",
+            "X.Duy Hải",
+            "X Duy Hải",
+            "Duy Hải",
+            "Duy Hai",
+            "Xa Duy Hai",
+            "duyhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408376 +0700 +07 m=+0.044713048",
+        "UpdatedAt": "2020-09-29 13:53:58.431107 +0700 +07 m=+263.092927549",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340302",
+        "DistrictID": 1735,
+        "WardName": "Xã Duy Châu",
+        "NameExtension": [
+            "Xã Duy Châu",
+            "X.Duy Châu",
+            "X Duy Châu",
+            "Duy Châu",
+            "Duy Chau",
+            "Xa Duy Chau",
+            "duychau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408365 +0700 +07 m=+0.044701867",
+        "UpdatedAt": "2020-09-29 13:53:58.489405 +0700 +07 m=+263.151224939",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340301",
+        "DistrictID": 1735,
+        "WardName": "Thị trấn Nam Phước",
+        "NameExtension": [
+            "Thị trấn Nam Phước",
+            "TT.Nam Phước",
+            "TT Nam Phước",
+            "Nam Phước",
+            "Nam Phuoc",
+            "Thi tran Nam Phuoc",
+            "namphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408357 +0700 +07 m=+0.044694604",
+        "UpdatedAt": "2020-09-29 13:53:58.542891 +0700 +07 m=+263.204709673",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

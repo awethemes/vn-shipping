@@ -1,0 +1,198 @@
+[
+    {
+        "DistrictID": 3267,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Sơn Dương",
+        "Code": "0907",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sơn Dương",
+            "H.Sơn Dương",
+            "H Sơn Dương",
+            "Sơn Dương",
+            "Son Duong",
+            "Huyen Son Duong",
+            "sonduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432205 +0700 +07 m=+0.016151148",
+        "UpdatedAt": "2020-09-29 13:42:43.457259 +0700 +07 m=+15.959660495",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3157,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Chiêm Hóa",
+        "Code": "0904",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chiêm Hóa",
+            "H.Chiêm Hóa",
+            "H Chiêm Hóa",
+            "Chiêm Hóa",
+            "Chiem Hoa",
+            "Huyen Chiem Hoa",
+            "chiemhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43212 +0700 +07 m=+0.016065969",
+        "UpdatedAt": "2020-09-29 13:42:45.815915 +0700 +07 m=+18.318272031",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1982,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Na Hang",
+        "Code": "0903",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Na Hang",
+            "Huyện Nà Hang",
+            "H.Na Hang",
+            "H Na Hang",
+            "Na Hang",
+            "Huyen Na Hang",
+            "nahang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432555 +0700 +07 m=+0.016501143",
+        "UpdatedAt": "2020-09-29 13:42:55.828153 +0700 +07 m=+28.330319259",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1957,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Lâm Bình",
+        "Code": "0902",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lâm Bình",
+            "H.Lâm Bình",
+            "H Lâm Bình",
+            "Lâm Bình",
+            "Lam Binh",
+            "Huyen Lam Binh",
+            "lambinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432509 +0700 +07 m=+0.016455126",
+        "UpdatedAt": "2020-09-29 13:42:56.932974 +0700 +07 m=+29.435119881",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1941,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Hàm Yên",
+        "Code": "0905",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hàm Yên",
+            "H.Hàm Yên",
+            "H Hàm Yên",
+            "Hàm Yên",
+            "Ham Yen",
+            "Huyen Ham Yen",
+            "hamyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432429 +0700 +07 m=+0.016375205",
+        "UpdatedAt": "2020-09-29 13:42:57.552819 +0700 +07 m=+30.054952769",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1745,
+        "ProvinceID": 228,
+        "DistrictName": "Huyện Yên Sơn",
+        "Code": "0906",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Sơn",
+            "H.Yên Sơn",
+            "H Yên Sơn",
+            "Yên Sơn",
+            "Yen Son",
+            "Huyen Yen Son",
+            "yenson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431795 +0700 +07 m=+0.015740717",
+        "UpdatedAt": "2020-09-29 13:43:06.718966 +0700 +07 m=+39.220925700",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1601,
+        "ProvinceID": 228,
+        "DistrictName": "Thành phố Tuyên Quang",
+        "Code": "0901",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Tuyên Quang",
+            "TP.Tuyên Quang",
+            "TP Tuyên Quang",
+            "Tuyên Quang",
+            "Tuyen Quang",
+            "Thanh pho Tuyen Quang",
+            "tuyenquang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431812 +0700 +07 m=+0.015758135",
+        "UpdatedAt": "2020-09-29 13:43:10.879168 +0700 +07 m=+43.381048892",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

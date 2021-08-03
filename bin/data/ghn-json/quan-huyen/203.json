@@ -1,0 +1,255 @@
+[
+    {
+        "DistrictID": 3447,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Đặc Biệt",
+        "Code": "0409",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Đặc Biệt"
+        ],
+        "IsEnable": 1,
+        "CreatedAt": "2020-10-04 11:19:36.936538 +0700 +07 m=+30.153570551",
+        "UpdatedAt": "2020-10-04 11:19:36.936538 +0700 +07 m=+30.153570551",
+        "CanUpdateCOD": false,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2112,
+        "ProvinceID": 203,
+        "DistrictName": "Huyện đảo Hoàng Sa",
+        "Code": "0408",
+        "Type": 2,
+        "SupportType": 0,
+        "NameExtension": [
+            "Huyện đảo Hoàng Sa",
+            "Huyện Hoàng Sa",
+            "Hoàng Sa",
+            "Hoang Sa",
+            "Huyen dao Hoang Sa",
+            "Huyen Hoang Sa",
+            "hoangsa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432887 +0700 +07 m=+0.016832478",
+        "UpdatedAt": "2020-09-29 13:42:50.706508 +0700 +07 m=+23.208771858",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1687,
+        "ProvinceID": 203,
+        "DistrictName": "Huyện Hòa Vang",
+        "Code": "0406",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hòa Vang",
+            "H.Hòa Vang",
+            "H Hòa Vang",
+            "Hòa Vang",
+            "Hoa Vang",
+            "Huyen Hoa Vang",
+            "hoavang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431714 +0700 +07 m=+0.015659783",
+        "UpdatedAt": "2020-09-29 13:43:09.101522 +0700 +07 m=+41.603436792",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1531,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Cẩm Lệ",
+        "Code": "0407",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Cẩm Lệ",
+            "Q.Cẩm Lệ",
+            "Q Cẩm Lệ",
+            "Cẩm Lệ",
+            "Cam Le",
+            "Quan Cam Le",
+            "camle"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431556 +0700 +07 m=+0.015502073",
+        "UpdatedAt": "2020-09-29 13:43:12.48747 +0700 +07 m=+44.989320469",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.128.243.45",
+        "UpdatedEmployee": 1005,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-07-15T09:40:49.903Z"
+    },
+    {
+        "DistrictID": 1530,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Liên Chiểu",
+        "Code": "0405",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Liên Chiểu",
+            "Q.Liên Chiểu",
+            "Q Liên Chiểu",
+            "Liên Chiểu",
+            "Lien Chieu",
+            "Quan Lien Chieu",
+            "lienchieu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431555 +0700 +07 m=+0.015500533",
+        "UpdatedAt": "2020-09-29 13:43:12.521094 +0700 +07 m=+45.022943952",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1529,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Ngũ Hành Sơn",
+        "Code": "0404",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Ngũ Hành Sơn",
+            "Q.Ngũ Hành Sơn",
+            "Q Ngũ Hành Sơn",
+            "Ngũ Hành Sơn",
+            "Ngu Hanh Son",
+            "Quan Ngu Hanh Son",
+            "nguhanhson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431553 +0700 +07 m=+0.015499063",
+        "UpdatedAt": "2020-09-29 13:43:12.557192 +0700 +07 m=+45.059040936",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1528,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Sơn Trà",
+        "Code": "0403",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Sơn Trà",
+            "Q.Sơn Trà",
+            "Q Sơn Trà",
+            "Sơn Trà",
+            "Son Tra",
+            "Quan Son Tra",
+            "sontra"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431552 +0700 +07 m=+0.015497563",
+        "UpdatedAt": "2020-09-29 13:43:12.658536 +0700 +07 m=+45.160382830",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1527,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Thanh Khê",
+        "Code": "0402",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Thanh Khê",
+            "Q.Thanh Khê",
+            "Q Thanh Khê",
+            "Thanh Khê",
+            "Thanh Khe",
+            "Quan Thanh Khe",
+            "thanhkhe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43155 +0700 +07 m=+0.015496027",
+        "UpdatedAt": "2020-09-29 13:43:12.705648 +0700 +07 m=+45.207494505",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1526,
+        "ProvinceID": 203,
+        "DistrictName": "Quận Hải Châu",
+        "Code": "0401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Hải Châu",
+            "Q.Hải Châu",
+            "Q Hải Châu",
+            "Hải Châu",
+            "Hai Chau",
+            "Quan Hai Chau",
+            "haichau"
+        ],
+        "DistrictEncode": "QHC",
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431549 +0700 +07 m=+0.015494479",
+        "UpdatedAt": "2020-09-29 13:43:12.74103 +0700 +07 m=+45.242875928",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.128.243.45",
+        "UpdatedEmployee": 1005,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-07-15T09:40:40.349Z"
+    }
+]

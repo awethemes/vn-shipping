@@ -1,0 +1,206 @@
+[
+    {
+        "WardCode": "590908",
+        "DistrictID": 2062,
+        "WardName": "Xã Vĩnh Quới",
+        "NameExtension": [
+            "Xã Vĩnh Quới",
+            "X.Vĩnh Quới",
+            "X Vĩnh Quới",
+            "Vĩnh Quới",
+            "Vinh Quoi",
+            "Xa Vinh Quoi",
+            "vinhquoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409497 +0700 +07 m=+0.045834675",
+        "UpdatedAt": "2020-09-29 13:50:55.846707 +0700 +07 m=+80.511994037",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590907",
+        "DistrictID": 2062,
+        "WardName": "Xã Tân Long",
+        "NameExtension": [
+            "Xã Long Tân",
+            "Xã Tân Long",
+            "X.Tân Long",
+            "X Tân Long",
+            "Tân Long",
+            "Tan Long",
+            "Xa Tan Long",
+            "tanlong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409499 +0700 +07 m=+0.045836076",
+        "UpdatedAt": "2020-09-29 13:50:55.88265 +0700 +07 m=+80.547936142",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590906",
+        "DistrictID": 2062,
+        "WardName": "Xã Mỹ Quới",
+        "NameExtension": [
+            "Xã Mỹ Quới",
+            "X.Mỹ Quới",
+            "X Mỹ Quới",
+            "Mỹ Quới",
+            "My Quoi",
+            "Xa My Quoi",
+            "myquoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409504 +0700 +07 m=+0.045841622",
+        "UpdatedAt": "2020-09-29 13:50:55.926999 +0700 +07 m=+80.592284119",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590905",
+        "DistrictID": 2062,
+        "WardName": "Xã Mỹ Bình",
+        "NameExtension": [
+            "Xã Mỹ Bình",
+            "X.Mỹ Bình",
+            "X Mỹ Bình",
+            "Mỹ Bình",
+            "My Binh",
+            "Xa My Binh",
+            "Xã Mỹ Bỉnh",
+            "mybinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409503 +0700 +07 m=+0.045840242",
+        "UpdatedAt": "2020-09-29 13:50:55.966148 +0700 +07 m=+80.631432201",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590904",
+        "DistrictID": 2062,
+        "WardName": "Xã Long Bình",
+        "NameExtension": [
+            "Xã Long Bình",
+            "X.Long Bình",
+            "X Long Bình",
+            "Long Bình",
+            "Long Binh",
+            "Xa Long Binh",
+            "longbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.4095 +0700 +07 m=+0.045837471",
+        "UpdatedAt": "2020-09-29 13:50:56.005164 +0700 +07 m=+80.670447211",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590903",
+        "DistrictID": 2062,
+        "WardName": "Phường 3",
+        "NameExtension": [
+            "Phường 3",
+            "P.3",
+            "P 3",
+            "3",
+            "Phuong 3"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409502 +0700 +07 m=+0.045838866",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590902",
+        "DistrictID": 2062,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409496 +0700 +07 m=+0.045833283",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590901",
+        "DistrictID": 2062,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409494 +0700 +07 m=+0.045831814",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

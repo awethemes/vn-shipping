@@ -1,0 +1,262 @@
+[
+    {
+        "WardCode": "40210",
+        "DistrictID": 1527,
+        "WardName": "Phường Xuân Hà",
+        "NameExtension": [
+            "Phường Xuân Hà",
+            "P.Xuân Hà",
+            "P Xuân Hà",
+            "Xuân Hà",
+            "Xuan Ha",
+            "Phuong Xuan Ha",
+            "xuanha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395006 +0700 +07 m=+0.031343515",
+        "UpdatedAt": "2020-09-29 13:52:56.370117 +0700 +07 m=+201.033115734",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40209",
+        "DistrictID": 1527,
+        "WardName": "Phường Vĩnh Trung",
+        "NameExtension": [
+            "Phường Vĩnh Trung",
+            "P.Vĩnh Trung",
+            "P Vĩnh Trung",
+            "Vĩnh Trung",
+            "Vinh Trung",
+            "Phuong Vinh Trung",
+            "vinhtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395011 +0700 +07 m=+0.031348002",
+        "UpdatedAt": "2020-09-29 13:52:56.403715 +0700 +07 m=+201.066713130",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40208",
+        "DistrictID": 1527,
+        "WardName": "Phường Thanh Khê Tây",
+        "NameExtension": [
+            "Phường Thanh Khê Tây",
+            "P.Thanh Khê Tây",
+            "P Thanh Khê Tây",
+            "Thanh Khê Tây",
+            "Thanh Khe Tay",
+            "Phuong Thanh Khe Tay",
+            "thanhkhetay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395003 +0700 +07 m=+0.031340395",
+        "UpdatedAt": "2020-09-29 13:52:56.437146 +0700 +07 m=+201.100143312",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40207",
+        "DistrictID": 1527,
+        "WardName": "Phường Thanh Khê Đông",
+        "NameExtension": [
+            "Phường Thanh Khê Đông",
+            "P.Thanh Khê Đông",
+            "P Thanh Khê Đông",
+            "Thanh Khê Đông",
+            "Thanh Khe Dong",
+            "Phuong Thanh Khe Dong",
+            "thanhkhedong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395005 +0700 +07 m=+0.031341926",
+        "UpdatedAt": "2020-09-29 13:52:56.499684 +0700 +07 m=+201.162680243",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40206",
+        "DistrictID": 1527,
+        "WardName": "Phường Thạc Gián",
+        "NameExtension": [
+            "Phường Thạc Gián",
+            "P.Thạc Gián",
+            "P Thạc Gián",
+            "Thạc Gián",
+            "Thac Gian",
+            "Phuong Thac Gian",
+            "thacgian"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395012 +0700 +07 m=+0.031349550",
+        "UpdatedAt": "2020-09-29 13:52:56.537701 +0700 +07 m=+201.200696865",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40205",
+        "DistrictID": 1527,
+        "WardName": "Phường Tân Chính",
+        "NameExtension": [
+            "Phường Tân Chính",
+            "P.Tân Chính",
+            "P Tân Chính",
+            "Tân Chính",
+            "Tan Chinh",
+            "Phuong Tan Chinh",
+            "tanchinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395008 +0700 +07 m=+0.031344994",
+        "UpdatedAt": "2020-09-29 13:52:56.576793 +0700 +07 m=+201.239787788",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40204",
+        "DistrictID": 1527,
+        "WardName": "Phường Tam Thuận",
+        "NameExtension": [
+            "Phường Tam Thuận",
+            "P.Tam Thuận",
+            "P Tam Thuận",
+            "Tam Thuận",
+            "Tam Thuan",
+            "Phuong Tam Thuan",
+            "tamthuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395002 +0700 +07 m=+0.031338892",
+        "UpdatedAt": "2020-09-29 13:52:56.612008 +0700 +07 m=+201.275002273",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40203",
+        "DistrictID": 1527,
+        "WardName": "Phường Hòa Khê",
+        "NameExtension": [
+            "Phường Hòa Khê",
+            "P.Hòa Khê",
+            "P Hòa Khê",
+            "Hòa Khê",
+            "Hoa Khe",
+            "Phuong Hoa Khe",
+            "hoakhe"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395015 +0700 +07 m=+0.031352583",
+        "UpdatedAt": "2020-09-29 13:52:56.645324 +0700 +07 m=+201.308317332",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40202",
+        "DistrictID": 1527,
+        "WardName": "Phường Chính Gián",
+        "NameExtension": [
+            "Phường Chính Gián",
+            "P.Chính Gián",
+            "P Chính Gián",
+            "Chính Gián",
+            "Chinh Gian",
+            "Phuong Chinh Gian",
+            "chinhgian"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395009 +0700 +07 m=+0.031346521",
+        "UpdatedAt": "2020-09-29 13:52:56.677617 +0700 +07 m=+201.340609779",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40201",
+        "DistrictID": 1527,
+        "WardName": "Phường An Khê",
+        "NameExtension": [
+            "Phường An Khê",
+            "P.An Khê",
+            "P An Khê",
+            "An Khê",
+            "An Khe",
+            "Phuong An Khe",
+            "ankhe"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395014 +0700 +07 m=+0.031351071",
+        "UpdatedAt": "2020-09-29 13:52:56.709487 +0700 +07 m=+201.372479336",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

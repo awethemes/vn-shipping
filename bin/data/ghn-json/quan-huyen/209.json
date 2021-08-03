@@ -1,0 +1,337 @@
+[
+    {
+        "DistrictID": 3160,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Di Linh",
+        "Code": "4204",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Di Linh",
+            "H.Di Linh",
+            "H Di Linh",
+            "Di Linh",
+            "Huyen Di Linh",
+            "dilinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432709 +0700 +07 m=+0.016654576",
+        "UpdatedAt": "2020-09-29 13:42:45.725508 +0700 +07 m=+18.227866505",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3146,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Cát Tiên",
+        "Code": "4209",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cát Tiên",
+            "H.Cát Tiên",
+            "H Cát Tiên",
+            "Cát Tiên",
+            "Cat Tien",
+            "Huyen Cat Tien",
+            "cattien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43271 +0700 +07 m=+0.016656000",
+        "UpdatedAt": "2020-09-29 13:42:46.305891 +0700 +07 m=+18.808238308",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2106,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Đạ Tẻh",
+        "Code": "4208",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đạ Tẻh",
+            "H.Đạ Tẻh",
+            "H Đạ Tẻh",
+            "Đạ Tẻh",
+            "Da Teh",
+            "Huyen Da Teh",
+            "dateh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432874 +0700 +07 m=+0.016819879",
+        "UpdatedAt": "2020-09-29 13:42:50.970205 +0700 +07 m=+23.472463671",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2104,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Đạ Huoai",
+        "Code": "4207",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đạ Huoai",
+            "H.Đạ Huoai",
+            "H Đạ Huoai",
+            "Đạ Huoai",
+            "Da Huoai",
+            "Huyen Da Huoai",
+            "dahuoai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432871 +0700 +07 m=+0.016817044",
+        "UpdatedAt": "2020-09-29 13:42:51.040625 +0700 +07 m=+23.542882533",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1958,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Lâm Hà",
+        "Code": "4210",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lâm Hà",
+            "H.Lâm Hà",
+            "H Lâm Hà",
+            "Lâm Hà",
+            "Lam Ha",
+            "Huyen Lam Ha",
+            "lamha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432511 +0700 +07 m=+0.016456678",
+        "UpdatedAt": "2020-09-29 13:42:56.888927 +0700 +07 m=+29.391073249",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1956,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Lạc Dương",
+        "Code": "4206",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lạc Dương",
+            "H.Lạc Dương",
+            "H Lạc Dương",
+            "Lạc Dương",
+            "Lac Duong",
+            "Huyen Lac Duong",
+            "lacduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432503 +0700 +07 m=+0.016449195",
+        "UpdatedAt": "2020-09-29 13:42:56.985296 +0700 +07 m=+29.487440736",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1919,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Đam Rông",
+        "Code": "4212",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đam Rông",
+            "H.Đam Rông",
+            "H Đam Rông",
+            "Đam Rông",
+            "Dam Rong",
+            "Huyen Dam Rong",
+            "damrong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432381 +0700 +07 m=+0.016327069",
+        "UpdatedAt": "2020-09-29 13:42:58.727788 +0700 +07 m=+31.229899673",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1839,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Bảo Lâm",
+        "Code": "4211",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bảo Lâm",
+            "H.Bảo Lâm",
+            "H Bảo Lâm",
+            "Bảo Lâm",
+            "Bao Lam",
+            "Huyen Bao Lam",
+            "baolam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431839 +0700 +07 m=+0.015785240",
+        "UpdatedAt": "2020-09-29 13:43:02.345251 +0700 +07 m=+34.847293602",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1838,
+        "ProvinceID": 209,
+        "DistrictName": "Thành phố Bảo Lộc",
+        "Code": "4202",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Bảo Lộc",
+            "TP.Bảo Lộc",
+            "TP Bảo Lộc",
+            "Bảo Lộc",
+            "Bao Loc",
+            "Thanh pho Bao Loc",
+            "baoloc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431838 +0700 +07 m=+0.015783757",
+        "UpdatedAt": "2020-09-29 13:43:02.40596 +0700 +07 m=+34.908002054",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1837,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Đức Trọng",
+        "Code": "4203",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đức Trọng",
+            "H.Đức Trọng",
+            "H Đức Trọng",
+            "Đức Trọng",
+            "Duc Trong",
+            "Huyen Duc Trong",
+            "ductrong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431836 +0700 +07 m=+0.015782313",
+        "UpdatedAt": "2020-09-29 13:43:02.457424 +0700 +07 m=+34.959465274",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1836,
+        "ProvinceID": 209,
+        "DistrictName": "Huyện Đơn Dương",
+        "Code": "4205",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đơn Dương",
+            "H.Đơn Dương",
+            "H Đơn Dương",
+            "Đơn Dương",
+            "Don Duong",
+            "Huyen Don Duong",
+            "donduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431835 +0700 +07 m=+0.015780844",
+        "UpdatedAt": "2020-09-29 13:43:02.489898 +0700 +07 m=+34.991937744",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1550,
+        "ProvinceID": 209,
+        "DistrictName": "Thành phố Đà Lạt",
+        "Code": "4201",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Đà Lạt",
+            "TP.Đà Lạt",
+            "TP Đà Lạt",
+            "Đà Lạt",
+            "Da Lat",
+            "Thanh pho Da Lat",
+            "dalat"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431506 +0700 +07 m=+0.015451530",
+        "UpdatedAt": "2020-09-29 13:43:12.00656 +0700 +07 m=+44.508419408",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "DistrictID": 2270,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Yên Thủy",
+        "Code": "2310",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Thủy",
+            "H.Yên Thủy",
+            "H Yên Thủy",
+            "Yên Thủy",
+            "Yen Thuy",
+            "Huyen Yen Thuy",
+            "yenthuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43215 +0700 +07 m=+0.016095844",
+        "UpdatedAt": "2020-09-29 13:42:46.956413 +0700 +07 m=+19.458748192",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2163,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Mai Châu",
+        "Code": "2303",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mai Châu",
+            "H.Mai Châu",
+            "H Mai Châu",
+            "Mai Châu",
+            "Mai Chau",
+            "Huyen Mai Chau",
+            "maichau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432038 +0700 +07 m=+0.015983990",
+        "UpdatedAt": "2020-09-29 13:42:49.207898 +0700 +07 m=+21.710190617",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2157,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Lạc Thủy",
+        "Code": "2309",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lạc Thủy",
+            "H.Lạc Thủy",
+            "H Lạc Thủy",
+            "Lạc Thủy",
+            "Lac Thuy",
+            "Huyen Lac Thuy",
+            "lacthuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43203 +0700 +07 m=+0.015976327",
+        "UpdatedAt": "2020-09-29 13:42:49.411979 +0700 +07 m=+21.914267348",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2156,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Lạc Sơn",
+        "Code": "2305",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lạc Sơn",
+            "H.Lạc Sơn",
+            "H Lạc Sơn",
+            "Lạc Sơn",
+            "Lac Son",
+            "Huyen Lac Son",
+            "lacson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432029 +0700 +07 m=+0.015974903",
+        "UpdatedAt": "2020-09-29 13:42:49.457167 +0700 +07 m=+21.959455000",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2146,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Kim Bôi",
+        "Code": "2308",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kim Bôi",
+            "H.Kim Bôi",
+            "H Kim Bôi",
+            "Kim Bôi",
+            "Kim Boi",
+            "Huyen Kim Boi",
+            "kimboi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432016 +0700 +07 m=+0.015961944",
+        "UpdatedAt": "2020-09-29 13:42:49.713286 +0700 +07 m=+22.215568387",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2087,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Cao Phong",
+        "Code": "2311",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cao Phong",
+            "H.Cao Phong",
+            "H Cao Phong",
+            "Cao Phong",
+            "Huyen Cao Phong",
+            "caophong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432859 +0700 +07 m=+0.016804727",
+        "UpdatedAt": "2020-09-29 13:42:51.350656 +0700 +07 m=+23.852907440",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2014,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Tân Lạc",
+        "Code": "2304",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Lạc",
+            "H.Tân Lạc",
+            "H Tân Lạc",
+            "Tân Lạc",
+            "Tan Lac",
+            "Huyen Tan Lac",
+            "tanlac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432744 +0700 +07 m=+0.016689905",
+        "UpdatedAt": "2020-09-29 13:42:54.301106 +0700 +07 m=+26.803302018",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1968,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Lương Sơn",
+        "Code": "2307",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lương Sơn",
+            "H.Lương Sơn",
+            "H Lương Sơn",
+            "Lương Sơn",
+            "Luong Son",
+            "Huyen Luong Son",
+            "luongson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432533 +0700 +07 m=+0.016478661",
+        "UpdatedAt": "2020-09-29 13:42:56.399481 +0700 +07 m=+28.901637166",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1955,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Kỳ Sơn",
+        "Code": "2306",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kỳ Sơn",
+            "H.Kỳ Sơn",
+            "H Kỳ Sơn",
+            "Kỳ Sơn",
+            "Ky Son",
+            "Huyen Ky Son",
+            "kyson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432502 +0700 +07 m=+0.016447790",
+        "UpdatedAt": "2020-09-29 13:42:57.021538 +0700 +07 m=+29.523682298",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1916,
+        "ProvinceID": 267,
+        "DistrictName": "Huyện Đà Bắc",
+        "Code": "2302",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đà Bắc",
+            "H.Đà Bắc",
+            "H Đà Bắc",
+            "Đà Bắc",
+            "Da Bac",
+            "Huyen Da Bac",
+            "dabac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432377 +0700 +07 m=+0.016322636",
+        "UpdatedAt": "2020-09-29 13:42:58.86337 +0700 +07 m=+31.365478894",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1678,
+        "ProvinceID": 267,
+        "DistrictName": "Thành phố Hòa Bình",
+        "Code": "2301",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Hòa Bình",
+            "TP.Hòa Bình",
+            "TP Hòa Bình",
+            "Hòa Bình",
+            "Hoa Binh",
+            "Thanh pho Hoa Binh",
+            "hoabinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431705 +0700 +07 m=+0.015651306",
+        "UpdatedAt": "2020-09-29 13:43:09.305928 +0700 +07 m=+41.807838572",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

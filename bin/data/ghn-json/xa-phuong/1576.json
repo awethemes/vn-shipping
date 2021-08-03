@@ -1,0 +1,237 @@
+[
+    {
+        "WardCode": "550809",
+        "DistrictID": 1576,
+        "WardName": "Phường Trung Nhứt",
+        "NameExtension": [
+            "Phường Trung Nhứt",
+            "P.Trung Nhứt",
+            "P Trung Nhứt",
+            "Trung Nhứt",
+            "Trung Nhut",
+            "Phuong Trung Nhut",
+            "trungnhut"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394575 +0700 +07 m=+0.030912671",
+        "UpdatedAt": "2020-09-29 13:51:20.932675 +0700 +07 m=+105.597485329",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550808",
+        "DistrictID": 1576,
+        "WardName": "Phường Trung Kiên",
+        "NameExtension": [
+            "Phường Trung Kiên",
+            "P.Trung Kiên",
+            "P Trung Kiên",
+            "Trung Kiên",
+            "Trung Kien",
+            "Phuong Trung Kien",
+            "trungkien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394578 +0700 +07 m=+0.030915609",
+        "UpdatedAt": "2020-09-29 13:51:20.972168 +0700 +07 m=+105.636977089",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550807",
+        "DistrictID": 1576,
+        "WardName": "Phường Thuận Hưng",
+        "NameExtension": [
+            "Phường Thuận Hưng",
+            "P.Thuận Hưng",
+            "P Thuận Hưng",
+            "Thuận Hưng",
+            "Thuan Hung",
+            "Phuong Thuan Hung",
+            "thuanhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394581 +0700 +07 m=+0.030918561",
+        "UpdatedAt": "2020-09-29 13:51:21.005078 +0700 +07 m=+105.669887218",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550806",
+        "DistrictID": 1576,
+        "WardName": "Phường Thuận An",
+        "NameExtension": [
+            "Phường Thuận An",
+            "P.Thuận An",
+            "P Thuận An",
+            "Thuận An",
+            "Thuan An",
+            "Phuong Thuan An",
+            "thuanan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394572 +0700 +07 m=+0.030909747",
+        "UpdatedAt": "2020-09-29 13:51:21.042611 +0700 +07 m=+105.707418922",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550805",
+        "DistrictID": 1576,
+        "WardName": "Phường Thốt Nốt",
+        "NameExtension": [
+            "Phường Thốt Nốt",
+            "P.Thốt Nốt",
+            "P Thốt Nốt",
+            "Thốt Nốt",
+            "Thot Not",
+            "Phuong Thot Not",
+            "thotnot"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394569 +0700 +07 m=+0.030906816",
+        "UpdatedAt": "2020-09-29 13:51:21.075924 +0700 +07 m=+105.740731879",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550804",
+        "DistrictID": 1576,
+        "WardName": "Phường Thới Thuận",
+        "NameExtension": [
+            "Phường Thới Thuận",
+            "P.Thới Thuận",
+            "P Thới Thuận",
+            "Thới Thuận",
+            "Thoi Thuan",
+            "Phuong Thoi Thuan",
+            "thoithuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394571 +0700 +07 m=+0.030908293",
+        "UpdatedAt": "2020-09-29 13:51:21.10985 +0700 +07 m=+105.774656763",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550803",
+        "DistrictID": 1576,
+        "WardName": "Phường Thạnh Hoà",
+        "NameExtension": [
+            "Phường Thạnh Hoà",
+            "P.Thạnh Hoà",
+            "P Thạnh Hoà",
+            "Thạnh Hoà",
+            "Thanh Hoa",
+            "Phuong Thanh Hoa",
+            "Phường Thạnh Hòa",
+            "thanhhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394577 +0700 +07 m=+0.030914159",
+        "UpdatedAt": "2020-09-29 13:51:21.142603 +0700 +07 m=+105.807409639",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550802",
+        "DistrictID": 1576,
+        "WardName": "Phường Tân Lộc",
+        "NameExtension": [
+            "Phường Tân Lộc",
+            "P.Tân Lộc",
+            "P Tân Lộc",
+            "Tân Lộc",
+            "Tan Loc",
+            "Phuong Tan Loc",
+            "tanloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394574 +0700 +07 m=+0.030911221",
+        "UpdatedAt": "2020-09-29 13:51:21.177703 +0700 +07 m=+105.842508429",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550801",
+        "DistrictID": 1576,
+        "WardName": "Phường Tân Hưng",
+        "NameExtension": [
+            "Phường Tân Hưng",
+            "P.Tân Hưng",
+            "P Tân Hưng",
+            "Tân Hưng",
+            "Tan Hung",
+            "Phuong Tan Hung",
+            "tanhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39458 +0700 +07 m=+0.030917107",
+        "UpdatedAt": "2020-09-29 13:51:21.219654 +0700 +07 m=+105.884458623",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

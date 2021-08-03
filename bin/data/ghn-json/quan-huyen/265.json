@@ -1,0 +1,283 @@
+[
+    {
+        "DistrictID": 2179,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Nậm Pồ",
+        "Code": "6210",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nậm Pồ",
+            "H.Nậm Pồ",
+            "H Nậm Pồ",
+            "Nậm Pồ",
+            "Nam Po",
+            "Huyen Nam Po",
+            "nampo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432063 +0700 +07 m=+0.016008515",
+        "UpdatedAt": "2020-09-29 13:42:48.762991 +0700 +07 m=+21.265292398",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2170,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Mường Ảng",
+        "Code": "6209",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mường Ảng",
+            "Huyện Mường Áng",
+            "H.Mường Ảng",
+            "H Mường Ảng",
+            "Mường Ảng",
+            "Muong Ang",
+            "Huyen Muong Ang",
+            "muongang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432047 +0700 +07 m=+0.015992548",
+        "UpdatedAt": "2020-09-29 13:42:49.066997 +0700 +07 m=+21.569292449",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2123,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Điện Biên Đông",
+        "Code": "6207",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Điện Biên Đông",
+            "H.Điện Biên Đông",
+            "H Điện Biên Đông",
+            "Điện Biên Đông",
+            "Dien Bien Dong",
+            "Huyen Dien Bien Dong",
+            "dienbiendong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431989 +0700 +07 m=+0.015934658",
+        "UpdatedAt": "2020-09-29 13:42:50.148725 +0700 +07 m=+22.650999382",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2060,
+        "ProvinceID": 265,
+        "DistrictName": "Thị xã Mường Lay",
+        "Code": "6202",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Mường Lay",
+            "TX.Mường Lay",
+            "TX Mường Lay",
+            "Mường Lay",
+            "Muong Lay",
+            "Thi xa Muong Lay",
+            "muonglay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432826 +0700 +07 m=+0.016771636",
+        "UpdatedAt": "2020-09-29 13:42:52.154105 +0700 +07 m=+24.656341845",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2022,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Tuần Giáo",
+        "Code": "6204",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tuần Giáo",
+            "H.Tuần Giáo",
+            "H Tuần Giáo",
+            "Tuần Giáo",
+            "Tuan Giao",
+            "Huyen Tuan Giao",
+            "tuangiao"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43276 +0700 +07 m=+0.016705600",
+        "UpdatedAt": "2020-09-29 13:42:53.958614 +0700 +07 m=+26.460816027",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2021,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Tủa Chùa",
+        "Code": "6206",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tủa Chùa",
+            "H.Tủa Chùa",
+            "H Tủa Chùa",
+            "Tủa Chùa",
+            "Tua Chua",
+            "Huyen Tua Chua",
+            "tuachua"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432755 +0700 +07 m=+0.016700886",
+        "UpdatedAt": "2020-09-29 13:42:54.008214 +0700 +07 m=+26.510414897",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1979,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Mường Nhé",
+        "Code": "6208",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mường Nhé",
+            "H.Mường Nhé",
+            "H Mường Nhé",
+            "Mường Nhé",
+            "Muong Nhe",
+            "Huyen Muong Nhe",
+            "muongnhe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432551 +0700 +07 m=+0.016496755",
+        "UpdatedAt": "2020-09-29 13:42:55.992485 +0700 +07 m=+28.494649031",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1978,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Mường Chà",
+        "Code": "6205",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mường Chà",
+            "H.Mường Chà",
+            "H Mường Chà",
+            "Mường Chà",
+            "Muong Cha",
+            "Huyen Muong Cha",
+            "muongcha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432549 +0700 +07 m=+0.016495291",
+        "UpdatedAt": "2020-09-29 13:42:56.086718 +0700 +07 m=+28.588879541",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1923,
+        "ProvinceID": 265,
+        "DistrictName": "Huyện Điện Biên",
+        "Code": "6203",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Điện Biên",
+            "H.Điện Biên",
+            "H Điện Biên",
+            "Điện Biên",
+            "Dien Bien",
+            "Huyen Dien Bien",
+            "dienbien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432403 +0700 +07 m=+0.016348537",
+        "UpdatedAt": "2020-09-29 13:42:58.459022 +0700 +07 m=+30.961138719",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1676,
+        "ProvinceID": 265,
+        "DistrictName": "Thành phố Điện Biên Phủ",
+        "Code": "6201",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Điện Biên Phủ",
+            "TP.Điện Biên Phủ",
+            "TP Điện Biên Phủ",
+            "Điện Biên Phủ",
+            "Dien Bien Phu",
+            "Thanh pho Dien Bien Phu",
+            "dienbienphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431823 +0700 +07 m=+0.015769132",
+        "UpdatedAt": "2020-09-29 13:43:09.371313 +0700 +07 m=+41.873222168",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "WardCode": "340420",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Trung",
+        "NameExtension": [
+            "Xã Điện Trung",
+            "X.Điện Trung",
+            "X Điện Trung",
+            "Điện Trung",
+            "Dien Trung",
+            "Xa Dien Trung",
+            "dientrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408351 +0700 +07 m=+0.044687968",
+        "UpdatedAt": "2020-09-29 13:53:56.895265 +0700 +07 m=+261.557115124",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340419",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Tiến",
+        "NameExtension": [
+            "Xã Điện Tiến",
+            "X.Điện Tiến",
+            "X Điện Tiến",
+            "Điện Tiến",
+            "Dien Tien",
+            "Xa Dien Tien",
+            "dientien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408328 +0700 +07 m=+0.044665376",
+        "UpdatedAt": "2020-09-29 13:53:56.934841 +0700 +07 m=+261.596690564",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340418",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Thọ",
+        "NameExtension": [
+            "Xã Điện Thọ",
+            "X.Điện Thọ",
+            "X Điện Thọ",
+            "Điện Thọ",
+            "Dien Tho",
+            "Xa Dien Tho",
+            "dientho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408338 +0700 +07 m=+0.044675603",
+        "UpdatedAt": "2020-09-29 13:53:56.970984 +0700 +07 m=+261.632832558",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340417",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Thắng Trung",
+        "NameExtension": [
+            "Xã Điện Thắng Trung",
+            "X.Điện Thắng Trung",
+            "X Điện Thắng Trung",
+            "Điện Thắng Trung",
+            "Dien Thang Trung",
+            "Xa Dien Thang Trung",
+            "dienthangtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408332 +0700 +07 m=+0.044669790",
+        "UpdatedAt": "2020-09-29 13:53:57.027394 +0700 +07 m=+261.689241535",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340416",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Thắng Nam",
+        "NameExtension": [
+            "Xã Điện Thắng Nam",
+            "X.Điện Thắng Nam",
+            "X Điện Thắng Nam",
+            "Điện Thắng Nam",
+            "Dien Thang Nam",
+            "Xa Dien Thang Nam",
+            "dienthangnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408334 +0700 +07 m=+0.044671185",
+        "UpdatedAt": "2020-09-29 13:53:57.064704 +0700 +07 m=+261.726550673",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340415",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Thắng Bắc",
+        "NameExtension": [
+            "Xã Điện Thắng Bắc",
+            "X.Điện Thắng Bắc",
+            "X Điện Thắng Bắc",
+            "Điện Thắng Bắc",
+            "Dien Thang Bac",
+            "Xa Dien Thang Bac",
+            "dienthangbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408331 +0700 +07 m=+0.044668353",
+        "UpdatedAt": "2020-09-29 13:53:57.123624 +0700 +07 m=+261.785469400",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340414",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Quang",
+        "NameExtension": [
+            "Xã Điện Quang",
+            "X.Điện Quang",
+            "X Điện Quang",
+            "Điện Quang",
+            "Dien Quang",
+            "Xa Dien Quang",
+            "dienquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408349 +0700 +07 m=+0.044686489",
+        "UpdatedAt": "2020-09-29 13:53:57.158334 +0700 +07 m=+261.820178618",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340413",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Phương",
+        "NameExtension": [
+            "Xã Điện Phương",
+            "X.Điện Phương",
+            "X Điện Phương",
+            "Điện Phương",
+            "Dien Phuong",
+            "Xa Dien Phuong",
+            "dienphuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408356 +0700 +07 m=+0.044693169",
+        "UpdatedAt": "2020-09-29 13:53:57.203193 +0700 +07 m=+261.865036972",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340412",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Phước",
+        "NameExtension": [
+            "Xã Điện Phước",
+            "X.Điện Phước",
+            "X Điện Phước",
+            "Điện Phước",
+            "Dien Phuoc",
+            "Xa Dien Phuoc",
+            "dienphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40834 +0700 +07 m=+0.044677043",
+        "UpdatedAt": "2020-09-29 13:53:57.258533 +0700 +07 m=+261.920376525",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340411",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Phong",
+        "NameExtension": [
+            "Xã Điện Phong",
+            "X.Điện Phong",
+            "X Điện Phong",
+            "Điện Phong",
+            "Dien Phong",
+            "Xa Dien Phong",
+            "dienphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408353 +0700 +07 m=+0.044690112",
+        "UpdatedAt": "2020-09-29 13:53:57.299501 +0700 +07 m=+261.961343314",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340410",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Minh",
+        "NameExtension": [
+            "Xã Điện Minh",
+            "X.Điện Minh",
+            "X Điện Minh",
+            "Điện Minh",
+            "Dien Minh",
+            "Xa Dien Minh",
+            "dienminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408354 +0700 +07 m=+0.044691794",
+        "UpdatedAt": "2020-09-29 13:53:57.340521 +0700 +07 m=+262.002362051",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340409",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Hồng",
+        "NameExtension": [
+            "Xã Điện Hồng",
+            "X.Điện Hồng",
+            "X Điện Hồng",
+            "Điện Hồng",
+            "Dien Hong",
+            "Xa Dien Hong",
+            "dienhong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408337 +0700 +07 m=+0.044674143",
+        "UpdatedAt": "2020-09-29 13:53:57.378943 +0700 +07 m=+262.040784396",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340408",
+        "DistrictID": 1736,
+        "WardName": "Xã Điện Hòa",
+        "NameExtension": [
+            "Xã Điện Hòa",
+            "X.Điện Hòa",
+            "X Điện Hòa",
+            "Điện Hòa",
+            "Dien Hoa",
+            "Xa Dien Hoa",
+            "dienhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40833 +0700 +07 m=+0.044666870",
+        "UpdatedAt": "2020-09-29 13:53:57.416426 +0700 +07 m=+262.078266360",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340407",
+        "DistrictID": 1736,
+        "WardName": "Phường Vĩnh Điện",
+        "NameExtension": [
+            "Phường Vĩnh Điện",
+            "P.Vĩnh Điện",
+            "P Vĩnh Điện",
+            "Vĩnh Điện",
+            "Vinh Dien",
+            "Phuong Vinh Dien",
+            "vinhdien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408327 +0700 +07 m=+0.044663942",
+        "UpdatedAt": "2020-09-29 13:53:57.490686 +0700 +07 m=+262.152524633",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340406",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện Ngọc",
+        "NameExtension": [
+            "Phường Điện Ngọc",
+            "P.Điện Ngọc",
+            "P Điện Ngọc",
+            "Điện Ngọc",
+            "Dien Ngoc",
+            "Phuong Dien Ngoc",
+            "dienngoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408335 +0700 +07 m=+0.044672741",
+        "UpdatedAt": "2020-09-29 13:53:57.535809 +0700 +07 m=+262.197647353",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340405",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện Nam Trung",
+        "NameExtension": [
+            "Phường Điện Nam Trung",
+            "P.Điện Nam Trung",
+            "P Điện Nam Trung",
+            "Điện Nam Trung",
+            "Dien Nam Trung",
+            "Phuong Dien Nam Trung",
+            "diennamtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408345 +0700 +07 m=+0.044682089",
+        "UpdatedAt": "2020-09-29 13:53:57.591572 +0700 +07 m=+262.253409335",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340404",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện Nam Đông",
+        "NameExtension": [
+            "Phường Điện Nam Đông",
+            "P.Điện Nam Đông",
+            "P Điện Nam Đông",
+            "Điện Nam Đông",
+            "Dien Nam Dong",
+            "Phuong Dien Nam Dong",
+            "diennamdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408346 +0700 +07 m=+0.044683571",
+        "UpdatedAt": "2020-09-29 13:53:57.638923 +0700 +07 m=+262.300759057",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340403",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện Nam Bắc",
+        "NameExtension": [
+            "Phường Điện Nam Bắc",
+            "P.Điện Nam Bắc",
+            "P Điện Nam Bắc",
+            "Điện Nam Bắc",
+            "Dien Nam Bac",
+            "Phuong Dien Nam Bac",
+            "diennambac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408343 +0700 +07 m=+0.044680489",
+        "UpdatedAt": "2020-09-29 13:53:57.676283 +0700 +07 m=+262.338118627",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340402",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện Dương",
+        "NameExtension": [
+            "Phường Điện Dương",
+            "P.Điện Dương",
+            "P Điện Dương",
+            "Điện Dương",
+            "Dien Duong",
+            "Phuong Dien Duong",
+            "dienduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408348 +0700 +07 m=+0.044685061",
+        "UpdatedAt": "2020-09-29 13:53:57.710775 +0700 +07 m=+262.372609151",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340401",
+        "DistrictID": 1736,
+        "WardName": "Phường Điện An",
+        "NameExtension": [
+            "Phường Điện An",
+            "P.Điện An",
+            "P Điện An",
+            "Điện An",
+            "Dien An",
+            "Phuong Dien An",
+            "dienan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408341 +0700 +07 m=+0.044678616",
+        "UpdatedAt": "2020-09-29 13:53:57.794124 +0700 +07 m=+262.455957296",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

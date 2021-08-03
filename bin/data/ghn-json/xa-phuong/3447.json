@@ -1,0 +1,28 @@
+[
+    {
+        "WardCode": "40953",
+        "DistrictID": 3447,
+        "WardName": "Phường đặc biệt",
+        "NameExtension": [
+            "Phường đặc biệt",
+            "P.đặc biệt",
+            "P đặc biệt",
+            "đặc biệt",
+            "dac biet",
+            "Phuong dac biet",
+            "dacbiet"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41433 +0700 +07 m=+0.050667512",
+        "UpdatedAt": "2020-09-29 13:52:55.06695 +0700 +07 m=+199.729973940",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

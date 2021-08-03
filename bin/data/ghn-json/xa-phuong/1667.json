@@ -1,0 +1,287 @@
+[
+    {
+        "WardCode": "520211",
+        "DistrictID": 1667,
+        "WardName": "Xã Tân Hưng",
+        "NameExtension": [
+            "Xã Tân Hưng",
+            "X.Tân Hưng",
+            "X Tân Hưng",
+            "Tân Hưng",
+            "Tan Hung",
+            "Xa Tan Hung",
+            "tanhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391683 +0700 +07 m=+0.028020033",
+        "UpdatedAt": "2020-09-29 13:51:38.592191 +0700 +07 m=+123.256666445",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520210",
+        "DistrictID": 1667,
+        "WardName": "Xã Long Phước",
+        "NameExtension": [
+            "Xã Long Phước",
+            "X.Long Phước",
+            "X Long Phước",
+            "Long Phước",
+            "Long Phuoc",
+            "Xa Long Phuoc",
+            "longphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391684 +0700 +07 m=+0.028021455",
+        "UpdatedAt": "2020-09-29 13:51:38.625756 +0700 +07 m=+123.290230790",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520209",
+        "DistrictID": 1667,
+        "WardName": "Xã Hoà Long",
+        "NameExtension": [
+            "Xã Hoà Long",
+            "X.Hoà Long",
+            "X Hoà Long",
+            "Hoà Long",
+            "Hoa Long",
+            "Xa Hoa Long",
+            "hoalong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391686 +0700 +07 m=+0.028022913",
+        "UpdatedAt": "2020-09-29 13:51:38.659234 +0700 +07 m=+123.323707733",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520208",
+        "DistrictID": 1667,
+        "WardName": "Phường Phước Trung",
+        "NameExtension": [
+            "Phường Phước Trung",
+            "P.Phước Trung",
+            "P Phước Trung",
+            "Phước Trung",
+            "Phuoc Trung",
+            "Phuong Phuoc Trung",
+            "phuoctrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391678 +0700 +07 m=+0.028015484",
+        "UpdatedAt": "2020-09-29 13:51:38.6931 +0700 +07 m=+123.357572840",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520207",
+        "DistrictID": 1667,
+        "WardName": "Phường Phước Nguyên",
+        "NameExtension": [
+            "Phường Phước Nguyên",
+            "P.Phước Nguyên",
+            "P Phước Nguyên",
+            "Phước Nguyên",
+            "Phuoc Nguyen",
+            "Phuong Phuoc Nguyen",
+            "phuocnguyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391671 +0700 +07 m=+0.028007991",
+        "UpdatedAt": "2020-09-29 13:51:38.734356 +0700 +07 m=+123.398828880",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520206",
+        "DistrictID": 1667,
+        "WardName": "Phường Phước Hưng",
+        "NameExtension": [
+            "Phường Phước Hưng",
+            "P.Phước Hưng",
+            "P Phước Hưng",
+            "Phước Hưng",
+            "Phuoc Hung",
+            "Phuong Phuoc Hung",
+            "phuochung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391667 +0700 +07 m=+0.028004717",
+        "UpdatedAt": "2020-09-29 13:51:38.780603 +0700 +07 m=+123.445074313",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520205",
+        "DistrictID": 1667,
+        "WardName": "Phường Phước Hiệp",
+        "NameExtension": [
+            "Phường Phước Hiệp",
+            "P.Phước Hiệp",
+            "P Phước Hiệp",
+            "Phước Hiệp",
+            "Phuoc Hiep",
+            "Phuong Phuoc Hiep",
+            "phuochiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391669 +0700 +07 m=+0.028006505",
+        "UpdatedAt": "2020-09-29 13:51:38.812257 +0700 +07 m=+123.476728097",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520204",
+        "DistrictID": 1667,
+        "WardName": "Phường Long Toàn",
+        "NameExtension": [
+            "Phường Long Toàn",
+            "P.Long Toàn",
+            "P Long Toàn",
+            "Long Toàn",
+            "Long Toan",
+            "Phuong Long Toan",
+            "longtoan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391672 +0700 +07 m=+0.028009520",
+        "UpdatedAt": "2020-09-29 13:51:38.850525 +0700 +07 m=+123.514995178",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520203",
+        "DistrictID": 1667,
+        "WardName": "Phường Long Tâm",
+        "NameExtension": [
+            "Phường Long Tâm",
+            "P.Long Tâm",
+            "P Long Tâm",
+            "Long Tâm",
+            "Long Tam",
+            "Phuong Long Tam",
+            "longtam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391677 +0700 +07 m=+0.028014025",
+        "UpdatedAt": "2020-09-29 13:51:38.885193 +0700 +07 m=+123.549662513",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520202",
+        "DistrictID": 1667,
+        "WardName": "Phường Long Hương",
+        "NameExtension": [
+            "Phường Long Hương",
+            "P.Long Hương",
+            "P Long Hương",
+            "Long Hương",
+            "Long Huong",
+            "Phuong Long Huong",
+            "longhuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39168 +0700 +07 m=+0.028017004",
+        "UpdatedAt": "2020-09-29 13:51:38.920342 +0700 +07 m=+123.584810732",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520201",
+        "DistrictID": 1667,
+        "WardName": "Phường Kim Dinh",
+        "NameExtension": [
+            "Phường Kim Dinh",
+            "P.Kim Dinh",
+            "P Kim Dinh",
+            "Kim Dinh",
+            "Phuong Kim Dinh",
+            "kimdinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391681 +0700 +07 m=+0.028018543",
+        "UpdatedAt": "2020-09-29 13:51:38.955145 +0700 +07 m=+123.619613330",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "WardCode": "401307",
+        "DistrictID": 1784,
+        "WardName": "Xã Tân Hoà",
+        "NameExtension": [
+            "Xã Tân Hoà",
+            "X.Tân Hoà",
+            "X Tân Hoà",
+            "Tân Hoà",
+            "Tan Hoa",
+            "Xa Tan Hoa",
+            "tanhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395185 +0700 +07 m=+0.031522765",
+        "UpdatedAt": "2020-09-29 13:52:57.543127 +0700 +07 m=+202.206103092",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401306",
+        "DistrictID": 1784,
+        "WardName": "Xã Krông Na",
+        "NameExtension": [
+            "Xã Krông Na",
+            "X.Krông Na",
+            "X Krông Na",
+            "Krông Na",
+            "Krong Na",
+            "Xa Krong Na",
+            "krongna"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395163 +0700 +07 m=+0.031499916",
+        "UpdatedAt": "2020-09-29 13:52:57.576464 +0700 +07 m=+202.239440269",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401305",
+        "DistrictID": 1784,
+        "WardName": "Xã Ea Wer",
+        "NameExtension": [
+            "Xã Ea Wer",
+            "X.Ea Wer",
+            "X Ea Wer",
+            "Ea Wer",
+            "Xa Ea Wer",
+            "eawer"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395184 +0700 +07 m=+0.031521301",
+        "UpdatedAt": "2020-09-29 13:52:57.610744 +0700 +07 m=+202.273719287",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401304",
+        "DistrictID": 1784,
+        "WardName": "Xã Ea Nuôl",
+        "NameExtension": [
+            "Xã Ea Nuôl",
+            "X.Ea Nuôl",
+            "X Ea Nuôl",
+            "Ea Nuôl",
+            "Ea Nuol",
+            "Xa Ea Nuol",
+            "eanuol"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39519 +0700 +07 m=+0.031526939",
+        "UpdatedAt": "2020-09-29 13:52:57.643035 +0700 +07 m=+202.306009803",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401303",
+        "DistrictID": 1784,
+        "WardName": "Xã Ea Huar",
+        "NameExtension": [
+            "Xã Ea Huar",
+            "X.Ea Huar",
+            "X Ea Huar",
+            "Ea Huar",
+            "Xa Ea Huar",
+            "eahuar"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395164 +0700 +07 m=+0.031501301",
+        "UpdatedAt": "2020-09-29 13:52:57.677128 +0700 +07 m=+202.340101680",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401302",
+        "DistrictID": 1784,
+        "WardName": "Xã Ea Bar",
+        "NameExtension": [
+            "Xã Ea Bar",
+            "X.Ea Bar",
+            "X Ea Bar",
+            "Ea Bar",
+            "Xa Ea Bar",
+            "eabar"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395188 +0700 +07 m=+0.031525550",
+        "UpdatedAt": "2020-09-29 13:52:57.712707 +0700 +07 m=+202.375680764",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "401301",
+        "DistrictID": 1784,
+        "WardName": "Xã Cuôr KNia",
+        "NameExtension": [
+            "Xã Cuôr KNia",
+            "X.Cuôr KNia",
+            "X Cuôr KNia",
+            "Cuôr KNia",
+            "Cuor KNia",
+            "Xa Cuor KNia",
+            "cuorknia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395187 +0700 +07 m=+0.031524163",
+        "UpdatedAt": "2020-09-29 13:52:57.760132 +0700 +07 m=+202.423104185",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

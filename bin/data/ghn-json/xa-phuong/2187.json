@@ -1,0 +1,215 @@
+[
+    {
+        "WardCode": "360308",
+        "DistrictID": 2187,
+        "WardName": "Xã Sa Loong",
+        "NameExtension": [
+            "Xã Sa Loong",
+            "X.Sa Loong",
+            "X Sa Loong",
+            "Sa Loong",
+            "Xa Sa Loong",
+            "saloong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402396 +0700 +07 m=+0.038733030",
+        "UpdatedAt": "2020-09-29 13:53:35.442778 +0700 +07 m=+240.105034939",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360307",
+        "DistrictID": 2187,
+        "WardName": "Xã Pờ Y",
+        "NameExtension": [
+            "Xã Pờ Y",
+            "X.Pờ Y",
+            "X Pờ Y",
+            "Pờ Y",
+            "Po Y",
+            "Xa Po Y",
+            "poy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402394 +0700 +07 m=+0.038731636",
+        "UpdatedAt": "2020-09-29 13:53:35.487625 +0700 +07 m=+240.149881414",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360306",
+        "DistrictID": 2187,
+        "WardName": "Xã Đắk Xú",
+        "NameExtension": [
+            "Xã Đắk Xú",
+            "X.Đắk Xú",
+            "X Đắk Xú",
+            "Đắk Xú",
+            "Dak Xu",
+            "Xa Dak Xu",
+            "Xã Đăk Xú",
+            "dakxu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402392 +0700 +07 m=+0.038728908",
+        "UpdatedAt": "2020-09-29 13:53:35.540437 +0700 +07 m=+240.202692794",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360305",
+        "DistrictID": 2187,
+        "WardName": "Xã Đắk Nông",
+        "NameExtension": [
+            "Xã Đắk Nông",
+            "X.Đắk Nông",
+            "X Đắk Nông",
+            "Đắk Nông",
+            "Dak Nong",
+            "Xa Dak Nong",
+            "Xã Đăk Nông",
+            "daknong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40239 +0700 +07 m=+0.038727467",
+        "UpdatedAt": "2020-09-29 13:53:35.584303 +0700 +07 m=+240.246558047",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360304",
+        "DistrictID": 2187,
+        "WardName": "Xã Đắk Kan",
+        "NameExtension": [
+            "Xã Đắk Kan",
+            "X.Đắk Kan",
+            "X Đắk Kan",
+            "Đắk Kan",
+            "Dak Kan",
+            "Xa Dak Kan",
+            "Xã Đăk Kan",
+            "dakkan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402393 +0700 +07 m=+0.038730297",
+        "UpdatedAt": "2020-09-29 13:53:35.622992 +0700 +07 m=+240.285245816",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360303",
+        "DistrictID": 2187,
+        "WardName": "Xã Đắk Dục",
+        "NameExtension": [
+            "Xã Đắk Dục",
+            "X.Đắk Dục",
+            "X Đắk Dục",
+            "Đắk Dục",
+            "Dak Duc",
+            "Xa Dak Duc",
+            "Xã Đăk Dục",
+            "dakduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402389 +0700 +07 m=+0.038726090",
+        "UpdatedAt": "2020-09-29 13:53:35.681461 +0700 +07 m=+240.343714097",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360302",
+        "DistrictID": 2187,
+        "WardName": "Xã Đắk Ang",
+        "NameExtension": [
+            "Xã Đắk Ang",
+            "X.Đắk Ang",
+            "X Đắk Ang",
+            "Đắk Ang",
+            "Dak Ang",
+            "Xa Dak Ang",
+            "Xã Đăk Ang",
+            "dakang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402387 +0700 +07 m=+0.038724584",
+        "UpdatedAt": "2020-09-29 13:53:35.725785 +0700 +07 m=+240.388036603",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360301",
+        "DistrictID": 2187,
+        "WardName": "Thị trấn Plei Cần",
+        "NameExtension": [
+            "Thị Trấn Plei Kần",
+            "Thị trấn Plei Cần",
+            "TT.Plei Cần",
+            "TT Plei Cần",
+            "Plei Cần",
+            "Plei Can",
+            "Thi tran Plei Can",
+            "pleican"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402386 +0700 +07 m=+0.038723153",
+        "UpdatedAt": "2020-09-29 13:53:35.76959 +0700 +07 m=+240.431841458",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

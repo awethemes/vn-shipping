@@ -1,0 +1,254 @@
+[
+    {
+        "DistrictID": 3213,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện Khánh Vĩnh",
+        "Code": "4105",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Khánh Vĩnh",
+            "H.Khánh Vĩnh",
+            "H Khánh Vĩnh",
+            "Khánh Vĩnh",
+            "Khanh Vinh",
+            "Huyen Khanh Vinh",
+            "khanhvinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432706 +0700 +07 m=+0.016651612",
+        "UpdatedAt": "2020-09-29 13:42:44.903205 +0700 +07 m=+17.405579235",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3212,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện Khánh Sơn",
+        "Code": "4107",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Khánh Sơn",
+            "H.Khánh Sơn",
+            "H Khánh Sơn",
+            "Khánh Sơn",
+            "Khanh Son",
+            "Huyen Khanh Son",
+            "khanhson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432707 +0700 +07 m=+0.016653027",
+        "UpdatedAt": "2020-09-29 13:42:44.938789 +0700 +07 m=+17.441162170",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2117,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện đảo Trường Sa",
+        "Code": "4108",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện đảo Trường Sa",
+            "Huyện Đảo Trường Sa",
+            "Huyện Trường Sa",
+            "Trường Sa",
+            "Truong Sa",
+            "Huyen dao Truong Sa",
+            "Huyen Truong Sa",
+            "truongsa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432893 +0700 +07 m=+0.016838995",
+        "UpdatedAt": "2020-09-29 13:42:50.503009 +0700 +07 m=+23.005276330",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedDate": "2021-07-17T04:51:09.823Z"
+    },
+    {
+        "DistrictID": 2061,
+        "ProvinceID": 208,
+        "DistrictName": "Thị xã Ninh Hòa",
+        "Code": "4103",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Ninh Hòa",
+            "TX.Ninh Hòa",
+            "TX Ninh Hòa",
+            "Ninh Hòa",
+            "Ninh Hoa",
+            "Thi xa Ninh Hoa",
+            "ninhhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432827 +0700 +07 m=+0.016773123",
+        "UpdatedAt": "2020-09-29 13:42:52.10063 +0700 +07 m=+24.602867659",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1902,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện Cam Lâm",
+        "Code": "4109",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cam Lâm",
+            "H.Cam Lâm",
+            "H Cam Lâm",
+            "Cam Lâm",
+            "Cam Lam",
+            "Huyen Cam Lam",
+            "camlam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431972 +0700 +07 m=+0.015917602",
+        "UpdatedAt": "2020-09-29 13:42:59.539416 +0700 +07 m=+32.041511853",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1829,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện Vạn Ninh",
+        "Code": "4102",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vạn Ninh",
+            "H.Vạn Ninh",
+            "H Vạn Ninh",
+            "Vạn Ninh",
+            "Van Ninh",
+            "Huyen Van Ninh",
+            "vanninh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432358 +0700 +07 m=+0.016303721",
+        "UpdatedAt": "2020-09-29 13:43:02.797118 +0700 +07 m=+35.299152143",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1739,
+        "ProvinceID": 208,
+        "DistrictName": "Huyện Diên Khánh",
+        "Code": "4104",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Diên Khánh",
+            "H.Diên Khánh",
+            "H Diên Khánh",
+            "Diên Khánh",
+            "Dien Khanh",
+            "Huyen Dien Khanh",
+            "dienkhanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431786 +0700 +07 m=+0.015732053",
+        "UpdatedAt": "2020-09-29 13:43:06.948958 +0700 +07 m=+39.450913920",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1664,
+        "ProvinceID": 208,
+        "DistrictName": "Thành phố Cam Ranh",
+        "Code": "4106",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Cam Ranh",
+            "TP.Cam Ranh",
+            "TP Cam Ranh",
+            "Cam Ranh",
+            "Thanh pho Cam Ranh",
+            "camranh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431682 +0700 +07 m=+0.015627824",
+        "UpdatedAt": "2020-09-29 13:43:09.637987 +0700 +07 m=+42.139891050",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1548,
+        "ProvinceID": 208,
+        "DistrictName": "Thành phố Nha Trang",
+        "Code": "4101",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Nha Trang",
+            "TP.Nha Trang",
+            "TP Nha Trang",
+            "Nha Trang",
+            "Thanh pho Nha Trang",
+            "nhatrang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431499 +0700 +07 m=+0.015445152",
+        "UpdatedAt": "2020-09-29 13:43:12.063085 +0700 +07 m=+44.564943739",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

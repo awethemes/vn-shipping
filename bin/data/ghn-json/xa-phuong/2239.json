@@ -1,0 +1,574 @@
+[
+    {
+        "WardCode": "340822",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Tú",
+        "NameExtension": [
+            "Xã Bình Tú",
+            "X.Bình Tú",
+            "X Bình Tú",
+            "Bình Tú",
+            "Binh Tu",
+            "Xa Binh Tu",
+            "binhtu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408473 +0700 +07 m=+0.044810764",
+        "UpdatedAt": "2020-09-29 13:53:53.28053 +0700 +07 m=+257.942448531",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340821",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Trung",
+        "NameExtension": [
+            "Xã Bình Trung",
+            "X.Bình Trung",
+            "X Bình Trung",
+            "Bình Trung",
+            "Binh Trung",
+            "Xa Binh Trung",
+            "binhtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40848 +0700 +07 m=+0.044817718",
+        "UpdatedAt": "2020-09-29 13:53:53.319314 +0700 +07 m=+257.981231945",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340820",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Triều",
+        "NameExtension": [
+            "Xã Bình Triều",
+            "X.Bình Triều",
+            "X Bình Triều",
+            "Bình Triều",
+            "Binh Trieu",
+            "Xa Binh Trieu",
+            "binhtrieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408459 +0700 +07 m=+0.044796622",
+        "UpdatedAt": "2020-09-29 13:53:53.36318 +0700 +07 m=+258.025097257",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340819",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Trị",
+        "NameExtension": [
+            "Xã Bình Trị",
+            "X.Bình Trị",
+            "X Bình Trị",
+            "Bình Trị",
+            "Binh Tri",
+            "Xa Binh Tri",
+            "binhtri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408465 +0700 +07 m=+0.044802217",
+        "UpdatedAt": "2020-09-29 13:53:53.410392 +0700 +07 m=+258.072307852",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340818",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Sa",
+        "NameExtension": [
+            "Xã Bình Sa",
+            "X.Bình Sa",
+            "X Bình Sa",
+            "Bình Sa",
+            "Binh Sa",
+            "Xa Binh Sa",
+            "binhsa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408475 +0700 +07 m=+0.044812152",
+        "UpdatedAt": "2020-09-29 13:53:53.47053 +0700 +07 m=+258.132445317",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340817",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Quý",
+        "NameExtension": [
+            "Xã Bình Quý",
+            "X.Bình Quý",
+            "X Bình Quý",
+            "Bình Quý",
+            "Binh Quy",
+            "Xa Binh Quy",
+            "binhquy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408469 +0700 +07 m=+0.044806551",
+        "UpdatedAt": "2020-09-29 13:53:53.516909 +0700 +07 m=+258.178823757",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340816",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Quế",
+        "NameExtension": [
+            "Xã Bình Quế",
+            "X.Bình Quế",
+            "X Bình Quế",
+            "Bình Quế",
+            "Binh Que",
+            "Xa Binh Que",
+            "binhque"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408478 +0700 +07 m=+0.044814955",
+        "UpdatedAt": "2020-09-29 13:53:53.573894 +0700 +07 m=+258.235807586",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340815",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Phục",
+        "NameExtension": [
+            "Xã Bình Phục",
+            "X.Bình Phục",
+            "X Bình Phục",
+            "Bình Phục",
+            "Binh Phuc",
+            "Xa Binh Phuc",
+            "binhphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408458 +0700 +07 m=+0.044795244",
+        "UpdatedAt": "2020-09-29 13:53:53.724128 +0700 +07 m=+258.386038602",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340814",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Phú",
+        "NameExtension": [
+            "Xã Bình Phú",
+            "X.Bình Phú",
+            "X Bình Phú",
+            "Bình Phú",
+            "Binh Phu",
+            "Xa Binh Phu",
+            "binhphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408471 +0700 +07 m=+0.044808015",
+        "UpdatedAt": "2020-09-29 13:53:53.758517 +0700 +07 m=+258.420426327",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340813",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Nguyên",
+        "NameExtension": [
+            "Xã Bình Nguyên",
+            "X.Bình Nguyên",
+            "X Bình Nguyên",
+            "Bình Nguyên",
+            "Binh Nguyen",
+            "Xa Binh Nguyen",
+            "binhnguyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408457 +0700 +07 m=+0.044793857",
+        "UpdatedAt": "2020-09-29 13:53:53.797219 +0700 +07 m=+258.459127948",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340812",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Nam",
+        "NameExtension": [
+            "Xã Bình Nam",
+            "X.Bình Nam",
+            "X Bình Nam",
+            "Bình Nam",
+            "Binh Nam",
+            "Xa Binh Nam",
+            "binhnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408482 +0700 +07 m=+0.044819079",
+        "UpdatedAt": "2020-09-29 13:53:53.84759 +0700 +07 m=+258.509498352",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340811",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Minh",
+        "NameExtension": [
+            "Xã Bình Minh",
+            "X.Bình Minh",
+            "X Bình Minh",
+            "Bình Minh",
+            "Binh Minh",
+            "Xa Binh Minh",
+            "binhminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408462 +0700 +07 m=+0.044799449",
+        "UpdatedAt": "2020-09-29 13:53:53.885888 +0700 +07 m=+258.547794934",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340810",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Lãnh",
+        "NameExtension": [
+            "Xã Bình Lãnh",
+            "X.Bình Lãnh",
+            "X Bình Lãnh",
+            "Bình Lãnh",
+            "Binh Lanh",
+            "Xa Binh Lanh",
+            "binhlanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408463 +0700 +07 m=+0.044800800",
+        "UpdatedAt": "2020-09-29 13:53:53.951711 +0700 +07 m=+258.613616666",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340809",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Hải",
+        "NameExtension": [
+            "Xã Bình Hải",
+            "X.Bình Hải",
+            "X Bình Hải",
+            "Bình Hải",
+            "Binh Hai",
+            "Xa Binh Hai",
+            "binhhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408476 +0700 +07 m=+0.044813560",
+        "UpdatedAt": "2020-09-29 13:53:54.013535 +0700 +07 m=+258.675439755",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340808",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Giang",
+        "NameExtension": [
+            "Xã Bình Giang",
+            "X.Bình Giang",
+            "X Bình Giang",
+            "Bình Giang",
+            "Binh Giang",
+            "Xa Binh Giang",
+            "binhgiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408455 +0700 +07 m=+0.044792510",
+        "UpdatedAt": "2020-09-29 13:53:54.065313 +0700 +07 m=+258.727216879",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340807",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Dương",
+        "NameExtension": [
+            "Xã Bình Dương",
+            "X.Bình Dương",
+            "X Bình Dương",
+            "Bình Dương",
+            "Binh Duong",
+            "Xa Binh Duong",
+            "binhduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408454 +0700 +07 m=+0.044791102",
+        "UpdatedAt": "2020-09-29 13:53:54.101676 +0700 +07 m=+258.763579163",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340806",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Định Nam",
+        "NameExtension": [
+            "Xã Bình Định Nam",
+            "X.Bình Định Nam",
+            "X Bình Định Nam",
+            "Bình Định Nam",
+            "Binh Dinh Nam",
+            "Xa Binh Dinh Nam",
+            "binhdinhnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408468 +0700 +07 m=+0.044805133",
+        "UpdatedAt": "2020-09-29 13:53:54.143946 +0700 +07 m=+258.805848083",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340805",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Định Bắc",
+        "NameExtension": [
+            "Xã Bình Định Bắc",
+            "X.Bình Định Bắc",
+            "X Bình Định Bắc",
+            "Bình Định Bắc",
+            "Binh Dinh Bac",
+            "Xa Binh Dinh Bac",
+            "binhdinhbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408466 +0700 +07 m=+0.044803689",
+        "UpdatedAt": "2020-09-29 13:53:54.178436 +0700 +07 m=+258.840337423",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340804",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Đào",
+        "NameExtension": [
+            "Xã Bình Đào",
+            "X.Bình Đào",
+            "X Bình Đào",
+            "Bình Đào",
+            "Binh Dao",
+            "Xa Binh Dao",
+            "binhdao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408461 +0700 +07 m=+0.044798047",
+        "UpdatedAt": "2020-09-29 13:53:54.213989 +0700 +07 m=+258.875889679",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340803",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình Chánh",
+        "NameExtension": [
+            "Xã Bình Chánh",
+            "X.Bình Chánh",
+            "X Bình Chánh",
+            "Bình Chánh",
+            "Binh Chanh",
+            "Xa Binh Chanh",
+            "binhchanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408472 +0700 +07 m=+0.044809380",
+        "UpdatedAt": "2020-09-29 13:53:54.268428 +0700 +07 m=+258.930328132",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340802",
+        "DistrictID": 2239,
+        "WardName": "Xã Bình An",
+        "NameExtension": [
+            "Xã Bình An",
+            "X.Bình An",
+            "X Bình An",
+            "Bình An",
+            "Binh An",
+            "Xa Binh An",
+            "binhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408479 +0700 +07 m=+0.044816336",
+        "UpdatedAt": "2020-09-29 13:53:54.311885 +0700 +07 m=+258.973784198",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "340801",
+        "DistrictID": 2239,
+        "WardName": "Thị trấn Hà Lam",
+        "NameExtension": [
+            "Thị trấn Hà Lam",
+            "TT.Hà Lam",
+            "TT Hà Lam",
+            "Hà Lam",
+            "Ha Lam",
+            "Thi tran Ha Lam",
+            "halam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408452 +0700 +07 m=+0.044789678",
+        "UpdatedAt": "2020-09-29 13:53:54.359516 +0700 +07 m=+259.021414073",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "DistrictID": 3443,
+        "ProvinceID": 214,
+        "DistrictName": "Thị xã Duyên Hải",
+        "Code": "5809",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Duyên Hải",
+            "TX.Duyên Hải",
+            "TX Duyên Hải",
+            "Duyên Hải",
+            "Duyen Hai",
+            "Thi xa Duyen Hai",
+            "duyenhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431993 +0700 +07 m=+0.015939021",
+        "UpdatedAt": "2020-09-29 13:42:41.419868 +0700 +07 m=+13.922308092",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2103,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Duyên Hải",
+        "Code": "5808",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Duyên Hải",
+            "H.Duyên Hải",
+            "H Duyên Hải",
+            "Duyên Hải",
+            "Duyen Hai",
+            "Huyen Duyen Hai",
+            "duyenhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43287 +0700 +07 m=+0.016815521",
+        "UpdatedAt": "2020-09-29 13:42:51.07522 +0700 +07 m=+23.577476908",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2091,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Cầu Kè",
+        "Code": "5803",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cầu Kè",
+            "H.Cầu Kè",
+            "H Cầu Kè",
+            "Cầu Kè",
+            "Cau Ke",
+            "Huyen Cau Ke",
+            "cauke"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432862 +0700 +07 m=+0.016807643",
+        "UpdatedAt": "2020-09-29 13:42:51.250673 +0700 +07 m=+23.752926072",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2086,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Càng Long",
+        "Code": "5802",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Càng Long",
+            "H.Càng Long",
+            "H Càng Long",
+            "Càng Long",
+            "Cang Long",
+            "Huyen Cang Long",
+            "canglong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432857 +0700 +07 m=+0.016803344",
+        "UpdatedAt": "2020-09-29 13:42:51.477438 +0700 +07 m=+23.979686833",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2033,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Trà Cú",
+        "Code": "5806",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trà Cú",
+            "H.Trà Cú",
+            "H Trà Cú",
+            "Trà Cú",
+            "Tra Cu",
+            "Huyen Tra Cu",
+            "tracu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432781 +0700 +07 m=+0.016726452",
+        "UpdatedAt": "2020-09-29 13:42:53.34003 +0700 +07 m=+25.842243560",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2020,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Tiểu Cần",
+        "Code": "5804",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tiểu Cần",
+            "H.Tiểu Cần",
+            "H Tiểu Cần",
+            "Tiểu Cần",
+            "Tieu Can",
+            "Huyen Tieu Can",
+            "tieucan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432753 +0700 +07 m=+0.016699307",
+        "UpdatedAt": "2020-09-29 13:42:54.044073 +0700 +07 m=+26.546273958",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1911,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5805",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43237 +0700 +07 m=+0.016315399",
+        "UpdatedAt": "2020-09-29 13:42:59.133865 +0700 +07 m=+31.635968983",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1908,
+        "ProvinceID": 214,
+        "DistrictName": "Huyện Cầu Ngang",
+        "Code": "5807",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cầu Ngang",
+            "H.Cầu Ngang",
+            "H Cầu Ngang",
+            "Cầu Ngang",
+            "Cau Ngang",
+            "Huyen Cau Ngang",
+            "caungang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432365 +0700 +07 m=+0.016310915",
+        "UpdatedAt": "2020-09-29 13:42:59.311861 +0700 +07 m=+31.813961302",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1560,
+        "ProvinceID": 214,
+        "DistrictName": "Thành phố Trà Vinh",
+        "Code": "5801",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Trà Vinh",
+            "TP.Trà Vinh",
+            "TP Trà Vinh",
+            "Trà Vinh",
+            "Tra Vinh",
+            "Thanh pho Tra Vinh",
+            "travinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431568 +0700 +07 m=+0.015513962",
+        "UpdatedAt": "2020-09-29 13:43:11.827968 +0700 +07 m=+44.329830722",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

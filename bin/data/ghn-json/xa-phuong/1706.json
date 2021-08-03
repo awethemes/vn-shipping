@@ -1,0 +1,159 @@
+[
+    {
+        "WardCode": "31506",
+        "DistrictID": 1706,
+        "WardName": "Phường Tân Thành",
+        "NameExtension": [
+            "Phường Tân Thành",
+            "P.Tân Thành",
+            "P Tân Thành",
+            "Tân Thành",
+            "Tan Thanh",
+            "Phuong Tan Thanh",
+            "tanthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400137 +0700 +07 m=+0.036474277",
+        "UpdatedAt": "2020-09-29 13:54:17.170133 +0700 +07 m=+281.831598358",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "31505",
+        "DistrictID": 1706,
+        "WardName": "Phường Hưng Đạo",
+        "NameExtension": [
+            "Phường Hưng Đạo",
+            "P.Hưng Đạo",
+            "P Hưng Đạo",
+            "Hưng Đạo",
+            "Hung Dao",
+            "Phuong Hung Dao",
+            "hungdao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400131 +0700 +07 m=+0.036468533",
+        "UpdatedAt": "2020-09-29 13:54:17.209595 +0700 +07 m=+281.871059611",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "31504",
+        "DistrictID": 1706,
+        "WardName": "Phường Hoà Nghĩa",
+        "NameExtension": [
+            "Phường Hoà Nghĩa",
+            "P.Hoà Nghĩa",
+            "P Hoà Nghĩa",
+            "Hoà Nghĩa",
+            "Hoa Nghia",
+            "Phuong Hoa Nghia",
+            "Phường Hòa Nghĩa",
+            "hoanghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400136 +0700 +07 m=+0.036472846",
+        "UpdatedAt": "2020-09-29 13:54:17.251475 +0700 +07 m=+281.912938966",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "31503",
+        "DistrictID": 1706,
+        "WardName": "Phường Hải Thành",
+        "NameExtension": [
+            "Phường Hải Thành",
+            "P.Hải Thành",
+            "P Hải Thành",
+            "Hải Thành",
+            "Hai Thanh",
+            "Phuong Hai Thanh",
+            "haithanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400134 +0700 +07 m=+0.036471377",
+        "UpdatedAt": "2020-09-29 13:54:17.289165 +0700 +07 m=+281.950627711",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "31502",
+        "DistrictID": 1706,
+        "WardName": "Phường Đa Phúc",
+        "NameExtension": [
+            "Phường Đa Phúc",
+            "P.Đa Phúc",
+            "P Đa Phúc",
+            "Đa Phúc",
+            "Da Phuc",
+            "Phuong Da Phuc",
+            "daphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40013 +0700 +07 m=+0.036466995",
+        "UpdatedAt": "2020-09-29 13:54:17.344728 +0700 +07 m=+282.006189675",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "31501",
+        "DistrictID": 1706,
+        "WardName": "Phường Anh Dũng",
+        "NameExtension": [
+            "Phường Anh Dũng",
+            "P.Anh Dũng",
+            "P Anh Dũng",
+            "Anh Dũng",
+            "Anh Dung",
+            "Phuong Anh Dung",
+            "anhdung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400133 +0700 +07 m=+0.036469946",
+        "UpdatedAt": "2020-09-29 13:54:17.384434 +0700 +07 m=+282.045894848",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

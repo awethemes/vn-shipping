@@ -1,0 +1,288 @@
+[
+    {
+        "WardCode": "20211",
+        "DistrictID": 1443,
+        "WardName": "Phường Thủ Thiêm",
+        "NameExtension": [
+            "Phường Thủ Thiêm",
+            "P.Thủ Thiêm",
+            "P Thủ Thiêm",
+            "Thủ Thiêm",
+            "Thu Thiem",
+            "Phuong Thu Thiem",
+            "thuthiem"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400672 +0700 +07 m=+0.037009731",
+        "UpdatedAt": "2020-09-29 13:57:32.015184 +0700 +07 m=+476.672950771",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20210",
+        "DistrictID": 1443,
+        "WardName": "Phường Thảo Điền",
+        "NameExtension": [
+            "Phường Thảo Điền",
+            "P.Thảo Điền",
+            "P Thảo Điền",
+            "Thảo Điền",
+            "Thao Dien",
+            "Phuong Thao Dien",
+            "thaodien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400657 +0700 +07 m=+0.036994497",
+        "UpdatedAt": "2020-09-29 13:57:32.066798 +0700 +07 m=+476.724564446",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20209",
+        "DistrictID": 1443,
+        "WardName": "Phường Thạnh Mỹ Lợi",
+        "NameExtension": [
+            "Phường Thạnh Mỹ Lợi",
+            "P.Thạnh Mỹ Lợi",
+            "P Thạnh Mỹ Lợi",
+            "Thạnh Mỹ Lợi",
+            "Thanh My Loi",
+            "Phuong Thanh My Loi",
+            "thanhmyloi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400669 +0700 +07 m=+0.037006747",
+        "UpdatedAt": "2020-09-29 13:57:32.142997 +0700 +07 m=+476.800761249",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20208",
+        "DistrictID": 1443,
+        "WardName": "Phường Cát Lái",
+        "NameExtension": [
+            "Phường Cát Lái",
+            "P.Cát Lái",
+            "P Cát Lái",
+            "Cát Lái",
+            "Cat Lai",
+            "Phuong Cat Lai",
+            "catlai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400668 +0700 +07 m=+0.037005293",
+        "UpdatedAt": "2020-09-29 13:57:32.208749 +0700 +07 m=+476.866512206",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20207",
+        "DistrictID": 1443,
+        "WardName": "Phường Bình Trưng Tây",
+        "NameExtension": [
+            "Phường Bình Trưng Tây",
+            "P.Bình Trưng Tây",
+            "P Bình Trưng Tây",
+            "Bình Trưng Tây",
+            "Binh Trung Tay",
+            "Phuong Binh Trung Tay",
+            "binhtrungtay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400664 +0700 +07 m=+0.037000898",
+        "UpdatedAt": "2020-09-29 13:57:32.315694 +0700 +07 m=+476.973455216",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20206",
+        "DistrictID": 1443,
+        "WardName": "Phường Bình Trưng Đông",
+        "NameExtension": [
+            "Phường Bình Trưng Đông",
+            "P.Bình Trưng Đông",
+            "P Bình Trưng Đông",
+            "Bình Trưng Đông",
+            "Binh Trung Dong",
+            "Phuong Binh Trung Dong",
+            "binhtrungdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400662 +0700 +07 m=+0.036999413",
+        "UpdatedAt": "2020-09-29 13:57:32.362451 +0700 +07 m=+477.020211594",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20205",
+        "DistrictID": 1443,
+        "WardName": "Phường Bình Khánh",
+        "NameExtension": [
+            "Phường Bình Khánh",
+            "P.Bình Khánh",
+            "P Bình Khánh",
+            "Bình Khánh",
+            "Binh Khanh",
+            "Phuong Binh Khanh",
+            "binhkhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400665 +0700 +07 m=+0.037002375",
+        "UpdatedAt": "2020-09-29 13:57:32.411811 +0700 +07 m=+477.069570848",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20204",
+        "DistrictID": 1443,
+        "WardName": "Phường Bình An",
+        "NameExtension": [
+            "Phường Bình An",
+            "P.Bình An",
+            "P Bình An",
+            "Bình An",
+            "Binh An",
+            "Phuong Binh An",
+            "binhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400661 +0700 +07 m=+0.036997847",
+        "UpdatedAt": "2020-09-29 13:57:32.467916 +0700 +07 m=+477.125674302",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20203",
+        "DistrictID": 1443,
+        "WardName": "Phường An Phú",
+        "NameExtension": [
+            "Phường An Phú",
+            "P.An Phú",
+            "P An Phú",
+            "An Phú",
+            "An Phu",
+            "Phuong An Phu",
+            "anphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400659 +0700 +07 m=+0.036996339",
+        "UpdatedAt": "2020-09-29 13:57:32.522991 +0700 +07 m=+477.180747904",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20202",
+        "DistrictID": 1443,
+        "WardName": "Phường An Lợi Đông",
+        "NameExtension": [
+            "Phường An Lợi Đông",
+            "P.An Lợi Đông",
+            "P An Lợi Đông",
+            "An Lợi Đông",
+            "An Loi Dong",
+            "Phuong An Loi Dong",
+            "anloidong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400671 +0700 +07 m=+0.037008271",
+        "UpdatedAt": "2020-09-29 13:57:32.570197 +0700 +07 m=+477.227953358",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20201",
+        "DistrictID": 1443,
+        "WardName": "Phường An Khánh",
+        "NameExtension": [
+            "Phường An Khánh",
+            "P.An Khánh",
+            "P An Khánh",
+            "An Khánh",
+            "An Khanh",
+            "Phuong An Khanh",
+            "ankhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400667 +0700 +07 m=+0.037003849",
+        "UpdatedAt": "2020-09-29 13:57:32.621283 +0700 +07 m=+477.279039098",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

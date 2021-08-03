@@ -1,0 +1,398 @@
+[
+    {
+        "DistrictID": 3304,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Trà Bồng",
+        "Code": "3504",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trà Bồng",
+            "H.Trà Bồng",
+            "H Trà Bồng",
+            "Trà Bồng",
+            "Tra Bong",
+            "Huyen Tra Bong",
+            "trabong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432627 +0700 +07 m=+0.016572991",
+        "UpdatedAt": "2020-09-29 13:42:42.263137 +0700 +07 m=+14.765561313",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3270,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Sơn Tây",
+        "Code": "3513",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sơn Tây",
+            "H.Sơn Tây",
+            "H Sơn Tây",
+            "Sơn Tây",
+            "Son Tay",
+            "Huyen Son Tay",
+            "sontay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432083 +0700 +07 m=+0.016028645",
+        "UpdatedAt": "2020-09-29 13:42:43.422771 +0700 +07 m=+15.925172839",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3226,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Mộ Đức",
+        "Code": "3510",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mộ Đức",
+            "H.Mộ Đức",
+            "H Mộ Đức",
+            "Mộ Đức",
+            "Mo Duc",
+            "Huyen Mo Duc",
+            "moduc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432629 +0700 +07 m=+0.016574441",
+        "UpdatedAt": "2020-09-29 13:42:44.617121 +0700 +07 m=+17.119500719",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3127,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Ba Tơ",
+        "Code": "3512",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ba Tơ",
+            "H.Ba Tơ",
+            "H Ba Tơ",
+            "Ba Tơ",
+            "Ba To",
+            "Huyen Ba To",
+            "bato"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43263 +0700 +07 m=+0.016575974",
+        "UpdatedAt": "2020-09-29 13:42:46.802296 +0700 +07 m=+19.304633560",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2222,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Tây Trà",
+        "Code": "3514",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tây Trà",
+            "H.Tây Trà",
+            "H Tây Trà",
+            "Tây Trà",
+            "Tay Tra",
+            "Huyen Tay Tra",
+            "taytra"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432096 +0700 +07 m=+0.016041763",
+        "UpdatedAt": "2020-09-29 13:42:47.943583 +0700 +07 m=+20.445899286",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2210,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Sơn Hà",
+        "Code": "3506",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sơn Hà",
+            "H.Sơn Hà",
+            "H Sơn Hà",
+            "Sơn Hà",
+            "Son Ha",
+            "Huyen Son Ha",
+            "sonha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43209 +0700 +07 m=+0.016035949",
+        "UpdatedAt": "2020-09-29 13:42:48.115527 +0700 +07 m=+20.617840253",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2167,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Minh Long",
+        "Code": "3509",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Minh Long",
+            "H.Minh Long",
+            "H Minh Long",
+            "Minh Long",
+            "Huyen Minh Long",
+            "minhlong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432044 +0700 +07 m=+0.015989719",
+        "UpdatedAt": "2020-09-29 13:42:49.102651 +0700 +07 m=+21.604945710",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2114,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện đảo Lý Sơn",
+        "Code": "3502",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lý Sơn",
+            "Lý Sơn",
+            "Ly Son",
+            "Huyen dao Ly Son",
+            "lyson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432889 +0700 +07 m=+0.016835119",
+        "UpdatedAt": "2020-09-29 13:42:50.635818 +0700 +07 m=+23.138083431",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1988,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Nghĩa Hành",
+        "Code": "3508",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nghĩa Hành",
+            "H.Nghĩa Hành",
+            "H Nghĩa Hành",
+            "Nghĩa Hành",
+            "Nghia Hanh",
+            "Huyen Nghia Hanh",
+            "nghiahanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432565 +0700 +07 m=+0.016510492",
+        "UpdatedAt": "2020-09-29 13:42:55.449263 +0700 +07 m=+27.951437103",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1930,
+        "ProvinceID": 242,
+        "DistrictName": "Thị xã Đức Phổ",
+        "Code": "3511",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đức Phổ",
+            "H.Đức Phổ",
+            "H Đức Phổ",
+            "Đức Phổ",
+            "Duc Pho",
+            "Huyen Duc Pho",
+            "ducpho",
+            "Thị xã Đức Phổ",
+            "TX Đức Phổ",
+            "TX Duc Pho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432413 +0700 +07 m=+0.016358962",
+        "UpdatedAt": "2020-09-29 13:42:58.152912 +0700 +07 m=+30.655034507",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:01:06.991Z"
+    },
+    {
+        "DistrictID": 1898,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Bình Sơn",
+        "Code": "3503",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Sơn",
+            "H.Bình Sơn",
+            "H Bình Sơn",
+            "Bình Sơn",
+            "Binh Son",
+            "Huyen Binh Son",
+            "binhson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431966 +0700 +07 m=+0.015911786",
+        "UpdatedAt": "2020-09-29 13:42:59.68115 +0700 +07 m=+32.183243763",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1738,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Tư Nghĩa",
+        "Code": "3507",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tư Nghĩa",
+            "H.Tư Nghĩa",
+            "H Tư Nghĩa",
+            "Tư Nghĩa",
+            "Tu Nghia",
+            "Huyen Tu Nghia",
+            "tunghia"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431782 +0700 +07 m=+0.015728162",
+        "UpdatedAt": "2020-09-29 13:43:06.981918 +0700 +07 m=+39.483872556",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1737,
+        "ProvinceID": 242,
+        "DistrictName": "Huyện Sơn Tịnh",
+        "Code": "3505",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sơn Tịnh",
+            "H.Sơn Tịnh",
+            "H Sơn Tịnh",
+            "Sơn Tịnh",
+            "Son Tinh",
+            "Huyen Son Tinh",
+            "sontinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431781 +0700 +07 m=+0.015726695",
+        "UpdatedAt": "2020-09-29 13:43:07.016617 +0700 +07 m=+39.518570875",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1630,
+        "ProvinceID": 242,
+        "DistrictName": "Thành phố Quảng Ngãi",
+        "Code": "3501",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Quảng Ngãi",
+            "TP.Quảng Ngãi",
+            "TP Quảng Ngãi",
+            "Quảng Ngãi",
+            "Quang Ngai",
+            "Thanh pho Quang Ngai",
+            "quangngai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431652 +0700 +07 m=+0.015598237",
+        "UpdatedAt": "2020-09-29 13:43:10.225778 +0700 +07 m=+42.727671787",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

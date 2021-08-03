@@ -1,0 +1,226 @@
+[
+    {
+        "WardCode": "320109",
+        "DistrictID": 1620,
+        "WardName": "Phường Đông Thanh",
+        "NameExtension": [
+            "Phường Đông Thanh",
+            "P.Đông Thanh",
+            "P Đông Thanh",
+            "Đông Thanh",
+            "Dong Thanh",
+            "Phuong Dong Thanh",
+            "dongthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409185 +0700 +07 m=+0.045522637",
+        "UpdatedAt": "2020-09-29 13:54:16.933204 +0700 +07 m=+281.594673769",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320108",
+        "DistrictID": 1620,
+        "WardName": "Phường Đông Lương",
+        "NameExtension": [
+            "Phường Đông Lương",
+            "P.Đông Lương",
+            "P Đông Lương",
+            "Đông Lương",
+            "Dong Luong",
+            "Phuong Dong Luong",
+            "dongluong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409191 +0700 +07 m=+0.045528375",
+        "UpdatedAt": "2020-09-29 13:54:16.972956 +0700 +07 m=+281.634425137",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320107",
+        "DistrictID": 1620,
+        "WardName": "Phường Đông Lễ",
+        "NameExtension": [
+            "Phường Đông Lễ",
+            "P.Đông Lễ",
+            "P Đông Lễ",
+            "Đông Lễ",
+            "Dong Le",
+            "Phuong Dong Le",
+            "dongle"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409184 +0700 +07 m=+0.045521135",
+        "UpdatedAt": "2020-09-29 13:54:17.044125 +0700 +07 m=+281.705593082",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320106",
+        "DistrictID": 1620,
+        "WardName": "Phường Đông Giang",
+        "NameExtension": [
+            "Phường Đông Giang",
+            "P.Đông Giang",
+            "P Đông Giang",
+            "Đông Giang",
+            "Dong Giang",
+            "Phuong Dong Giang",
+            "donggiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409181 +0700 +07 m=+0.045518087",
+        "UpdatedAt": "2020-09-29 13:54:17.113342 +0700 +07 m=+281.774808295",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320105",
+        "DistrictID": 1620,
+        "WardName": "Phường 5",
+        "NameExtension": [
+            "Phường 5",
+            "P.5",
+            "P 5",
+            "5",
+            "Phuong 5"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40919 +0700 +07 m=+0.045526859",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320104",
+        "DistrictID": 1620,
+        "WardName": "Phường 4",
+        "NameExtension": [
+            "Phường 4",
+            "P.4",
+            "P 4",
+            "4",
+            "Phuong 4"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409188 +0700 +07 m=+0.045525458",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320103",
+        "DistrictID": 1620,
+        "WardName": "Phường 3",
+        "NameExtension": [
+            "Phường 3",
+            "P.3",
+            "P 3",
+            "3",
+            "Phuong 3"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409192 +0700 +07 m=+0.045529758",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320102",
+        "DistrictID": 1620,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409187 +0700 +07 m=+0.045524087",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "320101",
+        "DistrictID": 1620,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409182 +0700 +07 m=+0.045519580",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

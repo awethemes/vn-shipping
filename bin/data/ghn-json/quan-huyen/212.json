@@ -1,0 +1,310 @@
+[
+    {
+        "DistrictID": 3275,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Tân Phước",
+        "Code": "5309",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Phước",
+            "H.Tân Phước",
+            "H Tân Phước",
+            "Tân Phước",
+            "Tan Phuoc",
+            "Huyen Tan Phuoc",
+            "tanphuoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432738 +0700 +07 m=+0.016684169",
+        "UpdatedAt": "2020-09-29 13:42:43.259379 +0700 +07 m=+15.761784010",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2216,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Tân Phú Đông",
+        "Code": "5310",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Phú Đông",
+            "H.Tân Phú Đông",
+            "H Tân Phú Đông",
+            "Tân Phú Đông",
+            "Tan Phu Dong",
+            "Huyen Tan Phu Dong",
+            "tanphudong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432093 +0700 +07 m=+0.016038810",
+        "UpdatedAt": "2020-09-29 13:42:48.01577 +0700 +07 m=+20.518084551",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2084,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Cai Lậy",
+        "Code": "5304",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cai Lậy",
+            "H.Cai Lậy",
+            "H Cai Lậy",
+            "Cai Lậy",
+            "Cai Lay",
+            "Huyen Cai Lay",
+            "cailay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432856 +0700 +07 m=+0.016801936",
+        "UpdatedAt": "2020-09-29 13:42:51.516753 +0700 +07 m=+24.019001202",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2057,
+        "ProvinceID": 212,
+        "DistrictName": "Thị xã Gò Công",
+        "Code": "5302",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Gò Công",
+            "TX.Gò Công",
+            "TX Gò Công",
+            "Gò Công",
+            "Go Cong",
+            "Thi xa Go Cong",
+            "gocong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432821 +0700 +07 m=+0.016767179",
+        "UpdatedAt": "2020-09-29 13:42:52.316767 +0700 +07 m=+24.819000283",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2055,
+        "ProvinceID": 212,
+        "DistrictName": "Thị xã Cai Lậy",
+        "Code": "5311",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Cai Lậy",
+            "TX.Cai Lậy",
+            "TX Cai Lậy",
+            "Cai Lậy",
+            "Cai Lay",
+            "Thi xa Cai Lay",
+            "cailay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432816 +0700 +07 m=+0.016761880",
+        "UpdatedAt": "2020-09-29 13:42:52.388071 +0700 +07 m=+24.890303123",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1933,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Gò Công Tây",
+        "Code": "5307",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gò Công Tây",
+            "H.Gò Công Tây",
+            "H Gò Công Tây",
+            "Gò Công Tây",
+            "Go Cong Tay",
+            "Huyen Go Cong Tay",
+            "gocongtay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432418 +0700 +07 m=+0.016363399",
+        "UpdatedAt": "2020-09-29 13:42:58.015736 +0700 +07 m=+30.517861092",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1932,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Gò Công Đông",
+        "Code": "5308",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gò Công Đông",
+            "H.Gò Công Đông",
+            "H Gò Công Đông",
+            "Gò Công Đông",
+            "Go Cong Dong",
+            "Huyen Go Cong Dong",
+            "gocongdong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432416 +0700 +07 m=+0.016361870",
+        "UpdatedAt": "2020-09-29 13:42:58.078306 +0700 +07 m=+30.580429901",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1900,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Cái Bè",
+        "Code": "5303",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cái Bè",
+            "H.Cái Bè",
+            "H Cái Bè",
+            "Cái Bè",
+            "Cai Be",
+            "Huyen Cai Be",
+            "caibe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431969 +0700 +07 m=+0.015914686",
+        "UpdatedAt": "2020-09-29 13:42:59.605285 +0700 +07 m=+32.107379990",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1741,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Chợ Gạo",
+        "Code": "5306",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chợ Gạo",
+            "H.Chợ Gạo",
+            "H Chợ Gạo",
+            "Chợ Gạo",
+            "Cho Gao",
+            "Huyen Cho Gao",
+            "chogao"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431789 +0700 +07 m=+0.015734991",
+        "UpdatedAt": "2020-09-29 13:43:06.870833 +0700 +07 m=+39.372789788",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1740,
+        "ProvinceID": 212,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5305",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431788 +0700 +07 m=+0.015733517",
+        "UpdatedAt": "2020-09-29 13:43:06.909944 +0700 +07 m=+39.411900332",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1556,
+        "ProvinceID": 212,
+        "DistrictName": "Thành phố Mỹ Tho",
+        "Code": "5301",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Mỹ Tho",
+            "TP.Mỹ Tho",
+            "TP Mỹ Tho",
+            "Mỹ Tho",
+            "My Tho",
+            "Thanh pho My Tho",
+            "mytho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431562 +0700 +07 m=+0.015508047",
+        "UpdatedAt": "2020-09-29 13:43:11.904471 +0700 +07 m=+44.406332270",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

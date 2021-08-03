@@ -1,0 +1,80 @@
+[
+    {
+        "WardCode": "350203",
+        "DistrictID": 2114,
+        "WardName": "Xã An Vĩnh",
+        "NameExtension": [
+            "Xã An Vĩnh",
+            "X.An Vĩnh",
+            "X An Vĩnh",
+            "An Vĩnh",
+            "An Vinh",
+            "Xa An Vinh",
+            "anvinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408886 +0700 +07 m=+0.045223495",
+        "UpdatedAt": "2020-09-29 13:53:44.441002 +0700 +07 m=+249.103088597",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350202",
+        "DistrictID": 2114,
+        "WardName": "Xã An Hải",
+        "NameExtension": [
+            "Xã An Hải",
+            "X.An Hải",
+            "X An Hải",
+            "An Hải",
+            "An Hai",
+            "Xa An Hai",
+            "anhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408888 +0700 +07 m=+0.045224866",
+        "UpdatedAt": "2020-09-29 13:53:44.481046 +0700 +07 m=+249.143131595",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350201",
+        "DistrictID": 2114,
+        "WardName": "Xã An Bình",
+        "NameExtension": [
+            "Xã An Bình",
+            "X.An Bình",
+            "X An Bình",
+            "An Bình",
+            "An Binh",
+            "Xa An Binh",
+            "anbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408889 +0700 +07 m=+0.045226237",
+        "UpdatedAt": "2020-09-29 13:53:44.515323 +0700 +07 m=+249.177408061",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

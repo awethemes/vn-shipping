@@ -1,0 +1,254 @@
+[
+    {
+        "WardCode": "460110",
+        "DistrictID": 1626,
+        "WardName": "Xã Thạnh Tân",
+        "NameExtension": [
+            "Xã Thạnh Tân",
+            "X.Thạnh Tân",
+            "X Thạnh Tân",
+            "Thạnh Tân",
+            "Thanh Tan",
+            "Xa Thanh Tan",
+            "thanhtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409851 +0700 +07 m=+0.046188268",
+        "UpdatedAt": "2020-09-29 13:52:26.38488 +0700 +07 m=+171.048447716",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460109",
+        "DistrictID": 1626,
+        "WardName": "Xã Tân Bình",
+        "NameExtension": [
+            "Xã Tân Bình",
+            "X.Tân Bình",
+            "X Tân Bình",
+            "Tân Bình",
+            "Tan Binh",
+            "Xa Tan Binh",
+            "tanbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409853 +0700 +07 m=+0.046189941",
+        "UpdatedAt": "2020-09-29 13:52:26.428417 +0700 +07 m=+171.091983887",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460108",
+        "DistrictID": 1626,
+        "WardName": "Xã Bình Minh",
+        "NameExtension": [
+            "Xã Bình Minh",
+            "X.Bình Minh",
+            "X Bình Minh",
+            "Bình Minh",
+            "Binh Minh",
+            "Xa Binh Minh",
+            "binhminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409854 +0700 +07 m=+0.046191389",
+        "UpdatedAt": "2020-09-29 13:52:26.559576 +0700 +07 m=+171.223140402",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460107",
+        "DistrictID": 1626,
+        "WardName": "Phường Ninh Thạnh",
+        "NameExtension": [
+            "Phường Ninh Thạnh",
+            "P.Ninh Thạnh",
+            "P Ninh Thạnh",
+            "Ninh Thạnh",
+            "Ninh Thanh",
+            "Phuong Ninh Thanh",
+            "ninhthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409857 +0700 +07 m=+0.046194270",
+        "UpdatedAt": "2020-09-29 13:52:26.625907 +0700 +07 m=+171.289470657",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460106",
+        "DistrictID": 1626,
+        "WardName": "Phường Ninh Sơn",
+        "NameExtension": [
+            "Phường Ninh Sơn",
+            "P.Ninh Sơn",
+            "P Ninh Sơn",
+            "Ninh Sơn",
+            "Ninh Son",
+            "Phuong Ninh Son",
+            "ninhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409856 +0700 +07 m=+0.046192826",
+        "UpdatedAt": "2020-09-29 13:52:26.660858 +0700 +07 m=+171.324421218",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460105",
+        "DistrictID": 1626,
+        "WardName": "Phường Hiệp Ninh",
+        "NameExtension": [
+            "Phường Hiệp Ninh",
+            "P.Hiệp Ninh",
+            "P Hiệp Ninh",
+            "Hiệp Ninh",
+            "Hiep Ninh",
+            "Phuong Hiep Ninh",
+            "hiepninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409848 +0700 +07 m=+0.046185445",
+        "UpdatedAt": "2020-09-29 13:52:26.726702 +0700 +07 m=+171.390263399",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460104",
+        "DistrictID": 1626,
+        "WardName": "Phường 4",
+        "NameExtension": [
+            "Phường 4",
+            "P.4",
+            "P 4",
+            "4",
+            "Phuong 4"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409847 +0700 +07 m=+0.046183853",
+        "UpdatedAt": "13 May 20 18:26 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460103",
+        "DistrictID": 1626,
+        "WardName": "Phường 3",
+        "NameExtension": [
+            "Phường 3",
+            "P.3",
+            "P 3",
+            "3",
+            "Phuong 3"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409845 +0700 +07 m=+0.046182472",
+        "UpdatedAt": "13 May 20 18:26 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460102",
+        "DistrictID": 1626,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40985 +0700 +07 m=+0.046186831",
+        "UpdatedAt": "13 May 20 18:26 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "460101",
+        "DistrictID": 1626,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409844 +0700 +07 m=+0.046181067",
+        "UpdatedAt": "13 May 20 18:26 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

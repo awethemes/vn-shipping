@@ -1,0 +1,1039 @@
+[
+    {
+        "WardCode": "800084",
+        "DistrictID": 1847,
+        "WardName": "Xã Minh Châu",
+        "NameExtension": [
+            "Xã Minh Châu",
+            "Minh Chau",
+            "Xa Minh Chau",
+            "minhchau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:14.795164 +0700 +07 m=+39.461229961",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291239",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Yên",
+        "NameExtension": [
+            "Xã Diễn Yên",
+            "X.Diễn Yên",
+            "X Diễn Yên",
+            "Diễn Yên",
+            "Dien Yen",
+            "Xa Dien Yen",
+            "dienyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406009 +0700 +07 m=+0.042346278",
+        "UpdatedAt": "2020-09-29 13:54:54.465556 +0700 +07 m=+319.126313032",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291238",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Xuân",
+        "NameExtension": [
+            "Xã Diễn Xuân",
+            "X.Diễn Xuân",
+            "X Diễn Xuân",
+            "Diễn Xuân",
+            "Dien Xuan",
+            "Xa Dien Xuan",
+            "dienxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406026 +0700 +07 m=+0.042363137",
+        "UpdatedAt": "2020-09-29 13:54:54.499684 +0700 +07 m=+319.160440388",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291237",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Vạn",
+        "NameExtension": [
+            "Xã Diễn Vạn",
+            "X.Diễn Vạn",
+            "X Diễn Vạn",
+            "Diễn Vạn",
+            "Dien Van",
+            "Xa Dien Van",
+            "dienvan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406022 +0700 +07 m=+0.042358820",
+        "UpdatedAt": "2020-09-29 13:54:54.542157 +0700 +07 m=+319.202912970",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291236",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Trường",
+        "NameExtension": [
+            "Xã Diễn Trường",
+            "X.Diễn Trường",
+            "X Diễn Trường",
+            "Diễn Trường",
+            "Dien Truong",
+            "Xa Dien Truong",
+            "dientruong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406008 +0700 +07 m=+0.042344905",
+        "UpdatedAt": "2020-09-29 13:54:54.575329 +0700 +07 m=+319.236084319",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291235",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Trung",
+        "NameExtension": [
+            "Xã Diễn Trung",
+            "X.Diễn Trung",
+            "X Diễn Trung",
+            "Diễn Trung",
+            "Dien Trung",
+            "Xa Dien Trung",
+            "dientrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406055 +0700 +07 m=+0.042391837",
+        "UpdatedAt": "2020-09-29 13:54:54.611752 +0700 +07 m=+319.272506343",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291234",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Thọ",
+        "NameExtension": [
+            "Xã Diễn Thọ",
+            "X.Diễn Thọ",
+            "X Diễn Thọ",
+            "Diễn Thọ",
+            "Dien Tho",
+            "Xa Dien Tho",
+            "dientho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40605 +0700 +07 m=+0.042387727",
+        "UpdatedAt": "2020-09-29 13:54:54.644176 +0700 +07 m=+319.304929868",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291233",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Thịnh",
+        "NameExtension": [
+            "Xã Diễn Thịnh",
+            "X.Diễn Thịnh",
+            "X Diễn Thịnh",
+            "Diễn Thịnh",
+            "Dien Thinh",
+            "Xa Dien Thinh",
+            "dienthinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406046 +0700 +07 m=+0.042383372",
+        "UpdatedAt": "2020-09-29 13:54:54.67732 +0700 +07 m=+319.338073431",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291232",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Tháp",
+        "NameExtension": [
+            "Xã Diễn Tháp",
+            "X.Diễn Tháp",
+            "X Diễn Tháp",
+            "Diễn Tháp",
+            "Dien Thap",
+            "Xa Dien Thap",
+            "dienthap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406019 +0700 +07 m=+0.042356060",
+        "UpdatedAt": "2020-09-29 13:54:54.711512 +0700 +07 m=+319.372265188",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291231",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Thành",
+        "NameExtension": [
+            "Xã Diễn Thành",
+            "X.Diễn Thành",
+            "X Diễn Thành",
+            "Diễn Thành",
+            "Dien Thanh",
+            "Xa Dien Thanh",
+            "dienthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406038 +0700 +07 m=+0.042375682",
+        "UpdatedAt": "2020-09-29 13:54:54.760443 +0700 +07 m=+319.421194543",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291230",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Thắng",
+        "NameExtension": [
+            "Xã Diễn Thắng",
+            "X.Diễn Thắng",
+            "X Diễn Thắng",
+            "Diễn Thắng",
+            "Dien Thang",
+            "Xa Dien Thang",
+            "dienthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406049 +0700 +07 m=+0.042386113",
+        "UpdatedAt": "2020-09-29 13:54:54.79986 +0700 +07 m=+319.460611374",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291229",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Thái",
+        "NameExtension": [
+            "Xã Diễn Thái",
+            "X.Diễn Thái",
+            "X Diễn Thái",
+            "Diễn Thái",
+            "Dien Thai",
+            "Xa Dien Thai",
+            "dienthai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406027 +0700 +07 m=+0.042364548",
+        "UpdatedAt": "2020-09-29 13:54:54.835222 +0700 +07 m=+319.495972767",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291228",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Tân",
+        "NameExtension": [
+            "Xã Diễn Tân",
+            "X.Diễn Tân",
+            "X Diễn Tân",
+            "Diễn Tân",
+            "Dien Tan",
+            "Xa Dien Tan",
+            "dientan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406047 +0700 +07 m=+0.042384741",
+        "UpdatedAt": "2020-09-29 13:54:54.941277 +0700 +07 m=+319.602025672",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291227",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Quảng",
+        "NameExtension": [
+            "Xã Diễn Quảng",
+            "X.Diễn Quảng",
+            "X Diễn Quảng",
+            "Diễn Quảng",
+            "Dien Quang",
+            "Xa Dien Quang",
+            "dienquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406034 +0700 +07 m=+0.042371508",
+        "UpdatedAt": "2020-09-29 13:54:54.994019 +0700 +07 m=+319.654766384",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291226",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Phúc",
+        "NameExtension": [
+            "Xã Diễn Phúc",
+            "X.Diễn Phúc",
+            "X Diễn Phúc",
+            "Diễn Phúc",
+            "Dien Phuc",
+            "Xa Dien Phuc",
+            "dienphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406041 +0700 +07 m=+0.042377836",
+        "UpdatedAt": "2020-09-29 13:54:55.033331 +0700 +07 m=+319.694077835",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291225",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Phú",
+        "NameExtension": [
+            "Xã Diễn Phú",
+            "X.Diễn Phú",
+            "X Diễn Phú",
+            "Diễn Phú",
+            "Dien Phu",
+            "Xa Dien Phu",
+            "dienphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406057 +0700 +07 m=+0.042394600",
+        "UpdatedAt": "2020-09-29 13:54:55.069172 +0700 +07 m=+319.729917438",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291224",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Phong",
+        "NameExtension": [
+            "Xã Diễn Phong",
+            "X.Diễn Phong",
+            "X Diễn Phong",
+            "Diễn Phong",
+            "Dien Phong",
+            "Xa Dien Phong",
+            "dienphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406016 +0700 +07 m=+0.042353290",
+        "UpdatedAt": "2020-09-29 13:54:55.103437 +0700 +07 m=+319.764182037",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291223",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Nguyên",
+        "NameExtension": [
+            "Xã Diễn Nguyên",
+            "X.Diễn Nguyên",
+            "X Diễn Nguyên",
+            "Diễn Nguyên",
+            "Dien Nguyen",
+            "Xa Dien Nguyen",
+            "diennguyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406036 +0700 +07 m=+0.042372931",
+        "UpdatedAt": "2020-09-29 13:54:55.13647 +0700 +07 m=+319.797214855",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291222",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Ngọc",
+        "NameExtension": [
+            "Xã Diễn Ngọc",
+            "X.Diễn Ngọc",
+            "X Diễn Ngọc",
+            "Diễn Ngọc",
+            "Dien Ngoc",
+            "Xa Dien Ngoc",
+            "dienngoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406033 +0700 +07 m=+0.042370125",
+        "UpdatedAt": "2020-09-29 13:54:55.171466 +0700 +07 m=+319.832210223",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291221",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Mỹ",
+        "NameExtension": [
+            "Xã Diễn Mỹ",
+            "X.Diễn Mỹ",
+            "X Diễn Mỹ",
+            "Diễn Mỹ",
+            "Dien My",
+            "Xa Dien My",
+            "dienmy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406013 +0700 +07 m=+0.042350554",
+        "UpdatedAt": "2020-09-29 13:54:55.206223 +0700 +07 m=+319.866966730",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291220",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Minh",
+        "NameExtension": [
+            "Xã Diễn Minh",
+            "X.Diễn Minh",
+            "X Diễn Minh",
+            "Diễn Minh",
+            "Dien Minh",
+            "Xa Dien Minh",
+            "dienminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406042 +0700 +07 m=+0.042379251",
+        "UpdatedAt": "2020-09-29 13:54:55.243287 +0700 +07 m=+319.904030052",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291219",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Lợi",
+        "NameExtension": [
+            "Xã Diễn Lợi",
+            "X.Diễn Lợi",
+            "X Diễn Lợi",
+            "Diễn Lợi",
+            "Dien Loi",
+            "Xa Dien Loi",
+            "dienloi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406052 +0700 +07 m=+0.042389114",
+        "UpdatedAt": "2020-09-29 13:54:55.27855 +0700 +07 m=+319.939291839",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291218",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Lộc",
+        "NameExtension": [
+            "Xã Diễn Lộc",
+            "X.Diễn Lộc",
+            "X Diễn Lộc",
+            "Diễn Lộc",
+            "Dien Loc",
+            "Xa Dien Loc",
+            "dienloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406053 +0700 +07 m=+0.042390498",
+        "UpdatedAt": "2020-09-29 13:54:55.313764 +0700 +07 m=+319.974504945",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291217",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Liên",
+        "NameExtension": [
+            "Xã Diễn Liên",
+            "X.Diễn Liên",
+            "X Diễn Liên",
+            "Diễn Liên",
+            "Dien Lien",
+            "Xa Dien Lien",
+            "dienlien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40602 +0700 +07 m=+0.042357439",
+        "UpdatedAt": "2020-09-29 13:54:55.348381 +0700 +07 m=+320.009121790",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291216",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Lâm",
+        "NameExtension": [
+            "Xã Diễn Lâm",
+            "X.Diễn Lâm",
+            "X Diễn Lâm",
+            "Diễn Lâm",
+            "Dien Lam",
+            "Xa Dien Lam",
+            "dienlam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406005 +0700 +07 m=+0.042342017",
+        "UpdatedAt": "2020-09-29 13:54:55.390132 +0700 +07 m=+320.050871917",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291215",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Kỷ",
+        "NameExtension": [
+            "Xã Diễn Kỷ",
+            "X.Diễn Kỷ",
+            "X Diễn Kỷ",
+            "Diễn Kỷ",
+            "Dien Ky",
+            "Xa Dien Ky",
+            "dienky"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406024 +0700 +07 m=+0.042361755",
+        "UpdatedAt": "2020-09-29 13:54:55.424608 +0700 +07 m=+320.085347276",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291214",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Kim",
+        "NameExtension": [
+            "Xã Diễn Kim",
+            "X.Diễn Kim",
+            "X Diễn Kim",
+            "Diễn Kim",
+            "Dien Kim",
+            "Xa Dien Kim",
+            "dienkim"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406023 +0700 +07 m=+0.042360337",
+        "UpdatedAt": "2020-09-29 13:54:55.463142 +0700 +07 m=+320.123880036",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291213",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hùng",
+        "NameExtension": [
+            "Xã Diễn Hùng",
+            "X.Diễn Hùng",
+            "X Diễn Hùng",
+            "Diễn Hùng",
+            "Dien Hung",
+            "Xa Dien Hung",
+            "dienhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406012 +0700 +07 m=+0.042349044",
+        "UpdatedAt": "2020-09-29 13:54:55.497076 +0700 +07 m=+320.157813521",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291212",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hồng",
+        "NameExtension": [
+            "Xã Diễn Hồng",
+            "X.Diễn Hồng",
+            "X Diễn Hồng",
+            "Diễn Hồng",
+            "Dien Hong",
+            "Xa Dien Hong",
+            "dienhong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406015 +0700 +07 m=+0.042351931",
+        "UpdatedAt": "2020-09-29 13:54:55.53739 +0700 +07 m=+320.198127258",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291211",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hoàng",
+        "NameExtension": [
+            "Xã Diễn Hoàng",
+            "X.Diễn Hoàng",
+            "X Diễn Hoàng",
+            "Diễn Hoàng",
+            "Dien Hoang",
+            "Xa Dien Hoang",
+            "dienhoang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40601 +0700 +07 m=+0.042347658",
+        "UpdatedAt": "2020-09-29 13:54:55.576081 +0700 +07 m=+320.236817162",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291210",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hoa",
+        "NameExtension": [
+            "Xã Diễn Hoa",
+            "X.Diễn Hoa",
+            "X Diễn Hoa",
+            "Diễn Hoa",
+            "Dien Hoa",
+            "Xa Dien Hoa",
+            "dienhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406037 +0700 +07 m=+0.042374316",
+        "UpdatedAt": "2020-09-29 13:54:55.622954 +0700 +07 m=+320.283689317",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291209",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hạnh",
+        "NameExtension": [
+            "Xã Diễn Hạnh",
+            "X.Diễn Hạnh",
+            "X Diễn Hạnh",
+            "Diễn Hạnh",
+            "Dien Hanh",
+            "Xa Dien Hanh",
+            "dienhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406031 +0700 +07 m=+0.042368717",
+        "UpdatedAt": "2020-09-29 13:54:55.680366 +0700 +07 m=+320.341100511",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291208",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Hải",
+        "NameExtension": [
+            "Xã Diễn Hải",
+            "X.Diễn Hải",
+            "X Diễn Hải",
+            "Diễn Hải",
+            "Dien Hai",
+            "Xa Dien Hai",
+            "dienhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406017 +0700 +07 m=+0.042354663",
+        "UpdatedAt": "2020-09-29 13:54:55.714417 +0700 +07 m=+320.375150865",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291207",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Đồng",
+        "NameExtension": [
+            "Xã Diễn Đồng",
+            "X.Diễn Đồng",
+            "X Diễn Đồng",
+            "Diễn Đồng",
+            "Dien Dong",
+            "Xa Dien Dong",
+            "diendong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406029 +0700 +07 m=+0.042365949",
+        "UpdatedAt": "2020-09-29 13:54:55.755147 +0700 +07 m=+320.415879435",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291206",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Đoài",
+        "NameExtension": [
+            "Xã Diễn Đoài",
+            "X.Diễn Đoài",
+            "X Diễn Đoài",
+            "Diễn Đoài",
+            "Dien Doai",
+            "Xa Dien Doai",
+            "diendoai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406006 +0700 +07 m=+0.042343386",
+        "UpdatedAt": "2020-09-29 13:54:55.789343 +0700 +07 m=+320.450075350",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291205",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Cát",
+        "NameExtension": [
+            "Xã Diễn Cát",
+            "X.Diễn Cát",
+            "X Diễn Cát",
+            "Diễn Cát",
+            "Dien Cat",
+            "Xa Dien Cat",
+            "diencat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406045 +0700 +07 m=+0.042382014",
+        "UpdatedAt": "2020-09-29 13:54:55.82436 +0700 +07 m=+320.485091710",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291204",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Bình",
+        "NameExtension": [
+            "Xã Diễn Bình",
+            "X.Diễn Bình",
+            "X Diễn Bình",
+            "Diễn Bình",
+            "Dien Binh",
+            "Xa Dien Binh",
+            "dienbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406043 +0700 +07 m=+0.042380623",
+        "UpdatedAt": "2020-09-29 13:54:55.858491 +0700 +07 m=+320.519221493",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291203",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn Bích",
+        "NameExtension": [
+            "Xã Diễn Bích",
+            "X.Diễn Bích",
+            "X Diễn Bích",
+            "Diễn Bích",
+            "Dien Bich",
+            "Xa Dien Bich",
+            "dienbich"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40603 +0700 +07 m=+0.042367319",
+        "UpdatedAt": "2020-09-29 13:54:55.900594 +0700 +07 m=+320.561323717",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291202",
+        "DistrictID": 1847,
+        "WardName": "Xã Diễn An",
+        "NameExtension": [
+            "Xã Diễn An",
+            "X.Diễn An",
+            "X Diễn An",
+            "Diễn An",
+            "Dien An",
+            "Xa Dien An",
+            "dienan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406056 +0700 +07 m=+0.042393206",
+        "UpdatedAt": "2020-09-29 13:54:55.979841 +0700 +07 m=+320.640569830",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "291201",
+        "DistrictID": 1847,
+        "WardName": "Thị trấn Diễn Châu",
+        "NameExtension": [
+            "Thị trấn Diễn Châu",
+            "TT.Diễn Châu",
+            "TT Diễn Châu",
+            "Diễn Châu",
+            "Dien Chau",
+            "Thi tran Dien Chau",
+            "dienchau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406003 +0700 +07 m=+0.042340650",
+        "UpdatedAt": "2020-09-29 13:54:56.015708 +0700 +07 m=+320.676435694",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

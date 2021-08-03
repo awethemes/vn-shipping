@@ -1,0 +1,269 @@
+[
+    {
+        "DistrictID": 2195,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Phú Lương",
+        "Code": "1204",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Lương",
+            "H.Phú Lương",
+            "H Phú Lương",
+            "Phú Lương",
+            "Phu Luong",
+            "Huyen Phu Luong",
+            "phuluong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432078 +0700 +07 m=+0.016024331",
+        "UpdatedAt": "2020-09-29 13:42:48.443466 +0700 +07 m=+20.945773121",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2051,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Võ Nhai",
+        "Code": "1205",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Võ Nhai",
+            "H.Võ Nhai",
+            "H Võ Nhai",
+            "Võ Nhai",
+            "Vo Nhai",
+            "Huyen Vo Nhai",
+            "vonhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43281 +0700 +07 m=+0.016756030",
+        "UpdatedAt": "2020-09-29 13:42:52.641659 +0700 +07 m=+25.143886237",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1991,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Phú Bình",
+        "Code": "1208",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Bình",
+            "H.Phú Bình",
+            "H Phú Bình",
+            "Phú Bình",
+            "Phu Binh",
+            "Huyen Phu Binh",
+            "phubinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432571 +0700 +07 m=+0.016516718",
+        "UpdatedAt": "2020-09-29 13:42:55.110617 +0700 +07 m=+27.612797587",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1990,
+        "ProvinceID": 244,
+        "DistrictName": "Thị xã Phổ Yên",
+        "Code": "1209",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phổ Yên",
+            "Thị Xã Phổ Yên",
+            "H.Phổ Yên",
+            "H Phổ Yên",
+            "Phổ Yên",
+            "Pho Yen",
+            "Huyen Pho Yen",
+            "Thi Xa Pho Yen",
+            "phoyen",
+            "Thị xã Phổ Yên",
+            "TX Phổ Yên",
+            "TX Pho Yen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432568 +0700 +07 m=+0.016513388",
+        "UpdatedAt": "2020-09-29 13:42:55.171349 +0700 +07 m=+27.673528313",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:04:01.967Z"
+    },
+    {
+        "DistrictID": 1924,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Định Hóa",
+        "Code": "1203",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Định Hóa",
+            "H.Định Hóa",
+            "H Định Hóa",
+            "Định Hóa",
+            "Dinh Hoa",
+            "Huyen Dinh Hoa",
+            "dinhhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432404 +0700 +07 m=+0.016350030",
+        "UpdatedAt": "2020-09-29 13:42:58.411372 +0700 +07 m=+30.913489538",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1918,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Đại Từ",
+        "Code": "1206",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đại Từ",
+            "H.Đại Từ",
+            "H Đại Từ",
+            "Đại Từ",
+            "Dai Tu",
+            "Huyen Dai Tu",
+            "daitu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43238 +0700 +07 m=+0.016325589",
+        "UpdatedAt": "2020-09-29 13:42:58.767399 +0700 +07 m=+31.269509776",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1731,
+        "ProvinceID": 244,
+        "DistrictName": "Huyện Đồng Hỷ",
+        "Code": "1207",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đồng Hỷ",
+            "H.Đồng Hỷ",
+            "H Đồng Hỷ",
+            "Đồng Hỷ",
+            "Dong Hy",
+            "Huyen Dong Hy",
+            "donghy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431771 +0700 +07 m=+0.015716528",
+        "UpdatedAt": "2020-09-29 13:43:07.268393 +0700 +07 m=+39.770342239",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1684,
+        "ProvinceID": 244,
+        "DistrictName": "Thành Phố Sông Công",
+        "Code": "1202",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Sông Công",
+            "Thành Phố Sông Công",
+            "TX.Sông Công",
+            "TX Sông Công",
+            "Sông Công",
+            "Song Cong",
+            "Thi xa Song Cong",
+            "Thanh Pho Song Cong",
+            "songcong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432221 +0700 +07 m=+0.016166964",
+        "UpdatedAt": "2020-09-29 13:43:09.171305 +0700 +07 m=+41.673218519",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-11T03:11:26.893Z"
+    },
+    {
+        "DistrictID": 1639,
+        "ProvinceID": 244,
+        "DistrictName": "Thành phố Thái Nguyên",
+        "Code": "1201",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Thái Nguyên",
+            "TP.Thái Nguyên",
+            "TP Thái Nguyên",
+            "Thái Nguyên",
+            "Thai Nguyen",
+            "Thanh pho Thai Nguyen",
+            "thainguyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432104 +0700 +07 m=+0.016050004",
+        "UpdatedAt": "2020-09-29 13:43:10.115068 +0700 +07 m=+42.616963717",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

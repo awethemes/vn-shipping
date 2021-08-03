@@ -1,0 +1,268 @@
+[
+    {
+        "DistrictID": 2035,
+        "ProvinceID": 240,
+        "DistrictName": "Thị xã Trảng Bàng",
+        "Code": "4609",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trảng Bàng",
+            "H.Trảng Bàng",
+            "H Trảng Bàng",
+            "Trảng Bàng",
+            "Trang Bang",
+            "Huyen Trang Bang",
+            "trangbang",
+            "Thị xã Trảng Bàng",
+            "TX Trảng Bàng",
+            "TX Trang Bang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432783 +0700 +07 m=+0.016729303",
+        "UpdatedAt": "2020-09-29 13:42:53.237404 +0700 +07 m=+25.739619837",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:03:02.973Z"
+    },
+    {
+        "DistrictID": 1866,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Gò Dầu",
+        "Code": "4608",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gò Dầu",
+            "H.Gò Dầu",
+            "H Gò Dầu",
+            "Gò Dầu",
+            "Go Dau",
+            "Huyen Go Dau",
+            "godau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431886 +0700 +07 m=+0.015831458",
+        "UpdatedAt": "2020-09-29 13:43:01.118156 +0700 +07 m=+33.620222158",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1865,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Bến Cầu",
+        "Code": "4607",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bến Cầu",
+            "H.Bến Cầu",
+            "H Bến Cầu",
+            "Bến Cầu",
+            "Ben Cau",
+            "Huyen Ben Cau",
+            "bencau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431882 +0700 +07 m=+0.015827728",
+        "UpdatedAt": "2020-09-29 13:43:01.152516 +0700 +07 m=+33.654581681",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1864,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Dương Minh Châu",
+        "Code": "4604",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Dương Minh Châu",
+            "H.Dương Minh Châu",
+            "H Dương Minh Châu",
+            "Dương Minh Châu",
+            "Duong Minh Chau",
+            "Huyen Duong Minh Chau",
+            "duongminhchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43188 +0700 +07 m=+0.015826311",
+        "UpdatedAt": "2020-09-29 13:43:01.202411 +0700 +07 m=+33.704476116",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1863,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Tân Châu",
+        "Code": "4603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Châu",
+            "H.Tân Châu",
+            "H Tân Châu",
+            "Tân Châu",
+            "Tan Chau",
+            "Huyen Tan Chau",
+            "tanchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431879 +0700 +07 m=+0.015824806",
+        "UpdatedAt": "2020-09-29 13:43:01.251587 +0700 +07 m=+33.753650500",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1862,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Tân Biên",
+        "Code": "4602",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Biên",
+            "H.Tân Biên",
+            "H Tân Biên",
+            "Tân Biên",
+            "Tan Bien",
+            "Huyen Tan Bien",
+            "tanbien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431878 +0700 +07 m=+0.015823367",
+        "UpdatedAt": "2020-09-29 13:43:01.287569 +0700 +07 m=+33.789631761",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1721,
+        "ProvinceID": 240,
+        "DistrictName": "Thị xã Hòa Thành",
+        "Code": "4606",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hòa Thành",
+            "H.Hòa Thành",
+            "H Hòa Thành",
+            "Hòa Thành",
+            "Hoa Thanh",
+            "Huyen Hoa Thanh",
+            "hoathanh",
+            "Thị xã Hòa Thành",
+            "TX Hòa Thành",
+            "TX Hoa Thanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431754 +0700 +07 m=+0.015700346",
+        "UpdatedAt": "2020-09-29 13:43:07.690591 +0700 +07 m=+40.192532920",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:02:33.631Z"
+    },
+    {
+        "DistrictID": 1720,
+        "ProvinceID": 240,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "4605",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431753 +0700 +07 m=+0.015698725",
+        "UpdatedAt": "2020-09-29 13:43:07.725315 +0700 +07 m=+40.227255900",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1626,
+        "ProvinceID": 240,
+        "DistrictName": "Thành phố Tây Ninh",
+        "Code": "4601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Tây Ninh",
+            "TP.Tây Ninh",
+            "TP Tây Ninh",
+            "Tây Ninh",
+            "Tay Ninh",
+            "Thanh pho Tay Ninh",
+            "tayninh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43221 +0700 +07 m=+0.016155794",
+        "UpdatedAt": "2020-09-29 13:43:10.298493 +0700 +07 m=+42.800385319",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

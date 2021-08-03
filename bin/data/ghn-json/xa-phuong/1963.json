@@ -1,0 +1,831 @@
+[
+    {
+        "WardCode": "800077",
+        "DistrictID": 1963,
+        "WardName": "Xã Thống Nhất",
+        "NameExtension": [
+            "Xã Thống Nhất",
+            "Thong Nhat",
+            "Xa Thong Nhat",
+            "thongnhat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:15.206575 +0700 +07 m=+39.872633253",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800076",
+        "DistrictID": 1963,
+        "WardName": "Xã Minh Hiệp",
+        "NameExtension": [
+            "Xã Minh Hiệp",
+            "Minh Hiep",
+            "Xa Minh Hiep",
+            "minhhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:15.240519 +0700 +07 m=+39.906576076",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800075",
+        "DistrictID": 1963,
+        "WardName": "Xã Khánh Xuân",
+        "NameExtension": [
+            "Xã Khánh Xuân",
+            "Khanh Xuan",
+            "Xa Khanh Xuan",
+            "khanhxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:15.291022 +0700 +07 m=+39.957077869",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100829",
+        "DistrictID": 1963,
+        "WardName": "Xã Yên Khoái",
+        "NameExtension": [
+            "Xã Yên Khoái",
+            "X.Yên Khoái",
+            "X Yên Khoái",
+            "Yên Khoái",
+            "Yen Khoai",
+            "Xa Yen Khoai",
+            "yenkhoai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403113 +0700 +07 m=+0.039449909",
+        "UpdatedAt": "2020-09-29 13:59:32.566952 +0700 +07 m=+597.222430473",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100828",
+        "DistrictID": 1963,
+        "WardName": "Xã Xuân Tình",
+        "NameExtension": [
+            "Xã Xuân Tình",
+            "X.Xuân Tình",
+            "X Xuân Tình",
+            "Xuân Tình",
+            "Xuan Tinh",
+            "Xa Xuan Tinh",
+            "xuantinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403129 +0700 +07 m=+0.039466775",
+        "UpdatedAt": "2020-09-29 13:59:32.60369 +0700 +07 m=+597.259168481",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100827",
+        "DistrictID": 1963,
+        "WardName": "Xã Xuân Mãn",
+        "NameExtension": [
+            "Xã Xuân Mãn",
+            "X.Xuân Mãn",
+            "X Xuân Mãn",
+            "Xuân Mãn",
+            "Xuan Man",
+            "Xa Xuan Man",
+            "xuanman"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403114 +0700 +07 m=+0.039451284",
+        "UpdatedAt": "2020-09-29 13:59:32.643318 +0700 +07 m=+597.298795993",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100826",
+        "DistrictID": 1963,
+        "WardName": "Xã Xuân Lễ",
+        "NameExtension": [
+            "Xã Xuân Lễ",
+            "X.Xuân Lễ",
+            "X Xuân Lễ",
+            "Xuân Lễ",
+            "Xuan Le",
+            "Xa Xuan Le",
+            "xuanle"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403111 +0700 +07 m=+0.039448548",
+        "UpdatedAt": "2020-09-29 13:59:32.678535 +0700 +07 m=+597.334011332",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100825",
+        "DistrictID": 1963,
+        "WardName": "Xã Xuân Dương",
+        "NameExtension": [
+            "Xã Xuân Dương",
+            "X.Xuân Dương",
+            "X Xuân Dương",
+            "Xuân Dương",
+            "Xuan Duong",
+            "Xa Xuan Duong",
+            "xuanduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403696 +0700 +07 m=+0.040033146",
+        "UpdatedAt": "2020-09-29 13:59:32.714071 +0700 +07 m=+597.369547513",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100824",
+        "DistrictID": 1963,
+        "WardName": "Xã Vân Mộng",
+        "NameExtension": [
+            "Xã Vân Mộng",
+            "X.Vân Mộng",
+            "X Vân Mộng",
+            "Vân Mộng",
+            "Van Mong",
+            "Xa Van Mong",
+            "vanmong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40312 +0700 +07 m=+0.039457070",
+        "UpdatedAt": "2020-09-29 13:59:32.756693 +0700 +07 m=+597.412168463",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100823",
+        "DistrictID": 1963,
+        "WardName": "Xã Tú Mịch",
+        "NameExtension": [
+            "Xã Tú Mịch",
+            "X.Tú Mịch",
+            "X Tú Mịch",
+            "Tú Mịch",
+            "Tu Mich",
+            "Xa Tu Mich",
+            "tumich"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403115 +0700 +07 m=+0.039452643",
+        "UpdatedAt": "2020-09-29 13:59:32.812387 +0700 +07 m=+597.467860802",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100822",
+        "DistrictID": 1963,
+        "WardName": "Xã Tú Đoạn",
+        "NameExtension": [
+            "Xã Tú Đoạn",
+            "X.Tú Đoạn",
+            "X Tú Đoạn",
+            "Tú Đoạn",
+            "Tu Doan",
+            "Xa Tu Doan",
+            "tudoan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403123 +0700 +07 m=+0.039459860",
+        "UpdatedAt": "2020-09-29 13:59:32.848921 +0700 +07 m=+597.504394520",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100821",
+        "DistrictID": 1963,
+        "WardName": "Xã Tĩnh Bắc",
+        "NameExtension": [
+            "Xã Tĩnh Bắc",
+            "X.Tĩnh Bắc",
+            "X Tĩnh Bắc",
+            "Tĩnh Bắc",
+            "Tinh Bac",
+            "Xa Tinh Bac",
+            "tinhbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403128 +0700 +07 m=+0.039465405",
+        "UpdatedAt": "2020-09-29 13:59:32.884963 +0700 +07 m=+597.540436263",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100820",
+        "DistrictID": 1963,
+        "WardName": "Xã Tam Gia",
+        "NameExtension": [
+            "Xã Tam Gia",
+            "X.Tam Gia",
+            "X Tam Gia",
+            "Tam Gia",
+            "Xa Tam Gia",
+            "tamgia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403121 +0700 +07 m=+0.039458478",
+        "UpdatedAt": "2020-09-29 13:59:32.921918 +0700 +07 m=+597.577390373",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100819",
+        "DistrictID": 1963,
+        "WardName": "Xã Sàn Viên",
+        "NameExtension": [
+            "Xã Sàn Viên",
+            "X.Sàn Viên",
+            "X Sàn Viên",
+            "Sàn Viên",
+            "San Vien",
+            "Xa San Vien",
+            "sanvien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403686 +0700 +07 m=+0.040023663",
+        "UpdatedAt": "2020-09-29 13:59:32.976184 +0700 +07 m=+597.631655359",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100818",
+        "DistrictID": 1963,
+        "WardName": "Xã Quan Bản",
+        "NameExtension": [
+            "Xã Quan Bản",
+            "X.Quan Bản",
+            "X Quan Bản",
+            "Quan Bản",
+            "Quan Ban",
+            "Xa Quan Ban",
+            "quanban"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403685 +0700 +07 m=+0.040022294",
+        "UpdatedAt": "2020-09-29 13:59:33.011377 +0700 +07 m=+597.666847220",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100817",
+        "DistrictID": 1963,
+        "WardName": "Xã Nhượng Bạn",
+        "NameExtension": [
+            "Xã Nhượng Bạn",
+            "X.Nhượng Bạn",
+            "X Nhượng Bạn",
+            "Nhượng Bạn",
+            "Nhuong Ban",
+            "Xa Nhuong Ban",
+            "nhuongban"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403683 +0700 +07 m=+0.040020043",
+        "UpdatedAt": "2020-09-29 13:59:33.046709 +0700 +07 m=+597.702178352",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100816",
+        "DistrictID": 1963,
+        "WardName": "Xã Như Khuê",
+        "NameExtension": [
+            "Xã Như Khuê",
+            "X.Như Khuê",
+            "X Như Khuê",
+            "Như Khuê",
+            "Nhu Khue",
+            "Xa Nhu Khue",
+            "nhukhue"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403125 +0700 +07 m=+0.039462673",
+        "UpdatedAt": "2020-09-29 13:59:33.080906 +0700 +07 m=+597.736375029",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100815",
+        "DistrictID": 1963,
+        "WardName": "Xã Nam Quan",
+        "NameExtension": [
+            "Xã Nam Quan",
+            "X.Nam Quan",
+            "X Nam Quan",
+            "Nam Quan",
+            "Xa Nam Quan",
+            "namquan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403694 +0700 +07 m=+0.040031724",
+        "UpdatedAt": "2020-09-29 13:59:33.115801 +0700 +07 m=+597.771269428",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100814",
+        "DistrictID": 1963,
+        "WardName": "Xã Minh Phát",
+        "NameExtension": [
+            "Xã Minh Phát",
+            "X.Minh Phát",
+            "X Minh Phát",
+            "Minh Phát",
+            "Minh Phat",
+            "Xa Minh Phat",
+            "minhphat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403689 +0700 +07 m=+0.040026528",
+        "UpdatedAt": "2020-09-29 13:59:33.152776 +0700 +07 m=+597.808243865",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100813",
+        "DistrictID": 1963,
+        "WardName": "Xã Mẫu Sơn",
+        "NameExtension": [
+            "Xã Mẫu Sơn",
+            "X.Mẫu Sơn",
+            "X Mẫu Sơn",
+            "Mẫu Sơn",
+            "Mau Son",
+            "Xa Mau Son",
+            "mauson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403108 +0700 +07 m=+0.039445732",
+        "UpdatedAt": "2020-09-29 13:59:33.186843 +0700 +07 m=+597.842310629",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100812",
+        "DistrictID": 1963,
+        "WardName": "Xã Lục Thôn",
+        "NameExtension": [
+            "Xã Lục Thôn",
+            "X.Lục Thôn",
+            "X Lục Thôn",
+            "Lục Thôn",
+            "Luc Thon",
+            "Xa Luc Thon",
+            "lucthon"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403127 +0700 +07 m=+0.039464030",
+        "UpdatedAt": "2020-09-29 13:59:33.258456 +0700 +07 m=+597.913922154",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100811",
+        "DistrictID": 1963,
+        "WardName": "Xã Lợi Bác",
+        "NameExtension": [
+            "Xã Lợi Bác",
+            "X.Lợi Bác",
+            "X Lợi Bác",
+            "Lợi Bác",
+            "Loi Bac",
+            "Xa Loi Bac",
+            "loibac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403693 +0700 +07 m=+0.040030323",
+        "UpdatedAt": "2020-09-29 13:59:33.304005 +0700 +07 m=+597.959470024",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100810",
+        "DistrictID": 1963,
+        "WardName": "Xã Khuất Xá",
+        "NameExtension": [
+            "Xã Khuất Xá",
+            "X.Khuất Xá",
+            "X Khuất Xá",
+            "Khuất Xá",
+            "Khuat Xa",
+            "Xa Khuat Xa",
+            "khuatxa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403124 +0700 +07 m=+0.039461275",
+        "UpdatedAt": "2020-09-29 13:59:33.339539 +0700 +07 m=+597.995003871",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100809",
+        "DistrictID": 1963,
+        "WardName": "Xã Hữu Lân",
+        "NameExtension": [
+            "Xã Hữu Lân",
+            "X.Hữu Lân",
+            "X Hữu Lân",
+            "Hữu Lân",
+            "Huu Lan",
+            "Xa Huu Lan",
+            "huulan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403692 +0700 +07 m=+0.040028859",
+        "UpdatedAt": "2020-09-29 13:59:33.383414 +0700 +07 m=+598.038877552",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100808",
+        "DistrictID": 1963,
+        "WardName": "Xã Hữu Khánh",
+        "NameExtension": [
+            "Xã Hữu Khánh",
+            "X.Hữu Khánh",
+            "X Hữu Khánh",
+            "Hữu Khánh",
+            "Huu Khanh",
+            "Xa Huu Khanh",
+            "huukhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403117 +0700 +07 m=+0.039454010",
+        "UpdatedAt": "2020-09-29 13:59:33.417392 +0700 +07 m=+598.072854550",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100807",
+        "DistrictID": 1963,
+        "WardName": "Xã Hiệp Hạ",
+        "NameExtension": [
+            "Xã Hiệp Hạ",
+            "X.Hiệp Hạ",
+            "X Hiệp Hạ",
+            "Hiệp Hạ",
+            "Hiep Ha",
+            "Xa Hiep Ha",
+            "hiepha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403131 +0700 +07 m=+0.039468500",
+        "UpdatedAt": "2020-09-29 13:59:33.449985 +0700 +07 m=+598.105447224",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100806",
+        "DistrictID": 1963,
+        "WardName": "Thị trấn Đông Quan",
+        "NameExtension": [
+            "Xã Đông Quan",
+            "X.Đông Quan",
+            "X Đông Quan",
+            "Đông Quan",
+            "Dong Quan",
+            "Xa Dong Quan",
+            "dongquan",
+            "Thị trấn Đông Quan",
+            "TT Đông Quan",
+            "tt đông quan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403688 +0700 +07 m=+0.040025103",
+        "UpdatedAt": "2020-09-29 13:59:33.492071 +0700 +07 m=+598.147532381",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-11T08:34:07.779Z"
+    },
+    {
+        "WardCode": "100805",
+        "DistrictID": 1963,
+        "WardName": "Xã Đồng Bục",
+        "NameExtension": [
+            "Xã Đồng Đục",
+            "Xã Đồng Bục",
+            "X.Đồng Bục",
+            "X Đồng Bục",
+            "Đồng Bục",
+            "Dong Buc",
+            "Xa Dong Buc",
+            "dongbuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403118 +0700 +07 m=+0.039455711",
+        "UpdatedAt": "2020-09-29 13:59:33.53324 +0700 +07 m=+598.188700231",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100804",
+        "DistrictID": 1963,
+        "WardName": "Xã Bằng Khánh",
+        "NameExtension": [
+            "Xã Bằng Khánh",
+            "X.Bằng Khánh",
+            "X Bằng Khánh",
+            "Bằng Khánh",
+            "Bang Khanh",
+            "Xa Bang Khanh",
+            "bangkhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40311 +0700 +07 m=+0.039447093",
+        "UpdatedAt": "2020-09-29 13:59:33.568973 +0700 +07 m=+598.224432572",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100803",
+        "DistrictID": 1963,
+        "WardName": "Xã Ái Quốc",
+        "NameExtension": [
+            "Xã Ái Quốc",
+            "X.Ái Quốc",
+            "X Ái Quốc",
+            "Ái Quốc",
+            "Ai Quoc",
+            "Xa Ai Quoc",
+            "aiquoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403697 +0700 +07 m=+0.040034569",
+        "UpdatedAt": "2020-09-29 13:59:33.606612 +0700 +07 m=+598.262071004",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100802",
+        "DistrictID": 1963,
+        "WardName": "Thị trấn Na Dương",
+        "NameExtension": [
+            "Thị trấn Na Dương",
+            "TT.Na Dương",
+            "TT Na Dương",
+            "Na Dương",
+            "Na Duong",
+            "Thi tran Na Duong",
+            "naduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403106 +0700 +07 m=+0.039442968",
+        "UpdatedAt": "2020-09-29 13:59:33.672816 +0700 +07 m=+598.328273721",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "100801",
+        "DistrictID": 1963,
+        "WardName": "Thị trấn Lộc Bình",
+        "NameExtension": [
+            "Thị trấn Lộc Bình",
+            "TT.Lộc Bình",
+            "TT Lộc Bình",
+            "Lộc Bình",
+            "Loc Binh",
+            "Thi tran Loc Binh",
+            "locbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.403107 +0700 +07 m=+0.039444359",
+        "UpdatedAt": "2020-09-29 13:59:33.719646 +0700 +07 m=+598.375102524",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

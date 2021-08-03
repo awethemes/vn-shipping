@@ -1,0 +1,342 @@
+[
+    {
+        "WardCode": "40113",
+        "DistrictID": 1526,
+        "WardName": "Phường Thuận Phước",
+        "NameExtension": [
+            "Phường Thuận Phước",
+            "P.Thuận Phước",
+            "P Thuận Phước",
+            "Thuận Phước",
+            "Thuan Phuoc",
+            "Phuong Thuan Phuoc",
+            "thuanphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395018 +0700 +07 m=+0.031355521",
+        "UpdatedAt": "2020-09-29 13:52:58.264606 +0700 +07 m=+202.927569352",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40112",
+        "DistrictID": 1526,
+        "WardName": "Phường Thanh Bình",
+        "NameExtension": [
+            "Phường Thanh Bình",
+            "P.Thanh Bình",
+            "P Thanh Bình",
+            "Thanh Bình",
+            "Thanh Binh",
+            "Phuong Thanh Binh",
+            "thanhbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395017 +0700 +07 m=+0.031354066",
+        "UpdatedAt": "2020-09-29 13:52:58.302593 +0700 +07 m=+202.965555369",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40111",
+        "DistrictID": 1526,
+        "WardName": "Phường Thạch Thang",
+        "NameExtension": [
+            "Phường Thạch Thang",
+            "P.Thạch Thang",
+            "P Thạch Thang",
+            "Thạch Thang",
+            "Thach Thang",
+            "Phuong Thach Thang",
+            "thachthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39502 +0700 +07 m=+0.031357021",
+        "UpdatedAt": "2020-09-29 13:52:58.551445 +0700 +07 m=+203.214402826",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40110",
+        "DistrictID": 1526,
+        "WardName": "Phường Phước Ninh",
+        "NameExtension": [
+            "Phường Phước Ninh",
+            "P.Phước Ninh",
+            "P Phước Ninh",
+            "Phước Ninh",
+            "Phuoc Ninh",
+            "Phuong Phuoc Ninh",
+            "phuocninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395024 +0700 +07 m=+0.031361613",
+        "UpdatedAt": "2020-09-29 13:52:58.934129 +0700 +07 m=+203.597079253",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40109",
+        "DistrictID": 1526,
+        "WardName": "Phường Nam Dương",
+        "NameExtension": [
+            "Phường Nam Dương",
+            "P.Nam Dương",
+            "P Nam Dương",
+            "Nam Dương",
+            "Nam Duong",
+            "Phuong Nam Duong",
+            "namduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395029 +0700 +07 m=+0.031366668",
+        "UpdatedAt": "2020-09-29 13:52:58.975679 +0700 +07 m=+203.638628501",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40108",
+        "DistrictID": 1526,
+        "WardName": "Phường Hòa Thuận Tây",
+        "NameExtension": [
+            "Phường Hòa Thuận Tây",
+            "P.Hòa Thuận Tây",
+            "P Hòa Thuận Tây",
+            "Hòa Thuận Tây",
+            "Hoa Thuan Tay",
+            "Phuong Hoa Thuan Tay",
+            "hoathuantay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395026 +0700 +07 m=+0.031363084",
+        "UpdatedAt": "2020-09-29 13:52:59.073648 +0700 +07 m=+203.736595642",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40107",
+        "DistrictID": 1526,
+        "WardName": "Phường Hòa Thuận Đông",
+        "NameExtension": [
+            "Phường Hòa Thuận Đông",
+            "P.Hòa Thuận Đông",
+            "P Hòa Thuận Đông",
+            "Hòa Thuận Đông",
+            "Hoa Thuan Dong",
+            "Phuong Hoa Thuan Dong",
+            "hoathuandong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395028 +0700 +07 m=+0.031365066",
+        "UpdatedAt": "2020-09-29 13:52:59.106785 +0700 +07 m=+203.769731740",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40106",
+        "DistrictID": 1526,
+        "WardName": "Phường Hòa Cường Nam",
+        "NameExtension": [
+            "Phường Hòa Cường Nam",
+            "P.Hòa Cường Nam",
+            "P Hòa Cường Nam",
+            "Hòa Cường Nam",
+            "Hoa Cuong Nam",
+            "Phuong Hoa Cuong Nam",
+            "hoacuongnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395036 +0700 +07 m=+0.031373600",
+        "UpdatedAt": "2020-09-29 13:52:59.324654 +0700 +07 m=+203.987596569",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40105",
+        "DistrictID": 1526,
+        "WardName": "Phường Hòa Cường Bắc",
+        "NameExtension": [
+            "Phường Hòa Cường Bắc",
+            "P.Hòa Cường Bắc",
+            "P Hòa Cường Bắc",
+            "Hòa Cường Bắc",
+            "Hoa Cuong Bac",
+            "Phuong Hoa Cuong Bac",
+            "hoacuongbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395035 +0700 +07 m=+0.031372116",
+        "UpdatedAt": "2020-09-29 13:52:59.369038 +0700 +07 m=+204.031980434",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40104",
+        "DistrictID": 1526,
+        "WardName": "Phường Hải Châu 2",
+        "NameExtension": [
+            "Phường Hải Châu II",
+            "Phường Hải Châu II",
+            "P.Hải Châu II",
+            "P Hải Châu II",
+            "Hải Châu II",
+            "Hai Chau II",
+            "Phuong Hai Chau II",
+            "haichau2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395023 +0700 +07 m=+0.031360125",
+        "UpdatedAt": "2020-09-29 13:52:59.404759 +0700 +07 m=+204.067700250",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40103",
+        "DistrictID": 1526,
+        "WardName": "Phường Hải Châu  I",
+        "NameExtension": [
+            "Phường Hải Châu 1",
+            "Phường Hải Châu  I",
+            "P.Hải Châu  I",
+            "P Hải Châu  I",
+            "Hải Châu  I",
+            "Hai Chau  I",
+            "Phuong Hai Chau  I",
+            "haichaui"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395021 +0700 +07 m=+0.031358659",
+        "UpdatedAt": "2020-09-29 13:52:59.453414 +0700 +07 m=+204.116354727",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40102",
+        "DistrictID": 1526,
+        "WardName": "Phường Bình Thuận",
+        "NameExtension": [
+            "Phường Bình Thuận",
+            "P.Bình Thuận",
+            "P Bình Thuận",
+            "Bình Thuận",
+            "Binh Thuan",
+            "Phuong Binh Thuan",
+            "binhthuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395033 +0700 +07 m=+0.031370599",
+        "UpdatedAt": "2020-09-29 13:52:59.486378 +0700 +07 m=+204.149317396",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "40101",
+        "DistrictID": 1526,
+        "WardName": "Phường Bình Hiên",
+        "NameExtension": [
+            "Phường Bình Hiên",
+            "P.Bình Hiên",
+            "P Bình Hiên",
+            "Bình Hiên",
+            "Binh Hien",
+            "Phuong Binh Hien",
+            "binhhien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395031 +0700 +07 m=+0.031368224",
+        "UpdatedAt": "2020-09-29 13:52:59.521859 +0700 +07 m=+204.184798593",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

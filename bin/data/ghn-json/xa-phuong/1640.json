@@ -1,0 +1,212 @@
+[
+    {
+        "WardCode": "110108",
+        "DistrictID": 1640,
+        "WardName": "Xã Nông Thượng",
+        "NameExtension": [
+            "Xã Nông Thượng",
+            "X.Nông Thượng",
+            "X Nông Thượng",
+            "Nông Thượng",
+            "Nong Thuong",
+            "Xa Nong Thuong",
+            "nongthuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392251 +0700 +07 m=+0.028588010",
+        "UpdatedAt": "2020-09-29 13:59:29.576467 +0700 +07 m=+594.232002342",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110107",
+        "DistrictID": 1640,
+        "WardName": "Xã Dương Quang",
+        "NameExtension": [
+            "Xã Dương Quang",
+            "X.Dương Quang",
+            "X Dương Quang",
+            "Dương Quang",
+            "Duong Quang",
+            "Xa Duong Quang",
+            "duongquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392249 +0700 +07 m=+0.028586561",
+        "UpdatedAt": "2020-09-29 13:59:29.613543 +0700 +07 m=+594.269077598",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110106",
+        "DistrictID": 1640,
+        "WardName": "Phường Xuất Hóa",
+        "NameExtension": [
+            "Phường Xuất Hóa",
+            "P.Xuất Hóa",
+            "P Xuất Hóa",
+            "Xuất Hóa",
+            "Xuat Hoa",
+            "Phuong Xuat Hoa",
+            "Xã Xuất Hóa",
+            "xuathoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392252 +0700 +07 m=+0.028589528",
+        "UpdatedAt": "2020-09-29 13:59:29.648278 +0700 +07 m=+594.303812077",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110105",
+        "DistrictID": 1640,
+        "WardName": "Phường Sông Cầu",
+        "NameExtension": [
+            "Phường Sông Cầu",
+            "P.Sông Cầu",
+            "P Sông Cầu",
+            "Sông Cầu",
+            "Song Cau",
+            "Phuong Song Cau",
+            "songcau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392239 +0700 +07 m=+0.028575969",
+        "UpdatedAt": "2020-09-29 13:59:29.68261 +0700 +07 m=+594.338143523",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110104",
+        "DistrictID": 1640,
+        "WardName": "Phường Phùng Chí Kiên",
+        "NameExtension": [
+            "Phường Phùng Chí Kiên",
+            "P.Phùng Chí Kiên",
+            "P Phùng Chí Kiên",
+            "Phùng Chí Kiên",
+            "Phung Chi Kien",
+            "Phuong Phung Chi Kien",
+            "phungchikien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392246 +0700 +07 m=+0.028583653",
+        "UpdatedAt": "2020-09-29 13:59:29.715977 +0700 +07 m=+594.371510600",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110103",
+        "DistrictID": 1640,
+        "WardName": "Phường Nguyễn Thị Minh Khai",
+        "NameExtension": [
+            "Phường Nguyễn Thị Minh Khai",
+            "P.Nguyễn Thị Minh Khai",
+            "P Nguyễn Thị Minh Khai",
+            "Nguyễn Thị Minh Khai",
+            "Nguyen Thi Minh Khai",
+            "Phuong Nguyen Thi Minh Khai",
+            "nguyenthiminhkhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392237 +0700 +07 m=+0.028574350",
+        "UpdatedAt": "2020-09-29 13:59:29.75355 +0700 +07 m=+594.409082090",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110102",
+        "DistrictID": 1640,
+        "WardName": "Phường Huyền Tụng",
+        "NameExtension": [
+            "Phường Huyền Tụng",
+            "P.Huyền Tụng",
+            "P Huyền Tụng",
+            "Huyền Tụng",
+            "Huyen Tung",
+            "Phuong Huyen Tung",
+            "Xã Huyền Tụng",
+            "huyentung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392248 +0700 +07 m=+0.028585150",
+        "UpdatedAt": "2020-09-29 13:59:29.825333 +0700 +07 m=+594.480863519",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "110101",
+        "DistrictID": 1640,
+        "WardName": "Phường Đức Xuân",
+        "NameExtension": [
+            "Phường Đức Xuân",
+            "P.Đức Xuân",
+            "P Đức Xuân",
+            "Đức Xuân",
+            "Duc Xuan",
+            "Phuong Duc Xuan",
+            "ducxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.392245 +0700 +07 m=+0.028582031",
+        "UpdatedAt": "2020-09-29 13:59:29.862526 +0700 +07 m=+594.518055851",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

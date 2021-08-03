@@ -1,0 +1,29 @@
+[
+    {
+        "WardCode": "541306",
+        "DistrictID": 2112,
+        "WardName": "Hoàng Sa",
+        "NameExtension": [
+            "Xã Hoàng Sa",
+            "X.Hoàng Sa",
+            "X Hoàng Sa",
+            "Hoàng Sa",
+            "Huyện Đảo Hoàng Sa",
+            "Đảo Hoàng Sa",
+            "Hoang Sa",
+            "hoangsa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402316 +0700 +07 m=+0.038653732",
+        "UpdatedAt": "2020-09-29 13:51:24.425549 +0700 +07 m=+109.090292896",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

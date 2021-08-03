@@ -1,0 +1,314 @@
+[
+    {
+        "WardCode": "610212",
+        "DistrictID": 1782,
+        "WardName": "Xã Trí Phải",
+        "NameExtension": [
+            "Xã Trí Phải",
+            "X.Trí Phải",
+            "X Trí Phải",
+            "Trí Phải",
+            "Tri Phai",
+            "Xa Tri Phai",
+            "triphai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394364 +0700 +07 m=+0.030700850",
+        "UpdatedAt": "2020-09-29 13:50:44.782374 +0700 +07 m=+69.447870178",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610211",
+        "DistrictID": 1782,
+        "WardName": "Xã Trí Lực",
+        "NameExtension": [
+            "Xã Trí Lực",
+            "X.Trí Lực",
+            "X Trí Lực",
+            "Trí Lực",
+            "Tri Luc",
+            "Xa Tri Luc",
+            "triluc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394365 +0700 +07 m=+0.030702257",
+        "UpdatedAt": "2020-09-29 13:50:44.820946 +0700 +07 m=+69.486441414",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610210",
+        "DistrictID": 1782,
+        "WardName": "Xã Thới Bình",
+        "NameExtension": [
+            "Xã Thới Bình",
+            "X.Thới Bình",
+            "X Thới Bình",
+            "Thới Bình",
+            "Thoi Binh",
+            "Xa Thoi Binh",
+            "thoibinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394368 +0700 +07 m=+0.030705084",
+        "UpdatedAt": "2020-09-29 13:50:44.967668 +0700 +07 m=+69.633161120",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610209",
+        "DistrictID": 1782,
+        "WardName": "Xã Tân Phú",
+        "NameExtension": [
+            "Xã Tân Phú",
+            "X.Tân Phú",
+            "X Tân Phú",
+            "Tân Phú",
+            "Tan Phu",
+            "Xa Tan Phu",
+            "tanphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394369 +0700 +07 m=+0.030706492",
+        "UpdatedAt": "2020-09-29 13:50:45.027416 +0700 +07 m=+69.692908135",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610208",
+        "DistrictID": 1782,
+        "WardName": "Xã Tân Lộc Đông",
+        "NameExtension": [
+            "Xã Tân Lộc Đông",
+            "X.Tân Lộc Đông",
+            "X Tân Lộc Đông",
+            "Tân Lộc Đông",
+            "Tan Loc Dong",
+            "Xa Tan Loc Dong",
+            "tanlocdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394373 +0700 +07 m=+0.030710692",
+        "UpdatedAt": "2020-09-29 13:50:45.094444 +0700 +07 m=+69.759934222",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610207",
+        "DistrictID": 1782,
+        "WardName": "Xã Tân Lộc Bắc",
+        "NameExtension": [
+            "Xã Tân Lộc Bắc",
+            "X.Tân Lộc Bắc",
+            "X Tân Lộc Bắc",
+            "Tân Lộc Bắc",
+            "Tan Loc Bac",
+            "Xa Tan Loc Bac",
+            "tanlocbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394371 +0700 +07 m=+0.030707892",
+        "UpdatedAt": "2020-09-29 13:50:45.148964 +0700 +07 m=+69.814453172",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610206",
+        "DistrictID": 1782,
+        "WardName": "Xã Tân Lộc",
+        "NameExtension": [
+            "Xã Tân Lộc",
+            "X.Tân Lộc",
+            "X Tân Lộc",
+            "Tân Lộc",
+            "Tan Loc",
+            "Xa Tan Loc",
+            "tanloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394372 +0700 +07 m=+0.030709291",
+        "UpdatedAt": "2020-09-29 13:50:45.192582 +0700 +07 m=+69.858070886",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610205",
+        "DistrictID": 1782,
+        "WardName": "Xã Tân Bằng",
+        "NameExtension": [
+            "Xã Tân Bằng",
+            "X.Tân Bằng",
+            "X Tân Bằng",
+            "Tân Bằng",
+            "Tan Bang",
+            "Xa Tan Bang",
+            "tanbang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394362 +0700 +07 m=+0.030699485",
+        "UpdatedAt": "2020-09-29 13:50:45.257342 +0700 +07 m=+69.922829698",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610204",
+        "DistrictID": 1782,
+        "WardName": "Xã Hồ Thị Kỷ",
+        "NameExtension": [
+            "Xã Hồ Thị Kỷ",
+            "X.Hồ Thị Kỷ",
+            "X Hồ Thị Kỷ",
+            "Hồ Thị Kỷ",
+            "Ho Thi Ky",
+            "Xa Ho Thi Ky",
+            "hothiky"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394375 +0700 +07 m=+0.030712181",
+        "UpdatedAt": "2020-09-29 13:50:45.293177 +0700 +07 m=+69.958663347",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610203",
+        "DistrictID": 1782,
+        "WardName": "Xã Biển Bạch Đông",
+        "NameExtension": [
+            "Xã Biển Bạch Đông",
+            "X.Biển Bạch Đông",
+            "X Biển Bạch Đông",
+            "Biển Bạch Đông",
+            "Bien Bach Dong",
+            "Xa Bien Bach Dong",
+            "bienbachdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394366 +0700 +07 m=+0.030703688",
+        "UpdatedAt": "2020-09-29 13:50:45.337326 +0700 +07 m=+70.002811856",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610202",
+        "DistrictID": 1782,
+        "WardName": "Xã Biển Bạch",
+        "NameExtension": [
+            "Xã Biển Bạch",
+            "X.Biển Bạch",
+            "X Biển Bạch",
+            "Biển Bạch",
+            "Bien Bach",
+            "Xa Bien Bach",
+            "bienbach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39436 +0700 +07 m=+0.030697316",
+        "UpdatedAt": "2020-09-29 13:50:45.388164 +0700 +07 m=+70.053648490",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "610201",
+        "DistrictID": 1782,
+        "WardName": "Thị trấn Thới Bình",
+        "NameExtension": [
+            "Thị trấn Thới Bình",
+            "TT.Thới Bình",
+            "TT Thới Bình",
+            "Thới Bình",
+            "Thoi Binh",
+            "Thi tran Thoi Binh",
+            "thoibinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394359 +0700 +07 m=+0.030695839",
+        "UpdatedAt": "2020-09-29 13:50:45.444734 +0700 +07 m=+70.110218132",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

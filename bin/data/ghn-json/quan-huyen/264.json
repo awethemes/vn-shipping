@@ -1,0 +1,232 @@
+[
+    {
+        "DistrictID": 2025,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Than Uyên",
+        "Code": "0706",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Than Uyên",
+            "H.Than Uyên",
+            "H Than Uyên",
+            "Than Uyên",
+            "Than Uyen",
+            "Huyen Than Uyen",
+            "thanuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432766 +0700 +07 m=+0.016711804",
+        "UpdatedAt": "2020-09-29 13:42:53.838108 +0700 +07 m=+26.340312178",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2017,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Tân Uyên",
+        "Code": "0707",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Uyên",
+            "H.Tân Uyên",
+            "H Tân Uyên",
+            "Tân Uyên",
+            "Tan Uyen",
+            "Huyen Tan Uyen",
+            "tanuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432749 +0700 +07 m=+0.016694642",
+        "UpdatedAt": "2020-09-29 13:42:54.167256 +0700 +07 m=+26.669454201",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2010,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Tam Đường",
+        "Code": "0702",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Đường",
+            "H.Tam Đường",
+            "H Tam Đường",
+            "Tam Đường",
+            "Tam Duong",
+            "Huyen Tam Duong",
+            "tamduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432598 +0700 +07 m=+0.016543821",
+        "UpdatedAt": "2020-09-29 13:42:54.451955 +0700 +07 m=+26.954147361",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2006,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Sìn Hồ",
+        "Code": "0704",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sìn Hồ",
+            "H.Sìn Hồ",
+            "H Sìn Hồ",
+            "Sìn Hồ",
+            "Sin Ho",
+            "Huyen Sin Ho",
+            "sinho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432592 +0700 +07 m=+0.016538194",
+        "UpdatedAt": "2020-09-29 13:42:54.585948 +0700 +07 m=+27.088137952",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1989,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Phong Thổ",
+        "Code": "0703",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phong Thổ",
+            "H.Phong Thổ",
+            "H Phong Thổ",
+            "Phong Thổ",
+            "Phong Tho",
+            "Huyen Phong Tho",
+            "phongtho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432566 +0700 +07 m=+0.016511951",
+        "UpdatedAt": "2020-09-29 13:42:55.318886 +0700 +07 m=+27.821062425",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1984,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Nậm Nhùn",
+        "Code": "0708",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nậm Nhùm",
+            "Huyện Nậm Nhùn",
+            "H.Nậm Nhùm",
+            "H.Nậm Nhùn",
+            "H Nậm Nhùm",
+            "H Nậm Nhùn",
+            "Nậm Nhùm",
+            "Nậm Nhùn",
+            "Nam Nhum",
+            "Nam Nhun",
+            "Huyen Nam Nhum",
+            "Huyen Nam Nhun",
+            "namnhun"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432558 +0700 +07 m=+0.016504004",
+        "UpdatedAt": "2020-09-29 13:42:55.751826 +0700 +07 m=+28.253993620",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1980,
+        "ProvinceID": 264,
+        "DistrictName": "Huyện Mường Tè",
+        "Code": "0705",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mường Tè",
+            "H.Mường Tè",
+            "H Mường Tè",
+            "Mường Tè",
+            "Muong Te",
+            "Huyen Muong Te",
+            "muongte"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432552 +0700 +07 m=+0.016498244",
+        "UpdatedAt": "2020-09-29 13:42:55.900462 +0700 +07 m=+28.402626999",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1675,
+        "ProvinceID": 264,
+        "DistrictName": "Thành phố Lai Châu",
+        "Code": "0701",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Lai Châu",
+            "TP.Lai Châu",
+            "TP Lai Châu",
+            "Lai Châu",
+            "Lai Chau",
+            "Thanh pho Lai Chau",
+            "laichau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431822 +0700 +07 m=+0.015767421",
+        "UpdatedAt": "2020-09-29 13:43:09.408988 +0700 +07 m=+41.910896698",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "WardCode": "550307",
+        "DistrictID": 1574,
+        "WardName": "Phường Thường Thạnh",
+        "NameExtension": [
+            "Phường Thường Thạnh",
+            "P.Thường Thạnh",
+            "P Thường Thạnh",
+            "Thường Thạnh",
+            "Thuong Thanh",
+            "Phuong Thuong Thanh",
+            "thuongthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394565 +0700 +07 m=+0.030902123",
+        "UpdatedAt": "2020-09-29 13:51:22.942514 +0700 +07 m=+107.607286574",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550306",
+        "DistrictID": 1574,
+        "WardName": "Phường Tân Phú",
+        "NameExtension": [
+            "Phường Tân Phú",
+            "P.Tân Phú",
+            "P Tân Phú",
+            "Tân Phú",
+            "Tan Phu",
+            "Phuong Tan Phu",
+            "tanphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394568 +0700 +07 m=+0.030905316",
+        "UpdatedAt": "2020-09-29 13:51:22.986328 +0700 +07 m=+107.651099507",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550305",
+        "DistrictID": 1574,
+        "WardName": "Phường Phú Thứ",
+        "NameExtension": [
+            "Phường Phú Thứ",
+            "P.Phú Thứ",
+            "P Phú Thứ",
+            "Phú Thứ",
+            "Phu Thu",
+            "Phuong Phu Thu",
+            "phuthu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394566 +0700 +07 m=+0.030903673",
+        "UpdatedAt": "2020-09-29 13:51:23.019546 +0700 +07 m=+107.684316379",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550304",
+        "DistrictID": 1574,
+        "WardName": "Phường Lê Bình",
+        "NameExtension": [
+            "Phường Lê Bình",
+            "P.Lê Bình",
+            "P Lê Bình",
+            "Lê Bình",
+            "Le Binh",
+            "Phuong Le Binh",
+            "lebinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394559 +0700 +07 m=+0.030896162",
+        "UpdatedAt": "2020-09-29 13:51:23.05178 +0700 +07 m=+107.716549669",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550303",
+        "DistrictID": 1574,
+        "WardName": "Phường Hưng Thạnh",
+        "NameExtension": [
+            "Phường Hưng Thạnh",
+            "P.Hưng Thạnh",
+            "P Hưng Thạnh",
+            "Hưng Thạnh",
+            "Hung Thanh",
+            "Phuong Hung Thanh",
+            "hungthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394562 +0700 +07 m=+0.030899146",
+        "UpdatedAt": "2020-09-29 13:51:23.083564 +0700 +07 m=+107.748333588",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550302",
+        "DistrictID": 1574,
+        "WardName": "Phường Hưng Phú",
+        "NameExtension": [
+            "Phường Hưng Phú",
+            "P.Hưng Phú",
+            "P Hưng Phú",
+            "Hưng Phú",
+            "Hung Phu",
+            "Phuong Hung Phu",
+            "hungphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39456 +0700 +07 m=+0.030897655",
+        "UpdatedAt": "2020-09-29 13:51:23.123105 +0700 +07 m=+107.787873940",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "550301",
+        "DistrictID": 1574,
+        "WardName": "Phường Ba Láng",
+        "NameExtension": [
+            "Phường Ba Láng",
+            "P.Ba Láng",
+            "P Ba Láng",
+            "Ba Láng",
+            "Ba Lang",
+            "Phuong Ba Lang",
+            "balang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394563 +0700 +07 m=+0.030900625",
+        "UpdatedAt": "2020-09-29 13:51:23.157942 +0700 +07 m=+107.822710120",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

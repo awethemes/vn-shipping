@@ -1,0 +1,355 @@
+[
+    {
+        "DistrictID": 3294,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Thanh Miện",
+        "Code": "2107",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Miện",
+            "H.Thanh Miện",
+            "H Thanh Miện",
+            "Thanh Miện",
+            "Thanh Mien",
+            "Huyen Thanh Mien",
+            "thanhmien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.4327 +0700 +07 m=+0.016645528",
+        "UpdatedAt": "2020-09-29 13:42:42.543563 +0700 +07 m=+15.045982294",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3292,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Thanh Hà",
+        "Code": "2110",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Hà",
+            "H.Thanh Hà",
+            "H Thanh Hà",
+            "Thanh Hà",
+            "Thanh Ha",
+            "Huyen Thanh Ha",
+            "thanhha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432701 +0700 +07 m=+0.016647179",
+        "UpdatedAt": "2020-09-29 13:42:42.635122 +0700 +07 m=+15.137539159",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3287,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Tứ Kỳ",
+        "Code": "2106",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tứ Kỳ",
+            "H.Tứ Kỳ",
+            "H Tứ Kỳ",
+            "Tứ Kỳ",
+            "Tu Ky",
+            "Huyen Tu Ky",
+            "tuky"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432698 +0700 +07 m=+0.016644083",
+        "UpdatedAt": "2020-09-29 13:42:42.850767 +0700 +07 m=+15.353179613",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3238,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Ninh Giang",
+        "Code": "2108",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ninh Giang",
+            "H.Ninh Giang",
+            "H Ninh Giang",
+            "Ninh Giang",
+            "Huyen Ninh Giang",
+            "ninhgiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432703 +0700 +07 m=+0.016648727",
+        "UpdatedAt": "2020-09-29 13:42:44.218295 +0700 +07 m=+16.720681593",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2056,
+        "ProvinceID": 225,
+        "DistrictName": "Thành phố Chí Linh",
+        "Code": "2102",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Chí Linh",
+            "TX.Chí Linh",
+            "TX Chí Linh",
+            "Chí Linh",
+            "Chi Linh",
+            "Thi xa Chi Linh",
+            "chilinh",
+            "Thành phố Chí Linh",
+            "TP Chí Linh",
+            "TP Chi Linh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432818 +0700 +07 m=+0.016763356",
+        "UpdatedAt": "2020-09-29 13:42:52.352743 +0700 +07 m=+24.854975573",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:52:52.359Z"
+    },
+    {
+        "DistrictID": 1953,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Kim Thành",
+        "Code": "2111",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kim Thành",
+            "H.Kim Thành",
+            "H Kim Thành",
+            "Kim Thành",
+            "Kim Thanh",
+            "Huyen Kim Thanh",
+            "kimthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432499 +0700 +07 m=+0.016444928",
+        "UpdatedAt": "2020-09-29 13:42:57.091348 +0700 +07 m=+29.593490985",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1934,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Gia Lộc",
+        "Code": "2105",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gia Lộc",
+            "H.Gia Lộc",
+            "H Gia Lộc",
+            "Gia Lộc",
+            "Gia Loc",
+            "Huyen Gia Loc",
+            "gialoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432419 +0700 +07 m=+0.016365010",
+        "UpdatedAt": "2020-09-29 13:42:57.979187 +0700 +07 m=+30.481312997",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1818,
+        "ProvinceID": 225,
+        "DistrictName": "Thị xã Kinh Môn",
+        "Code": "2104",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kinh Môn",
+            "H.Kinh Môn",
+            "H Kinh Môn",
+            "Kinh Môn",
+            "Kinh Mon",
+            "Huyen Kinh Mon",
+            "kinhmon",
+            "Thị xã Kinh Môn",
+            "TX Kinh Môn",
+            "TX Kinh Mon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432338 +0700 +07 m=+0.016283511",
+        "UpdatedAt": "2020-09-29 13:43:03.300776 +0700 +07 m=+35.802800813",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:53:29.509Z"
+    },
+    {
+        "DistrictID": 1817,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Cẩm Giàng",
+        "Code": "2109",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cẩm Giàng",
+            "H.Cẩm Giàng",
+            "H Cẩm Giàng",
+            "Cẩm Giàng",
+            "Cam Giang",
+            "Huyen Cam Giang",
+            "camgiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432336 +0700 +07 m=+0.016282077",
+        "UpdatedAt": "2020-09-29 13:43:03.364485 +0700 +07 m=+35.866508370",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1816,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Bình Giang",
+        "Code": "2112",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Giang",
+            "H.Bình Giang",
+            "H Bình Giang",
+            "Bình Giang",
+            "Binh Giang",
+            "Huyen Binh Giang",
+            "binhgiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432335 +0700 +07 m=+0.016280646",
+        "UpdatedAt": "2020-09-29 13:43:03.402722 +0700 +07 m=+35.904744856",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1727,
+        "ProvinceID": 225,
+        "DistrictName": "Huyện Nam Sách",
+        "Code": "2103",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nam Sách",
+            "H.Nam Sách",
+            "H Nam Sách",
+            "Nam Sách",
+            "Nam Sach",
+            "Huyen Nam Sach",
+            "namsach"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431765 +0700 +07 m=+0.015710688",
+        "UpdatedAt": "2020-09-29 13:43:07.438621 +0700 +07 m=+39.940567739",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-02-22T04:57:11.793Z"
+    },
+    {
+        "DistrictID": 1598,
+        "ProvinceID": 225,
+        "DistrictName": "Thành phố Hải Dương",
+        "Code": "2101",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Hải Dương",
+            "TP.Hải Dương",
+            "TP Hải Dương",
+            "Hải Dương",
+            "Hai Duong",
+            "Thanh pho Hai Duong",
+            "haiduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431806 +0700 +07 m=+0.015752343",
+        "UpdatedAt": "2020-09-29 13:43:11.009913 +0700 +07 m=+43.511790985",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

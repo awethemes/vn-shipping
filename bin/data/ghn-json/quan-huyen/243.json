@@ -1,0 +1,513 @@
+[
+    {
+        "DistrictID": 2239,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Thăng Bình",
+        "Code": "3408",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thăng Bình",
+            "H.Thăng Bình",
+            "H Thăng Bình",
+            "Thăng Bình",
+            "Thang Binh",
+            "Huyen Thang Binh",
+            "thangbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432124 +0700 +07 m=+0.016070231",
+        "UpdatedAt": "2020-09-29 13:42:47.635495 +0700 +07 m=+20.137817646",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2224,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Tiên Phước",
+        "Code": "3410",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tiên Phước",
+            "H.Tiên Phước",
+            "H Tiên Phước",
+            "Tiên Phước",
+            "Tien Phuoc",
+            "Huyen Tien Phuoc",
+            "tienphuoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432097 +0700 +07 m=+0.016043224",
+        "UpdatedAt": "2020-09-29 13:42:47.854909 +0700 +07 m=+20.357227156",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2219,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Tây Giang",
+        "Code": "3416",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tây Giang",
+            "H.Tây Giang",
+            "H Tây Giang",
+            "Tây Giang",
+            "Tay Giang",
+            "Huyen Tay Giang",
+            "taygiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432094 +0700 +07 m=+0.016040326",
+        "UpdatedAt": "2020-09-29 13:42:47.978783 +0700 +07 m=+20.481098729",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2198,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Phước Sơn",
+        "Code": "3414",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phước Sơn",
+            "H.Phước Sơn",
+            "H Phước Sơn",
+            "Phước Sơn",
+            "Phuoc Son",
+            "Huyen Phuoc Son",
+            "phuocson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432081 +0700 +07 m=+0.016027238",
+        "UpdatedAt": "2020-09-29 13:42:48.410491 +0700 +07 m=+20.912798839",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2182,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Nông Sơn",
+        "Code": "3418",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nông Sơn",
+            "H.Nông Sơn",
+            "H Nông Sơn",
+            "Nông Sơn",
+            "Nong Son",
+            "Huyen Nong Son",
+            "nongson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432066 +0700 +07 m=+0.016011365",
+        "UpdatedAt": "2020-09-29 13:42:48.690699 +0700 +07 m=+21.193000808",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2178,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Nam Trà My",
+        "Code": "3415",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nam Trà My",
+            "H.Nam Trà My",
+            "H Nam Trà My",
+            "Nam Trà My",
+            "Nam Tra My",
+            "Huyen Nam Tra My",
+            "namtramy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432061 +0700 +07 m=+0.016007046",
+        "UpdatedAt": "2020-09-29 13:42:48.79582 +0700 +07 m=+21.298120441",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2177,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Nam Giang",
+        "Code": "3413",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nam Giang",
+            "H.Nam Giang",
+            "H Nam Giang",
+            "Nam Giang",
+            "Huyen Nam Giang",
+            "namgiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43206 +0700 +07 m=+0.016005639",
+        "UpdatedAt": "2020-09-29 13:42:48.859592 +0700 +07 m=+21.361891184",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2139,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Hiệp Đức",
+        "Code": "3407",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hiệp Đức",
+            "H.Hiệp Đức",
+            "H Hiệp Đức",
+            "Hiệp Đức",
+            "Hiep Duc",
+            "Huyen Hiep Duc",
+            "hiepduc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43201 +0700 +07 m=+0.015956001",
+        "UpdatedAt": "2020-09-29 13:42:49.839889 +0700 +07 m=+22.342169260",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2125,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Đông Giang",
+        "Code": "3412",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đông Giang",
+            "H.Đông Giang",
+            "H Đông Giang",
+            "Đông Giang",
+            "Dong Giang",
+            "Huyen Dong Giang",
+            "donggiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431992 +0700 +07 m=+0.015937583",
+        "UpdatedAt": "2020-09-29 13:42:50.112915 +0700 +07 m=+22.615189862",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2078,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Bắc Trà My",
+        "Code": "3411",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Trà My",
+            "H.Bắc Trà My",
+            "H Bắc Trà My",
+            "Bắc Trà My",
+            "Bac Tra My",
+            "Huyen Bac Tra My",
+            "bactramy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432852 +0700 +07 m=+0.016797683",
+        "UpdatedAt": "2020-09-29 13:42:51.655578 +0700 +07 m=+24.157823534",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2003,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Quế Sơn",
+        "Code": "3406",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quế Sơn",
+            "H.Quế Sơn",
+            "H Quế Sơn",
+            "Quế Sơn",
+            "Que Son",
+            "Huyen Que Son",
+            "queson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432588 +0700 +07 m=+0.016533819",
+        "UpdatedAt": "2020-09-29 13:42:54.691255 +0700 +07 m=+27.193443176",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1995,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Phú Ninh",
+        "Code": "3417",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Ninh",
+            "H.Phú Ninh",
+            "H Phú Ninh",
+            "Phú Ninh",
+            "Phu Ninh",
+            "Huyen Phu Ninh",
+            "phuninh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432577 +0700 +07 m=+0.016522416",
+        "UpdatedAt": "2020-09-29 13:42:54.969173 +0700 +07 m=+27.471356390",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1987,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Núi Thành",
+        "Code": "3409",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Núi Thành",
+            "H.Núi Thành",
+            "H Núi Thành",
+            "Núi Thành",
+            "Nui Thanh",
+            "Huyen Nui Thanh",
+            "nuithanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432562 +0700 +07 m=+0.016508333",
+        "UpdatedAt": "2020-09-29 13:42:55.485789 +0700 +07 m=+27.987961830",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1917,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Đại Lộc",
+        "Code": "3405",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đại Lộc",
+            "H.Đại Lộc",
+            "H Đại Lộc",
+            "Đại Lộc",
+            "Dai Loc",
+            "Huyen Dai Loc",
+            "dailoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432378 +0700 +07 m=+0.016324083",
+        "UpdatedAt": "2020-09-29 13:42:58.802883 +0700 +07 m=+31.304993279",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1736,
+        "ProvinceID": 243,
+        "DistrictName": "Thị xã Điện Bàn",
+        "Code": "3404",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Điện Bàn",
+            "Thị Xã Điện Bàn",
+            "H.Điện Bàn",
+            "H Điện Bàn",
+            "Điện Bàn",
+            "Dien Ban",
+            "Huyen Dien Ban",
+            "dienban",
+            "Thị xã Điện Bàn",
+            "TX Điện Bàn",
+            "TX Dien Ban"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431779 +0700 +07 m=+0.015725238",
+        "UpdatedAt": "2020-09-29 13:43:07.052427 +0700 +07 m=+39.554380102",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:00:13.059Z"
+    },
+    {
+        "DistrictID": 1735,
+        "ProvinceID": 243,
+        "DistrictName": "Huyện Duy Xuyên",
+        "Code": "3403",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Duy Xuyên",
+            "H.Duy Xuyên",
+            "H Duy Xuyên",
+            "Duy Xuyên",
+            "Duy Xuyen",
+            "Huyen Duy Xuyen",
+            "duyxuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431777 +0700 +07 m=+0.015722439",
+        "UpdatedAt": "2020-09-29 13:43:07.088535 +0700 +07 m=+39.590488035",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1632,
+        "ProvinceID": 243,
+        "DistrictName": "Thành phố Hội An",
+        "Code": "3402",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Hội An",
+            "TP.Hội An",
+            "TP Hội An",
+            "Hội An",
+            "Hoi An",
+            "Thanh pho Hoi An",
+            "hoian"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431655 +0700 +07 m=+0.015601191",
+        "UpdatedAt": "2020-09-29 13:43:10.148494 +0700 +07 m=+42.650389366",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1631,
+        "ProvinceID": 243,
+        "DistrictName": "Thành phố Tam Kỳ",
+        "Code": "3401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Tam Kỳ",
+            "TP.Tam Kỳ",
+            "TP Tam Kỳ",
+            "Tam Kỳ",
+            "Tam Ky",
+            "Thanh pho Tam Ky",
+            "tamky"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431654 +0700 +07 m=+0.015599744",
+        "UpdatedAt": "2020-09-29 13:43:10.182769 +0700 +07 m=+42.684663416",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

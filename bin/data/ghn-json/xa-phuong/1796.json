@@ -1,0 +1,387 @@
+[
+    {
+        "WardCode": "380915",
+        "DistrictID": 1796,
+        "WardName": "Xã Kông HTok",
+        "NameExtension": [
+            "Xã Kông HTok",
+            "X.Kông HTok",
+            "X Kông HTok",
+            "Kông HTok",
+            "Kong HTok",
+            "Xa Kong HTok",
+            "konghtok"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396613 +0700 +07 m=+0.032950283",
+        "UpdatedAt": "2020-09-29 13:53:16.036195 +0700 +07 m=+220.698821085",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380914",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia Tiêm",
+        "NameExtension": [
+            "Xã Ia Tiêm",
+            "X.Ia Tiêm",
+            "X Ia Tiêm",
+            "Ia Tiêm",
+            "Ia Tiem",
+            "Xa Ia Tiem",
+            "iatiem"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396603 +0700 +07 m=+0.032940645",
+        "UpdatedAt": "2020-09-29 13:53:16.083331 +0700 +07 m=+220.745955840",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380913",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia Pal",
+        "NameExtension": [
+            "Xã Ia Pal",
+            "X.Ia Pal",
+            "X Ia Pal",
+            "Ia Pal",
+            "Xa Ia Pal",
+            "iapal"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39662 +0700 +07 m=+0.032957422",
+        "UpdatedAt": "2020-09-29 13:53:16.122379 +0700 +07 m=+220.785003467",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380912",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia Ko",
+        "NameExtension": [
+            "Xã Ia Ko",
+            "X.Ia Ko",
+            "X Ia Ko",
+            "Ia Ko",
+            "Xa Ia Ko",
+            "iako"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396623 +0700 +07 m=+0.032960433",
+        "UpdatedAt": "2020-09-29 13:53:16.165033 +0700 +07 m=+220.827655819",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380911",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia HLốp",
+        "NameExtension": [
+            "Xã Ia HLốp",
+            "X.Ia HLốp",
+            "X Ia HLốp",
+            "Ia HLốp",
+            "Ia HLop",
+            "Xa Ia HLop",
+            "iahlop"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396616 +0700 +07 m=+0.032953092",
+        "UpdatedAt": "2020-09-29 13:53:16.203309 +0700 +07 m=+220.865931111",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380910",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia Glai",
+        "NameExtension": [
+            "Xã Ia Glai",
+            "X.Ia Glai",
+            "X Ia Glai",
+            "Ia Glai",
+            "Xa Ia Glai",
+            "iaglai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39661 +0700 +07 m=+0.032947354",
+        "UpdatedAt": "2020-09-29 13:53:16.239218 +0700 +07 m=+220.901839793",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380909",
+        "DistrictID": 1796,
+        "WardName": "Xã Ia Blang",
+        "NameExtension": [
+            "Xã Ia Blang",
+            "X.Ia Blang",
+            "X Ia Blang",
+            "Ia Blang",
+            "Xa Ia Blang",
+            "iablang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396617 +0700 +07 m=+0.032954530",
+        "UpdatedAt": "2020-09-29 13:53:16.274685 +0700 +07 m=+220.937306514",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380908",
+        "DistrictID": 1796,
+        "WardName": "Xã H Bông",
+        "NameExtension": [
+            "Xã H Bông",
+            "X.H Bông",
+            "X H Bông",
+            "H Bông",
+            "H Bong",
+            "Xa H Bong",
+            "hbong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396622 +0700 +07 m=+0.032959070",
+        "UpdatedAt": "2020-09-29 13:53:16.309158 +0700 +07 m=+220.971778353",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380907",
+        "DistrictID": 1796,
+        "WardName": "Xã Dun",
+        "NameExtension": [
+            "Xã Dun",
+            "X.Dun",
+            "X Dun",
+            "Dun",
+            "Xa Dun",
+            "dun"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396619 +0700 +07 m=+0.032956027",
+        "UpdatedAt": "2020-09-29 13:53:16.344071 +0700 +07 m=+221.006690336",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380906",
+        "DistrictID": 1796,
+        "WardName": "Xã Chư Pơng",
+        "NameExtension": [
+            "Xã Chư Pơng",
+            "X.Chư Pơng",
+            "X Chư Pơng",
+            "Chư Pơng",
+            "Chu Pong",
+            "Xa Chu Pong",
+            "chupong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396606 +0700 +07 m=+0.032943077",
+        "UpdatedAt": "2020-09-29 13:53:16.384236 +0700 +07 m=+221.046855227",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380905",
+        "DistrictID": 1796,
+        "WardName": "Xã Bờ Ngoong",
+        "NameExtension": [
+            "Xã Bờ Ngoong",
+            "X.Bờ Ngoong",
+            "X Bờ Ngoong",
+            "Bờ Ngoong",
+            "Bo Ngoong",
+            "Xa Bo Ngoong",
+            "bongoong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396609 +0700 +07 m=+0.032945949",
+        "UpdatedAt": "2020-09-29 13:53:16.420404 +0700 +07 m=+221.083021944",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380904",
+        "DistrictID": 1796,
+        "WardName": "Xã Bar Măih",
+        "NameExtension": [
+            "Xã Bar Măih",
+            "X.Bar Măih",
+            "X Bar Măih",
+            "Bar Măih",
+            "Bar Maih",
+            "Xa Bar Maih",
+            "Xã Bar Maih",
+            "barmaih"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396607 +0700 +07 m=+0.032944477",
+        "UpdatedAt": "2020-09-29 13:53:16.45573 +0700 +07 m=+221.118347960",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380903",
+        "DistrictID": 1796,
+        "WardName": "Xã AYun",
+        "NameExtension": [
+            "Xã AYun",
+            "X.AYun",
+            "X AYun",
+            "AYun",
+            "Xa AYun",
+            "ayun"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396614 +0700 +07 m=+0.032951699",
+        "UpdatedAt": "2020-09-29 13:53:16.493275 +0700 +07 m=+221.155892118",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380902",
+        "DistrictID": 1796,
+        "WardName": "Xã AL Bá",
+        "NameExtension": [
+            "Xã AL Bá",
+            "X.AL Bá",
+            "X AL Bá",
+            "AL Bá",
+            "AL Ba",
+            "Xa AL Ba",
+            "alba"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396612 +0700 +07 m=+0.032948829",
+        "UpdatedAt": "2020-09-29 13:53:16.532895 +0700 +07 m=+221.195510967",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "380901",
+        "DistrictID": 1796,
+        "WardName": "Thị trấn Chư Sê",
+        "NameExtension": [
+            "Thị trấn Chư Sê",
+            "TT.Chư Sê",
+            "TT Chư Sê",
+            "Chư Sê",
+            "Chu Se",
+            "Thi tran Chu Se",
+            "chuse"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.396602 +0700 +07 m=+0.032939265",
+        "UpdatedAt": "2020-09-29 13:53:16.574618 +0700 +07 m=+221.237233011",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

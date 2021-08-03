@@ -1,0 +1,80 @@
+[
+    {
+        "WardCode": "171403",
+        "DistrictID": 2109,
+        "WardName": "Xã Thanh Lân",
+        "NameExtension": [
+            "Xã Thanh Lân",
+            "X.Thanh Lân",
+            "X Thanh Lân",
+            "Thanh Lân",
+            "Thanh Lan",
+            "Xa Thanh Lan",
+            "thanhlan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409179 +0700 +07 m=+0.045516569",
+        "UpdatedAt": "2020-09-29 13:58:30.081247 +0700 +07 m=+534.737911787",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "171402",
+        "DistrictID": 2109,
+        "WardName": "Xã Đồng Tiến",
+        "NameExtension": [
+            "Xã Đồng Tiến",
+            "X.Đồng Tiến",
+            "X Đồng Tiến",
+            "Đồng Tiến",
+            "Dong Tien",
+            "Xa Dong Tien",
+            "dongtien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409178 +0700 +07 m=+0.045515156",
+        "UpdatedAt": "2020-09-29 13:58:30.116364 +0700 +07 m=+534.773027947",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "171401",
+        "DistrictID": 2109,
+        "WardName": "Thị trấn Cô Tô",
+        "NameExtension": [
+            "Thị trấn Cô Tô",
+            "TT.Cô Tô",
+            "TT Cô Tô",
+            "Cô Tô",
+            "Co To",
+            "Thi tran Co To",
+            "coto"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409176 +0700 +07 m=+0.045513739",
+        "UpdatedAt": "2020-09-29 13:58:30.152272 +0700 +07 m=+534.808935065",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

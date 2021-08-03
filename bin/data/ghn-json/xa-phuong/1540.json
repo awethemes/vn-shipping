@@ -1,0 +1,184 @@
+[
+    {
+        "WardCode": "440507",
+        "DistrictID": 1540,
+        "WardName": "Phường Tân Đông Hiệp",
+        "NameExtension": [
+            "Phường Tân Đông Hiệp",
+            "P.Tân Đông Hiệp",
+            "P Tân Đông Hiệp",
+            "Tân Đông Hiệp",
+            "Tan Dong Hiep",
+            "Phuong Tan Dong Hiep",
+            "tandonghiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393866 +0700 +07 m=+0.030203199",
+        "UpdatedAt": "2020-09-29 13:52:33.040965 +0700 +07 m=+177.704406997",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440506",
+        "DistrictID": 1540,
+        "WardName": "Phường Tân Bình",
+        "NameExtension": [
+            "Phường Tân Bình",
+            "P.Tân Bình",
+            "P Tân Bình",
+            "Tân Bình",
+            "Tan Binh",
+            "Phuong Tan Binh",
+            "tanbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393864 +0700 +07 m=+0.030201679",
+        "UpdatedAt": "2020-09-29 13:52:33.096132 +0700 +07 m=+177.759572544",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440505",
+        "DistrictID": 1540,
+        "WardName": "Phường Đông Hòa",
+        "NameExtension": [
+            "Phường Đông Hòa",
+            "P.Đông Hòa",
+            "P Đông Hòa",
+            "Đông Hòa",
+            "Dong Hoa",
+            "Phuong Dong Hoa",
+            "donghoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39387 +0700 +07 m=+0.030207784",
+        "UpdatedAt": "2020-09-29 13:52:33.148391 +0700 +07 m=+177.811830576",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440504",
+        "DistrictID": 1540,
+        "WardName": "Phường Dĩ An",
+        "NameExtension": [
+            "Phường Dĩ An",
+            "P.Dĩ An",
+            "P Dĩ An",
+            "Dĩ An",
+            "Di An",
+            "Phuong Di An",
+            "dian"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393863 +0700 +07 m=+0.030200182",
+        "UpdatedAt": "2020-09-29 13:52:33.206553 +0700 +07 m=+177.869991525",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440503",
+        "DistrictID": 1540,
+        "WardName": "Phường Bình Thắng",
+        "NameExtension": [
+            "Phường Bình Thắng",
+            "P.Bình Thắng",
+            "P Bình Thắng",
+            "Bình Thắng",
+            "Binh Thang",
+            "Phuong Binh Thang",
+            "binhthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393869 +0700 +07 m=+0.030206237",
+        "UpdatedAt": "2020-09-29 13:52:33.274619 +0700 +07 m=+177.938056497",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440502",
+        "DistrictID": 1540,
+        "WardName": "Phường Bình An",
+        "NameExtension": [
+            "Phường Bình An",
+            "P.Bình An",
+            "P Bình An",
+            "Bình An",
+            "Binh An",
+            "Phuong Binh An",
+            "binhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393867 +0700 +07 m=+0.030204754",
+        "UpdatedAt": "2020-09-29 13:52:33.403925 +0700 +07 m=+178.067360175",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440501",
+        "DistrictID": 1540,
+        "WardName": "Phường An Bình",
+        "NameExtension": [
+            "Phường An Bình",
+            "P.An Bình",
+            "P An Bình",
+            "An Bình",
+            "An Binh",
+            "Phuong An Binh",
+            "anbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393872 +0700 +07 m=+0.030209255",
+        "UpdatedAt": "2020-09-29 13:52:33.453214 +0700 +07 m=+178.116648369",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

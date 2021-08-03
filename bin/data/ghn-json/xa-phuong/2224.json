@@ -1,0 +1,392 @@
+[
+    {
+        "WardCode": "341015",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Thọ",
+        "NameExtension": [
+            "Xã Tiên Thọ",
+            "X.Tiên Thọ",
+            "X Tiên Thọ",
+            "Tiên Thọ",
+            "Tien Tho",
+            "Xa Tien Tho",
+            "tientho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408499 +0700 +07 m=+0.044835959",
+        "UpdatedAt": "2020-09-29 13:53:51.416442 +0700 +07 m=+256.078395899",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341014",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Sơn",
+        "NameExtension": [
+            "Xã Tiên Sơn",
+            "X.Tiên Sơn",
+            "X Tiên Sơn",
+            "Tiên Sơn",
+            "Tien Son",
+            "Xa Tien Son",
+            "tienson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408485 +0700 +07 m=+0.044821906",
+        "UpdatedAt": "2020-09-29 13:53:51.460579 +0700 +07 m=+256.122532220",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341013",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Phong",
+        "NameExtension": [
+            "Xã Tiên Phong",
+            "X.Tiên Phong",
+            "X Tiên Phong",
+            "Tiên Phong",
+            "Tien Phong",
+            "Xa Tien Phong",
+            "tienphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408497 +0700 +07 m=+0.044834546",
+        "UpdatedAt": "2020-09-29 13:53:51.602971 +0700 +07 m=+256.264921717",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341012",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Ngọc",
+        "NameExtension": [
+            "Xã Tiên Ngọc",
+            "X.Tiên Ngọc",
+            "X Tiên Ngọc",
+            "Tiên Ngọc",
+            "Tien Ngoc",
+            "Xa Tien Ngoc",
+            "tienngoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408492 +0700 +07 m=+0.044828933",
+        "UpdatedAt": "2020-09-29 13:53:51.643934 +0700 +07 m=+256.305883394",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341011",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Mỹ",
+        "NameExtension": [
+            "Xã Tiên Mỹ",
+            "X.Tiên Mỹ",
+            "X Tiên Mỹ",
+            "Tiên Mỹ",
+            "Tien My",
+            "Xa Tien My",
+            "tienmy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408496 +0700 +07 m=+0.044833201",
+        "UpdatedAt": "2020-09-29 13:53:51.685457 +0700 +07 m=+256.347406096",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341010",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Lộc",
+        "NameExtension": [
+            "Xã Tiên Lộc",
+            "X.Tiên Lộc",
+            "X Tiên Lộc",
+            "Tiên Lộc",
+            "Tien Loc",
+            "Xa Tien Loc",
+            "tienloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408502 +0700 +07 m=+0.044839617",
+        "UpdatedAt": "2020-09-29 13:53:51.748973 +0700 +07 m=+256.410921213",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341009",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Lập",
+        "NameExtension": [
+            "Xã Tiên Lập",
+            "X.Tiên Lập",
+            "X Tiên Lập",
+            "Tiên Lập",
+            "Tien Lap",
+            "Xa Tien Lap",
+            "tienlap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408504 +0700 +07 m=+0.044840979",
+        "UpdatedAt": "2020-09-29 13:53:51.789185 +0700 +07 m=+256.451132590",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341008",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Lãnh",
+        "NameExtension": [
+            "Xã Tiên Lãnh",
+            "X.Tiên Lãnh",
+            "X Tiên Lãnh",
+            "Tiên Lãnh",
+            "Tien Lanh",
+            "Xa Tien Lanh",
+            "tienlanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40849 +0700 +07 m=+0.044827550",
+        "UpdatedAt": "2020-09-29 13:53:51.829515 +0700 +07 m=+256.491461340",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341007",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Hiệp",
+        "NameExtension": [
+            "Xã Tiên Hiệp",
+            "X.Tiên Hiệp",
+            "X Tiên Hiệp",
+            "Tiên Hiệp",
+            "Tien Hiep",
+            "Xa Tien Hiep",
+            "tienhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408493 +0700 +07 m=+0.044830383",
+        "UpdatedAt": "2020-09-29 13:53:51.877043 +0700 +07 m=+256.538988517",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341006",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Hà",
+        "NameExtension": [
+            "Xã Tiên Hà",
+            "X.Tiên Hà",
+            "X Tiên Hà",
+            "Tiên Hà",
+            "Tien Ha",
+            "Xa Tien Ha",
+            "tienha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408486 +0700 +07 m=+0.044823293",
+        "UpdatedAt": "2020-09-29 13:53:51.95795 +0700 +07 m=+256.619893726",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341005",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Châu",
+        "NameExtension": [
+            "Xã Tiên Châu",
+            "X.Tiên Châu",
+            "X Tiên Châu",
+            "Tiên Châu",
+            "Tien Chau",
+            "Xa Tien Chau",
+            "tienchau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408489 +0700 +07 m=+0.044826031",
+        "UpdatedAt": "2020-09-29 13:53:52.004432 +0700 +07 m=+256.666374563",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341004",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Cảnh",
+        "NameExtension": [
+            "Xã Tiên Cảnh",
+            "X.Tiên Cảnh",
+            "X Tiên Cảnh",
+            "Tiên Cảnh",
+            "Tien Canh",
+            "Xa Tien Canh",
+            "tiencanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408494 +0700 +07 m=+0.044831775",
+        "UpdatedAt": "2020-09-29 13:53:52.043177 +0700 +07 m=+256.705119047",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341003",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên Cẩm",
+        "NameExtension": [
+            "Xã Tiên Cẩm",
+            "X.Tiên Cẩm",
+            "X Tiên Cẩm",
+            "Tiên Cẩm",
+            "Tien Cam",
+            "Xa Tien Cam",
+            "tiencam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408487 +0700 +07 m=+0.044824643",
+        "UpdatedAt": "2020-09-29 13:53:52.109766 +0700 +07 m=+256.771706644",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341002",
+        "DistrictID": 2224,
+        "WardName": "Xã Tiên An",
+        "NameExtension": [
+            "Xã Tiên An",
+            "X.Tiên An",
+            "X Tiên An",
+            "Tiên An",
+            "Tien An",
+            "Xa Tien An",
+            "tienan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408501 +0700 +07 m=+0.044838228",
+        "UpdatedAt": "2020-09-29 13:53:52.149058 +0700 +07 m=+256.810997819",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "341001",
+        "DistrictID": 2224,
+        "WardName": "Thị trấn Tiên Kỳ",
+        "NameExtension": [
+            "Thị trấn Tiên Kỳ",
+            "TT.Tiên Kỳ",
+            "TT Tiên Kỳ",
+            "Tiên Kỳ",
+            "Tien Ky",
+            "Thi tran Tien Ky",
+            "tienky"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408483 +0700 +07 m=+0.044820501",
+        "UpdatedAt": "2020-09-29 13:53:52.211094 +0700 +07 m=+256.873032902",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

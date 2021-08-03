@@ -1,0 +1,226 @@
+[
+    {
+        "DistrictID": 2263,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Vũng Liêm",
+        "Code": "5707",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vũng Liêm",
+            "H.Vũng Liêm",
+            "H Vũng Liêm",
+            "Vũng Liêm",
+            "Vung Liem",
+            "Huyen Vung Liem",
+            "vungliem"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432141 +0700 +07 m=+0.016086952",
+        "UpdatedAt": "2020-09-29 13:42:47.179524 +0700 +07 m=+19.681854991",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2164,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Mang Thít",
+        "Code": "5703",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mang Thít",
+            "H.Mang Thít",
+            "H Mang Thít",
+            "Mang Thít",
+            "Mang Thit",
+            "Huyen Mang Thit",
+            "mangthit"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43204 +0700 +07 m=+0.015985412",
+        "UpdatedAt": "2020-09-29 13:42:49.172717 +0700 +07 m=+21.675009938",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2081,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Bình Tân",
+        "Code": "5708",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Tân",
+            "H.Bình Tân",
+            "H Bình Tân",
+            "Bình Tân",
+            "Binh Tan",
+            "Huyen Binh Tan",
+            "binhtan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432855 +0700 +07 m=+0.016800527",
+        "UpdatedAt": "2020-09-29 13:42:51.550599 +0700 +07 m=+24.052847047",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2054,
+        "ProvinceID": 215,
+        "DistrictName": "Thị xã Bình Minh",
+        "Code": "5704",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Bình Minh",
+            "TX.Bình Minh",
+            "TX Bình Minh",
+            "Bình Minh",
+            "Binh Minh",
+            "Thi xa Binh Minh",
+            "binhminh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432815 +0700 +07 m=+0.016760389",
+        "UpdatedAt": "2020-09-29 13:42:52.432513 +0700 +07 m=+24.934744047",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2034,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Trà Ôn",
+        "Code": "5706",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trà Ôn",
+            "H.Trà Ôn",
+            "H Trà Ôn",
+            "Trà Ôn",
+            "Tra On",
+            "Huyen Tra On",
+            "traon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432782 +0700 +07 m=+0.016727889",
+        "UpdatedAt": "2020-09-29 13:42:53.274357 +0700 +07 m=+25.776572579",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2008,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Tam Bình",
+        "Code": "5705",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Bình",
+            "H.Tam Bình",
+            "H Tam Bình",
+            "Tam Bình",
+            "Tam Binh",
+            "Huyen Tam Binh",
+            "tambinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432595 +0700 +07 m=+0.016541030",
+        "UpdatedAt": "2020-09-29 13:42:54.518442 +0700 +07 m=+27.020633031",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1962,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Long Hồ",
+        "Code": "5702",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Long Hồ",
+            "H.Long Hồ",
+            "H Long Hồ",
+            "Long Hồ",
+            "Long Ho",
+            "Huyen Long Ho",
+            "longho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432522 +0700 +07 m=+0.016468215",
+        "UpdatedAt": "2020-09-29 13:42:56.742992 +0700 +07 m=+29.245141618",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1562,
+        "ProvinceID": 215,
+        "DistrictName": "Thành phố Vĩnh Long",
+        "Code": "5701",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Vĩnh Long",
+            "TP.Vĩnh Long",
+            "TP Vĩnh Long",
+            "Vĩnh Long",
+            "Vinh Long",
+            "Thanh pho Vinh Long",
+            "vinhlong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431571 +0700 +07 m=+0.015516587",
+        "UpdatedAt": "2020-09-29 13:43:11.788827 +0700 +07 m=+44.290690399",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

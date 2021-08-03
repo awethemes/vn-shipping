@@ -1,0 +1,210 @@
+[
+    {
+        "WardCode": "410708",
+        "DistrictID": 3212,
+        "WardName": "Xã Thành Sơn",
+        "NameExtension": [
+            "Xã Thành Sơn",
+            "X.Thành Sơn",
+            "X Thành Sơn",
+            "Thành Sơn",
+            "Thanh Son",
+            "Xa Thanh Son",
+            "thanhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402115 +0700 +07 m=+0.038452533",
+        "UpdatedAt": "2020-09-29 13:52:49.069746 +0700 +07 m=+193.732883270",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410707",
+        "DistrictID": 3212,
+        "WardName": "Xã Sơn Trung",
+        "NameExtension": [
+            "Xã Sơn Trung",
+            "X.Sơn Trung",
+            "X Sơn Trung",
+            "Sơn Trung",
+            "Son Trung",
+            "Xa Son Trung",
+            "sontrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402121 +0700 +07 m=+0.038458053",
+        "UpdatedAt": "2020-09-29 13:52:49.11267 +0700 +07 m=+193.775806934",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410706",
+        "DistrictID": 3212,
+        "WardName": "Xã Sơn Lâm",
+        "NameExtension": [
+            "Xã Sơn Lâm",
+            "X.Sơn Lâm",
+            "X Sơn Lâm",
+            "Sơn Lâm",
+            "Son Lam",
+            "Xa Son Lam",
+            "sonlam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402117 +0700 +07 m=+0.038453902",
+        "UpdatedAt": "2020-09-29 13:52:49.15322 +0700 +07 m=+193.816356174",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410705",
+        "DistrictID": 3212,
+        "WardName": "Xã Sơn Hiệp",
+        "NameExtension": [
+            "Xã Sơn Hiệp",
+            "X.Sơn Hiệp",
+            "X Sơn Hiệp",
+            "Sơn Hiệp",
+            "Son Hiep",
+            "Xa Son Hiep",
+            "sonhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402118 +0700 +07 m=+0.038455288",
+        "UpdatedAt": "2020-09-29 13:52:49.203662 +0700 +07 m=+193.866796628",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410704",
+        "DistrictID": 3212,
+        "WardName": "Xã Sơn Bình",
+        "NameExtension": [
+            "Xã Sơn Bình",
+            "X.Sơn Bình",
+            "X Sơn Bình",
+            "Sơn Bình",
+            "Son Binh",
+            "Xa Son Binh",
+            "sonbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402119 +0700 +07 m=+0.038456669",
+        "UpdatedAt": "2020-09-29 13:52:49.240709 +0700 +07 m=+193.903842677",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410703",
+        "DistrictID": 3212,
+        "WardName": "Xã Ba Cụm Nam",
+        "NameExtension": [
+            "Xã Ba Cụm Nam",
+            "X.Ba Cụm Nam",
+            "X Ba Cụm Nam",
+            "Ba Cụm Nam",
+            "Ba Cum Nam",
+            "Xa Ba Cum Nam",
+            "bacumnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402123 +0700 +07 m=+0.038460775",
+        "UpdatedAt": "2020-09-29 13:52:49.275938 +0700 +07 m=+193.939071812",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410702",
+        "DistrictID": 3212,
+        "WardName": "Xã Ba Cụm Bắc",
+        "NameExtension": [
+            "Xã Ba Cụm Bắc",
+            "X.Ba Cụm Bắc",
+            "X Ba Cụm Bắc",
+            "Ba Cụm Bắc",
+            "Ba Cum Bac",
+            "Xa Ba Cum Bac",
+            "bacumbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402122 +0700 +07 m=+0.038459419",
+        "UpdatedAt": "2020-09-29 13:52:49.314771 +0700 +07 m=+193.977903626",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410701",
+        "DistrictID": 3212,
+        "WardName": "Thị trấn Tô Hạp",
+        "NameExtension": [
+            "Thị trấn Tô Hạp",
+            "TT.Tô Hạp",
+            "TT Tô Hạp",
+            "Tô Hạp",
+            "To Hap",
+            "Thi tran To Hap",
+            "tohap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402114 +0700 +07 m=+0.038451181",
+        "UpdatedAt": "2020-09-29 13:52:49.383497 +0700 +07 m=+194.046628213",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "WardCode": "410803",
+        "DistrictID": 2117,
+        "WardName": "Xã Song Tử Tây",
+        "NameExtension": [
+            "Xã Song Tử Tây",
+            "X.Song Tử Tây",
+            "X Song Tử Tây",
+            "Song Tử Tây",
+            "Song Tu Tay",
+            "Xa Song Tu Tay",
+            "songtutay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402126 +0700 +07 m=+0.038463551",
+        "UpdatedAt": "2020-09-29 13:52:48.954443 +0700 +07 m=+193.617583089",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410802",
+        "DistrictID": 2117,
+        "WardName": "Xã Sinh Tồn",
+        "NameExtension": [
+            "Xã Sinh Tồn",
+            "X.Sinh Tồn",
+            "X Sinh Tồn",
+            "Sinh Tồn",
+            "Sinh Ton",
+            "Xa Sinh Ton",
+            "sinhton"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402128 +0700 +07 m=+0.038464913",
+        "UpdatedAt": "2020-09-29 13:52:48.997766 +0700 +07 m=+193.660904283",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410801",
+        "DistrictID": 2117,
+        "WardName": "Thị trấn Trường Sa",
+        "NameExtension": [
+            "Thị trấn Trường Sa",
+            "TT.Trường Sa",
+            "TT Trường Sa",
+            "Trường Sa",
+            "Truong Sa",
+            "Thi tran Truong Sa",
+            "truongsa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402125 +0700 +07 m=+0.038462196",
+        "UpdatedAt": "2020-09-29 13:52:49.032611 +0700 +07 m=+193.695748769",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

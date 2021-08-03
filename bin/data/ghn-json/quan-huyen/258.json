@@ -1,0 +1,280 @@
+[
+    {
+        "DistrictID": 3196,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Hàm Tân",
+        "Code": "4706",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hàm Tân",
+            "H.Hàm Tân",
+            "H Hàm Tân",
+            "Hàm Tân",
+            "Ham Tan",
+            "Huyen Ham Tan",
+            "hamtan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432651 +0700 +07 m=+0.016596732",
+        "UpdatedAt": "2020-09-29 13:42:45.312214 +0700 +07 m=+17.814580528",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2116,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện đảo Phú Quý",
+        "Code": "4709",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện đảo Phú Quý",
+            "Huyện Phú Quý",
+            "Phú Quý",
+            "Phu Quy",
+            "Huyen Phu Quy",
+            "Huyen dao Phu Quy",
+            "phuquy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432892 +0700 +07 m=+0.016837704",
+        "UpdatedAt": "2020-09-29 13:42:50.538623 +0700 +07 m=+23.040889717",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2012,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Tánh Linh",
+        "Code": "4708",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tánh Linh",
+            "H.Tánh Linh",
+            "H Tánh Linh",
+            "Tánh Linh",
+            "Tanh Linh",
+            "Huyen Tanh Linh",
+            "tanhlinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432741 +0700 +07 m=+0.016687056",
+        "UpdatedAt": "2020-09-29 13:42:54.381842 +0700 +07 m=+26.884035665",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1781,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Tuy Phong",
+        "Code": "4702",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tuy Phong",
+            "H.Tuy Phong",
+            "H Tuy Phong",
+            "Tuy Phong",
+            "Huyen Tuy Phong",
+            "tuyphong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432267 +0700 +07 m=+0.016212521",
+        "UpdatedAt": "2020-09-29 13:43:05.005646 +0700 +07 m=+37.507638389",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1780,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Bắc Bình",
+        "Code": "4703",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Bình",
+            "H.Bắc Bình",
+            "H Bắc Bình",
+            "Bắc Bình",
+            "Bac Binh",
+            "Huyen Bac Binh",
+            "bacbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432265 +0700 +07 m=+0.016211084",
+        "UpdatedAt": "2020-09-29 13:43:05.040512 +0700 +07 m=+37.542503894",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1779,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Đức Linh",
+        "Code": "4707",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đức Linh",
+            "H.Đức Linh",
+            "H Đức Linh",
+            "Đức Linh",
+            "Duc Linh",
+            "Huyen Duc Linh",
+            "duclinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432264 +0700 +07 m=+0.016209661",
+        "UpdatedAt": "2020-09-29 13:43:05.072722 +0700 +07 m=+37.574713103",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1778,
+        "ProvinceID": 258,
+        "DistrictName": "Thị xã La Gi",
+        "Code": "4710",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã La Gi",
+            "TX.La Gi",
+            "TX La Gi",
+            "La Gi",
+            "Thi xa La Gi",
+            "lagi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432262 +0700 +07 m=+0.016208222",
+        "UpdatedAt": "2020-09-29 13:43:05.110324 +0700 +07 m=+37.612314340",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1777,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Hàm Thuận Bắc",
+        "Code": "4704",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hàm Thuận Bắc",
+            "H.Hàm Thuận Bắc",
+            "H Hàm Thuận Bắc",
+            "Hàm Thuận Bắc",
+            "Ham Thuan Bac",
+            "Huyen Ham Thuan Bac",
+            "hamthuanbac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432261 +0700 +07 m=+0.016206659",
+        "UpdatedAt": "2020-09-29 13:43:05.185428 +0700 +07 m=+37.687416929",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1776,
+        "ProvinceID": 258,
+        "DistrictName": "Huyện Hàm Thuận Nam",
+        "Code": "4705",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hàm Thuận Nam",
+            "H.Hàm Thuận Nam",
+            "H Hàm Thuận Nam",
+            "Hàm Thuận Nam",
+            "Ham Thuan Nam",
+            "Huyen Ham Thuan Nam",
+            "hamthuannam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432259 +0700 +07 m=+0.016205185",
+        "UpdatedAt": "2020-09-29 13:43:05.22005 +0700 +07 m=+37.722038327",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1666,
+        "ProvinceID": 258,
+        "DistrictName": "Thành phố Phan Thiết",
+        "Code": "4701",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Phan Thiết",
+            "TP.Phan Thiết",
+            "TP Phan Thiết",
+            "Phan Thiết",
+            "Phan Thiet",
+            "Thanh pho Phan Thiet",
+            "phanthiet"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.4322 +0700 +07 m=+0.016145357",
+        "UpdatedAt": "2020-09-29 13:43:09.563763 +0700 +07 m=+42.065669181",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

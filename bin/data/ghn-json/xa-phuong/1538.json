@@ -1,0 +1,368 @@
+[
+    {
+        "WardCode": "440114",
+        "DistrictID": 1538,
+        "WardName": "Phường Tương Bình Hiệp",
+        "NameExtension": [
+            "Phường Tương Bình Hiệp",
+            "P.Tương Bình Hiệp",
+            "P Tương Bình Hiệp",
+            "Tương Bình Hiệp",
+            "Tuong Binh Hiep",
+            "Phuong Tuong Binh Hiep",
+            "tuongbinhhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393786 +0700 +07 m=+0.030123145",
+        "UpdatedAt": "2020-09-29 13:52:35.522763 +0700 +07 m=+180.186157623",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440113",
+        "DistrictID": 1538,
+        "WardName": "Phường Tân An",
+        "NameExtension": [
+            "Phường Tân An",
+            "P.Tân An",
+            "P Tân An",
+            "Tân An",
+            "Tan An",
+            "Phuong Tan An",
+            "tanan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393783 +0700 +07 m=+0.030119994",
+        "UpdatedAt": "2020-09-29 13:52:35.559876 +0700 +07 m=+180.223269689",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440112",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Thọ",
+        "NameExtension": [
+            "Phường Phú Thọ",
+            "P.Phú Thọ",
+            "P Phú Thọ",
+            "Phú Thọ",
+            "Phu Tho",
+            "Phuong Phu Tho",
+            "phutho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393773 +0700 +07 m=+0.030110663",
+        "UpdatedAt": "2020-09-29 13:52:35.628955 +0700 +07 m=+180.292347686",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440111",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Tân",
+        "NameExtension": [
+            "Phường Phú Tân",
+            "P.Phú Tân",
+            "P Phú Tân",
+            "Phú Tân",
+            "Phu Tan",
+            "Phuong Phu Tan",
+            "phutan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393781 +0700 +07 m=+0.030118425",
+        "UpdatedAt": "2020-09-29 13:52:35.730791 +0700 +07 m=+180.394181278",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440110",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Mỹ",
+        "NameExtension": [
+            "Phường Phú Mỹ",
+            "P.Phú Mỹ",
+            "P Phú Mỹ",
+            "Phú Mỹ",
+            "Phu My",
+            "Phuong Phu My",
+            "phumy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39378 +0700 +07 m=+0.030116918",
+        "UpdatedAt": "2020-09-29 13:52:35.808452 +0700 +07 m=+180.471841478",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440109",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Lợi",
+        "NameExtension": [
+            "Phường Phú Lợi",
+            "P.Phú Lợi",
+            "P Phú Lợi",
+            "Phú Lợi",
+            "Phu Loi",
+            "Phuong Phu Loi",
+            "phuloi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393768 +0700 +07 m=+0.030105264",
+        "UpdatedAt": "2020-09-29 13:52:35.87082 +0700 +07 m=+180.534208117",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440108",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Hòa",
+        "NameExtension": [
+            "Phường Phú Hòa",
+            "P.Phú Hòa",
+            "P Phú Hòa",
+            "Phú Hòa",
+            "Phu Hoa",
+            "Phuong Phu Hoa",
+            "phuhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393772 +0700 +07 m=+0.030109119",
+        "UpdatedAt": "2020-09-29 13:52:35.924694 +0700 +07 m=+180.588081455",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440107",
+        "DistrictID": 1538,
+        "WardName": "Phường Phú Cường",
+        "NameExtension": [
+            "Phường Phú Cường",
+            "P.Phú Cường",
+            "P Phú Cường",
+            "Phú Cường",
+            "Phu Cuong",
+            "Phuong Phu Cuong",
+            "phucuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39377 +0700 +07 m=+0.030107603",
+        "UpdatedAt": "2020-09-29 13:52:36.04965 +0700 +07 m=+180.713035268",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440106",
+        "DistrictID": 1538,
+        "WardName": "Phường Hoà Phú",
+        "NameExtension": [
+            "Phường Hoà Phú",
+            "P.Hoà Phú",
+            "P Hoà Phú",
+            "Hoà Phú",
+            "Hoa Phu",
+            "Phuong Hoa Phu",
+            "Phường Hòa Phú",
+            "hoaphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393778 +0700 +07 m=+0.030115218",
+        "UpdatedAt": "2020-09-29 13:52:36.096741 +0700 +07 m=+180.760124890",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440105",
+        "DistrictID": 1538,
+        "WardName": "Phường Hiệp Thành",
+        "NameExtension": [
+            "Phường Hiệp Thành",
+            "P.Hiệp Thành",
+            "P Hiệp Thành",
+            "Hiệp Thành",
+            "Hiep Thanh",
+            "Phuong Hiep Thanh",
+            "hiepthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393766 +0700 +07 m=+0.030103747",
+        "UpdatedAt": "2020-09-29 13:52:36.133983 +0700 +07 m=+180.797366133",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440104",
+        "DistrictID": 1538,
+        "WardName": "Phường Hiệp An",
+        "NameExtension": [
+            "Phường Hiệp An",
+            "P.Hiệp An",
+            "P Hiệp An",
+            "Hiệp An",
+            "Hiep An",
+            "Phuong Hiep An",
+            "hiepan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393784 +0700 +07 m=+0.030121600",
+        "UpdatedAt": "2020-09-29 13:52:36.200146 +0700 +07 m=+180.863528111",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440103",
+        "DistrictID": 1538,
+        "WardName": "Phường Định Hoà",
+        "NameExtension": [
+            "Phường Định Hoà",
+            "P.Định Hoà",
+            "P Định Hoà",
+            "Định Hoà",
+            "Dinh Hoa",
+            "Phuong Dinh Hoa",
+            "Phường Định Hòa",
+            "dinhhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393776 +0700 +07 m=+0.030113662",
+        "UpdatedAt": "2020-09-29 13:52:36.236929 +0700 +07 m=+180.900309802",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440102",
+        "DistrictID": 1538,
+        "WardName": "Phường Chánh Nghĩa",
+        "NameExtension": [
+            "Phường Chánh Nghĩa",
+            "P.Chánh Nghĩa",
+            "P Chánh Nghĩa",
+            "Chánh Nghĩa",
+            "Chanh Nghia",
+            "Phuong Chanh Nghia",
+            "chanhnghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393775 +0700 +07 m=+0.030112140",
+        "UpdatedAt": "2020-09-29 13:52:36.286862 +0700 +07 m=+180.950242075",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "440101",
+        "DistrictID": 1538,
+        "WardName": "Phường Chánh Mỹ",
+        "NameExtension": [
+            "Phường Chánh Mỹ",
+            "P.Chánh Mỹ",
+            "P Chánh Mỹ",
+            "Chánh Mỹ",
+            "Chanh My",
+            "Phuong Chanh My",
+            "chanhmy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393787 +0700 +07 m=+0.030124672",
+        "UpdatedAt": "2020-09-29 13:52:36.331925 +0700 +07 m=+180.995304611",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

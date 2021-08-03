@@ -1,0 +1,208 @@
+[
+    {
+        "WardCode": "800251",
+        "DistrictID": 1675,
+        "WardName": "Xã Sùng Phài",
+        "NameExtension": [
+            "Xã Sùng Phài",
+            "Sung Phai",
+            "Xa Sung Phai",
+            "sungphai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:04.930046 +0700 +07 m=+29.596298680",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70107",
+        "DistrictID": 1675,
+        "WardName": "Xã San Thàng",
+        "NameExtension": [
+            "Xã San Thàng",
+            "X.San Thàng",
+            "X San Thàng",
+            "San Thàng",
+            "San Thang",
+            "Xa San Thang",
+            "santhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402495 +0700 +07 m=+0.038832564",
+        "UpdatedAt": "2020-09-29 13:50:25.449443 +0700 +07 m=+50.115306818",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70106",
+        "DistrictID": 1675,
+        "WardName": "Xã Nậm Loỏng",
+        "NameExtension": [
+            "Xã Nậm Loỏng",
+            "X.Nậm Loỏng",
+            "X Nậm Loỏng",
+            "Nậm Loỏng",
+            "Nam Loong",
+            "Xa Nam Loong",
+            "Xã Nậm Lỏong",
+            "namloong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402492 +0700 +07 m=+0.038829623",
+        "UpdatedAt": "2020-09-29 13:50:25.48711 +0700 +07 m=+50.152972432",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70105",
+        "DistrictID": 1675,
+        "WardName": "Phường Tân Phong",
+        "NameExtension": [
+            "Phường Tân Phong",
+            "P.Tân Phong",
+            "P Tân Phong",
+            "Tân Phong",
+            "Tan Phong",
+            "Phuong Tan Phong",
+            "tanphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402488 +0700 +07 m=+0.038825176",
+        "UpdatedAt": "2020-09-29 13:50:25.54918 +0700 +07 m=+50.215041670",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70104",
+        "DistrictID": 1675,
+        "WardName": "Phường Quyết Tiến",
+        "NameExtension": [
+            "Phường Quyết Tiến",
+            "P.Quyết Tiến",
+            "P Quyết Tiến",
+            "Quyết Tiến",
+            "Quyet Tien",
+            "Phuong Quyet Tien",
+            "quyettien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402489 +0700 +07 m=+0.038826721",
+        "UpdatedAt": "2020-09-29 13:50:25.692287 +0700 +07 m=+50.358146026",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70103",
+        "DistrictID": 1675,
+        "WardName": "Phường Quyết Thắng",
+        "NameExtension": [
+            "Phường Quyết Thắng",
+            "P.Quyết Thắng",
+            "P Quyết Thắng",
+            "Quyết Thắng",
+            "Quyet Thang",
+            "Phuong Quyet Thang",
+            "quyetthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402486 +0700 +07 m=+0.038823663",
+        "UpdatedAt": "2020-09-29 13:50:25.759382 +0700 +07 m=+50.425239769",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70102",
+        "DistrictID": 1675,
+        "WardName": "Phường Đông Phong",
+        "NameExtension": [
+            "Phường Đông Phong",
+            "P.Đông Phong",
+            "P Đông Phong",
+            "Đông Phong",
+            "Dong Phong",
+            "Phuong Dong Phong",
+            "dongphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402494 +0700 +07 m=+0.038831148",
+        "UpdatedAt": "2020-09-29 13:50:25.805123 +0700 +07 m=+50.470979203",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "70101",
+        "DistrictID": 1675,
+        "WardName": "Phường Đoàn Kết",
+        "NameExtension": [
+            "Phường Đoàn Kết",
+            "P.Đoàn Kết",
+            "P Đoàn Kết",
+            "Đoàn Kết",
+            "Doan Ket",
+            "Phuong Doan Ket",
+            "doanket"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402491 +0700 +07 m=+0.038828267",
+        "UpdatedAt": "2020-09-29 13:50:25.855396 +0700 +07 m=+50.521251455",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

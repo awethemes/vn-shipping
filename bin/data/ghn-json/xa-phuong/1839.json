@@ -1,0 +1,392 @@
+[
+    {
+        "WardCode": "90772",
+        "DistrictID": 1839,
+        "WardName": "Xã Nam Quang",
+        "NameExtension": [
+            "Xã Nam Quang",
+            "xã nam quang",
+            "Xa Nam Quang"
+        ],
+        "CanUpdateCOD": true,
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1,
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2021-01-11T07:44:11.416Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-11T07:44:11.416Z"
+    },
+    {
+        "WardCode": "761214",
+        "DistrictID": 1839,
+        "WardName": "Xã Tân Lạc",
+        "NameExtension": [
+            "Xã Tân Lạc",
+            "X.Tân Lạc",
+            "X Tân Lạc",
+            "Tân Lạc",
+            "Tan Lac",
+            "Xa Tan Lac",
+            "tanlac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414347 +0700 +07 m=+0.050684603",
+        "UpdatedAt": "2020-09-29 13:50:19.455875 +0700 +07 m=+44.121852002",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761213",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Thành",
+        "NameExtension": [
+            "Xã Lộc Thành",
+            "X.Lộc Thành",
+            "X Lộc Thành",
+            "Lộc Thành",
+            "Loc Thanh",
+            "Xa Loc Thanh",
+            "locthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414349 +0700 +07 m=+0.050685982",
+        "UpdatedAt": "2020-09-29 13:50:19.494238 +0700 +07 m=+44.160214681",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761212",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Tân",
+        "NameExtension": [
+            "Xã Lộc Tân",
+            "X.Lộc Tân",
+            "X Lộc Tân",
+            "Lộc Tân",
+            "Loc Tan",
+            "Xa Loc Tan",
+            "loctan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414343 +0700 +07 m=+0.050680357",
+        "UpdatedAt": "2020-09-29 13:50:19.5458 +0700 +07 m=+44.211775607",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761211",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Quảng",
+        "NameExtension": [
+            "Xã Lộc Quảng",
+            "X.Lộc Quảng",
+            "X Lộc Quảng",
+            "Lộc Quảng",
+            "Loc Quang",
+            "Xa Loc Quang",
+            "locquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414342 +0700 +07 m=+0.050678951",
+        "UpdatedAt": "2020-09-29 13:50:19.593739 +0700 +07 m=+44.259713800",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761210",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Phú",
+        "NameExtension": [
+            "Xã Lộc Phú",
+            "X.Lộc Phú",
+            "X Lộc Phú",
+            "Lộc Phú",
+            "Loc Phu",
+            "Xa Loc Phu",
+            "locphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414335 +0700 +07 m=+0.050672525",
+        "UpdatedAt": "2020-09-29 13:50:19.631286 +0700 +07 m=+44.297259919",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761209",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Ngãi",
+        "NameExtension": [
+            "Xã Lộc Ngãi",
+            "X.Lộc Ngãi",
+            "X Lộc Ngãi",
+            "Lộc Ngãi",
+            "Loc Ngai",
+            "Xa Loc Ngai",
+            "locngai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41434 +0700 +07 m=+0.050677553",
+        "UpdatedAt": "2020-09-29 13:50:19.670393 +0700 +07 m=+44.336366078",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761208",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Nam",
+        "NameExtension": [
+            "Xã Lộc Nam",
+            "X.Lộc Nam",
+            "X Lộc Nam",
+            "Lộc Nam",
+            "Loc Nam",
+            "Xa Loc Nam",
+            "locnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41435 +0700 +07 m=+0.050687346",
+        "UpdatedAt": "2020-09-29 13:50:19.727726 +0700 +07 m=+44.393698103",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761207",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Lâm",
+        "NameExtension": [
+            "Xã Lộc Lâm",
+            "X.Lộc Lâm",
+            "X Lộc Lâm",
+            "Lộc Lâm",
+            "Loc Lam",
+            "Xa Loc Lam",
+            "loclam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414334 +0700 +07 m=+0.050671109",
+        "UpdatedAt": "2020-09-29 13:50:19.767887 +0700 +07 m=+44.433858679",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761206",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Đức",
+        "NameExtension": [
+            "Xã Lộc Đức",
+            "X.Lộc Đức",
+            "X Lộc Đức",
+            "Lộc Đức",
+            "Loc Duc",
+            "Xa Loc Duc",
+            "locduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414344 +0700 +07 m=+0.050681765",
+        "UpdatedAt": "2020-09-29 13:50:19.819003 +0700 +07 m=+44.484973336",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761205",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Bảo",
+        "NameExtension": [
+            "Xã Lộc Bảo",
+            "X.Lộc Bảo",
+            "X Lộc Bảo",
+            "Lộc Bảo",
+            "Loc Bao",
+            "Xa Loc Bao",
+            "locbao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414332 +0700 +07 m=+0.050669090",
+        "UpdatedAt": "2020-09-29 13:50:19.856337 +0700 +07 m=+44.522306149",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761204",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc Bắc",
+        "NameExtension": [
+            "Xã Lộc Bắc",
+            "X.Lộc Bắc",
+            "X Lộc Bắc",
+            "Lộc Bắc",
+            "Loc Bac",
+            "Xa Loc Bac",
+            "locbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414337 +0700 +07 m=+0.050673869",
+        "UpdatedAt": "2020-09-29 13:50:19.89996 +0700 +07 m=+44.565929022",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761203",
+        "DistrictID": 1839,
+        "WardName": "Xã Lộc An",
+        "NameExtension": [
+            "Xã Lộc An",
+            "X.Lộc An",
+            "X Lộc An",
+            "Lộc An",
+            "Loc An",
+            "Xa Loc An",
+            "locan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414346 +0700 +07 m=+0.050683227",
+        "UpdatedAt": "2020-09-29 13:50:19.949103 +0700 +07 m=+44.615070517",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "761202",
+        "DistrictID": 1839,
+        "WardName": "Xã B' Lá",
+        "NameExtension": [
+            "Xã B' Lá",
+            "X.B' Lá",
+            "X B' Lá",
+            "B' Lá",
+            "B' La",
+            "Xa B' La",
+            "bla"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:20.023131 +0700 +07 m=+44.689097285",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "42111",
+        "DistrictID": 1839,
+        "WardName": "Thị trấn Lộc Thắng",
+        "NameExtension": [
+            "Thị trấn Lộc Thắng",
+            "TT.Lộc Thắng",
+            "TT Lộc Thắng",
+            "Lộc Thắng",
+            "Loc Thang",
+            "Thi tran Loc Thang",
+            "locthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402789 +0700 +07 m=+0.039126748",
+        "UpdatedAt": "2020-09-29 13:52:42.389878 +0700 +07 m=+187.053142217",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

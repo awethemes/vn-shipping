@@ -1,0 +1,274 @@
+[
+    {
+        "WardCode": "570111",
+        "DistrictID": 1562,
+        "WardName": "Xã Trường An",
+        "NameExtension": [
+            "Xã Trường An",
+            "X.Trường An",
+            "X Trường An",
+            "Trường An",
+            "Truong An",
+            "Xa Truong An",
+            "truongan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413718 +0700 +07 m=+0.050055681",
+        "UpdatedAt": "2020-09-29 13:51:13.258611 +0700 +07 m=+97.923567182",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570110",
+        "DistrictID": 1562,
+        "WardName": "Xã Tân Ngãi",
+        "NameExtension": [
+            "Xã Tân Ngãi",
+            "X.Tân Ngãi",
+            "X Tân Ngãi",
+            "Tân Ngãi",
+            "Tan Ngai",
+            "Xa Tan Ngai",
+            "tanngai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413714 +0700 +07 m=+0.050051510",
+        "UpdatedAt": "2020-09-29 13:51:13.296799 +0700 +07 m=+97.961753695",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570109",
+        "DistrictID": 1562,
+        "WardName": "Xã Tân Hội",
+        "NameExtension": [
+            "Xã Tân Hội",
+            "X.Tân Hội",
+            "X Tân Hội",
+            "Tân Hội",
+            "Tan Hoi",
+            "Xa Tan Hoi",
+            "tanhoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413717 +0700 +07 m=+0.050054278",
+        "UpdatedAt": "2020-09-29 13:51:13.338328 +0700 +07 m=+98.003282702",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570108",
+        "DistrictID": 1562,
+        "WardName": "Xã Tân Hòa",
+        "NameExtension": [
+            "Xã Tân Hòa",
+            "X.Tân Hòa",
+            "X Tân Hòa",
+            "Tân Hòa",
+            "Tan Hoa",
+            "Xa Tan Hoa",
+            "tanhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413716 +0700 +07 m=+0.050052882",
+        "UpdatedAt": "2020-09-29 13:51:13.371457 +0700 +07 m=+98.036410600",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570107",
+        "DistrictID": 1562,
+        "WardName": "Phường 9",
+        "NameExtension": [
+            "Phường 9",
+            "P.9",
+            "P 9",
+            "9",
+            "Phuong 9"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413704 +0700 +07 m=+0.050041712",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570106",
+        "DistrictID": 1562,
+        "WardName": "Phường 8",
+        "NameExtension": [
+            "Phường 8",
+            "P.8",
+            "P 8",
+            "8",
+            "Phuong 8"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413713 +0700 +07 m=+0.050050096",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570105",
+        "DistrictID": 1562,
+        "WardName": "Phường 5",
+        "NameExtension": [
+            "Phường 5",
+            "P.5",
+            "P 5",
+            "5",
+            "Phuong 5"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413706 +0700 +07 m=+0.050043102",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570104",
+        "DistrictID": 1562,
+        "WardName": "Phường 4",
+        "NameExtension": [
+            "Phường 4",
+            "P.4",
+            "P 4",
+            "4",
+            "Phuong 4"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41371 +0700 +07 m=+0.050047320",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570103",
+        "DistrictID": 1562,
+        "WardName": "Phường 3",
+        "NameExtension": [
+            "Phường 3",
+            "P.3",
+            "P 3",
+            "3",
+            "Phuong 3"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413711 +0700 +07 m=+0.050048692",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570102",
+        "DistrictID": 1562,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413709 +0700 +07 m=+0.050045896",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "570101",
+        "DistrictID": 1562,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413707 +0700 +07 m=+0.050044505",
+        "UpdatedAt": "13 May 20 18:31 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

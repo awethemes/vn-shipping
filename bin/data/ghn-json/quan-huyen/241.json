@@ -1,0 +1,244 @@
+[
+    {
+        "DistrictID": 3152,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Cư Jút",
+        "Code": "6304",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cư Jút",
+            "H.Cư Jút",
+            "H Cư Jút",
+            "Cư Jút",
+            "Cu Jut",
+            "Huyen Cu Jut",
+            "cujut"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432032 +0700 +07 m=+0.015977764",
+        "UpdatedAt": "2020-09-29 13:42:46.095229 +0700 +07 m=+18.597580461",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2227,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Tuy Đức",
+        "Code": "6308",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tuy Đức",
+            "H.Tuy Đức",
+            "H Tuy Đức",
+            "Tuy Đức",
+            "Tuy Duc",
+            "Huyen Tuy Duc",
+            "tuyduc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.4321 +0700 +07 m=+0.016046056",
+        "UpdatedAt": "2020-09-29 13:42:47.766762 +0700 +07 m=+20.269081523",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2151,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Krông Nô",
+        "Code": "6306",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Nô",
+            "H.Krông Nô",
+            "H Krông Nô",
+            "Krông Nô",
+            "Krong No",
+            "Huyen Krong No",
+            "krongno"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432026 +0700 +07 m=+0.015972044",
+        "UpdatedAt": "2020-09-29 13:42:49.533894 +0700 +07 m=+22.036180254",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2120,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Đắk Song",
+        "Code": "6305",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Song",
+            "H.Đắk Song",
+            "H Đắk Song",
+            "Đắk Song",
+            "Dak Song",
+            "Huyen Dak Song",
+            "daksong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432898 +0700 +07 m=+0.016843482",
+        "UpdatedAt": "2020-09-29 13:42:50.266899 +0700 +07 m=+22.769171786",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1792,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Đắk Mil",
+        "Code": "6303",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Mil",
+            "H.Đắk Mil",
+            "H Đắk Mil",
+            "Đắk Mil",
+            "Dak Mil",
+            "Huyen Dak Mil",
+            "dakmil"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432285 +0700 +07 m=+0.016231204",
+        "UpdatedAt": "2020-09-29 13:43:04.498664 +0700 +07 m=+37.000666159",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1791,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Đắk Glong",
+        "Code": "6307",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Glong",
+            "H.Đắk Glong",
+            "H Đắk Glong",
+            "Đắk Glong",
+            "Dak Glong",
+            "Huyen Dak Glong",
+            "dakglong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432284 +0700 +07 m=+0.016229775",
+        "UpdatedAt": "2020-09-29 13:43:04.569999 +0700 +07 m=+37.071999282",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1790,
+        "ProvinceID": 241,
+        "DistrictName": "Huyện Đắk R lấp",
+        "Code": "6302",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk R lấp",
+            "Huyện Đắk Rlấp",
+            "H.Đắk R lấp",
+            "H Đắk R lấp",
+            "Đắk R lấp",
+            "Đắk R Lấp",
+            "Đắk R'lấp",
+            "Dak R lap",
+            "Dak R'lap",
+            "Huyen Dak R lap",
+            "Huyen Dak R'lap",
+            "Huyện Đắk R'lấp",
+            "Huyện Đắk Rlấp",
+            "dakrlap"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432282 +0700 +07 m=+0.016228350",
+        "UpdatedAt": "2020-09-29 13:43:04.623144 +0700 +07 m=+37.125143539",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.205.29.215",
+        "UpdatedEmployee": 1718600,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-09-28T07:15:07.826Z"
+    },
+    {
+        "DistrictID": 1627,
+        "ProvinceID": 241,
+        "DistrictName": "Thành phố Gia Nghĩa",
+        "Code": "6301",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Gia Nghĩa",
+            "TX.Gia Nghĩa",
+            "TX Gia Nghĩa",
+            "Gia Nghĩa",
+            "Gia Nghia",
+            "Thi xa Gia Nghia",
+            "gianghia",
+            "Thành phố Gia Nghĩa",
+            "TP Gia Nghĩa",
+            "TP Gia Nghia"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432213 +0700 +07 m=+0.016158921",
+        "UpdatedAt": "2020-09-29 13:43:10.258605 +0700 +07 m=+42.760498049",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:49:25.122Z"
+    }
+]

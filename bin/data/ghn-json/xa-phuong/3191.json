@@ -1,0 +1,544 @@
+[
+    {
+        "WardCode": "270421",
+        "DistrictID": 3191,
+        "WardName": "Xã Liên Sơn",
+        "NameExtension": [
+            "Xã Liên Sơn",
+            "X.Liên Sơn",
+            "X Liên Sơn",
+            "Liên Sơn",
+            "Lien Son",
+            "Xa Lien Son",
+            "lienson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406422 +0700 +07 m=+0.042759563",
+        "UpdatedAt": "2020-09-29 13:55:51.037345 +0700 +07 m=+375.697028942",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270420",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Xuân",
+        "NameExtension": [
+            "Xã Gia Xuân",
+            "X.Gia Xuân",
+            "X Gia Xuân",
+            "Gia Xuân",
+            "Gia Xuan",
+            "Xa Gia Xuan",
+            "giaxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406428 +0700 +07 m=+0.042765270",
+        "UpdatedAt": "2020-09-29 13:55:51.076588 +0700 +07 m=+375.736271076",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270419",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Vượng",
+        "NameExtension": [
+            "Xã Gia Vượng",
+            "X.Gia Vượng",
+            "X Gia Vượng",
+            "Gia Vượng",
+            "Gia Vuong",
+            "Xa Gia Vuong",
+            "giavuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406431 +0700 +07 m=+0.042768077",
+        "UpdatedAt": "2020-09-29 13:55:51.117741 +0700 +07 m=+375.777422933",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270418",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Vân",
+        "NameExtension": [
+            "Xã Gia Vân",
+            "X.Gia Vân",
+            "X Gia Vân",
+            "Gia Vân",
+            "Gia Van",
+            "Xa Gia Van",
+            "giavan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406425 +0700 +07 m=+0.042762356",
+        "UpdatedAt": "2020-09-29 13:55:51.155466 +0700 +07 m=+375.815147301",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270417",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Trung",
+        "NameExtension": [
+            "Xã Gia Trung",
+            "X.Gia Trung",
+            "X Gia Trung",
+            "Gia Trung",
+            "Xa Gia Trung",
+            "giatrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406439 +0700 +07 m=+0.042776412",
+        "UpdatedAt": "2020-09-29 13:55:51.190527 +0700 +07 m=+375.850207367",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270416",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Trấn",
+        "NameExtension": [
+            "Xã Gia Trấn",
+            "X.Gia Trấn",
+            "X Gia Trấn",
+            "Gia Trấn",
+            "Gia Tran",
+            "Xa Gia Tran",
+            "giatran"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406432 +0700 +07 m=+0.042769458",
+        "UpdatedAt": "2020-09-29 13:55:51.224678 +0700 +07 m=+375.884358461",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270415",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Tiến",
+        "NameExtension": [
+            "Xã Gia Tiến",
+            "X.Gia Tiến",
+            "X Gia Tiến",
+            "Gia Tiến",
+            "Gia Tien",
+            "Xa Gia Tien",
+            "giatien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406443 +0700 +07 m=+0.042780742",
+        "UpdatedAt": "2020-09-29 13:55:51.26015 +0700 +07 m=+375.919829692",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270414",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Thịnh",
+        "NameExtension": [
+            "Xã Gia Thịnh",
+            "X.Gia Thịnh",
+            "X Gia Thịnh",
+            "Gia Thịnh",
+            "Gia Thinh",
+            "Xa Gia Thinh",
+            "giathinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406433 +0700 +07 m=+0.042770817",
+        "UpdatedAt": "2020-09-29 13:55:51.30204 +0700 +07 m=+375.961718887",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270413",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Thanh",
+        "NameExtension": [
+            "Xã Gia Thanh",
+            "X.Gia Thanh",
+            "X Gia Thanh",
+            "Gia Thanh",
+            "Xa Gia Thanh",
+            "Xã Gia Thành",
+            "giathanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406424 +0700 +07 m=+0.042760944",
+        "UpdatedAt": "2020-09-29 13:55:51.336039 +0700 +07 m=+375.995716570",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270412",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Thắng",
+        "NameExtension": [
+            "Xã Gia Thắng",
+            "X.Gia Thắng",
+            "X Gia Thắng",
+            "Gia Thắng",
+            "Gia Thang",
+            "Xa Gia Thang",
+            "giathang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406438 +0700 +07 m=+0.042775048",
+        "UpdatedAt": "2020-09-29 13:55:51.378278 +0700 +07 m=+376.037955415",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270411",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Tân",
+        "NameExtension": [
+            "Xã Gia Tân",
+            "X.Gia Tân",
+            "X Gia Tân",
+            "Gia Tân",
+            "Gia Tan",
+            "Xa Gia Tan",
+            "giatan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406436 +0700 +07 m=+0.042773695",
+        "UpdatedAt": "2020-09-29 13:55:51.413705 +0700 +07 m=+376.073382127",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270410",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Sinh",
+        "NameExtension": [
+            "Xã Gia Sinh",
+            "X.Gia Sinh",
+            "X Gia Sinh",
+            "Gia Sinh",
+            "Xa Gia Sinh",
+            "giasinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406445 +0700 +07 m=+0.042782191",
+        "UpdatedAt": "2020-09-29 13:55:51.453638 +0700 +07 m=+376.113314112",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270409",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Phương",
+        "NameExtension": [
+            "Xã Gia Phương",
+            "X.Gia Phương",
+            "X Gia Phương",
+            "Gia Phương",
+            "Gia Phuong",
+            "Xa Gia Phuong",
+            "giaphuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406435 +0700 +07 m=+0.042772280",
+        "UpdatedAt": "2020-09-29 13:55:51.730741 +0700 +07 m=+376.390410880",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270408",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Phú",
+        "NameExtension": [
+            "Xã Gia Phú",
+            "X.Gia Phú",
+            "X Gia Phú",
+            "Gia Phú",
+            "Gia Phu",
+            "Xa Gia Phu",
+            "giaphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406426 +0700 +07 m=+0.042763784",
+        "UpdatedAt": "2020-09-29 13:55:51.764389 +0700 +07 m=+376.424058349",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270407",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Phong",
+        "NameExtension": [
+            "Xã Gia Phong",
+            "X.Gia Phong",
+            "X Gia Phong",
+            "Gia Phong",
+            "Xa Gia Phong",
+            "giaphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406447 +0700 +07 m=+0.042784389",
+        "UpdatedAt": "2020-09-29 13:55:51.810687 +0700 +07 m=+376.470356186",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270406",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Minh",
+        "NameExtension": [
+            "Xã Gia Minh",
+            "X.Gia Minh",
+            "X Gia Minh",
+            "Gia Minh",
+            "Xa Gia Minh",
+            "giaminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406441 +0700 +07 m=+0.042777954",
+        "UpdatedAt": "2020-09-29 13:55:51.847953 +0700 +07 m=+376.507621451",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270405",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Lập",
+        "NameExtension": [
+            "Xã Gia Lập",
+            "X.Gia Lập",
+            "X Gia Lập",
+            "Gia Lập",
+            "Gia Lap",
+            "Xa Gia Lap",
+            "gialap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406429 +0700 +07 m=+0.042766663",
+        "UpdatedAt": "2020-09-29 13:55:51.896153 +0700 +07 m=+376.555820708",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270404",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Lạc",
+        "NameExtension": [
+            "Xã Gia Lạc",
+            "X.Gia Lạc",
+            "X Gia Lạc",
+            "Gia Lạc",
+            "Gia Lac",
+            "Xa Gia Lac",
+            "gialac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406442 +0700 +07 m=+0.042779333",
+        "UpdatedAt": "2020-09-29 13:55:51.928791 +0700 +07 m=+376.588457771",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270403",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Hưng",
+        "NameExtension": [
+            "Xã Gia Hưng",
+            "X.Gia Hưng",
+            "X Gia Hưng",
+            "Gia Hưng",
+            "Gia Hung",
+            "Xa Gia Hung",
+            "giahung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406421 +0700 +07 m=+0.042758191",
+        "UpdatedAt": "2020-09-29 13:55:51.962166 +0700 +07 m=+376.621831828",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270402",
+        "DistrictID": 3191,
+        "WardName": "Xã Gia Hòa",
+        "NameExtension": [
+            "Xã Gia Hòa",
+            "X.Gia Hòa",
+            "X Gia Hòa",
+            "Gia Hòa",
+            "Gia Hoa",
+            "Xa Gia Hoa",
+            "Xã Gia Hoà",
+            "giahoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406419 +0700 +07 m=+0.042756717",
+        "UpdatedAt": "2020-09-29 13:55:51.996061 +0700 +07 m=+376.655726028",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270401",
+        "DistrictID": 3191,
+        "WardName": "Thị trấn Me",
+        "NameExtension": [
+            "Thị trấn Me",
+            "TT.Me",
+            "TT Me",
+            "Me",
+            "Thi tran Me",
+            "me"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406418 +0700 +07 m=+0.042755319",
+        "UpdatedAt": "2020-09-29 13:55:52.03583 +0700 +07 m=+376.695494591",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

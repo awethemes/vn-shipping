@@ -1,0 +1,158 @@
+[
+    {
+        "WardCode": "630806",
+        "DistrictID": 2227,
+        "WardName": "Xã Quảng Trực",
+        "NameExtension": [
+            "Xã Quảng Trực",
+            "X.Quảng Trực",
+            "X Quảng Trực",
+            "Quảng Trực",
+            "Quang Truc",
+            "Xa Quang Truc",
+            "quangtruc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395523 +0700 +07 m=+0.031860367",
+        "UpdatedAt": "2020-09-29 13:50:29.295223 +0700 +07 m=+53.961013590",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "630805",
+        "DistrictID": 2227,
+        "WardName": "Xã Quảng Tân",
+        "NameExtension": [
+            "Xã Quảng Tân",
+            "X.Quảng Tân",
+            "X Quảng Tân",
+            "Quảng Tân",
+            "Quang Tan",
+            "Xa Quang Tan",
+            "quangtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39553 +0700 +07 m=+0.031867419",
+        "UpdatedAt": "2020-09-29 13:50:29.330599 +0700 +07 m=+53.996388761",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "630804",
+        "DistrictID": 2227,
+        "WardName": "Xã Quảng Tâm",
+        "NameExtension": [
+            "Xã Quảng Tâm",
+            "X.Quảng Tâm",
+            "X Quảng Tâm",
+            "Quảng Tâm",
+            "Quang Tam",
+            "Xa Quang Tam",
+            "quangtam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395526 +0700 +07 m=+0.031863209",
+        "UpdatedAt": "2020-09-29 13:50:29.364984 +0700 +07 m=+54.030772660",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "630803",
+        "DistrictID": 2227,
+        "WardName": "Xã Đắk R'Tíh",
+        "NameExtension": [
+            "Xã Đắk R'Tíh",
+            "X.Đắk R'Tíh",
+            "X Đắk R'Tíh",
+            "Đắk R'Tíh",
+            "Dak R'Tih",
+            "Xa Dak R'Tih",
+            "dakrtih"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395527 +0700 +07 m=+0.031864619",
+        "UpdatedAt": "2020-09-29 13:50:29.397855 +0700 +07 m=+54.063643452",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "630802",
+        "DistrictID": 2227,
+        "WardName": "Xã Đắk Ngo",
+        "NameExtension": [
+            "Xã Đắk Ngo",
+            "X.Đắk Ngo",
+            "X Đắk Ngo",
+            "Đắk Ngo",
+            "Dak Ngo",
+            "Xa Dak Ngo",
+            "dakngo"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395529 +0700 +07 m=+0.031866023",
+        "UpdatedAt": "2020-09-29 13:50:29.434275 +0700 +07 m=+54.100062491",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "630801",
+        "DistrictID": 2227,
+        "WardName": "Xã Đắk Búk So",
+        "NameExtension": [
+            "Xã Đắk Búk So",
+            "X.Đắk Búk So",
+            "X Đắk Búk So",
+            "Đắk Búk So",
+            "Dak Buk So",
+            "Xa Dak Buk So",
+            "dakbukso"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.395524 +0700 +07 m=+0.031861800",
+        "UpdatedAt": "2020-09-29 13:50:29.488089 +0700 +07 m=+54.153875916",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

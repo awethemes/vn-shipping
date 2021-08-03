@@ -1,0 +1,396 @@
+[
+    {
+        "DistrictID": 3694,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Quảng Hòa",
+        "Code": "3694",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quảng Hòa",
+            "H.Quảng Hòa",
+            "Quang Hoa",
+            "Huyen Quang Hoa",
+            "quanghoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43142 +0700 +07 m=+0.015365672",
+        "UpdatedAt": "2020-09-29 13:42:41.252523 +0700 +07 m=+13.754966576",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.205.29.215",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-10-14T06:49:58.655Z"
+    },
+    {
+        "DistrictID": 3305,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Trà Lĩnh",
+        "Code": "0605",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trà Lĩnh",
+            "H.Trà Lĩnh",
+            "H Trà Lĩnh",
+            "Trà Lĩnh",
+            "Tra Linh",
+            "Huyen Tra Linh",
+            "tralinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432652 +0700 +07 m=+0.016598153",
+        "UpdatedAt": "2020-09-29 13:42:42.213897 +0700 +07 m=+14.716321625",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3299,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Thông Nông",
+        "Code": "0603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thông Nông",
+            "H.Thông Nông",
+            "H Thông Nông",
+            "Thông Nông",
+            "Thong Nong",
+            "Huyen Thong Nong",
+            "thongnong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432654 +0700 +07 m=+0.016599781",
+        "UpdatedAt": "2020-09-29 13:42:42.455578 +0700 +07 m=+14.957998781",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3289,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Thạch An",
+        "Code": "0610",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thạch An",
+            "H.Thạch An",
+            "H Thạch An",
+            "Thạch An",
+            "Thach An",
+            "Huyen Thach An",
+            "thachan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432685 +0700 +07 m=+0.016630691",
+        "UpdatedAt": "2020-09-29 13:42:42.752132 +0700 +07 m=+15.254546961",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3259,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Quảng Uyên",
+        "Code": "0609",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quảng Uyên",
+            "H.Quảng Uyên",
+            "H Quảng Uyên",
+            "Quảng Uyên",
+            "Quang Uyen",
+            "Huyen Quang Uyen",
+            "quanguyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432687 +0700 +07 m=+0.016633156",
+        "UpdatedAt": "2020-09-29 13:42:43.640178 +0700 +07 m=+16.142575761",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3246,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Nguyên Bình",
+        "Code": "0607",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nguyên Bình",
+            "H.Nguyên Bình",
+            "H Nguyên Bình",
+            "Nguyên Bình",
+            "Nguyen Binh",
+            "Huyen Nguyen Binh",
+            "nguyenbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432689 +0700 +07 m=+0.016634695",
+        "UpdatedAt": "2020-09-29 13:42:43.984258 +0700 +07 m=+16.486649257",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3194,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Hạ Lang",
+        "Code": "0611",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hạ Lang",
+            "H.Hạ Lang",
+            "H Hạ Lang",
+            "Hạ Lang",
+            "Ha Lang",
+            "Huyen Ha Lang",
+            "halang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43269 +0700 +07 m=+0.016636179",
+        "UpdatedAt": "2020-09-29 13:42:45.35152 +0700 +07 m=+17.853885521",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3130,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Bảo Lạc",
+        "Code": "0602",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bảo Lạc",
+            "H.Bảo Lạc",
+            "H Bảo Lạc",
+            "Bảo Lạc",
+            "Bao Lac",
+            "Huyen Bao Lac",
+            "baolac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432692 +0700 +07 m=+0.016637705",
+        "UpdatedAt": "2020-09-29 13:42:46.730517 +0700 +07 m=+19.232856324",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2041,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Trùng Khánh",
+        "Code": "0606",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trùng Khánh",
+            "H.Trùng Khánh",
+            "H Trùng Khánh",
+            "Trùng Khánh",
+            "Trung Khanh",
+            "Huyen Trung Khanh",
+            "trungkhanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432792 +0700 +07 m=+0.016738069",
+        "UpdatedAt": "2020-09-29 13:42:53.029613 +0700 +07 m=+25.531832283",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1997,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Phục Hòa",
+        "Code": "0613",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phục Hòa",
+            "H.Phục Hòa",
+            "H Phục Hòa",
+            "Phục Hòa",
+            "Phuc Hoa",
+            "Huyen Phuc Hoa",
+            "phuchoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432579 +0700 +07 m=+0.016525229",
+        "UpdatedAt": "2020-09-29 13:42:54.897475 +0700 +07 m=+27.399659144",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1943,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Hòa An",
+        "Code": "0608",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hòa An",
+            "H.Hòa An",
+            "H Hòa An",
+            "Hòa An",
+            "Hoa An",
+            "Huyen Hoa An",
+            "hoaan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432484 +0700 +07 m=+0.016429831",
+        "UpdatedAt": "2020-09-29 13:42:57.454146 +0700 +07 m=+29.956281752",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1939,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Hà Quảng",
+        "Code": "0604",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hà Quảng",
+            "H.Hà Quảng",
+            "H Hà Quảng",
+            "Hà Quảng",
+            "Ha Quang",
+            "Huyen Ha Quang",
+            "haquang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432426 +0700 +07 m=+0.016372294",
+        "UpdatedAt": "2020-09-29 13:42:57.778344 +0700 +07 m=+30.280473704",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1890,
+        "ProvinceID": 246,
+        "DistrictName": "Huyện Bảo Lâm",
+        "Code": "0612",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bảo Lâm",
+            "H.Bảo Lâm",
+            "H Bảo Lâm",
+            "Bảo Lâm",
+            "Bao Lam",
+            "Huyen Bao Lam",
+            "baolam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431926 +0700 +07 m=+0.015872244",
+        "UpdatedAt": "2020-09-29 13:42:59.983041 +0700 +07 m=+32.485129184",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1641,
+        "ProvinceID": 246,
+        "DistrictName": "Thành phố Cao Bằng",
+        "Code": "0601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Cao Bằng",
+            "TP.Cao Bằng",
+            "TP Cao Bằng",
+            "Cao Bằng",
+            "Cao Bang",
+            "Thanh pho Cao Bang",
+            "caobang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431667 +0700 +07 m=+0.015612646",
+        "UpdatedAt": "2020-09-29 13:43:10.039884 +0700 +07 m=+42.541781059",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

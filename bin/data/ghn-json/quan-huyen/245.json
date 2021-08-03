@@ -1,0 +1,234 @@
+[
+    {
+        "DistrictID": 3249,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Pác Nặm",
+        "Code": "1108",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Pác Nặm",
+            "Huyện Pắc Nặm",
+            "H.Pác Nặm",
+            "H Pác Nặm",
+            "Pác Nặm",
+            "Pắc Nặm",
+            "Pac Nam",
+            "Huyen Pac Nam",
+            "pacnam"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43199 +0700 +07 m=+0.015936094",
+        "UpdatedAt": "2020-09-29 13:42:43.885082 +0700 +07 m=+16.387475286",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3242,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Ngân Sơn",
+        "Code": "1105",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ngân Sơn",
+            "H.Ngân Sơn",
+            "H Ngân Sơn",
+            "Ngân Sơn",
+            "Ngan Son",
+            "Huyen Ngan Son",
+            "nganson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432645 +0700 +07 m=+0.016590807",
+        "UpdatedAt": "2020-09-29 13:42:44.141357 +0700 +07 m=+16.643745633",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3232,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Na Rì",
+        "Code": "1104",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Na Rì",
+            "H.Na Rì",
+            "H Na Rì",
+            "Na Rì",
+            "Na Ri",
+            "Huyen Na Ri",
+            "nari"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431997 +0700 +07 m=+0.015942721",
+        "UpdatedAt": "2020-09-29 13:42:44.431053 +0700 +07 m=+16.933436146",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1914,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Chợ Mới",
+        "Code": "1107",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chợ Mới",
+            "H.Chợ Mới",
+            "H Chợ Mới",
+            "Chợ Mới",
+            "Cho Moi",
+            "Huyen Cho Moi",
+            "chomoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432374 +0700 +07 m=+0.016319696",
+        "UpdatedAt": "2020-09-29 13:42:58.953835 +0700 +07 m=+31.455942358",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1913,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Chợ Đồn",
+        "Code": "1102",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chợ Đồn",
+            "H.Chợ Đồn",
+            "H Chợ Đồn",
+            "Chợ Đồn",
+            "Cho Don",
+            "Huyen Cho Don",
+            "chodon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432372 +0700 +07 m=+0.016318265",
+        "UpdatedAt": "2020-09-29 13:42:58.992548 +0700 +07 m=+31.494654430",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1889,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Bạch Thông",
+        "Code": "1103",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bạch Thông",
+            "H.Bạch Thông",
+            "H Bạch Thông",
+            "Bạch Thông",
+            "Bach Thong",
+            "Huyen Bach Thong",
+            "bachthong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431925 +0700 +07 m=+0.015870854",
+        "UpdatedAt": "2020-09-29 13:43:00.051791 +0700 +07 m=+32.553879115",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1887,
+        "ProvinceID": 245,
+        "DistrictName": "Huyện Ba Bể",
+        "Code": "1106",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ba Bể",
+            "H.Ba Bể",
+            "H Ba Bể",
+            "Ba Bể",
+            "Ba Be",
+            "Huyen Ba Be",
+            "babe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431922 +0700 +07 m=+0.015867948",
+        "UpdatedAt": "2020-09-29 13:43:00.127506 +0700 +07 m=+32.629591224",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1640,
+        "ProvinceID": 245,
+        "DistrictName": "Thành phố Bắc Kạn",
+        "Code": "1101",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Bắc Kạn",
+            "TP.Bắc Kạn",
+            "TP Bắc Kạn",
+            "Bắc Kạn",
+            "Bac Kan",
+            "Thanh pho Bac Kan",
+            "Thành phố Bắc Cạn",
+            "TP.Bắc Cạn",
+            "TP Bắc Cạn",
+            "Bắc Cạn",
+            "Bac Can",
+            "Thanh pho Bac Can",
+            "backan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431664 +0700 +07 m=+0.015609669",
+        "UpdatedAt": "2020-09-29 13:43:10.077254 +0700 +07 m=+42.579150261",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

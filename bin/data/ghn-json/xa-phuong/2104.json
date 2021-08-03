@@ -1,0 +1,262 @@
+[
+    {
+        "WardCode": "420710",
+        "DistrictID": 2104,
+        "WardName": "Xã Phước Lộc",
+        "NameExtension": [
+            "Xã Phước Lộc",
+            "X.Phước Lộc",
+            "X Phước Lộc",
+            "Phước Lộc",
+            "Phuoc Loc",
+            "Xa Phuoc Loc",
+            "phuocloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402803 +0700 +07 m=+0.039140734",
+        "UpdatedAt": "2020-09-29 13:52:44.299568 +0700 +07 m=+188.962796077",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420709",
+        "DistrictID": 2104,
+        "WardName": "Xã Ma Đa Guôi",
+        "NameExtension": [
+            "Xã Ma Đa Guôi",
+            "X.Ma Đa Guôi",
+            "X Ma Đa Guôi",
+            "Ma Đa Guôi",
+            "Ma Da Guoi",
+            "Xa Ma Da Guoi",
+            "madaguoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402801 +0700 +07 m=+0.039137909",
+        "UpdatedAt": "2020-09-29 13:52:44.461583 +0700 +07 m=+189.124808094",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420708",
+        "DistrictID": 2104,
+        "WardName": "Xã Hà Lâm",
+        "NameExtension": [
+            "Xã Hà Lâm",
+            "X.Hà Lâm",
+            "X Hà Lâm",
+            "Hà Lâm",
+            "Ha Lam",
+            "Xa Ha Lam",
+            "halam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402795 +0700 +07 m=+0.039132330",
+        "UpdatedAt": "2020-09-29 13:52:44.495728 +0700 +07 m=+189.158951969",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420707",
+        "DistrictID": 2104,
+        "WardName": "Xã Đoàn Kết",
+        "NameExtension": [
+            "Xã Đoàn Kết",
+            "X.Đoàn Kết",
+            "X Đoàn Kết",
+            "Đoàn Kết",
+            "Doan Ket",
+            "Xa Doan Ket",
+            "doanket"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402802 +0700 +07 m=+0.039139347",
+        "UpdatedAt": "2020-09-29 13:52:44.529282 +0700 +07 m=+189.192505198",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420706",
+        "DistrictID": 2104,
+        "WardName": "Xã Đạ Tồn",
+        "NameExtension": [
+            "Xã Đạ Tồn",
+            "X.Đạ Tồn",
+            "X Đạ Tồn",
+            "Đạ Tồn",
+            "Da Ton",
+            "Xa Da Ton",
+            "daton"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402796 +0700 +07 m=+0.039133704",
+        "UpdatedAt": "2020-09-29 13:52:44.565585 +0700 +07 m=+189.228807437",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420705",
+        "DistrictID": 2104,
+        "WardName": "Xã Đạ Ploa",
+        "NameExtension": [
+            "Xã Đạ Ploa",
+            "X.Đạ Ploa",
+            "X Đạ Ploa",
+            "Đạ Ploa",
+            "Da Ploa",
+            "Xa Da Ploa",
+            "daploa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402799 +0700 +07 m=+0.039136495",
+        "UpdatedAt": "2020-09-29 13:52:44.60806 +0700 +07 m=+189.271281863",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420704",
+        "DistrictID": 2104,
+        "WardName": "Xã Đạ Oai",
+        "NameExtension": [
+            "Xã Đạ Oai",
+            "X.Đạ Oai",
+            "X Đạ Oai",
+            "Đạ Oai",
+            "Da Oai",
+            "Xa Da Oai",
+            "daoai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402798 +0700 +07 m=+0.039135113",
+        "UpdatedAt": "2020-09-29 13:52:44.653687 +0700 +07 m=+189.316908008",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420703",
+        "DistrictID": 2104,
+        "WardName": "Xã Đạ M'ri",
+        "NameExtension": [
+            "Xã Đạ M'ri",
+            "X.Đạ M'ri",
+            "X Đạ M'ri",
+            "Đạ M'ri",
+            "Da M'ri",
+            "Xa Da M'ri",
+            "damri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402794 +0700 +07 m=+0.039130962",
+        "UpdatedAt": "2020-09-29 13:52:44.711807 +0700 +07 m=+189.375027677",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420702",
+        "DistrictID": 2104,
+        "WardName": "Thị trấn Ma Đa Guôi",
+        "NameExtension": [
+            "Thị trấn Ma Đa Guôi",
+            "TT.Ma Đa Guôi",
+            "TT Ma Đa Guôi",
+            "Ma Đa Guôi",
+            "Ma Da Guoi",
+            "Thi tran Ma Da Guoi",
+            "madaguoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402792 +0700 +07 m=+0.039129573",
+        "UpdatedAt": "2020-09-29 13:52:44.746141 +0700 +07 m=+189.409360088",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420701",
+        "DistrictID": 2104,
+        "WardName": "Thị trấn Đạ M'ri",
+        "NameExtension": [
+            "Thị trấn Đạ M'ri",
+            "TT.Đạ M'ri",
+            "TT Đạ M'ri",
+            "Đạ M'ri",
+            "Da M'ri",
+            "Thi tran Da M'ri",
+            "damri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402791 +0700 +07 m=+0.039128163",
+        "UpdatedAt": "2020-09-29 13:52:44.801009 +0700 +07 m=+189.464227347",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

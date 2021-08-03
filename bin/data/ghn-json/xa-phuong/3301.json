@@ -1,0 +1,158 @@
+[
+    {
+        "WardCode": "450606",
+        "DistrictID": 3301,
+        "WardName": "Xã Phước Kháng",
+        "NameExtension": [
+            "Xã Phước Kháng",
+            "X.Phước Kháng",
+            "X Phước Kháng",
+            "Phước Kháng",
+            "Phuoc Khang",
+            "Xa Phuoc Khang",
+            "phuockhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406635 +0700 +07 m=+0.042972491",
+        "UpdatedAt": "2020-09-29 13:52:27.275731 +0700 +07 m=+171.939282275",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "450605",
+        "DistrictID": 3301,
+        "WardName": "Xã Phước Chiến",
+        "NameExtension": [
+            "Xã Phước Chiến",
+            "X.Phước Chiến",
+            "X Phước Chiến",
+            "Phước Chiến",
+            "Phuoc Chien",
+            "Xa Phuoc Chien",
+            "phuocchien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406632 +0700 +07 m=+0.042968898",
+        "UpdatedAt": "2020-09-29 13:52:27.335429 +0700 +07 m=+171.998978559",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "450604",
+        "DistrictID": 3301,
+        "WardName": "Xã Lợi Hải",
+        "NameExtension": [
+            "Xã Lợi Hải",
+            "X.Lợi Hải",
+            "X Lợi Hải",
+            "Lợi Hải",
+            "Loi Hai",
+            "Xa Loi Hai",
+            "loihai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406637 +0700 +07 m=+0.042973913",
+        "UpdatedAt": "2020-09-29 13:52:27.374064 +0700 +07 m=+172.037613255",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "450603",
+        "DistrictID": 3301,
+        "WardName": "Xã Công Hải",
+        "NameExtension": [
+            "Xã Công Hải",
+            "X.Công Hải",
+            "X Công Hải",
+            "Công Hải",
+            "Cong Hai",
+            "Xa Cong Hai",
+            "conghai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406633 +0700 +07 m=+0.042970306",
+        "UpdatedAt": "2020-09-29 13:52:27.410153 +0700 +07 m=+172.073701868",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "450602",
+        "DistrictID": 3301,
+        "WardName": "Xã Bắc Sơn",
+        "NameExtension": [
+            "Xã Bắc Sơn",
+            "X.Bắc Sơn",
+            "X Bắc Sơn",
+            "Bắc Sơn",
+            "Bac Son",
+            "Xa Bac Son",
+            "bacson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406638 +0700 +07 m=+0.042975298",
+        "UpdatedAt": "2020-09-29 13:52:27.459448 +0700 +07 m=+172.122995118",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "450601",
+        "DistrictID": 3301,
+        "WardName": "Xã Bắc Phong",
+        "NameExtension": [
+            "Xã Bắc Phong",
+            "X.Bắc Phong",
+            "X Bắc Phong",
+            "Bắc Phong",
+            "Bac Phong",
+            "Xa Bac Phong",
+            "bacphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406639 +0700 +07 m=+0.042976705",
+        "UpdatedAt": "2020-09-29 13:52:27.514057 +0700 +07 m=+172.177603555",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "DistrictID": 2137,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Hải Lăng",
+        "Code": "3207",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hải Lăng",
+            "H.Hải Lăng",
+            "H Hải Lăng",
+            "Hải Lăng",
+            "Hai Lang",
+            "Huyen Hai Lang",
+            "hailang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432009 +0700 +07 m=+0.015954550",
+        "UpdatedAt": "2020-09-29 13:42:49.88592 +0700 +07 m=+22.388199933",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2110,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện đảo Cồn Cỏ",
+        "Code": "3210",
+        "Type": 2,
+        "SupportType": 0,
+        "NameExtension": [
+            "Huyện đảo Cồn Cỏ",
+            "Huyện Cồn Cỏ",
+            "Cồn Cỏ",
+            "Con Co",
+            "Huyen Con Co",
+            "Huyen dao Con Co",
+            "conco"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432884 +0700 +07 m=+0.016829902",
+        "UpdatedAt": "2020-09-29 13:42:50.782659 +0700 +07 m=+23.284921795",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2105,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Đa Krông",
+        "Code": "3209",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đa Krông",
+            "H.Đa Krông",
+            "H Đa Krông",
+            "Đa Krông",
+            "Da Krong",
+            "Huyen Da Krong",
+            "Dakrong",
+            "dakrong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432873 +0700 +07 m=+0.016818462",
+        "UpdatedAt": "2020-09-29 13:42:51.00626 +0700 +07 m=+23.508517743",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2040,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Triệu Phong",
+        "Code": "3206",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Triệu Phong",
+            "H.Triệu Phong",
+            "H Triệu Phong",
+            "Triệu Phong",
+            "Trieu Phong",
+            "Huyen Trieu Phong",
+            "trieuphong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432791 +0700 +07 m=+0.016736646",
+        "UpdatedAt": "2020-09-29 13:42:53.063265 +0700 +07 m=+25.565484353",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1936,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Gio Linh",
+        "Code": "3204",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gio Linh",
+            "H.Gio Linh",
+            "H Gio Linh",
+            "Gio Linh",
+            "Huyen Gio Linh",
+            "giolinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432422 +0700 +07 m=+0.016368024",
+        "UpdatedAt": "2020-09-29 13:42:57.904718 +0700 +07 m=+30.406845714",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1903,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Cam Lộ",
+        "Code": "3205",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cam Lộ",
+            "H.Cam Lộ",
+            "H Cam Lộ",
+            "Cam Lộ",
+            "Cam Lo",
+            "Huyen Cam Lo",
+            "camlo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431973 +0700 +07 m=+0.015919071",
+        "UpdatedAt": "2020-09-29 13:42:59.50389 +0700 +07 m=+32.005987266",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1861,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Vĩnh Linh",
+        "Code": "3203",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vĩnh Linh",
+            "H.Vĩnh Linh",
+            "H Vĩnh Linh",
+            "Vĩnh Linh",
+            "Vinh Linh",
+            "Huyen Vinh Linh",
+            "vinhlinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431876 +0700 +07 m=+0.015821932",
+        "UpdatedAt": "2020-09-29 13:43:01.324656 +0700 +07 m=+33.826717921",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1860,
+        "ProvinceID": 238,
+        "DistrictName": "Huyện Hướng Hóa",
+        "Code": "3208",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hướng Hóa",
+            "H.Hướng Hóa",
+            "H Hướng Hóa",
+            "Hướng Hóa",
+            "Huong Hoa",
+            "Huyen Huong Hoa",
+            "huonghoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431875 +0700 +07 m=+0.015820477",
+        "UpdatedAt": "2020-09-29 13:43:01.360813 +0700 +07 m=+33.862874289",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1621,
+        "ProvinceID": 238,
+        "DistrictName": "Thị xã Quảng Trị",
+        "Code": "3202",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Quảng Trị",
+            "TX.Quảng Trị",
+            "TX Quảng Trị",
+            "Quảng Trị",
+            "Quang Tri",
+            "Thi xa Quang Tri",
+            "quangtri"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431644 +0700 +07 m=+0.015590298",
+        "UpdatedAt": "2020-09-29 13:43:10.369696 +0700 +07 m=+42.871586316",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1620,
+        "ProvinceID": 238,
+        "DistrictName": "Thành phố Đông Hà",
+        "Code": "3201",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Đông Hà",
+            "TP.Đông Hà",
+            "TP Đông Hà",
+            "Đông Hà",
+            "Dong Ha",
+            "Thanh pho Dong Ha",
+            "dongha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431643 +0700 +07 m=+0.015588636",
+        "UpdatedAt": "2020-09-29 13:43:10.403194 +0700 +07 m=+42.905083615",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

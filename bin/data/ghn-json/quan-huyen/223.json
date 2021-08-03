@@ -1,0 +1,254 @@
+[
+    {
+        "DistrictID": 3257,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện Quảng Điền",
+        "Code": "3303",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quảng Điền",
+            "H.Quảng Điền",
+            "H Quảng Điền",
+            "Quảng Điền",
+            "Quang Dien",
+            "Huyen Quang Dien",
+            "quangdien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432847 +0700 +07 m=+0.016793320",
+        "UpdatedAt": "2020-09-29 13:42:43.709454 +0700 +07 m=+16.211851263",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3234,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện Nam Đông",
+        "Code": "3308",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nam Đông",
+            "H.Nam Đông",
+            "H Nam Đông",
+            "Nam Đông",
+            "Nam Dong",
+            "Huyen Nam Dong",
+            "namdong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432119 +0700 +07 m=+0.016064573",
+        "UpdatedAt": "2020-09-29 13:42:44.251225 +0700 +07 m=+16.753611774",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2193,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện Phong Điền",
+        "Code": "3302",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phong Điền",
+            "H.Phong Điền",
+            "H Phong Điền",
+            "Phong Điền",
+            "Phong Dien",
+            "Huyen Phong Dien",
+            "phongdien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432074 +0700 +07 m=+0.016019587",
+        "UpdatedAt": "2020-09-29 13:42:48.521507 +0700 +07 m=+21.023812510",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1885,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện A Lưới",
+        "Code": "3309",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện A Lưới",
+            "H.A Lưới",
+            "H A Lưới",
+            "A Lưới",
+            "A Luoi",
+            "Huyen A Luoi",
+            "aluoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431916 +0700 +07 m=+0.015862268",
+        "UpdatedAt": "2020-09-29 13:43:00.212639 +0700 +07 m=+32.714722602",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1882,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện Phú Lộc",
+        "Code": "3307",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Lộc",
+            "H.Phú Lộc",
+            "H Phú Lộc",
+            "Phú Lộc",
+            "Phu Loc",
+            "Huyen Phu Loc",
+            "phuloc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431912 +0700 +07 m=+0.015857971",
+        "UpdatedAt": "2020-09-29 13:43:00.333336 +0700 +07 m=+32.835416986",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1749,
+        "ProvinceID": 223,
+        "DistrictName": "Huyện Phú Vang",
+        "Code": "3305",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Vang",
+            "H.Phú Vang",
+            "H Phú Vang",
+            "Phú Vang",
+            "Phu Vang",
+            "Huyen Phu Vang",
+            "phuvang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431826 +0700 +07 m=+0.015772070",
+        "UpdatedAt": "2020-09-29 13:43:06.575519 +0700 +07 m=+39.077481951",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1698,
+        "ProvinceID": 223,
+        "DistrictName": "Thị xã Hương Thủy",
+        "Code": "3306",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Hương Thủy",
+            "TX.Hương Thủy",
+            "TX Hương Thủy",
+            "Hương Thủy",
+            "Huong Thuy",
+            "Thi xa Huong Thuy",
+            "huongthuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432113 +0700 +07 m=+0.016058829",
+        "UpdatedAt": "2020-09-29 13:43:08.661732 +0700 +07 m=+41.163654726",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1697,
+        "ProvinceID": 223,
+        "DistrictName": "Thị xã Hương Trà",
+        "Code": "3304",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Hương Trà",
+            "TX.Hương Trà",
+            "TX Hương Trà",
+            "Hương Trà",
+            "Huong Tra",
+            "Thi xa Huong Tra",
+            "huongtra"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43211 +0700 +07 m=+0.016055899",
+        "UpdatedAt": "2020-09-29 13:43:08.704858 +0700 +07 m=+41.206780556",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1585,
+        "ProvinceID": 223,
+        "DistrictName": "Thành phố Huế",
+        "Code": "3301",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Huế",
+            "TP.Huế",
+            "TP Huế",
+            "Huế",
+            "Hue",
+            "Thanh pho Hue",
+            "hue"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431614 +0700 +07 m=+0.015560096",
+        "UpdatedAt": "2020-09-29 13:43:11.22087 +0700 +07 m=+43.722744265",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

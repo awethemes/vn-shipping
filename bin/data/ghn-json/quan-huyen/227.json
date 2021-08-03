@@ -1,0 +1,310 @@
+[
+    {
+        "DistrictID": 2256,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Vị Xuyên",
+        "Code": "0506",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vị Xuyên",
+            "H.Vị Xuyên",
+            "H Vị Xuyên",
+            "Vị Xuyên",
+            "Vi Xuyen",
+            "Huyen Vi Xuyen",
+            "vixuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432137 +0700 +07 m=+0.016082751",
+        "UpdatedAt": "2020-09-29 13:42:47.360027 +0700 +07 m=+19.862354437",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2075,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Bắc Mê",
+        "Code": "0507",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Mê",
+            "H.Bắc Mê",
+            "H Bắc Mê",
+            "Bắc Mê",
+            "Bac Me",
+            "Huyen Bac Me",
+            "bacme"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432849 +0700 +07 m=+0.016794798",
+        "UpdatedAt": "2020-09-29 13:42:51.69099 +0700 +07 m=+24.193235204",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2053,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Yên Minh",
+        "Code": "0504",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Minh",
+            "H.Yên Minh",
+            "H Yên Minh",
+            "Yên Minh",
+            "Yen Minh",
+            "Huyen Yen Minh",
+            "yenminh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432813 +0700 +07 m=+0.016758870",
+        "UpdatedAt": "2020-09-29 13:42:52.568368 +0700 +07 m=+25.070596609",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2052,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Xín Mần",
+        "Code": "0509",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Xín Mần",
+            "H.Xín Mần",
+            "H Xín Mần",
+            "Xín Mần",
+            "Xin Man",
+            "Huyen Xin Man",
+            "xinman"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432812 +0700 +07 m=+0.016757472",
+        "UpdatedAt": "2020-09-29 13:42:52.60382 +0700 +07 m=+25.106047788",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2001,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Quang Bình",
+        "Code": "0511",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quang Bình",
+            "H.Quang Bình",
+            "H Quang Bình",
+            "Quang Bình",
+            "Quang Binh",
+            "Huyen Quang Binh",
+            "quangbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432585 +0700 +07 m=+0.016530908",
+        "UpdatedAt": "2020-09-29 13:42:54.758483 +0700 +07 m=+27.260669693",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1999,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Quản Bạ",
+        "Code": "0505",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quản Bạ",
+            "H.Quản Bạ",
+            "H Quản Bạ",
+            "Quản Bạ",
+            "Quan Ba",
+            "Huyen Quan Ba",
+            "quanba"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432582 +0700 +07 m=+0.016528103",
+        "UpdatedAt": "2020-09-29 13:42:54.832177 +0700 +07 m=+27.334362884",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1973,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Mèo Vạc",
+        "Code": "0503",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mèo Vạc",
+            "H.Mèo Vạc",
+            "H Mèo Vạc",
+            "Mèo Vạc",
+            "Meo Vac",
+            "Huyen Meo Vac",
+            "meovac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432539 +0700 +07 m=+0.016484422",
+        "UpdatedAt": "2020-09-29 13:42:56.256473 +0700 +07 m=+28.758631715",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1945,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Hoàng Su Phì",
+        "Code": "0508",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hoàng Su Phì",
+            "H.Hoàng Su Phì",
+            "H Hoàng Su Phì",
+            "Hoàng Su Phì",
+            "Hoang Su Phi",
+            "Huyen Hoang Su Phi",
+            "hoangsuphi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432487 +0700 +07 m=+0.016433297",
+        "UpdatedAt": "2020-09-29 13:42:57.385825 +0700 +07 m=+29.887962516",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1928,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Đồng Văn",
+        "Code": "0502",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đồng Văn",
+            "H.Đồng Văn",
+            "H Đồng Văn",
+            "Đồng Văn",
+            "Dong Van",
+            "Huyen Dong Van",
+            "dongvan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43241 +0700 +07 m=+0.016356077",
+        "UpdatedAt": "2020-09-29 13:42:58.259596 +0700 +07 m=+30.761716062",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1893,
+        "ProvinceID": 227,
+        "DistrictName": "Huyện Bắc Quang",
+        "Code": "0510",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Quang",
+            "H.Bắc Quang",
+            "H Bắc Quang",
+            "Bắc Quang",
+            "Bac Quang",
+            "Huyen Bac Quang",
+            "bacquang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431931 +0700 +07 m=+0.015876537",
+        "UpdatedAt": "2020-09-29 13:42:59.877756 +0700 +07 m=+32.379845603",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1600,
+        "ProvinceID": 227,
+        "DistrictName": "Thành phố Hà Giang",
+        "Code": "0501",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Hà Giang",
+            "TP.Hà Giang",
+            "TP Hà Giang",
+            "Hà Giang",
+            "Ha Giang",
+            "Thanh pho Ha Giang",
+            "hagiang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431811 +0700 +07 m=+0.015756728",
+        "UpdatedAt": "2020-09-29 13:43:10.938441 +0700 +07 m=+43.440321215",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

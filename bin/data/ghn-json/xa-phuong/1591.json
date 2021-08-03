@@ -1,0 +1,210 @@
+[
+    {
+        "WardCode": "30508",
+        "DistrictID": 1591,
+        "WardName": "Phường Tràng Cát",
+        "NameExtension": [
+            "Phường Tràng Cát",
+            "P.Tràng Cát",
+            "P Tràng Cát",
+            "Tràng Cát",
+            "Trang Cat",
+            "Phuong Trang Cat",
+            "trangcat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400102 +0700 +07 m=+0.036439485",
+        "UpdatedAt": "2020-09-29 13:54:32.748116 +0700 +07 m=+297.409285837",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30507",
+        "DistrictID": 1591,
+        "WardName": "Phường Thành Tô",
+        "NameExtension": [
+            "Phường Thành Tô",
+            "P.Thành Tô",
+            "P Thành Tô",
+            "Thành Tô",
+            "Thanh To",
+            "Phuong Thanh To",
+            "thanhto"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400096 +0700 +07 m=+0.036433073",
+        "UpdatedAt": "2020-09-29 13:54:32.78408 +0700 +07 m=+297.445248656",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30506",
+        "DistrictID": 1591,
+        "WardName": "Phường Nam Hải",
+        "NameExtension": [
+            "Phường Nam Hải",
+            "P.Nam Hải",
+            "P Nam Hải",
+            "Nam Hải",
+            "Nam Hai",
+            "Phuong Nam Hai",
+            "namhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400099 +0700 +07 m=+0.036436158",
+        "UpdatedAt": "2020-09-29 13:54:32.822995 +0700 +07 m=+297.484163338",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30505",
+        "DistrictID": 1591,
+        "WardName": "Phường Đông Hải 2",
+        "NameExtension": [
+            "Phường Đông Hải 2",
+            "P.Đông Hải 2",
+            "P Đông Hải 2",
+            "Đông Hải 2",
+            "Dong Hai 2",
+            "Phuong Dong Hai 2",
+            "donghai2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400093 +0700 +07 m=+0.036429981",
+        "UpdatedAt": "2020-09-29 13:54:32.863999 +0700 +07 m=+297.525166294",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30504",
+        "DistrictID": 1591,
+        "WardName": "Phường Đông Hải 1",
+        "NameExtension": [
+            "Phường Đông Hải 1",
+            "P.Đông Hải 1",
+            "P Đông Hải 1",
+            "Đông Hải 1",
+            "Dong Hai 1",
+            "Phuong Dong Hai 1",
+            "donghai1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400091 +0700 +07 m=+0.036428456",
+        "UpdatedAt": "2020-09-29 13:54:32.899198 +0700 +07 m=+297.560364831",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30503",
+        "DistrictID": 1591,
+        "WardName": "Phường Đằng Lâm",
+        "NameExtension": [
+            "Phường Đằng Lâm",
+            "P.Đằng Lâm",
+            "P Đằng Lâm",
+            "Đằng Lâm",
+            "Dang Lam",
+            "Phuong Dang Lam",
+            "danglam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400094 +0700 +07 m=+0.036431547",
+        "UpdatedAt": "2020-09-29 13:54:32.935922 +0700 +07 m=+297.597088025",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30502",
+        "DistrictID": 1591,
+        "WardName": "Phường Đằng Hải",
+        "NameExtension": [
+            "Phường Đằng Hải",
+            "P.Đằng Hải",
+            "P Đằng Hải",
+            "Đằng Hải",
+            "Dang Hai",
+            "Phuong Dang Hai",
+            "danghai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400097 +0700 +07 m=+0.036434717",
+        "UpdatedAt": "2020-09-29 13:54:32.971033 +0700 +07 m=+297.632198400",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30501",
+        "DistrictID": 1591,
+        "WardName": "Phường Cát Bi",
+        "NameExtension": [
+            "Phường Cát Bi",
+            "P.Cát Bi",
+            "P Cát Bi",
+            "Cát Bi",
+            "Cat Bi",
+            "Phuong Cat Bi",
+            "catbi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400101 +0700 +07 m=+0.036438047",
+        "UpdatedAt": "2020-09-29 13:54:33.008635 +0700 +07 m=+297.669799926",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

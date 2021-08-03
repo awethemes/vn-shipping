@@ -1,0 +1,210 @@
+[
+    {
+        "WardCode": "1A0508",
+        "DistrictID": 1492,
+        "WardName": "Phường Yên Phụ",
+        "NameExtension": [
+            "Phường Yên Phụ",
+            "P.Yên Phụ",
+            "P Yên Phụ",
+            "Yên Phụ",
+            "Yen Phu",
+            "Phuong Yen Phu",
+            "yenphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397781 +0700 +07 m=+0.034118771",
+        "UpdatedAt": "2020-09-29 13:58:07.949979 +0700 +07 m=+512.607064317",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0507",
+        "DistrictID": 1492,
+        "WardName": "Phường Xuân La",
+        "NameExtension": [
+            "Phường Xuân La",
+            "P.Xuân La",
+            "P Xuân La",
+            "Xuân La",
+            "Xuan La",
+            "Phuong Xuan La",
+            "xuanla"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397779 +0700 +07 m=+0.034116589",
+        "UpdatedAt": "2020-09-29 13:58:07.982273 +0700 +07 m=+512.639356988",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0506",
+        "DistrictID": 1492,
+        "WardName": "Phường Tứ Liên",
+        "NameExtension": [
+            "Phường Tứ Liên",
+            "P.Tứ Liên",
+            "P Tứ Liên",
+            "Tứ Liên",
+            "Tu Lien",
+            "Phuong Tu Lien",
+            "tulien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397776 +0700 +07 m=+0.034112962",
+        "UpdatedAt": "2020-09-29 13:58:08.023144 +0700 +07 m=+512.680227851",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0505",
+        "DistrictID": 1492,
+        "WardName": "Phường Thụy Khuê",
+        "NameExtension": [
+            "Phường Thụy Khuê",
+            "P.Thụy Khuê",
+            "P Thụy Khuê",
+            "Thụy Khuê",
+            "Thuy Khue",
+            "Phuong Thuy Khue",
+            "thuykhue"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397786 +0700 +07 m=+0.034123087",
+        "UpdatedAt": "2020-09-29 13:58:08.086399 +0700 +07 m=+512.743481091",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0504",
+        "DistrictID": 1492,
+        "WardName": "Phường Quảng An",
+        "NameExtension": [
+            "Phường Quảng An",
+            "P.Quảng An",
+            "P Quảng An",
+            "Quảng An",
+            "Quang An",
+            "Phuong Quang An",
+            "quangan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397777 +0700 +07 m=+0.034114762",
+        "UpdatedAt": "2020-09-29 13:58:08.132903 +0700 +07 m=+512.789984611",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0503",
+        "DistrictID": 1492,
+        "WardName": "Phường Phú Thượng",
+        "NameExtension": [
+            "Phường Phú Thượng",
+            "P.Phú Thượng",
+            "P Phú Thượng",
+            "Phú Thượng",
+            "Phu Thuong",
+            "Phuong Phu Thuong",
+            "phuthuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397771 +0700 +07 m=+0.034108691",
+        "UpdatedAt": "2020-09-29 13:58:08.169971 +0700 +07 m=+512.827051338",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0502",
+        "DistrictID": 1492,
+        "WardName": "Phường Nhật Tân",
+        "NameExtension": [
+            "Phường Nhật Tân",
+            "P.Nhật Tân",
+            "P Nhật Tân",
+            "Nhật Tân",
+            "Nhat Tan",
+            "Phuong Nhat Tan",
+            "nhattan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397774 +0700 +07 m=+0.034111100",
+        "UpdatedAt": "2020-09-29 13:58:08.266173 +0700 +07 m=+512.923251696",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1A0501",
+        "DistrictID": 1492,
+        "WardName": "Phường Bưởi",
+        "NameExtension": [
+            "Phường Bưởi",
+            "P.Bưởi",
+            "P Bưởi",
+            "Bưởi",
+            "Buoi",
+            "Phuong Buoi",
+            "buoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.397783 +0700 +07 m=+0.034120658",
+        "UpdatedAt": "2020-09-29 13:58:08.332872 +0700 +07 m=+512.989949897",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

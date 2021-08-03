@@ -1,0 +1,158 @@
+[
+    {
+        "WardCode": "430406",
+        "DistrictID": 1774,
+        "WardName": "Xã Thanh Phú",
+        "NameExtension": [
+            "Xã Thanh Phú",
+            "X.Thanh Phú",
+            "X Thanh Phú",
+            "Thanh Phú",
+            "Thanh Phu",
+            "Xa Thanh Phu",
+            "thanhphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393938 +0700 +07 m=+0.030275122",
+        "UpdatedAt": "2020-09-29 13:52:40.273094 +0700 +07 m=+184.936398101",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "430405",
+        "DistrictID": 1774,
+        "WardName": "Xã Thanh Lương",
+        "NameExtension": [
+            "Xã Thanh Lương",
+            "X.Thanh Lương",
+            "X Thanh Lương",
+            "Thanh Lương",
+            "Thanh Luong",
+            "Xa Thanh Luong",
+            "thanhluong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393936 +0700 +07 m=+0.030273673",
+        "UpdatedAt": "2020-09-29 13:52:40.312166 +0700 +07 m=+184.975470136",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "430404",
+        "DistrictID": 1774,
+        "WardName": "Phường Phú Thịnh",
+        "NameExtension": [
+            "Phường Phú Thịnh",
+            "P.Phú Thịnh",
+            "P Phú Thịnh",
+            "Phú Thịnh",
+            "Phu Thinh",
+            "Phuong Phu Thinh",
+            "phuthinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393933 +0700 +07 m=+0.030270816",
+        "UpdatedAt": "2020-09-29 13:52:40.36786 +0700 +07 m=+185.031162730",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "430403",
+        "DistrictID": 1774,
+        "WardName": "Phường Phú Đức",
+        "NameExtension": [
+            "Phường Phú Đức",
+            "P.Phú Đức",
+            "P Phú Đức",
+            "Phú Đức",
+            "Phu Duc",
+            "Phuong Phu Duc",
+            "phuduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393935 +0700 +07 m=+0.030272275",
+        "UpdatedAt": "2020-09-29 13:52:40.414421 +0700 +07 m=+185.077722669",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "430402",
+        "DistrictID": 1774,
+        "WardName": "Phường Hưng Chiến",
+        "NameExtension": [
+            "Phường Hưng Chiến",
+            "P.Hưng Chiến",
+            "P Hưng Chiến",
+            "Hưng Chiến",
+            "Hung Chien",
+            "Phuong Hung Chien",
+            "hungchien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39393 +0700 +07 m=+0.030267817",
+        "UpdatedAt": "2020-09-29 13:52:40.499611 +0700 +07 m=+185.162911484",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "430401",
+        "DistrictID": 1774,
+        "WardName": "Phường An Lộc",
+        "NameExtension": [
+            "Phường An Lộc",
+            "P.An Lộc",
+            "P An Lộc",
+            "An Lộc",
+            "An Loc",
+            "Phuong An Loc",
+            "anloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393932 +0700 +07 m=+0.030269296",
+        "UpdatedAt": "2020-09-29 13:52:40.541278 +0700 +07 m=+185.204577853",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

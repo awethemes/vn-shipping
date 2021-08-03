@@ -1,0 +1,260 @@
+[
+    {
+        "WardCode": "590710",
+        "DistrictID": 2272,
+        "WardName": "Xã Vĩnh Tân",
+        "NameExtension": [
+            "Xã Vĩnh Tân",
+            "X.Vĩnh Tân",
+            "X Vĩnh Tân",
+            "Vĩnh Tân",
+            "Vinh Tan",
+            "Xa Vinh Tan",
+            "vinhtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409531 +0700 +07 m=+0.045868485",
+        "UpdatedAt": "2020-09-29 13:50:56.526173 +0700 +07 m=+81.191446282",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590709",
+        "DistrictID": 2272,
+        "WardName": "Xã Vĩnh Hiệp",
+        "NameExtension": [
+            "Xã Vĩnh Hiệp",
+            "X.Vĩnh Hiệp",
+            "X Vĩnh Hiệp",
+            "Vĩnh Hiệp",
+            "Vinh Hiep",
+            "Xa Vinh Hiep",
+            "vinhhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409524 +0700 +07 m=+0.045861262",
+        "UpdatedAt": "2020-09-29 13:50:56.560603 +0700 +07 m=+81.225876086",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590708",
+        "DistrictID": 2272,
+        "WardName": "Xã Vĩnh Hải",
+        "NameExtension": [
+            "Xã Vĩnh Hải",
+            "X.Vĩnh Hải",
+            "X Vĩnh Hải",
+            "Vĩnh Hải",
+            "Vinh Hai",
+            "Xa Vinh Hai",
+            "vinhhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409525 +0700 +07 m=+0.045862655",
+        "UpdatedAt": "2020-09-29 13:50:56.60207 +0700 +07 m=+81.267342163",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590707",
+        "DistrictID": 2272,
+        "WardName": "Xã Lai Hòa",
+        "NameExtension": [
+            "Xã Lai Hòa",
+            "X.Lai Hòa",
+            "X Lai Hòa",
+            "Lai Hòa",
+            "Lai Hoa",
+            "Xa Lai Hoa",
+            "laihoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409533 +0700 +07 m=+0.045870794",
+        "UpdatedAt": "2020-09-29 13:50:56.641728 +0700 +07 m=+81.306999719",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590706",
+        "DistrictID": 2272,
+        "WardName": "Xã Lạc Hòa",
+        "NameExtension": [
+            "Xã Lạc Hòa",
+            "X.Lạc Hòa",
+            "X Lạc Hòa",
+            "Lạc Hòa",
+            "Lac Hoa",
+            "Xa Lac Hoa",
+            "lachoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409527 +0700 +07 m=+0.045864034",
+        "UpdatedAt": "2020-09-29 13:50:56.682132 +0700 +07 m=+81.347402998",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590705",
+        "DistrictID": 2272,
+        "WardName": "Xã Hòa Đông",
+        "NameExtension": [
+            "Xã Hòa Đông",
+            "X.Hòa Đông",
+            "X Hòa Đông",
+            "Hòa Đông",
+            "Hoa Dong",
+            "Xa Hoa Dong",
+            "hoadong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409521 +0700 +07 m=+0.045858310",
+        "UpdatedAt": "2020-09-29 13:50:56.715253 +0700 +07 m=+81.380522688",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590704",
+        "DistrictID": 2272,
+        "WardName": "Phường Vĩnh Phước",
+        "NameExtension": [
+            "Phường Vĩnh Phước",
+            "P.Vĩnh Phước",
+            "P Vĩnh Phước",
+            "Vĩnh Phước",
+            "Vinh Phuoc",
+            "Phuong Vinh Phuoc",
+            "Xã Vĩnh Phước",
+            "vinhphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40953 +0700 +07 m=+0.045867033",
+        "UpdatedAt": "2020-09-29 13:50:56.748119 +0700 +07 m=+81.413388028",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590703",
+        "DistrictID": 2272,
+        "WardName": "Phường Khánh Hòa",
+        "NameExtension": [
+            "Phường Khánh Hòa",
+            "P.Khánh Hòa",
+            "P Khánh Hòa",
+            "Khánh Hòa",
+            "Khanh Hoa",
+            "Phuong Khanh Hoa",
+            "Xã Khánh Hòa",
+            "khanhhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409523 +0700 +07 m=+0.045859839",
+        "UpdatedAt": "2020-09-29 13:50:56.780466 +0700 +07 m=+81.445734284",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590702",
+        "DistrictID": 2272,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.409528 +0700 +07 m=+0.045865571",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "590701",
+        "DistrictID": 2272,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40952 +0700 +07 m=+0.045856909",
+        "UpdatedAt": "13 May 20 18:25 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "DistrictID": 3418,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện M Đrắk",
+        "Code": "4009",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện M Đrắk",
+            "Huyện M'Đrắk",
+            "H.M Đrắk",
+            "H.M'Đrắk",
+            "H M Đrắk",
+            "H M'Đrắk",
+            "M Đrắk",
+            "M'Đrắk",
+            "M Drak",
+            "M'Drak",
+            "M'drak",
+            "Huyen M Drak",
+            "Huyen M'drak",
+            "mdrak"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432202 +0700 +07 m=+0.016148286",
+        "UpdatedAt": "2020-09-29 13:42:41.526657 +0700 +07 m=+14.029095282",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3217,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Lắk",
+        "Code": "4012",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lắk",
+            "H.Lắk",
+            "H Lắk",
+            "Lắk",
+            "Lak",
+            "Huyen Lak",
+            "lak"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432018 +0700 +07 m=+0.015963408",
+        "UpdatedAt": "2020-09-29 13:42:44.766584 +0700 +07 m=+17.268960880",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3153,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Cư Kuin",
+        "Code": "4014",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cư Kuin",
+            "H.Cư Kuin",
+            "H Cư Kuin",
+            "Cư Kuin",
+            "Cu Kuin",
+            "Huyen Cu Kuin",
+            "cukuin"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432693 +0700 +07 m=+0.016639261",
+        "UpdatedAt": "2020-09-29 13:42:46.029868 +0700 +07 m=+18.532221001",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2150,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Krông Búk",
+        "Code": "4003",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Búk",
+            "H.Krông Búk",
+            "H Krông Búk",
+            "Krông Búk",
+            "Krong Buk",
+            "Huyen Krong Buk",
+            "krongbuk"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432025 +0700 +07 m=+0.015970594",
+        "UpdatedAt": "2020-09-29 13:42:49.576993 +0700 +07 m=+22.079278477",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2131,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Ea Súp",
+        "Code": "4005",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ea Súp",
+            "H.Ea Súp",
+            "H Ea Súp",
+            "Ea Súp",
+            "Ea Sup",
+            "Huyen Ea Sup",
+            "easup"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432001 +0700 +07 m=+0.015947241",
+        "UpdatedAt": "2020-09-29 13:42:50.02019 +0700 +07 m=+22.522467217",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1954,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Krông Pắc",
+        "Code": "4007",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Pắc",
+            "Huyện Krông Pắk",
+            "H.Krông Pắc",
+            "H.Krông Pắk",
+            "H Krông Pắc",
+            "H Krông Pắk",
+            "Krông Pắc",
+            "Krông Pắk",
+            "Krong Pac",
+            "Krong Pak",
+            "Huyen Krong Pac",
+            "Huyen Krong Pak",
+            "krongpac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432501 +0700 +07 m=+0.016446385",
+        "UpdatedAt": "2020-09-29 13:42:57.055105 +0700 +07 m=+29.557248838",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1931,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Ea Kar",
+        "Code": "4008",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ea Kar",
+            "H.Ea Kar",
+            "H Ea Kar",
+            "Ea Kar",
+            "Huyen Ea Kar",
+            "eakar"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432415 +0700 +07 m=+0.016360445",
+        "UpdatedAt": "2020-09-29 13:42:58.111297 +0700 +07 m=+30.613419858",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1884,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Krông Ana",
+        "Code": "4010",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Ana",
+            "Huyện Krông A Na",
+            "H.Krông Ana",
+            "H.Krông Ana",
+            "H Krông A Na",
+            "Krông Ana",
+            "Krông A Na",
+            "Krong Ana",
+            "Huyen Krong Ana",
+            "Huyen Krong A Na",
+            "krongana"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431915 +0700 +07 m=+0.015860843",
+        "UpdatedAt": "2020-09-29 13:43:00.258127 +0700 +07 m=+32.760209869",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1789,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Krông Bông",
+        "Code": "4011",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Bông",
+            "H.Krông Bông",
+            "H Krông Bông",
+            "Krông Bông",
+            "Krong Bong",
+            "Huyen Krong Bong",
+            "krongbong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432281 +0700 +07 m=+0.016226798",
+        "UpdatedAt": "2020-09-29 13:43:04.687497 +0700 +07 m=+37.189495453",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1788,
+        "ProvinceID": 210,
+        "DistrictName": "Thị xã Buôn Hồ",
+        "Code": "4015",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Buôn Hồ",
+            "TX.Buôn Hồ",
+            "TX Buôn Hồ",
+            "Buôn Hồ",
+            "Buon Ho",
+            "Thi xa Buon Ho",
+            "buonho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432279 +0700 +07 m=+0.016225324",
+        "UpdatedAt": "2020-09-29 13:43:04.719498 +0700 +07 m=+37.221495979",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1787,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Krông Năng",
+        "Code": "4004",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Krông Năng",
+            "H.Krông Năng",
+            "H Krông Năng",
+            "Krông Năng",
+            "Krong Nang",
+            "Huyen Krong Nang",
+            "krongnang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432278 +0700 +07 m=+0.016223870",
+        "UpdatedAt": "2020-09-29 13:43:04.754396 +0700 +07 m=+37.256393111",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1786,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Ea H leo",
+        "Code": "4002",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ea H leo",
+            "Huyện Ea H'Leo",
+            "H.Ea H leo",
+            "H Ea H leo",
+            "Ea H leo",
+            "Ea H'Leo",
+            "Huyen Ea H leo",
+            "Huyen Ea H'Leo",
+            "Ea H'leo",
+            "eahleo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432277 +0700 +07 m=+0.016222402",
+        "UpdatedAt": "2020-09-29 13:43:04.798027 +0700 +07 m=+37.300023090",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1785,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Cư M gar",
+        "Code": "4006",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cư M gar",
+            "Huyện Cư M'Gar",
+            "H.Cư M gar",
+            "H Cư M gar",
+            "Cư M gar",
+            "Cư M'Gar",
+            "Cu M gar",
+            "Cu M'gar",
+            "Cư Mgar",
+            "Cu Mgar",
+            "Huyen Cu M gar",
+            "Huyen Cu M'gar",
+            "cumgar"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432275 +0700 +07 m=+0.016220955",
+        "UpdatedAt": "2020-09-29 13:43:04.838322 +0700 +07 m=+37.340317833",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1784,
+        "ProvinceID": 210,
+        "DistrictName": "Huyện Buôn Ðôn",
+        "Code": "4013",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Buôn Đôn",
+            "Huyện Buôn Ðôn",
+            "Huyện Buôn Ðôn",
+            "H.Buôn Ðôn",
+            "H Buôn Ðôn",
+            "Buôn Ðôn",
+            "Buon Ðon",
+            "Buon Don",
+            "Huyen Buon Ðon",
+            "buonon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432274 +0700 +07 m=+0.016219415",
+        "UpdatedAt": "2020-09-29 13:43:04.872023 +0700 +07 m=+37.374017712",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1552,
+        "ProvinceID": 210,
+        "DistrictName": "Thành phố Buôn Ma Thuột",
+        "Code": "4001",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Buôn Ma Thuột",
+            "TP.Buôn Ma Thuột",
+            "TP Buôn Ma Thuột",
+            "Buôn Ma Thuột",
+            "Buon Ma Thuot",
+            "Thanh pho Buon Ma Thuot",
+            "Thành phố Buôn Mê Thuột",
+            "TP.Buôn Mê Thuột",
+            "TP Buôn Mê Thuột",
+            "Buôn Mê Thuột",
+            "Buon Me Thuot",
+            "Thanh pho Buon Me Thuot",
+            "buonmathuot"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431523 +0700 +07 m=+0.015469126",
+        "UpdatedAt": "2020-09-29 13:43:11.972823 +0700 +07 m=+44.474683387",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "WardCode": "800264",
+        "DistrictID": 1707,
+        "WardName": "Phường Hải Sơn",
+        "NameExtension": [
+            "Phường Hải Sơn",
+            "Hai Son",
+            "Phuong Hai Son",
+            "haison"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:04.188666 +0700 +07 m=+28.854932719",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30607",
+        "DistrictID": 1707,
+        "WardName": "Phường Vạn Sơn",
+        "NameExtension": [
+            "Phường Vạn Sơn",
+            "P.Vạn Sơn",
+            "P Vạn Sơn",
+            "Vạn Sơn",
+            "Van Son",
+            "Phuong Van Son",
+            "vanson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400124 +0700 +07 m=+0.036461023",
+        "UpdatedAt": "2020-09-29 13:54:32.474756 +0700 +07 m=+297.135930884",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30606",
+        "DistrictID": 1707,
+        "WardName": "Phường Vạn Hương",
+        "NameExtension": [
+            "Phường Vạn Hương",
+            "P.Vạn Hương",
+            "P Vạn Hương",
+            "Vạn Hương",
+            "Van Huong",
+            "Phuong Van Huong",
+            "vanhuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400122 +0700 +07 m=+0.036459438",
+        "UpdatedAt": "2020-09-29 13:54:32.511846 +0700 +07 m=+297.173020005",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30605",
+        "DistrictID": 1707,
+        "WardName": "Phường Ngọc Xuyên",
+        "NameExtension": [
+            "Phường Ngọc Xuyên",
+            "P.Ngọc Xuyên",
+            "P Ngọc Xuyên",
+            "Ngọc Xuyên",
+            "Ngoc Xuyen",
+            "Phuong Ngoc Xuyen",
+            "ngocxuyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400119 +0700 +07 m=+0.036456524",
+        "UpdatedAt": "2020-09-29 13:54:32.547858 +0700 +07 m=+297.209031696",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30604",
+        "DistrictID": 1707,
+        "WardName": "Phường Ngọc Hải",
+        "NameExtension": [
+            "Phường Ngọc Hải",
+            "P.Ngọc Hải",
+            "P Ngọc Hải",
+            "Ngọc Hải",
+            "Ngoc Hai",
+            "Phuong Ngoc Hai",
+            "ngochai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400121 +0700 +07 m=+0.036457998",
+        "UpdatedAt": "2020-09-29 13:54:32.584057 +0700 +07 m=+297.245229907",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30603",
+        "DistrictID": 1707,
+        "WardName": "Phường Minh Đức",
+        "NameExtension": [
+            "Phường Minh Đức",
+            "P.Minh Đức",
+            "P Minh Đức",
+            "Minh Đức",
+            "Minh Duc",
+            "Phuong Minh Duc",
+            "minhduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400125 +0700 +07 m=+0.036462502",
+        "UpdatedAt": "2020-09-29 13:54:32.633782 +0700 +07 m=+297.294954136",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30602",
+        "DistrictID": 1707,
+        "WardName": "Phường Hợp Đức",
+        "NameExtension": [
+            "Phường Hợp Đức",
+            "P.Hợp Đức",
+            "P Hợp Đức",
+            "Hợp Đức",
+            "Hop Duc",
+            "Phuong Hop Duc",
+            "hopduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400128 +0700 +07 m=+0.036465518",
+        "UpdatedAt": "2020-09-29 13:54:32.669063 +0700 +07 m=+297.330234400",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "30601",
+        "DistrictID": 1707,
+        "WardName": "Phường Bàng La",
+        "NameExtension": [
+            "Phường Bàng La",
+            "P.Bàng La",
+            "P Bàng La",
+            "Bàng La",
+            "Bang La",
+            "Phuong Bang La",
+            "bangla"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400127 +0700 +07 m=+0.036464024",
+        "UpdatedAt": "2020-09-29 13:54:32.710742 +0700 +07 m=+297.371911953",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,725 @@
+[
+    {
+        "WardCode": "800123",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Phượng",
+        "NameExtension": [
+            "Xã Nga Phượng",
+            "Nga Phuong",
+            "Xa Nga Phuong",
+            "ngaphuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:12.811178 +0700 +07 m=+37.477281325",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282327",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Yên",
+        "NameExtension": [
+            "Xã Nga Yên",
+            "X.Nga Yên",
+            "X Nga Yên",
+            "Nga Yên",
+            "Nga Yen",
+            "Xa Nga Yen",
+            "ngayen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412552 +0700 +07 m=+0.048889183",
+        "UpdatedAt": "2020-09-29 13:55:11.373922 +0700 +07 m=+336.034358171",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282326",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Vịnh",
+        "NameExtension": [
+            "Xã Nga Vịnh",
+            "X.Nga Vịnh",
+            "X Nga Vịnh",
+            "Nga Vịnh",
+            "Nga Vinh",
+            "Xa Nga Vinh",
+            "ngavinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412535 +0700 +07 m=+0.048872120",
+        "UpdatedAt": "2020-09-29 13:55:11.459158 +0700 +07 m=+336.119592777",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282325",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Văn",
+        "NameExtension": [
+            "Xã Nga Văn",
+            "X.Nga Văn",
+            "X Nga Văn",
+            "Nga Văn",
+            "Nga Van",
+            "Xa Nga Van",
+            "Xã Nga Vân",
+            "ngavan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412536 +0700 +07 m=+0.048873547",
+        "UpdatedAt": "2020-09-29 13:55:11.522853 +0700 +07 m=+336.183286546",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282324",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Trường",
+        "NameExtension": [
+            "Xã Nga Trường",
+            "X.Nga Trường",
+            "X Nga Trường",
+            "Nga Trường",
+            "Nga Truong",
+            "Xa Nga Truong",
+            "ngatruong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41257 +0700 +07 m=+0.048907173",
+        "UpdatedAt": "2020-09-29 13:55:11.583715 +0700 +07 m=+336.244147915",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282323",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Trung",
+        "NameExtension": [
+            "Xã Nga Trung",
+            "X.Nga Trung",
+            "X Nga Trung",
+            "Nga Trung",
+            "Xa Nga Trung",
+            "ngatrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412543 +0700 +07 m=+0.048880405",
+        "UpdatedAt": "2020-09-29 13:55:11.621084 +0700 +07 m=+336.281515625",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282322",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Tiến",
+        "NameExtension": [
+            "Xã Nga Tiến",
+            "X.Nga Tiến",
+            "X Nga Tiến",
+            "Nga Tiến",
+            "Nga Tien",
+            "Xa Nga Tien",
+            "ngatien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412539 +0700 +07 m=+0.048876311",
+        "UpdatedAt": "2020-09-29 13:55:11.680253 +0700 +07 m=+336.340683969",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282321",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thủy",
+        "NameExtension": [
+            "Xã Nga Thủy",
+            "X.Nga Thủy",
+            "X Nga Thủy",
+            "Nga Thủy",
+            "Nga Thuy",
+            "Xa Nga Thuy",
+            "ngathuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412563 +0700 +07 m=+0.048900349",
+        "UpdatedAt": "2020-09-29 13:55:11.757965 +0700 +07 m=+336.418394079",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282320",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thiện",
+        "NameExtension": [
+            "Xã Nga Thiện",
+            "X.Nga Thiện",
+            "X Nga Thiện",
+            "Nga Thiện",
+            "Nga Thien",
+            "Xa Nga Thien",
+            "ngathien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412538 +0700 +07 m=+0.048874922",
+        "UpdatedAt": "2020-09-29 13:55:11.83129 +0700 +07 m=+336.491717795",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282319",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thành",
+        "NameExtension": [
+            "Xã Nga Thành",
+            "X.Nga Thành",
+            "X Nga Thành",
+            "Nga Thành",
+            "Nga Thanh",
+            "Xa Nga Thanh",
+            "ngathanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412556 +0700 +07 m=+0.048893283",
+        "UpdatedAt": "2020-09-29 13:55:11.979267 +0700 +07 m=+336.639692362",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282318",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thanh",
+        "NameExtension": [
+            "Xã Nga Thanh",
+            "X.Nga Thanh",
+            "X Nga Thanh",
+            "Nga Thanh",
+            "Xa Nga Thanh",
+            "ngathanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412547 +0700 +07 m=+0.048884092",
+        "UpdatedAt": "2020-09-29 13:55:12.032044 +0700 +07 m=+336.692468576",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282317",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thắng",
+        "NameExtension": [
+            "Xã Nga Thắng",
+            "X.Nga Thắng",
+            "X Nga Thắng",
+            "Nga Thắng",
+            "Nga Thang",
+            "Xa Nga Thang",
+            "ngathang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412568 +0700 +07 m=+0.048905788",
+        "UpdatedAt": "2020-09-29 13:55:12.086193 +0700 +07 m=+336.746615940",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282316",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thái",
+        "NameExtension": [
+            "Xã Nga Thái",
+            "X.Nga Thái",
+            "X Nga Thái",
+            "Nga Thái",
+            "Nga Thai",
+            "Xa Nga Thai",
+            "ngathai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412566 +0700 +07 m=+0.048903070",
+        "UpdatedAt": "2020-09-29 13:55:12.136716 +0700 +07 m=+336.797137792",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282315",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Thạch",
+        "NameExtension": [
+            "Xã Nga Thạch",
+            "X.Nga Thạch",
+            "X Nga Thạch",
+            "Nga Thạch",
+            "Nga Thach",
+            "Xa Nga Thach",
+            "ngathach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412567 +0700 +07 m=+0.048904435",
+        "UpdatedAt": "2020-09-29 13:55:12.195692 +0700 +07 m=+336.856112484",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282314",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Tân",
+        "NameExtension": [
+            "Xã Nga Tân",
+            "X.Nga Tân",
+            "X Nga Tân",
+            "Nga Tân",
+            "Nga Tan",
+            "Xa Nga Tan",
+            "ngatan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412562 +0700 +07 m=+0.048898975",
+        "UpdatedAt": "2020-09-29 13:55:12.233709 +0700 +07 m=+336.894129213",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282313",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Phú",
+        "NameExtension": [
+            "Xã Nga Phú",
+            "X.Nga Phú",
+            "X Nga Phú",
+            "Nga Phú",
+            "Nga Phu",
+            "Xa Nga Phu",
+            "ngaphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412559 +0700 +07 m=+0.048896225",
+        "UpdatedAt": "2020-09-29 13:55:12.39922 +0700 +07 m=+337.059637328",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282312",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Nhân",
+        "NameExtension": [
+            "Xã Nga Nhân",
+            "X.Nga Nhân",
+            "X Nga Nhân",
+            "Nga Nhân",
+            "Nga Nhan",
+            "Xa Nga Nhan",
+            "nganhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412542 +0700 +07 m=+0.048879050",
+        "UpdatedAt": "2020-09-29 13:55:12.43903 +0700 +07 m=+337.099446695",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282311",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Mỹ",
+        "NameExtension": [
+            "Xã Nga Mỹ",
+            "X.Nga Mỹ",
+            "X Nga Mỹ",
+            "Nga Mỹ",
+            "Nga My",
+            "Xa Nga My",
+            "ngamy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41255 +0700 +07 m=+0.048887087",
+        "UpdatedAt": "2020-09-29 13:55:12.50954 +0700 +07 m=+337.169954583",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282310",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Lĩnh",
+        "NameExtension": [
+            "Xã Nga Lĩnh",
+            "X.Nga Lĩnh",
+            "X Nga Lĩnh",
+            "Nga Lĩnh",
+            "Nga Linh",
+            "Xa Nga Linh",
+            "ngalinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41254 +0700 +07 m=+0.048877682",
+        "UpdatedAt": "2020-09-29 13:55:12.5419 +0700 +07 m=+337.202314642",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282309",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Liên",
+        "NameExtension": [
+            "Xã Nga Liên",
+            "X.Nga Liên",
+            "X Nga Liên",
+            "Nga Liên",
+            "Nga Lien",
+            "Xa Nga Lien",
+            "ngalien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412564 +0700 +07 m=+0.048901695",
+        "UpdatedAt": "2020-09-29 13:55:12.582727 +0700 +07 m=+337.243140412",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282308",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Hưng",
+        "NameExtension": [
+            "Xã Nga Hưng",
+            "X.Nga Hưng",
+            "X Nga Hưng",
+            "Nga Hưng",
+            "Nga Hung",
+            "Xa Nga Hung",
+            "ngahung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412548 +0700 +07 m=+0.048885540",
+        "UpdatedAt": "2020-09-29 13:55:12.617776 +0700 +07 m=+337.278189162",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282307",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Hải",
+        "NameExtension": [
+            "Xã Nga Hải",
+            "X.Nga Hải",
+            "X Nga Hải",
+            "Nga Hải",
+            "Nga Hai",
+            "Xa Nga Hai",
+            "ngahai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412555 +0700 +07 m=+0.048891906",
+        "UpdatedAt": "2020-09-29 13:55:12.675501 +0700 +07 m=+337.335912529",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282306",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Giáp",
+        "NameExtension": [
+            "Xã Nga Giáp",
+            "X.Nga Giáp",
+            "X Nga Giáp",
+            "Nga Giáp",
+            "Nga Giap",
+            "Xa Nga Giap",
+            "ngagiap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412553 +0700 +07 m=+0.048890563",
+        "UpdatedAt": "2020-09-29 13:55:12.713802 +0700 +07 m=+337.374213399",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282305",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Điền",
+        "NameExtension": [
+            "Xã Nga Điền",
+            "X.Nga Điền",
+            "X Nga Điền",
+            "Nga Điền",
+            "Nga Dien",
+            "Xa Nga Dien",
+            "ngadien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41256 +0700 +07 m=+0.048897596",
+        "UpdatedAt": "2020-09-29 13:55:12.755237 +0700 +07 m=+337.415647595",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282304",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga Bạch",
+        "NameExtension": [
+            "Xã Nga Bạch",
+            "X.Nga Bạch",
+            "X Nga Bạch",
+            "Nga Bạch",
+            "Nga Bach",
+            "Xa Nga Bach",
+            "ngabach"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412545 +0700 +07 m=+0.048882728",
+        "UpdatedAt": "2020-09-29 13:55:12.792145 +0700 +07 m=+337.452554967",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282303",
+        "DistrictID": 3241,
+        "WardName": "Xã Nga An",
+        "NameExtension": [
+            "Xã Nga An",
+            "X.Nga An",
+            "X Nga An",
+            "Nga An",
+            "Xa Nga An",
+            "ngaan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412557 +0700 +07 m=+0.048894751",
+        "UpdatedAt": "2020-09-29 13:55:12.845372 +0700 +07 m=+337.505780305",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282302",
+        "DistrictID": 3241,
+        "WardName": "Xã Ba Đình",
+        "NameExtension": [
+            "Xã Ba Đình",
+            "X.Ba Đình",
+            "X Ba Đình",
+            "Ba Đình",
+            "Ba Dinh",
+            "Xa Ba Dinh",
+            "badinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412533 +0700 +07 m=+0.048870742",
+        "UpdatedAt": "2020-09-29 13:55:12.881225 +0700 +07 m=+337.541632641",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "282301",
+        "DistrictID": 3241,
+        "WardName": "Thị trấn Nga Sơn",
+        "NameExtension": [
+            "Thị trấn Nga Sơn",
+            "TT.Nga Sơn",
+            "TT Nga Sơn",
+            "Nga Sơn",
+            "Nga Son",
+            "Thi tran Nga Son",
+            "ngason"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412532 +0700 +07 m=+0.048869376",
+        "UpdatedAt": "2020-09-29 13:55:12.924728 +0700 +07 m=+337.585134754",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

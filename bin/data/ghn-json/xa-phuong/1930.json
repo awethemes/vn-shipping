@@ -1,0 +1,416 @@
+[
+    {
+        "WardCode": "800300",
+        "DistrictID": 1930,
+        "WardName": "Phường Nguyễn Nghiêm",
+        "NameExtension": [
+            "Phường Nguyễn Nghiêm",
+            "Nguyen Nghiem",
+            "Phuong Nguyen Nghiem",
+            "nguyennghiem"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.127804 +0700 +07 m=+26.794110456",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351115",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Vinh",
+        "NameExtension": [
+            "Xã Phổ Vinh",
+            "X.Phổ Vinh",
+            "X Phổ Vinh",
+            "Phổ Vinh",
+            "Pho Vinh",
+            "Xa Pho Vinh",
+            "phovinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408849 +0700 +07 m=+0.045186264",
+        "UpdatedAt": "2020-09-29 13:53:39.060973 +0700 +07 m=+243.723161651",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351114",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Văn",
+        "NameExtension": [
+            "Xã Phổ Văn",
+            "X.Phổ Văn",
+            "X Phổ Văn",
+            "Phổ Văn",
+            "Pho Van",
+            "Xa Pho Van",
+            "phovan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408842 +0700 +07 m=+0.045179354",
+        "UpdatedAt": "2020-09-29 13:53:39.1008 +0700 +07 m=+243.762987378",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351113",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Thuận",
+        "NameExtension": [
+            "Xã Phổ Thuận",
+            "X.Phổ Thuận",
+            "X Phổ Thuận",
+            "Phổ Thuận",
+            "Pho Thuan",
+            "Xa Pho Thuan",
+            "phothuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408841 +0700 +07 m=+0.045177942",
+        "UpdatedAt": "2020-09-29 13:53:39.145647 +0700 +07 m=+243.807834447",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351112",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Thạnh",
+        "NameExtension": [
+            "Xã Phổ Thạnh",
+            "X.Phổ Thạnh",
+            "X Phổ Thạnh",
+            "Phổ Thạnh",
+            "Pho Thanh",
+            "Xa Pho Thanh",
+            "phothanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408855 +0700 +07 m=+0.045192577",
+        "UpdatedAt": "2020-09-29 13:53:39.186493 +0700 +07 m=+243.848678998",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351111",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Quang",
+        "NameExtension": [
+            "Xã Phổ Quang",
+            "X.Phổ Quang",
+            "X Phổ Quang",
+            "Phổ Quang",
+            "Pho Quang",
+            "Xa Pho Quang",
+            "phoquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408843 +0700 +07 m=+0.045180705",
+        "UpdatedAt": "2020-09-29 13:53:39.22478 +0700 +07 m=+243.886965238",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351110",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Phong",
+        "NameExtension": [
+            "Xã Phổ Phong",
+            "X.Phổ Phong",
+            "X Phổ Phong",
+            "Phổ Phong",
+            "Pho Phong",
+            "Xa Pho Phong",
+            "phophong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408839 +0700 +07 m=+0.045176574",
+        "UpdatedAt": "2020-09-29 13:53:39.260723 +0700 +07 m=+243.922908015",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351109",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Ninh",
+        "NameExtension": [
+            "Xã Phổ Ninh",
+            "X.Phổ Ninh",
+            "X Phổ Ninh",
+            "Phổ Ninh",
+            "Pho Ninh",
+            "Xa Pho Ninh",
+            "phoninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408846 +0700 +07 m=+0.045183505",
+        "UpdatedAt": "2020-09-29 13:53:39.308121 +0700 +07 m=+243.970304682",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351108",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Nhơn",
+        "NameExtension": [
+            "Xã Phổ Nhơn",
+            "X.Phổ Nhơn",
+            "X Phổ Nhơn",
+            "Phổ Nhơn",
+            "Pho Nhon",
+            "Xa Pho Nhon",
+            "phonhon"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408845 +0700 +07 m=+0.045182103",
+        "UpdatedAt": "2020-09-29 13:53:39.344471 +0700 +07 m=+244.006653778",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351107",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Minh",
+        "NameExtension": [
+            "Xã Phổ Minh",
+            "X.Phổ Minh",
+            "X Phổ Minh",
+            "Phổ Minh",
+            "Pho Minh",
+            "Xa Pho Minh",
+            "phominh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408848 +0700 +07 m=+0.045184887",
+        "UpdatedAt": "2020-09-29 13:53:39.382524 +0700 +07 m=+244.044706759",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351106",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Khánh",
+        "NameExtension": [
+            "Xã Phổ Khánh",
+            "X.Phổ Khánh",
+            "X Phổ Khánh",
+            "Phổ Khánh",
+            "Pho Khanh",
+            "Xa Pho Khanh",
+            "phokhanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408854 +0700 +07 m=+0.045191234",
+        "UpdatedAt": "2020-09-29 13:53:39.421799 +0700 +07 m=+244.083980784",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351105",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Hòa",
+        "NameExtension": [
+            "Xã Phổ Hòa",
+            "X.Phổ Hòa",
+            "X Phổ Hòa",
+            "Phổ Hòa",
+            "Pho Hoa",
+            "Xa Pho Hoa",
+            "Xã Phổ Hoà",
+            "phohoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40885 +0700 +07 m=+0.045187646",
+        "UpdatedAt": "2020-09-29 13:53:39.469857 +0700 +07 m=+244.132037601",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351104",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Cường",
+        "NameExtension": [
+            "Xã Phổ Cường",
+            "X.Phổ Cường",
+            "X Phổ Cường",
+            "Phổ Cường",
+            "Pho Cuong",
+            "Xa Pho Cuong",
+            "phocuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408852 +0700 +07 m=+0.045189790",
+        "UpdatedAt": "2020-09-29 13:53:39.530614 +0700 +07 m=+244.192793538",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351103",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ Châu",
+        "NameExtension": [
+            "Xã Phổ Châu",
+            "X.Phổ Châu",
+            "X Phổ Châu",
+            "Phổ Châu",
+            "Pho Chau",
+            "Xa Pho Chau",
+            "phochau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408857 +0700 +07 m=+0.045193956",
+        "UpdatedAt": "2020-09-29 13:53:39.571244 +0700 +07 m=+244.233423284",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351102",
+        "DistrictID": 1930,
+        "WardName": "Xã Phổ An",
+        "NameExtension": [
+            "Xã Phổ An",
+            "X.Phổ An",
+            "X Phổ An",
+            "Phổ An",
+            "Pho An",
+            "Xa Pho An",
+            "phoan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408838 +0700 +07 m=+0.045175199",
+        "UpdatedAt": "2020-09-29 13:53:39.621371 +0700 +07 m=+244.283548887",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "351101",
+        "DistrictID": 1930,
+        "WardName": "Thị trấn Đức Phổ",
+        "NameExtension": [
+            "Thị trấn Đức Phổ",
+            "TT.Đức Phổ",
+            "TT Đức Phổ",
+            "Đức Phổ",
+            "Duc Pho",
+            "Thi tran Duc Pho",
+            "ducpho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408836 +0700 +07 m=+0.045173813",
+        "UpdatedAt": "2020-09-29 13:53:39.655237 +0700 +07 m=+244.317414361",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

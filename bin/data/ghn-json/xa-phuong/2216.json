@@ -1,0 +1,158 @@
+[
+    {
+        "WardCode": "531006",
+        "DistrictID": 2216,
+        "WardName": "Xã Tân Thới",
+        "NameExtension": [
+            "Xã Tân Thới",
+            "X.Tân Thới",
+            "X Tân Thới",
+            "Tân Thới",
+            "Tan Thoi",
+            "Xa Tan Thoi",
+            "tanthoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413337 +0700 +07 m=+0.049673954",
+        "UpdatedAt": "2020-09-29 13:51:30.880148 +0700 +07 m=+115.544769567",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "531005",
+        "DistrictID": 2216,
+        "WardName": "Xã Tân Thạnh",
+        "NameExtension": [
+            "Xã Tân Thạnh",
+            "X.Tân Thạnh",
+            "X Tân Thạnh",
+            "Tân Thạnh",
+            "Tan Thanh",
+            "Xa Tan Thanh",
+            "tanthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413341 +0700 +07 m=+0.049678146",
+        "UpdatedAt": "2020-09-29 13:51:30.913882 +0700 +07 m=+115.578502333",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "531004",
+        "DistrictID": 2216,
+        "WardName": "Xã Tân Phú",
+        "NameExtension": [
+            "Xã Tân Phú",
+            "X.Tân Phú",
+            "X Tân Phú",
+            "Tân Phú",
+            "Tan Phu",
+            "Xa Tan Phu",
+            "tanphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413338 +0700 +07 m=+0.049675376",
+        "UpdatedAt": "2020-09-29 13:51:30.947912 +0700 +07 m=+115.612532287",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "531003",
+        "DistrictID": 2216,
+        "WardName": "Xã Phú Thạnh",
+        "NameExtension": [
+            "Xã Phú Thạnh",
+            "X.Phú Thạnh",
+            "X Phú Thạnh",
+            "Phú Thạnh",
+            "Phu Thanh",
+            "Xa Phu Thanh",
+            "phuthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413339 +0700 +07 m=+0.049676762",
+        "UpdatedAt": "2020-09-29 13:51:30.985335 +0700 +07 m=+115.649954695",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "531002",
+        "DistrictID": 2216,
+        "WardName": "Xã Phú Tân",
+        "NameExtension": [
+            "Xã Phú Tân",
+            "X.Phú Tân",
+            "X Phú Tân",
+            "Phú Tân",
+            "Phu Tan",
+            "Xa Phu Tan",
+            "phutan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413344 +0700 +07 m=+0.049680877",
+        "UpdatedAt": "2020-09-29 13:51:31.021779 +0700 +07 m=+115.686397804",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "531001",
+        "DistrictID": 2216,
+        "WardName": "Xã Phú Đông",
+        "NameExtension": [
+            "Xã Phú Đông",
+            "X.Phú Đông",
+            "X Phú Đông",
+            "Phú Đông",
+            "Phu Dong",
+            "Xa Phu Dong",
+            "phudong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.413342 +0700 +07 m=+0.049679502",
+        "UpdatedAt": "2020-09-29 13:51:31.068208 +0700 +07 m=+115.732826142",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

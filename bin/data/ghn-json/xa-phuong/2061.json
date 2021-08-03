@@ -1,0 +1,700 @@
+[
+    {
+        "WardCode": "410327",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Xuân",
+        "NameExtension": [
+            "Xã Ninh Xuân",
+            "X.Ninh Xuân",
+            "X Ninh Xuân",
+            "Ninh Xuân",
+            "Ninh Xuan",
+            "Xa Ninh Xuan",
+            "ninhxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40204 +0700 +07 m=+0.038376962",
+        "UpdatedAt": "2020-09-29 13:52:52.101288 +0700 +07 m=+196.764367478",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410326",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Vân",
+        "NameExtension": [
+            "Xã Ninh Vân",
+            "X.Ninh Vân",
+            "X Ninh Vân",
+            "Ninh Vân",
+            "Ninh Van",
+            "Xa Ninh Van",
+            "ninhvan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402064 +0700 +07 m=+0.038401290",
+        "UpdatedAt": "2020-09-29 13:52:52.14597 +0700 +07 m=+196.809048672",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410325",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Trung",
+        "NameExtension": [
+            "Xã Ninh Trung",
+            "X.Ninh Trung",
+            "X Ninh Trung",
+            "Ninh Trung",
+            "Xa Ninh Trung",
+            "ninhtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402037 +0700 +07 m=+0.038374188",
+        "UpdatedAt": "2020-09-29 13:52:52.184866 +0700 +07 m=+196.847944831",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410324",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Thượng",
+        "NameExtension": [
+            "Xã Ninh Thượng",
+            "X.Ninh Thượng",
+            "X Ninh Thượng",
+            "Ninh Thượng",
+            "Ninh Thuong",
+            "Xa Ninh Thuong",
+            "ninhthuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402031 +0700 +07 m=+0.038368471",
+        "UpdatedAt": "2020-09-29 13:52:52.220747 +0700 +07 m=+196.883824443",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410323",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Thọ",
+        "NameExtension": [
+            "Xã Ninh Thọ",
+            "X.Ninh Thọ",
+            "X Ninh Thọ",
+            "Ninh Thọ",
+            "Ninh Tho",
+            "Xa Ninh Tho",
+            "ninhtho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402035 +0700 +07 m=+0.038372798",
+        "UpdatedAt": "2020-09-29 13:52:52.28329 +0700 +07 m=+196.946366012",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410322",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Thân",
+        "NameExtension": [
+            "Xã Ninh Thân",
+            "X.Ninh Thân",
+            "X Ninh Thân",
+            "Ninh Thân",
+            "Ninh Than",
+            "Xa Ninh Than",
+            "ninhthan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402041 +0700 +07 m=+0.038378349",
+        "UpdatedAt": "2020-09-29 13:52:52.321042 +0700 +07 m=+196.984118014",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410321",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Tây",
+        "NameExtension": [
+            "Xã Ninh Tây",
+            "X.Ninh Tây",
+            "X Ninh Tây",
+            "Ninh Tây",
+            "Ninh Tay",
+            "Xa Ninh Tay",
+            "ninhtay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40203 +0700 +07 m=+0.038367077",
+        "UpdatedAt": "2020-09-29 13:52:52.37887 +0700 +07 m=+197.041944603",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410320",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Tân",
+        "NameExtension": [
+            "Xã Ninh Tân",
+            "X.Ninh Tân",
+            "X Ninh Tân",
+            "Ninh Tân",
+            "Ninh Tan",
+            "Xa Ninh Tan",
+            "ninhtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402054 +0700 +07 m=+0.038391412",
+        "UpdatedAt": "2020-09-29 13:52:52.416773 +0700 +07 m=+197.079847127",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410319",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Sơn",
+        "NameExtension": [
+            "Xã Ninh Sơn",
+            "X.Ninh Sơn",
+            "X Ninh Sơn",
+            "Ninh Sơn",
+            "Ninh Son",
+            "Xa Ninh Son",
+            "ninhson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402028 +0700 +07 m=+0.038365725",
+        "UpdatedAt": "2020-09-29 13:52:52.465699 +0700 +07 m=+197.128772367",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410318",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Sim",
+        "NameExtension": [
+            "Xã Ninh Sim",
+            "X.Ninh Sim",
+            "X Ninh Sim",
+            "Ninh Sim",
+            "Xa Ninh Sim",
+            "ninhsim"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402038 +0700 +07 m=+0.038375571",
+        "UpdatedAt": "2020-09-29 13:52:52.515731 +0700 +07 m=+197.178802501",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410317",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Quang",
+        "NameExtension": [
+            "Xã Ninh Quang",
+            "X.Ninh Quang",
+            "X Ninh Quang",
+            "Ninh Quang",
+            "Xa Ninh Quang",
+            "ninhquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402055 +0700 +07 m=+0.038392784",
+        "UpdatedAt": "2020-09-29 13:52:52.5664 +0700 +07 m=+197.229470785",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410316",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Phước",
+        "NameExtension": [
+            "Xã Ninh Phước",
+            "X.Ninh Phước",
+            "X Ninh Phước",
+            "Ninh Phước",
+            "Ninh Phuoc",
+            "Xa Ninh Phuoc",
+            "ninhphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402051 +0700 +07 m=+0.038388672",
+        "UpdatedAt": "2020-09-29 13:52:52.612965 +0700 +07 m=+197.276035063",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410315",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Phụng",
+        "NameExtension": [
+            "Xã Ninh Phụng",
+            "X.Ninh Phụng",
+            "X Ninh Phụng",
+            "Ninh Phụng",
+            "Ninh Phung",
+            "Xa Ninh Phung",
+            "ninhphung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402049 +0700 +07 m=+0.038385900",
+        "UpdatedAt": "2020-09-29 13:52:52.657194 +0700 +07 m=+197.320263232",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410314",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Phú",
+        "NameExtension": [
+            "Xã Ninh Phú",
+            "X.Ninh Phú",
+            "X Ninh Phú",
+            "Ninh Phú",
+            "Ninh Phu",
+            "Xa Ninh Phu",
+            "ninhphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402053 +0700 +07 m=+0.038390053",
+        "UpdatedAt": "2020-09-29 13:52:52.702328 +0700 +07 m=+197.365396093",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410313",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Lộc",
+        "NameExtension": [
+            "Xã Ninh Lộc",
+            "X.Ninh Lộc",
+            "X Ninh Lộc",
+            "Ninh Lộc",
+            "Ninh Loc",
+            "Xa Ninh Loc",
+            "ninhloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402061 +0700 +07 m=+0.038398573",
+        "UpdatedAt": "2020-09-29 13:52:52.808818 +0700 +07 m=+197.471884304",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410312",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Ích",
+        "NameExtension": [
+            "Xã Ninh Ích",
+            "X.Ninh Ích",
+            "X Ninh Ích",
+            "Ninh Ích",
+            "Ninh Ich",
+            "Xa Ninh Ich",
+            "ninhich"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402063 +0700 +07 m=+0.038399929",
+        "UpdatedAt": "2020-09-29 13:52:52.846774 +0700 +07 m=+197.509839994",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410311",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Hưng",
+        "NameExtension": [
+            "Xã Ninh Hưng",
+            "X.Ninh Hưng",
+            "X Ninh Hưng",
+            "Ninh Hưng",
+            "Ninh Hung",
+            "Xa Ninh Hung",
+            "ninhhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40206 +0700 +07 m=+0.038397129",
+        "UpdatedAt": "2020-09-29 13:52:52.887746 +0700 +07 m=+197.550810754",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410310",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Đông",
+        "NameExtension": [
+            "Xã Ninh Đông",
+            "X.Ninh Đông",
+            "X Ninh Đông",
+            "Ninh Đông",
+            "Ninh Dong",
+            "Xa Ninh Dong",
+            "Xã Ninh Đồng",
+            "ninhdong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402044 +0700 +07 m=+0.038381580",
+        "UpdatedAt": "2020-09-29 13:52:52.922199 +0700 +07 m=+197.585263195",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410309",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh Bình",
+        "NameExtension": [
+            "Xã Ninh Bình",
+            "X.Ninh Bình",
+            "X Ninh Bình",
+            "Ninh Bình",
+            "Ninh Binh",
+            "Xa Ninh Binh",
+            "ninhbinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40205 +0700 +07 m=+0.038387268",
+        "UpdatedAt": "2020-09-29 13:52:52.965676 +0700 +07 m=+197.628739514",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410308",
+        "DistrictID": 2061,
+        "WardName": "Xã Ninh An",
+        "NameExtension": [
+            "Xã Ninh An",
+            "X.Ninh An",
+            "X Ninh An",
+            "Ninh An",
+            "Xa Ninh An",
+            "ninhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402033 +0700 +07 m=+0.038369896",
+        "UpdatedAt": "2020-09-29 13:52:53.001491 +0700 +07 m=+197.664553350",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410307",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Thủy",
+        "NameExtension": [
+            "Phường Ninh Thủy",
+            "P.Ninh Thủy",
+            "P Ninh Thủy",
+            "Ninh Thủy",
+            "Ninh Thuy",
+            "Phuong Ninh Thuy",
+            "ninhthuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402046 +0700 +07 m=+0.038383051",
+        "UpdatedAt": "2020-09-29 13:52:53.039778 +0700 +07 m=+197.702839847",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410306",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Hiệp",
+        "NameExtension": [
+            "Phường Ninh Hiệp",
+            "P.Ninh Hiệp",
+            "P Ninh Hiệp",
+            "Ninh Hiệp",
+            "Ninh Hiep",
+            "Phuong Ninh Hiep",
+            "ninhhiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402027 +0700 +07 m=+0.038364331",
+        "UpdatedAt": "2020-09-29 13:52:53.096301 +0700 +07 m=+197.759361988",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410305",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Hải",
+        "NameExtension": [
+            "Phường Ninh Hải",
+            "P.Ninh Hải",
+            "P Ninh Hải",
+            "Ninh Hải",
+            "Ninh Hai",
+            "Phuong Ninh Hai",
+            "ninhhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402034 +0700 +07 m=+0.038371360",
+        "UpdatedAt": "2020-09-29 13:52:53.133706 +0700 +07 m=+197.796765907",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410304",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Hà",
+        "NameExtension": [
+            "Phường Ninh Hà",
+            "P.Ninh Hà",
+            "P Ninh Hà",
+            "Ninh Hà",
+            "Ninh Ha",
+            "Phuong Ninh Ha",
+            "ninhha"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402058 +0700 +07 m=+0.038395752",
+        "UpdatedAt": "2020-09-29 13:52:53.183551 +0700 +07 m=+197.846610032",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410303",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Giang",
+        "NameExtension": [
+            "Phường Ninh Giang",
+            "P.Ninh Giang",
+            "P Ninh Giang",
+            "Ninh Giang",
+            "Phuong Ninh Giang",
+            "ninhgiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402057 +0700 +07 m=+0.038394242",
+        "UpdatedAt": "2020-09-29 13:52:53.225865 +0700 +07 m=+197.888923749",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410302",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Diêm",
+        "NameExtension": [
+            "Phường Ninh Diêm",
+            "P.Ninh Diêm",
+            "P Ninh Diêm",
+            "Ninh Diêm",
+            "Ninh Diem",
+            "Phuong Ninh Diem",
+            "ninhdiem"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402043 +0700 +07 m=+0.038380227",
+        "UpdatedAt": "2020-09-29 13:52:53.26032 +0700 +07 m=+197.923378226",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410301",
+        "DistrictID": 2061,
+        "WardName": "Phường Ninh Đa",
+        "NameExtension": [
+            "Phường Ninh Đa",
+            "P.Ninh Đa",
+            "P Ninh Đa",
+            "Ninh Đa",
+            "Ninh Da",
+            "Phuong Ninh Da",
+            "ninhda"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402047 +0700 +07 m=+0.038384512",
+        "UpdatedAt": "2020-09-29 13:52:53.309251 +0700 +07 m=+197.972308142",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

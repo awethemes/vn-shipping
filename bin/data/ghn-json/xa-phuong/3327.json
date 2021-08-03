@@ -1,0 +1,446 @@
+[
+    {
+        "WardCode": "270617",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Từ",
+        "NameExtension": [
+            "Xã Yên Từ",
+            "X.Yên Từ",
+            "X Yên Từ",
+            "Yên Từ",
+            "Yen Tu",
+            "Xa Yen Tu",
+            "yentu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406543 +0700 +07 m=+0.042880106",
+        "UpdatedAt": "2020-09-29 13:55:49.908743 +0700 +07 m=+374.568447984",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270616",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Thành",
+        "NameExtension": [
+            "Xã Yên Thành",
+            "X.Yên Thành",
+            "X Yên Thành",
+            "Yên Thành",
+            "Yen Thanh",
+            "Xa Yen Thanh",
+            "yenthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406546 +0700 +07 m=+0.042882921",
+        "UpdatedAt": "2020-09-29 13:55:49.943564 +0700 +07 m=+374.603268208",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270615",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Thắng",
+        "NameExtension": [
+            "Xã Yên Thắng",
+            "X.Yên Thắng",
+            "X Yên Thắng",
+            "Yên Thắng",
+            "Yen Thang",
+            "Xa Yen Thang",
+            "yenthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406541 +0700 +07 m=+0.042878719",
+        "UpdatedAt": "2020-09-29 13:55:49.990348 +0700 +07 m=+374.650051760",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270614",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Thái",
+        "NameExtension": [
+            "Xã Yên Thái",
+            "X.Yên Thái",
+            "X Yên Thái",
+            "Yên Thái",
+            "Yen Thai",
+            "Xa Yen Thai",
+            "yenthai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406553 +0700 +07 m=+0.042890422",
+        "UpdatedAt": "2020-09-29 13:55:50.024323 +0700 +07 m=+374.684025926",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270613",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Phong",
+        "NameExtension": [
+            "Xã Yên Phong",
+            "X.Yên Phong",
+            "X Yên Phong",
+            "Yên Phong",
+            "Yen Phong",
+            "Xa Yen Phong",
+            "yenphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406539 +0700 +07 m=+0.042875873",
+        "UpdatedAt": "2020-09-29 13:55:50.059226 +0700 +07 m=+374.718928570",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270612",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Nhân",
+        "NameExtension": [
+            "Xã Yên Nhân",
+            "X.Yên Nhân",
+            "X Yên Nhân",
+            "Yên Nhân",
+            "Yen Nhan",
+            "Xa Yen Nhan",
+            "yennhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406547 +0700 +07 m=+0.042884337",
+        "UpdatedAt": "2020-09-29 13:55:50.098241 +0700 +07 m=+374.757942330",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270611",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Mỹ",
+        "NameExtension": [
+            "Xã Yên Mỹ",
+            "X.Yên Mỹ",
+            "X Yên Mỹ",
+            "Yên Mỹ",
+            "Yen My",
+            "Xa Yen My",
+            "yenmy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406548 +0700 +07 m=+0.042885750",
+        "UpdatedAt": "2020-09-29 13:55:50.130924 +0700 +07 m=+374.790625215",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270610",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Mạc",
+        "NameExtension": [
+            "Xã Yên Mạc",
+            "X.Yên Mạc",
+            "X Yên Mạc",
+            "Yên Mạc",
+            "Yen Mac",
+            "Xa Yen Mac",
+            "yenmac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40655 +0700 +07 m=+0.042887462",
+        "UpdatedAt": "2020-09-29 13:55:50.227944 +0700 +07 m=+374.887642836",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270609",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Lâm",
+        "NameExtension": [
+            "Xã Yên Lâm",
+            "X.Yên Lâm",
+            "X Yên Lâm",
+            "Yên Lâm",
+            "Yen Lam",
+            "Xa Yen Lam",
+            "yenlam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406555 +0700 +07 m=+0.042891887",
+        "UpdatedAt": "2020-09-29 13:55:50.276773 +0700 +07 m=+374.936470663",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270608",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Hưng",
+        "NameExtension": [
+            "Xã Yên Hưng",
+            "X.Yên Hưng",
+            "X Yên Hưng",
+            "Yên Hưng",
+            "Yen Hung",
+            "Xa Yen Hung",
+            "yenhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406544 +0700 +07 m=+0.042881521",
+        "UpdatedAt": "2020-09-29 13:55:50.315617 +0700 +07 m=+374.975314454",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270607",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Hòa",
+        "NameExtension": [
+            "Xã Yên Hòa",
+            "X.Yên Hòa",
+            "X Yên Hòa",
+            "Yên Hòa",
+            "Yen Hoa",
+            "Xa Yen Hoa",
+            "Xã Yên Hoà",
+            "yenhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40654 +0700 +07 m=+0.042877340",
+        "UpdatedAt": "2020-09-29 13:55:50.352431 +0700 +07 m=+375.012127584",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270606",
+        "DistrictID": 3327,
+        "WardName": "Xã Yên Đồng",
+        "NameExtension": [
+            "Xã Yên Đồng",
+            "X.Yên Đồng",
+            "X Yên Đồng",
+            "Yên Đồng",
+            "Yen Dong",
+            "Xa Yen Dong",
+            "Xã Yên Đông",
+            "yendong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406552 +0700 +07 m=+0.042888840",
+        "UpdatedAt": "2020-09-29 13:55:50.390767 +0700 +07 m=+375.050462902",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270605",
+        "DistrictID": 3327,
+        "WardName": "Xã Mai Sơn",
+        "NameExtension": [
+            "Xã Mai Sơn",
+            "X.Mai Sơn",
+            "X Mai Sơn",
+            "Mai Sơn",
+            "Mai Son",
+            "Xa Mai Son",
+            "maison"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406536 +0700 +07 m=+0.042873100",
+        "UpdatedAt": "2020-09-29 13:55:50.436164 +0700 +07 m=+375.095858842",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270604",
+        "DistrictID": 3327,
+        "WardName": "Xã Khánh Thượng",
+        "NameExtension": [
+            "Xã Khánh Thượng",
+            "X.Khánh Thượng",
+            "X Khánh Thượng",
+            "Khánh Thượng",
+            "Khanh Thuong",
+            "Xa Khanh Thuong",
+            "khanhthuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406533 +0700 +07 m=+0.042870214",
+        "UpdatedAt": "2020-09-29 13:55:50.473146 +0700 +07 m=+375.132839760",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270603",
+        "DistrictID": 3327,
+        "WardName": "Xã Khánh Thịnh",
+        "NameExtension": [
+            "Xã Khánh Thịnh",
+            "X.Khánh Thịnh",
+            "X Khánh Thịnh",
+            "Khánh Thịnh",
+            "Khanh Thinh",
+            "Xa Khanh Thinh",
+            "khanhthinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406537 +0700 +07 m=+0.042874501",
+        "UpdatedAt": "2020-09-29 13:55:50.506643 +0700 +07 m=+375.166336725",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270602",
+        "DistrictID": 3327,
+        "WardName": "Xã Khánh Dương",
+        "NameExtension": [
+            "Xã Khánh Dương",
+            "X.Khánh Dương",
+            "X Khánh Dương",
+            "Khánh Dương",
+            "Khanh Duong",
+            "Xa Khanh Duong",
+            "khanhduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406534 +0700 +07 m=+0.042871681",
+        "UpdatedAt": "2020-09-29 13:55:50.539465 +0700 +07 m=+375.199158406",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "270601",
+        "DistrictID": 3327,
+        "WardName": "Thị trấn Yên Thịnh",
+        "NameExtension": [
+            "Thị trấn Yên Thịnh",
+            "TT.Yên Thịnh",
+            "TT Yên Thịnh",
+            "Yên Thịnh",
+            "Yen Thinh",
+            "Thi tran Yen Thinh",
+            "yenthinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.406532 +0700 +07 m=+0.042868819",
+        "UpdatedAt": "2020-09-29 13:55:50.575054 +0700 +07 m=+375.234746909",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

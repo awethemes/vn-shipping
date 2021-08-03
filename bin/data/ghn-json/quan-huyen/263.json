@@ -1,0 +1,255 @@
+[
+    {
+        "DistrictID": 2266,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Yên Bình",
+        "Code": "1304",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Bình",
+            "H.Yên Bình",
+            "H Yên Bình",
+            "Yên Bình",
+            "Yen Binh",
+            "Huyen Yen Binh",
+            "yenbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432144 +0700 +07 m=+0.016089777",
+        "UpdatedAt": "2020-09-29 13:42:47.089355 +0700 +07 m=+19.591687937",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2248,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Trạm Tấu",
+        "Code": "1308",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trạm Tấu",
+            "H.Trạm Tấu",
+            "H Trạm Tấu",
+            "Trạm Tấu",
+            "Tram Tau",
+            "Huyen Tram Tau",
+            "tramtau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432131 +0700 +07 m=+0.016076936",
+        "UpdatedAt": "2020-09-29 13:42:47.594664 +0700 +07 m=+20.096986580",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2063,
+        "ProvinceID": 263,
+        "DistrictName": "Thị xã Nghĩa Lộ",
+        "Code": "1302",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Nghĩa Lộ",
+            "TX.Nghĩa Lộ",
+            "TX Nghĩa Lộ",
+            "Nghĩa Lộ",
+            "Nghia Lo",
+            "Thi xa Nghia Lo",
+            "nghialo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43283 +0700 +07 m=+0.016776036",
+        "UpdatedAt": "2020-09-29 13:42:51.924199 +0700 +07 m=+24.426439875",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2047,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Văn Yên",
+        "Code": "1303",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Văn Yên",
+            "H.Văn Yên",
+            "H Văn Yên",
+            "Văn Yên",
+            "Van Yen",
+            "Huyen Van Yen",
+            "vanyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432804 +0700 +07 m=+0.016750265",
+        "UpdatedAt": "2020-09-29 13:42:52.828663 +0700 +07 m=+25.330886418",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2044,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Văn Chấn",
+        "Code": "1306",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Văn Chấn",
+            "H.Văn Chấn",
+            "H Văn Chấn",
+            "Văn Chấn",
+            "Van Chan",
+            "Huyen Van Chan",
+            "vanchan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432796 +0700 +07 m=+0.016742344",
+        "UpdatedAt": "2020-09-29 13:42:52.930614 +0700 +07 m=+25.432835629",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2039,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Trấn Yên",
+        "Code": "1307",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Trấn Yên",
+            "H.Trấn Yên",
+            "H Trấn Yên",
+            "Trấn Yên",
+            "Tran Yen",
+            "Huyen Tran Yen",
+            "tranyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432789 +0700 +07 m=+0.016735235",
+        "UpdatedAt": "2020-09-29 13:42:53.097241 +0700 +07 m=+25.599459161",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1977,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Mù Cang Chải",
+        "Code": "1305",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mù Cang Chải",
+            "Huyện Mù Căng Chải",
+            "H.Mù Cang Chải",
+            "H Mù Cang Chải",
+            "Mù Cang Chải",
+            "Mu Cang Chai",
+            "Huyen Mu Cang Chai",
+            "mucangchai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432548 +0700 +07 m=+0.016493820",
+        "UpdatedAt": "2020-09-29 13:42:56.120342 +0700 +07 m=+28.622503261",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1967,
+        "ProvinceID": 263,
+        "DistrictName": "Huyện Lục Yên",
+        "Code": "1309",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lục Yên",
+            "H.Lục Yên",
+            "H Lục Yên",
+            "Lục Yên",
+            "Luc Yen",
+            "Huyen Luc Yen",
+            "lucyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432531 +0700 +07 m=+0.016477232",
+        "UpdatedAt": "2020-09-29 13:42:56.437574 +0700 +07 m=+28.939729034",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1674,
+        "ProvinceID": 263,
+        "DistrictName": "Thành phố Yên Bái",
+        "Code": "1301",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Yên Bái",
+            "TP.Yên Bái",
+            "TP Yên Bái",
+            "Yên Bái",
+            "Yen Bai",
+            "Thanh pho Yen Bai",
+            "yenbai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431704 +0700 +07 m=+0.015649804",
+        "UpdatedAt": "2020-09-29 13:43:09.441429 +0700 +07 m=+41.943336770",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "DistrictID": 3200,
+        "ProvinceID": 216,
+        "DistrictName": "Thành phố Hồng Ngự",
+        "Code": "5004",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hồng Ngự",
+            "H.Hồng Ngự",
+            "H Hồng Ngự",
+            "Hồng Ngự",
+            "Hong Ngu",
+            "Huyen Hong Ngu",
+            "hongngu",
+            "Thành phố Hồng Ngự",
+            "TP Hồng Ngự",
+            "TP Hong Ngu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432042 +0700 +07 m=+0.015988298",
+        "UpdatedAt": "2020-09-29 13:42:45.246171 +0700 +07 m=+17.748539011",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:51:06.11Z"
+    },
+    {
+        "DistrictID": 3155,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5011",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432037 +0700 +07 m=+0.015982517",
+        "UpdatedAt": "2020-09-29 13:42:45.913284 +0700 +07 m=+18.415638494",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2059,
+        "ProvinceID": 216,
+        "DistrictName": "Thị xã Hồng Ngự",
+        "Code": "5012",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Hồng Ngự",
+            "TX.Hồng Ngự",
+            "TX Hồng Ngự",
+            "Hồng Ngự",
+            "Hong Ngu",
+            "Thi xa Hong Ngu",
+            "hongngu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432824 +0700 +07 m=+0.016770172",
+        "UpdatedAt": "2020-09-29 13:42:52.225632 +0700 +07 m=+24.727866832",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2030,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Tháp Mười",
+        "Code": "5009",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tháp Mười",
+            "H.Tháp Mười",
+            "H Tháp Mười",
+            "Tháp Mười",
+            "Thap Muoi",
+            "Huyen Thap Muoi",
+            "thapmuoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432776 +0700 +07 m=+0.016721921",
+        "UpdatedAt": "2020-09-29 13:42:53.472533 +0700 +07 m=+25.974743988",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2026,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Thanh Bình",
+        "Code": "5006",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Bình",
+            "H.Thanh Bình",
+            "H Thanh Bình",
+            "Thanh Bình",
+            "Thanh Binh",
+            "Huyen Thanh Binh",
+            "thanhbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432767 +0700 +07 m=+0.016713316",
+        "UpdatedAt": "2020-09-29 13:42:53.803243 +0700 +07 m=+26.305448433",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2013,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Tân Hồng",
+        "Code": "5003",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Hồng",
+            "H.Tân Hồng",
+            "H Tân Hồng",
+            "Tân Hồng",
+            "Tan Hong",
+            "Huyen Tan Hong",
+            "tanhong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432743 +0700 +07 m=+0.016688451",
+        "UpdatedAt": "2020-09-29 13:42:54.345451 +0700 +07 m=+26.847646155",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2011,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Tam Nông",
+        "Code": "5005",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Nông",
+            "H.Tam Nông",
+            "H Tam Nông",
+            "Tam Nông",
+            "Tam Nong",
+            "Huyen Tam Nong",
+            "tamnong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43274 +0700 +07 m=+0.016685593",
+        "UpdatedAt": "2020-09-29 13:42:54.419615 +0700 +07 m=+26.921808650",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1961,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Lấp Vò",
+        "Code": "5008",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lấp Vò",
+            "H.Lấp Vò",
+            "H Lấp Vò",
+            "Lấp Vò",
+            "Lap Vo",
+            "Huyen Lap Vo",
+            "lapvo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432521 +0700 +07 m=+0.016466515",
+        "UpdatedAt": "2020-09-29 13:42:56.780623 +0700 +07 m=+29.282771559",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1725,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Lai Vung",
+        "Code": "5010",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lai Vung",
+            "H.Lai Vung",
+            "H Lai Vung",
+            "Lai Vung",
+            "Huyen Lai Vung",
+            "laivung"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43176 +0700 +07 m=+0.015706330",
+        "UpdatedAt": "2020-09-29 13:43:07.516951 +0700 +07 m=+40.018896050",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1724,
+        "ProvinceID": 216,
+        "DistrictName": "Huyện Cao Lãnh",
+        "Code": "5007",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cao Lãnh",
+            "H.Cao Lãnh",
+            "H Cao Lãnh",
+            "Cao Lãnh",
+            "Cao Lanh",
+            "Huyen Cao Lanh",
+            "caolanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431759 +0700 +07 m=+0.015704831",
+        "UpdatedAt": "2020-09-29 13:43:07.550604 +0700 +07 m=+40.052547665",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1668,
+        "ProvinceID": 216,
+        "DistrictName": "Thành phố Sa Đéc",
+        "Code": "5002",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Sa Đéc",
+            "TP.Sa Đéc",
+            "TP Sa Đéc",
+            "Sa Đéc",
+            "Sa Dec",
+            "Thanh pho Sa Dec",
+            "sadec"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432201 +0700 +07 m=+0.016146829",
+        "UpdatedAt": "2020-09-29 13:43:09.476549 +0700 +07 m=+41.978456702",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1564,
+        "ProvinceID": 216,
+        "DistrictName": "Thành phố Cao Lãnh",
+        "Code": "5001",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Cao Lãnh",
+            "TP.Cao Lãnh",
+            "TP Cao Lãnh",
+            "Cao Lãnh",
+            "Cao Lanh",
+            "Thanh pho Cao Lanh",
+            "caolanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431573 +0700 +07 m=+0.015519222",
+        "UpdatedAt": "2020-09-29 13:43:11.754109 +0700 +07 m=+44.255973772",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

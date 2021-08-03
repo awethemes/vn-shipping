@@ -1,0 +1,235 @@
+[
+    {
+        "DistrictID": 3445,
+        "ProvinceID": 250,
+        "DistrictName": "Huyện Long Mỹ",
+        "Code": "6403",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Long Mỹ",
+            "H.Long Mỹ",
+            "H Long Mỹ",
+            "Long Mỹ",
+            "Long My",
+            "Huyen Long My",
+            "longmy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43285 +0700 +07 m=+0.016796247",
+        "UpdatedAt": "2020-09-29 13:42:41.342876 +0700 +07 m=+13.845317283",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3218,
+        "ProvinceID": 250,
+        "DistrictName": "Thị xã Long Mỹ",
+        "Code": "6408",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Long Mỹ",
+            "TX.Long Mỹ",
+            "TX Long Mỹ",
+            "Long Mỹ",
+            "Long My",
+            "Thi xa Long My",
+            "longmy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43216 +0700 +07 m=+0.016105922",
+        "UpdatedAt": "2020-09-29 13:42:44.732129 +0700 +07 m=+17.234505968",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2096,
+        "ProvinceID": 250,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "6405",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432867 +0700 +07 m=+0.016812683",
+        "UpdatedAt": "2020-09-29 13:42:51.152676 +0700 +07 m=+23.654931609",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2048,
+        "ProvinceID": 250,
+        "DistrictName": "Huyện Vị Thuỷ",
+        "Code": "6402",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vị Thuỷ",
+            "Huyện Vị Thủy",
+            "H.Vị Thuỷ",
+            "H Vị Thuỷ",
+            "Vị Thủy",
+            "Vị Thuỷ",
+            "Vi Thuy",
+            "Huyen Vi Thuy",
+            "vithuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432806 +0700 +07 m=+0.016751744",
+        "UpdatedAt": "2020-09-29 13:42:52.774211 +0700 +07 m=+25.276435425",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1912,
+        "ProvinceID": 250,
+        "DistrictName": "Huyện Châu Thành A",
+        "Code": "6406",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành A",
+            "H.Châu Thành A",
+            "H Châu Thành A",
+            "Châu Thành A",
+            "Chau Thanh A",
+            "Huyen Chau Thanh A",
+            "chauthanha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432371 +0700 +07 m=+0.016316839",
+        "UpdatedAt": "2020-09-29 13:42:59.064941 +0700 +07 m=+31.567046012",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1824,
+        "ProvinceID": 250,
+        "DistrictName": "Huyện Phụng Hiệp",
+        "Code": "6404",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phụng Hiệp",
+            "H.Phụng Hiệp",
+            "H Phụng Hiệp",
+            "Phụng Hiệp",
+            "Phung Hiep",
+            "Huyen Phung Hiep",
+            "phunghiep"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432351 +0700 +07 m=+0.016296406",
+        "UpdatedAt": "2020-09-29 13:43:03.050744 +0700 +07 m=+35.552773015",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1823,
+        "ProvinceID": 250,
+        "DistrictName": "Thành phố Ngã Bảy",
+        "Code": "6407",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Ngã Bảy",
+            "TX.Ngã Bảy",
+            "TX Ngã Bảy",
+            "Ngã Bảy",
+            "Nga Bay",
+            "Thi xa Nga Bay",
+            "ngabay",
+            "Thành phố Ngã Bảy",
+            "TP Ngã Bảy",
+            "TP Nga Bay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432349 +0700 +07 m=+0.016294900",
+        "UpdatedAt": "2020-09-29 13:43:03.101082 +0700 +07 m=+35.603110372",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:54:23.763Z"
+    },
+    {
+        "DistrictID": 1653,
+        "ProvinceID": 250,
+        "DistrictName": "Thành phố Vị Thanh",
+        "Code": "6401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Vị Thanh",
+            "TP.Vị Thanh",
+            "TP Vị Thanh",
+            "Vị Thanh",
+            "Vi Thanh",
+            "Thanh pho Vi Thanh",
+            "vithanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432195 +0700 +07 m=+0.016141083",
+        "UpdatedAt": "2020-09-29 13:43:09.842575 +0700 +07 m=+42.344475669",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

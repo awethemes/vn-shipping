@@ -1,0 +1,437 @@
+[
+    {
+        "DistrictID": 3125,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện An Minh",
+        "Code": "5410",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện An Minh",
+            "H.An Minh",
+            "H An Minh",
+            "An Minh",
+            "Huyen An Minh",
+            "anminh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432162 +0700 +07 m=+0.016107449",
+        "UpdatedAt": "2020-09-29 13:42:46.871993 +0700 +07 m=+19.374329932",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2260,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Vĩnh Thuận",
+        "Code": "5411",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vĩnh Thuận",
+            "H.Vĩnh Thuận",
+            "H Vĩnh Thuận",
+            "Vĩnh Thuận",
+            "Vinh Thuan",
+            "Huyen Vinh Thuan",
+            "vinhthuan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43214 +0700 +07 m=+0.016085540",
+        "UpdatedAt": "2020-09-29 13:42:47.287107 +0700 +07 m=+19.789436216",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2251,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện U Minh Thượng",
+        "Code": "5414",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện U Minh Thượng",
+            "H.U Minh Thượng",
+            "H U Minh Thượng",
+            "U Minh Thượng",
+            "U Minh Thuong",
+            "Huyen U Minh Thuong",
+            "uminhthuong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432134 +0700 +07 m=+0.016079902",
+        "UpdatedAt": "2020-09-29 13:42:47.470829 +0700 +07 m=+19.973154486",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2134,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Giang Thành",
+        "Code": "5415",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Giang Thành",
+            "Huyên Giang Thành",
+            "H.Giang Thành",
+            "H Giang Thành",
+            "Giang Thành",
+            "Giang Thanh",
+            "Huyen Giang Thanh",
+            "giangthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432006 +0700 +07 m=+0.015951639",
+        "UpdatedAt": "2020-09-29 13:42:49.924192 +0700 +07 m=+22.426471027",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2132,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Gò Quao",
+        "Code": "5408",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Gò Quao",
+            "H.Gò Quao",
+            "H Gò Quao",
+            "Gò Quao",
+            "Go Quao",
+            "Huyen Go Quao",
+            "goquao"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432003 +0700 +07 m=+0.015948771",
+        "UpdatedAt": "2020-09-29 13:42:49.959692 +0700 +07 m=+22.461970112",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2115,
+        "ProvinceID": 219,
+        "DistrictName": "Thành phố Phú Quốc",
+        "Code": "5412",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện đảo Phú Quốc",
+            "Huyện Phú Quốc",
+            "Phú Quốc",
+            "Phu Quoc",
+            "Huyen dao Phu Quoc",
+            "Huyen Phu Quoc",
+            "phuquoc",
+            "Thành phố Phú Quốc",
+            "TP Phú Quốc",
+            "TP Phu Quoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432891 +0700 +07 m=+0.016836408",
+        "UpdatedAt": "2020-09-29 13:42:50.573375 +0700 +07 m=+23.075641645",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:57:10.468Z"
+    },
+    {
+        "DistrictID": 2113,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện đảo Kiên Hải",
+        "Code": "5413",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện đảo Kiên Hải",
+            "Huyện Kiên Hải",
+            "Kiên Hải",
+            "Kien Hai",
+            "Huyen Kien Hai",
+            "Huyen dao Kien Hai",
+            "kienhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432888 +0700 +07 m=+0.016833801",
+        "UpdatedAt": "2020-09-29 13:42:50.671111 +0700 +07 m=+23.173375637",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2058,
+        "ProvinceID": 219,
+        "DistrictName": "Thành phố Hà Tiên",
+        "Code": "5402",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Hà Tiên",
+            "TX.Hà Tiên",
+            "TX Hà Tiên",
+            "Hà Tiên",
+            "Ha Tien",
+            "Thi xa Ha Tien",
+            "Thành Phố Hà Tiên",
+            "hatien",
+            "Thành phố Hà Tiên",
+            "TP Hà Tiên",
+            "TP Ha Tien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432823 +0700 +07 m=+0.016768691",
+        "UpdatedAt": "2020-09-29 13:42:52.273161 +0700 +07 m=+24.775395395",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:55:51.746Z"
+    },
+    {
+        "DistrictID": 1950,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Kiên Lương",
+        "Code": "5403",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kiên Lương",
+            "H.Kiên Lương",
+            "H Kiên Lương",
+            "Kiên Lương",
+            "Kien Luong",
+            "Huyen Kien Luong",
+            "kienluong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432495 +0700 +07 m=+0.016440576",
+        "UpdatedAt": "2020-09-29 13:42:57.196696 +0700 +07 m=+29.698836430",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1833,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện An Biên",
+        "Code": "5409",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện An Biên",
+            "H.An Biên",
+            "H An Biên",
+            "An Biên",
+            "An Bien",
+            "Huyen An Bien",
+            "anbien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431831 +0700 +07 m=+0.015776479",
+        "UpdatedAt": "2020-09-29 13:43:02.64474 +0700 +07 m=+35.146777193",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1832,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Giồng Riềng",
+        "Code": "5407",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Giồng Riềng",
+            "H.Giồng Riềng",
+            "H Giồng Riềng",
+            "Giồng Riềng",
+            "Giong Rieng",
+            "Huyen Giong Rieng",
+            "giongrieng"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431829 +0700 +07 m=+0.015774991",
+        "UpdatedAt": "2020-09-29 13:43:02.678667 +0700 +07 m=+35.180703310",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1831,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Tân Hiệp",
+        "Code": "5405",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Hiệp",
+            "H.Tân Hiệp",
+            "H Tân Hiệp",
+            "Tân Hiệp",
+            "Tan Hiep",
+            "Huyen Tan Hiep",
+            "tanhiep"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431828 +0700 +07 m=+0.015773540",
+        "UpdatedAt": "2020-09-29 13:43:02.714693 +0700 +07 m=+35.216729149",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1830,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Hòn Đất",
+        "Code": "5404",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hòn Đất",
+            "H.Hòn Đất",
+            "H Hòn Đất",
+            "Hòn Đất",
+            "Hon Dat",
+            "Huyen Hon Dat",
+            "hondat"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432359 +0700 +07 m=+0.016305245",
+        "UpdatedAt": "2020-09-29 13:43:02.752771 +0700 +07 m=+35.254806517",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1719,
+        "ProvinceID": 219,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5406",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431751 +0700 +07 m=+0.015697235",
+        "UpdatedAt": "2020-09-29 13:43:07.767565 +0700 +07 m=+40.269505206",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1570,
+        "ProvinceID": 219,
+        "DistrictName": "Thành phố Rạch Giá",
+        "Code": "5401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Rạch Giá",
+            "TP.Rạch Giá",
+            "TP Rạch Giá",
+            "Rạch Giá",
+            "Rach Gia",
+            "Thanh pho Rach Gia",
+            "rachgia"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431595 +0700 +07 m=+0.015541069",
+        "UpdatedAt": "2020-09-29 13:43:11.650824 +0700 +07 m=+44.152690455",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

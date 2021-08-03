@@ -1,0 +1,341 @@
+[
+    {
+        "DistrictID": 3266,
+        "ProvinceID": 266,
+        "DistrictName": "huyện Sốp Cộp",
+        "Code": "1411",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "huyện Sốp Cộp",
+            "Sop Cop",
+            "huyen Sop Cop",
+            "sopcop"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432636 +0700 +07 m=+0.016581544",
+        "UpdatedAt": "2020-09-29 13:42:43.492201 +0700 +07 m=+15.994601355",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3230,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Mường La",
+        "Code": "1403",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mường La",
+            "H.Mường La",
+            "H Mường La",
+            "Mường La",
+            "Muong La",
+            "Huyen Muong La",
+            "muongla"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43264 +0700 +07 m=+0.016586319",
+        "UpdatedAt": "2020-09-29 13:42:44.494051 +0700 +07 m=+16.996432771",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2267,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Yên Châu",
+        "Code": "1408",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Châu",
+            "H.Yên Châu",
+            "H Yên Châu",
+            "Yên Châu",
+            "Yen Chau",
+            "Huyen Yen Chau",
+            "yenchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432145 +0700 +07 m=+0.016091192",
+        "UpdatedAt": "2020-09-29 13:42:47.051609 +0700 +07 m=+19.553941844",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2255,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Vân Hồ",
+        "Code": "1412",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vân Hồ",
+            "H.Vân Hồ",
+            "H Vân Hồ",
+            "Vân Hồ",
+            "Van Ho",
+            "Huyen Van Ho",
+            "vanho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432136 +0700 +07 m=+0.016081350",
+        "UpdatedAt": "2020-09-29 13:42:47.398175 +0700 +07 m=+19.900501728",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2204,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Quỳnh Nhai",
+        "Code": "1402",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Quỳnh Nhai",
+            "H.Quỳnh Nhai",
+            "H Quỳnh Nhai",
+            "Quỳnh Nhai",
+            "Quynh Nhai",
+            "Huyen Quynh Nhai",
+            "quynhnhai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432086 +0700 +07 m=+0.016031553",
+        "UpdatedAt": "2020-09-29 13:42:48.377582 +0700 +07 m=+20.879890490",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2079,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Bắc Yên",
+        "Code": "1405",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bắc Yên",
+            "H.Bắc Yên",
+            "H Bắc Yên",
+            "Bắc Yên",
+            "Bac Yen",
+            "Huyen Bac Yen",
+            "bacyen",
+            "Thị trấn Bắc Yên",
+            "TT Bắc Yên"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432853 +0700 +07 m=+0.016799109",
+        "UpdatedAt": "2020-09-29 13:42:51.618435 +0700 +07 m=+24.120681264",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-03-23T06:36:08.597Z"
+    },
+    {
+        "DistrictID": 2032,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Thuận Châu",
+        "Code": "1404",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thuận Châu",
+            "H.Thuận Châu",
+            "H Thuận Châu",
+            "Thuận Châu",
+            "Thuan Chau",
+            "Huyen Thuan Chau",
+            "thuanchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432779 +0700 +07 m=+0.016724900",
+        "UpdatedAt": "2020-09-29 13:42:53.373794 +0700 +07 m=+25.876007620",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2007,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Sông Mã",
+        "Code": "1409",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sông Mã",
+            "H.Sông Mã",
+            "H Sông Mã",
+            "Sông Mã",
+            "Song Ma",
+            "Huyen Song Ma",
+            "songma"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432594 +0700 +07 m=+0.016539635",
+        "UpdatedAt": "2020-09-29 13:42:54.553556 +0700 +07 m=+27.055746759",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1996,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Phù Yên",
+        "Code": "1406",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phù Yên",
+            "H.Phù Yên",
+            "H Phù Yên",
+            "Phù Yên",
+            "Phu Yen",
+            "Huyen Phu Yen",
+            "phuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432578 +0700 +07 m=+0.016523798",
+        "UpdatedAt": "2020-09-29 13:42:54.936979 +0700 +07 m=+27.439162328",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1976,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Mộc Châu",
+        "Code": "1410",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mộc Châu",
+            "H.Mộc Châu",
+            "H Mộc Châu",
+            "Mộc Châu",
+            "Moc Chau",
+            "Huyen Moc Chau",
+            "mocchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432547 +0700 +07 m=+0.016492405",
+        "UpdatedAt": "2020-09-29 13:42:56.153327 +0700 +07 m=+28.655487068",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1971,
+        "ProvinceID": 266,
+        "DistrictName": "Huyện Mai Sơn",
+        "Code": "1407",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Mai Sơn",
+            "H.Mai Sơn",
+            "H Mai Sơn",
+            "Mai Sơn",
+            "Mai Son",
+            "Huyen Mai Son",
+            "maison"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432537 +0700 +07 m=+0.016482988",
+        "UpdatedAt": "2020-09-29 13:42:56.291571 +0700 +07 m=+28.793728581",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1677,
+        "ProvinceID": 266,
+        "DistrictName": "Thành phố Sơn La",
+        "Code": "1401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Sơn La",
+            "TP.Sơn La",
+            "TP Sơn La",
+            "Sơn La",
+            "Son La",
+            "Thanh pho Son La",
+            "sonla"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431825 +0700 +07 m=+0.015770627",
+        "UpdatedAt": "2020-09-29 13:43:09.338883 +0700 +07 m=+41.840793234",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

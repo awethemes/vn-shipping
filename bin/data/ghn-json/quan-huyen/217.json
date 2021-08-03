@@ -1,0 +1,315 @@
+[
+    {
+        "DistrictID": 1758,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Châu Phú",
+        "Code": "5108",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Phú",
+            "H.Châu Phú",
+            "H Châu Phú",
+            "Châu Phú",
+            "Chau Phu",
+            "Huyen Chau Phu",
+            "chauphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432232 +0700 +07 m=+0.016177854",
+        "UpdatedAt": "2020-09-29 13:43:06.121492 +0700 +07 m=+38.623463335",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1757,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Chợ Mới",
+        "Code": "5109",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Chợ Mới",
+            "H.Chợ Mới",
+            "H Chợ Mới",
+            "Chợ Mới",
+            "Cho Moi",
+            "Huyen Cho Moi",
+            "chomoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432231 +0700 +07 m=+0.016176383",
+        "UpdatedAt": "2020-09-29 13:43:06.169945 +0700 +07 m=+38.671915357",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1756,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Phú Tân",
+        "Code": "5105",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Tân",
+            "H.Phú Tân",
+            "H Phú Tân",
+            "Phú Tân",
+            "Phu Tan",
+            "Huyen Phu Tan",
+            "phutan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431805 +0700 +07 m=+0.015750865",
+        "UpdatedAt": "2020-09-29 13:43:06.229736 +0700 +07 m=+38.731704865",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1755,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Tân Châu",
+        "Code": "5104",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Châu",
+            "H.Tân Châu",
+            "H Tân Châu",
+            "Tân Châu",
+            "Tan Chau",
+            "Huyen Tan Chau",
+            "Thị Xã Tân Châu",
+            "TX.Tân Châu",
+            "TX Tân Châu",
+            "Tx Tân Châu",
+            "Thi Xa Tan Chau",
+            "tanchau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431804 +0700 +07 m=+0.015749441",
+        "UpdatedAt": "2020-09-29 13:43:06.330322 +0700 +07 m=+38.832289816",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1754,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện An Phú",
+        "Code": "5103",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện An Phú",
+            "H.An Phú",
+            "H An Phú",
+            "An Phú",
+            "An Phu",
+            "Huyen An Phu",
+            "anphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431802 +0700 +07 m=+0.015748023",
+        "UpdatedAt": "2020-09-29 13:43:06.394328 +0700 +07 m=+38.896294202",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1753,
+        "ProvinceID": 217,
+        "DistrictName": "Thành phố Châu Đốc",
+        "Code": "5102",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Châu Đốc",
+            "TP.Châu Đốc",
+            "TP Châu Đốc",
+            "Châu Đốc",
+            "Chau Doc",
+            "Thanh pho Chau Doc",
+            "chaudoc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431801 +0700 +07 m=+0.015746543",
+        "UpdatedAt": "2020-09-29 13:43:06.42998 +0700 +07 m=+38.931945158",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1752,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Tịnh Biên",
+        "Code": "5106",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tịnh Biên",
+            "H.Tịnh Biên",
+            "H Tịnh Biên",
+            "Tịnh Biên",
+            "Tinh Bien",
+            "Huyen Tinh Bien",
+            "tinhbien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431799 +0700 +07 m=+0.015745030",
+        "UpdatedAt": "2020-09-29 13:43:06.463852 +0700 +07 m=+38.965816696",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1751,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Tri Tôn",
+        "Code": "5107",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tri Tôn",
+            "H.Tri Tôn",
+            "H Tri Tôn",
+            "Tri Tôn",
+            "Tri Ton",
+            "Huyen Tri Ton",
+            "triton"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431798 +0700 +07 m=+0.015743599",
+        "UpdatedAt": "2020-09-29 13:43:06.497598 +0700 +07 m=+38.999562160",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1750,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Thoại Sơn",
+        "Code": "5111",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thoại Sơn",
+            "H.Thoại Sơn",
+            "H Thoại Sơn",
+            "Thoại Sơn",
+            "Thoai Son",
+            "Huyen Thoai Son",
+            "thoaison"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431733 +0700 +07 m=+0.015679181",
+        "UpdatedAt": "2020-09-29 13:43:06.532646 +0700 +07 m=+39.034609480",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1718,
+        "ProvinceID": 217,
+        "DistrictName": "Huyện Châu Thành",
+        "Code": "5110",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Châu Thành",
+            "H.Châu Thành",
+            "H Châu Thành",
+            "Châu Thành",
+            "Chau Thanh",
+            "Huyen Chau Thanh",
+            "chauthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43175 +0700 +07 m=+0.015695796",
+        "UpdatedAt": "2020-09-29 13:43:07.802529 +0700 +07 m=+40.304468223",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1566,
+        "ProvinceID": 217,
+        "DistrictName": "Thành phố Long Xuyên",
+        "Code": "5101",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Long Xuyên",
+            "TP.Long Xuyên",
+            "TP Long Xuyên",
+            "Long Xuyên",
+            "Long Xuyen",
+            "Thanh pho Long Xuyen",
+            "longxuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431586 +0700 +07 m=+0.015532316",
+        "UpdatedAt": "2020-09-29 13:43:11.71818 +0700 +07 m=+44.220045311",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

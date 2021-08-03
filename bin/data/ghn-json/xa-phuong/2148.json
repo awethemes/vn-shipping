@@ -1,0 +1,190 @@
+[
+    {
+        "WardCode": "360807",
+        "DistrictID": 2148,
+        "WardName": "Xã Tân Lập",
+        "NameExtension": [
+            "Xã Tân Lập",
+            "X.Tân Lập",
+            "X Tân Lập",
+            "Tân Lập",
+            "Tan Lap",
+            "Xa Tan Lap",
+            "tanlap"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402432 +0700 +07 m=+0.038769014",
+        "UpdatedAt": "2020-09-29 13:53:33.410825 +0700 +07 m=+238.073120665",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360806",
+        "DistrictID": 2148,
+        "WardName": "Xã Đắk Tờ Re",
+        "NameExtension": [
+            "Xã Đắk Tờ Re",
+            "X.Đắk Tờ Re",
+            "X Đắk Tờ Re",
+            "Đắk Tờ Re",
+            "Dak To Re",
+            "Xa Dak To Re",
+            "Xã Đăk Tờ Re",
+            "daktore"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40243 +0700 +07 m=+0.038767623",
+        "UpdatedAt": "2020-09-29 13:53:33.446709 +0700 +07 m=+238.109004039",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360805",
+        "DistrictID": 2148,
+        "WardName": "Xã Đắk Tơ Lung",
+        "NameExtension": [
+            "Xã Đắk Tơ Lung",
+            "X.Đắk Tơ Lung",
+            "X Đắk Tơ Lung",
+            "Đắk Tơ Lung",
+            "Dak To Lung",
+            "Xa Dak To Lung",
+            "Xã Đăk Tơ Lùng",
+            "daktolung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402426 +0700 +07 m=+0.038763242",
+        "UpdatedAt": "2020-09-29 13:53:33.479676 +0700 +07 m=+238.141970842",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360804",
+        "DistrictID": 2148,
+        "WardName": "Xã Đắk Ruồng",
+        "NameExtension": [
+            "Xã Đắk Ruồng",
+            "X.Đắk Ruồng",
+            "X Đắk Ruồng",
+            "Đắk Ruồng",
+            "Dak Ruong",
+            "Xa Dak Ruong",
+            "Xã Đăk Ruồng",
+            "dakruong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402427 +0700 +07 m=+0.038764747",
+        "UpdatedAt": "2020-09-29 13:53:33.519864 +0700 +07 m=+238.182158076",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360803",
+        "DistrictID": 2148,
+        "WardName": "Xã Đắk Pne",
+        "NameExtension": [
+            "Xã Đắk Pne",
+            "X.Đắk Pne",
+            "X Đắk Pne",
+            "Đắk Pne",
+            "Dak Pne",
+            "Xa Dak Pne",
+            "Xã Đăk Pne",
+            "dakpne"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402429 +0700 +07 m=+0.038766241",
+        "UpdatedAt": "2020-09-29 13:53:33.553001 +0700 +07 m=+238.215294467",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360802",
+        "DistrictID": 2148,
+        "WardName": "Xã Đắk Kôi",
+        "NameExtension": [
+            "Xã Đắk Kôi",
+            "X.Đắk Kôi",
+            "X Đắk Kôi",
+            "Đắk Kôi",
+            "Dak Koi",
+            "Xa Dak Koi",
+            "Xã Đăk Kôi",
+            "dakkoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402425 +0700 +07 m=+0.038761823",
+        "UpdatedAt": "2020-09-29 13:53:33.587051 +0700 +07 m=+238.249343695",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "360801",
+        "DistrictID": 2148,
+        "WardName": "Thị trấn Đắk Rve",
+        "NameExtension": [
+            "Thị trấn Đắk Rve",
+            "TT.Đắk Rve",
+            "TT Đắk Rve",
+            "Đắk Rve",
+            "Dak Rve",
+            "Thi tran Dak Rve",
+            "Thị Trấn Đăk Rve",
+            "dakrve"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402423 +0700 +07 m=+0.038760446",
+        "UpdatedAt": "2020-09-29 13:53:33.622479 +0700 +07 m=+238.284770615",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

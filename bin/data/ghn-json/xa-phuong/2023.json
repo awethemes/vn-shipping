@@ -1,0 +1,340 @@
+[
+    {
+        "WardCode": "371113",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Thuận",
+        "NameExtension": [
+            "Xã Phước Thuận",
+            "X.Phước Thuận",
+            "X Phước Thuận",
+            "Phước Thuận",
+            "Phuoc Thuan",
+            "Xa Phuoc Thuan",
+            "phuocthuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393752 +0700 +07 m=+0.030089446",
+        "UpdatedAt": "2020-09-29 13:53:22.635196 +0700 +07 m=+227.297696167",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371112",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Thành",
+        "NameExtension": [
+            "Xã Phước Thành",
+            "X.Phước Thành",
+            "X Phước Thành",
+            "Phước Thành",
+            "Phuoc Thanh",
+            "Xa Phuoc Thanh",
+            "phuocthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393755 +0700 +07 m=+0.030092267",
+        "UpdatedAt": "2020-09-29 13:53:22.675498 +0700 +07 m=+227.337997276",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371111",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Thắng",
+        "NameExtension": [
+            "Xã Phước Thắng",
+            "X.Phước Thắng",
+            "X Phước Thắng",
+            "Phước Thắng",
+            "Phuoc Thang",
+            "Xa Phuoc Thang",
+            "phuocthang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393741 +0700 +07 m=+0.030078155",
+        "UpdatedAt": "2020-09-29 13:53:22.731933 +0700 +07 m=+227.394431990",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371110",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Sơn",
+        "NameExtension": [
+            "Xã Phước Sơn",
+            "X.Phước Sơn",
+            "X Phước Sơn",
+            "Phước Sơn",
+            "Phuoc Son",
+            "Xa Phuoc Son",
+            "phuocson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393747 +0700 +07 m=+0.030083836",
+        "UpdatedAt": "2020-09-29 13:53:22.780202 +0700 +07 m=+227.442699926",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371109",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Quang",
+        "NameExtension": [
+            "Xã Phước Quang",
+            "X.Phước Quang",
+            "X Phước Quang",
+            "Phước Quang",
+            "Phuoc Quang",
+            "Xa Phuoc Quang",
+            "phuocquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393744 +0700 +07 m=+0.030080995",
+        "UpdatedAt": "2020-09-29 13:53:22.836676 +0700 +07 m=+227.499172793",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371108",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Nghĩa",
+        "NameExtension": [
+            "Xã Phước Nghĩa",
+            "X.Phước Nghĩa",
+            "X Phước Nghĩa",
+            "Phước Nghĩa",
+            "Phuoc Nghia",
+            "Xa Phuoc Nghia",
+            "phuocnghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393751 +0700 +07 m=+0.030088057",
+        "UpdatedAt": "2020-09-29 13:53:22.898281 +0700 +07 m=+227.560776578",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371107",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Lộc",
+        "NameExtension": [
+            "Xã Phước Lộc",
+            "X.Phước Lộc",
+            "X Phước Lộc",
+            "Phước Lộc",
+            "Phuoc Loc",
+            "Xa Phuoc Loc",
+            "phuocloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393749 +0700 +07 m=+0.030086663",
+        "UpdatedAt": "2020-09-29 13:53:22.944187 +0700 +07 m=+227.606681046",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371106",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Hưng",
+        "NameExtension": [
+            "Xã Phước Hưng",
+            "X.Phước Hưng",
+            "X Phước Hưng",
+            "Phước Hưng",
+            "Phuoc Hung",
+            "Xa Phuoc Hung",
+            "phuochung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393742 +0700 +07 m=+0.030079586",
+        "UpdatedAt": "2020-09-29 13:53:22.981334 +0700 +07 m=+227.643827686",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371105",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Hòa",
+        "NameExtension": [
+            "Xã Phước Hòa",
+            "X.Phước Hòa",
+            "X Phước Hòa",
+            "Phước Hòa",
+            "Phuoc Hoa",
+            "Xa Phuoc Hoa",
+            "phuochoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393745 +0700 +07 m=+0.030082406",
+        "UpdatedAt": "2020-09-29 13:53:23.050817 +0700 +07 m=+227.713309246",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371104",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước Hiệp",
+        "NameExtension": [
+            "Xã Phước Hiệp",
+            "X.Phước Hiệp",
+            "X Phước Hiệp",
+            "Phước Hiệp",
+            "Phuoc Hiep",
+            "Xa Phuoc Hiep",
+            "phuochiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393748 +0700 +07 m=+0.030085242",
+        "UpdatedAt": "2020-09-29 13:53:23.094051 +0700 +07 m=+227.756543137",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371103",
+        "DistrictID": 2023,
+        "WardName": "Xã Phước An",
+        "NameExtension": [
+            "Xã Phước An",
+            "X.Phước An",
+            "X Phước An",
+            "Phước An",
+            "Phuoc An",
+            "Xa Phuoc An",
+            "phuocan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393754 +0700 +07 m=+0.030090854",
+        "UpdatedAt": "2020-09-29 13:53:23.158268 +0700 +07 m=+227.820758861",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371102",
+        "DistrictID": 2023,
+        "WardName": "Thị trấn Tuy Phước",
+        "NameExtension": [
+            "Thị trấn Tuy Phước",
+            "TT.Tuy Phước",
+            "TT Tuy Phước",
+            "Tuy Phước",
+            "Tuy Phuoc",
+            "Thi tran Tuy Phuoc",
+            "tuyphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393738 +0700 +07 m=+0.030075234",
+        "UpdatedAt": "2020-09-29 13:53:23.206131 +0700 +07 m=+227.868621068",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "371101",
+        "DistrictID": 2023,
+        "WardName": "Thị trấn Diêu Trì",
+        "NameExtension": [
+            "Thị trấn Diêu Trì",
+            "TT.Diêu Trì",
+            "TT Diêu Trì",
+            "Diêu Trì",
+            "Dieu Tri",
+            "Thi tran Dieu Tri",
+            "dieutri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.393739 +0700 +07 m=+0.030076714",
+        "UpdatedAt": "2020-09-29 13:53:23.390201 +0700 +07 m=+228.052686849",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

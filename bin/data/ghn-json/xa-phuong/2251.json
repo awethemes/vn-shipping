@@ -1,0 +1,159 @@
+[
+    {
+        "WardCode": "541406",
+        "DistrictID": 2251,
+        "WardName": "Xã Vĩnh Hòa",
+        "NameExtension": [
+            "Xã Vĩnh Hòa",
+            "X.Vĩnh Hòa",
+            "X Vĩnh Hòa",
+            "Vĩnh Hòa",
+            "Vinh Hoa",
+            "Xa Vinh Hoa",
+            "vinhhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402326 +0700 +07 m=+0.038663363",
+        "UpdatedAt": "2020-09-29 13:51:24.148227 +0700 +07 m=+108.812976164",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541405",
+        "DistrictID": 2251,
+        "WardName": "Xã Thạnh Yên A",
+        "NameExtension": [
+            "Xã Thạnh Yên A",
+            "X.Thạnh Yên A",
+            "X Thạnh Yên A",
+            "Thạnh Yên A",
+            "Thanh Yen A",
+            "Xa Thanh Yen A",
+            "thanhyena"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402323 +0700 +07 m=+0.038660583",
+        "UpdatedAt": "2020-09-29 13:51:24.187134 +0700 +07 m=+108.851882185",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541404",
+        "DistrictID": 2251,
+        "WardName": "Xã Thạnh Yên",
+        "NameExtension": [
+            "Xã Thạnh Yên",
+            "X.Thạnh Yên",
+            "X Thạnh Yên",
+            "Thạnh Yên",
+            "Thanh Yen",
+            "Xa Thanh Yen",
+            "thanhyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402322 +0700 +07 m=+0.038659241",
+        "UpdatedAt": "2020-09-29 13:51:24.222648 +0700 +07 m=+108.887395903",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541403",
+        "DistrictID": 2251,
+        "WardName": "Xã Minh Thuận",
+        "NameExtension": [
+            "Xã Minh Thuận",
+            "X.Minh Thuận",
+            "X Minh Thuận",
+            "Minh Thuận",
+            "Minh Thuan",
+            "Xa Minh Thuan",
+            "minhthuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402329 +0700 +07 m=+0.038666109",
+        "UpdatedAt": "2020-09-29 13:51:24.256665 +0700 +07 m=+108.921411838",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541402",
+        "DistrictID": 2251,
+        "WardName": "Xã Hoà Chánh",
+        "NameExtension": [
+            "Xã Hoà Chánh",
+            "X.Hoà Chánh",
+            "X Hoà Chánh",
+            "Hoà Chánh",
+            "Hoa Chanh",
+            "Xa Hoa Chanh",
+            "Xã Hòa Chánh",
+            "hoachanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402327 +0700 +07 m=+0.038664715",
+        "UpdatedAt": "2020-09-29 13:51:24.312704 +0700 +07 m=+108.977449643",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541401",
+        "DistrictID": 2251,
+        "WardName": "Xã An Minh Bắc",
+        "NameExtension": [
+            "Xã An Minh Bắc",
+            "X.An Minh Bắc",
+            "X An Minh Bắc",
+            "An Minh Bắc",
+            "An Minh Bac",
+            "Xa An Minh Bac",
+            "anminhbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402325 +0700 +07 m=+0.038661931",
+        "UpdatedAt": "2020-09-29 13:51:24.381482 +0700 +07 m=+109.046226626",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

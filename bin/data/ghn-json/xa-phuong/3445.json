@@ -1,0 +1,211 @@
+[
+    {
+        "WardCode": "640308",
+        "DistrictID": 3445,
+        "WardName": "Xã Xà Phiên",
+        "NameExtension": [
+            "Xã Xà Phiên",
+            "X.Xà Phiên",
+            "X Xà Phiên",
+            "Xà Phiên",
+            "Xa Phien",
+            "Xa Xa Phien",
+            "xaphien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400459 +0700 +07 m=+0.036796030",
+        "UpdatedAt": "2020-09-29 13:50:28.296805 +0700 +07 m=+52.962614317",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640307",
+        "DistrictID": 3445,
+        "WardName": "Xã Vĩnh Viễn A",
+        "NameExtension": [
+            "Xã Vĩnh Viễn A",
+            "X.Vĩnh Viễn A",
+            "X Vĩnh Viễn A",
+            "Vĩnh Viễn A",
+            "Vinh Vien A",
+            "Xa Vinh Vien A",
+            "vinhviena"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400455 +0700 +07 m=+0.036791918",
+        "UpdatedAt": "2020-09-29 13:50:28.334462 +0700 +07 m=+53.000270583",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640306",
+        "DistrictID": 3445,
+        "WardName": "Xã Vĩnh Viễn",
+        "NameExtension": [
+            "Xã Vĩnh Viễn",
+            "X.Vĩnh Viễn",
+            "X Vĩnh Viễn",
+            "Vĩnh Viễn",
+            "Vinh Vien",
+            "Xa Vinh Vien",
+            "vinhvien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400453 +0700 +07 m=+0.036790564",
+        "UpdatedAt": "2020-09-29 13:50:28.3684 +0700 +07 m=+53.034208126",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640305",
+        "DistrictID": 3445,
+        "WardName": "Xã Vĩnh Thuận Đông",
+        "NameExtension": [
+            "Xã Vĩnh Thuận Đông",
+            "X.Vĩnh Thuận Đông",
+            "X Vĩnh Thuận Đông",
+            "Vĩnh Thuận Đông",
+            "Vinh Thuan Dong",
+            "Xa Vinh Thuan Dong",
+            "vinhthuandong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400452 +0700 +07 m=+0.036789179",
+        "UpdatedAt": "2020-09-29 13:50:28.408277 +0700 +07 m=+53.074084642",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640304",
+        "DistrictID": 3445,
+        "WardName": "Xã Thuận Hưng",
+        "NameExtension": [
+            "Xã Long Phú",
+            "Xã Thuận Hưng",
+            "X.Thuận Hưng",
+            "X Thuận Hưng",
+            "Thuận Hưng",
+            "Thuan Hung",
+            "Xa Thuan Hung",
+            "thuanhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400449 +0700 +07 m=+0.036786409",
+        "UpdatedAt": "2020-09-29 13:50:28.443723 +0700 +07 m=+53.109529090",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640303",
+        "DistrictID": 3445,
+        "WardName": "Xã Thuận Hòa",
+        "NameExtension": [
+            "Xã Thuận Hòa",
+            "X.Thuận Hòa",
+            "X Thuận Hòa",
+            "Thuận Hòa",
+            "Thuan Hoa",
+            "Xa Thuan Hoa",
+            "thuanhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40045 +0700 +07 m=+0.036787788",
+        "UpdatedAt": "2020-09-29 13:50:28.478202 +0700 +07 m=+53.144008159",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640302",
+        "DistrictID": 3445,
+        "WardName": "Xã Lương Tâm",
+        "NameExtension": [
+            "Xã Lương Tâm",
+            "X.Lương Tâm",
+            "X Lương Tâm",
+            "Lương Tâm",
+            "Luong Tam",
+            "Xa Luong Tam",
+            "luongtam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400456 +0700 +07 m=+0.036793304",
+        "UpdatedAt": "2020-09-29 13:50:28.510063 +0700 +07 m=+53.175868191",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "640301",
+        "DistrictID": 3445,
+        "WardName": "Xã Lương Nghĩa",
+        "NameExtension": [
+            "Xã Lương Nghĩa",
+            "X.Lương Nghĩa",
+            "X Lương Nghĩa",
+            "Lương Nghĩa",
+            "Luong Nghia",
+            "Xa Luong Nghia",
+            "luongnghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400457 +0700 +07 m=+0.036794678",
+        "UpdatedAt": "2020-09-29 13:50:28.545134 +0700 +07 m=+53.210938900",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

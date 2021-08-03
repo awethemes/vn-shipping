@@ -1,0 +1,184 @@
+[
+    {
+        "WardCode": "520407",
+        "DistrictID": 1689,
+        "WardName": "Xã Tam Phước",
+        "NameExtension": [
+            "Xã Tam Phước",
+            "X.Tam Phước",
+            "X Tam Phước",
+            "Tam Phước",
+            "Tam Phuoc",
+            "Xa Tam Phuoc",
+            "tamphuoc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391767 +0700 +07 m=+0.028104232",
+        "UpdatedAt": "2020-09-29 13:51:37.724546 +0700 +07 m=+122.389037556",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520406",
+        "DistrictID": 1689,
+        "WardName": "Xã Phước Tỉnh",
+        "NameExtension": [
+            "Xã Phước Tỉnh",
+            "X.Phước Tỉnh",
+            "X Phước Tỉnh",
+            "Phước Tỉnh",
+            "Phuoc Tinh",
+            "Xa Phuoc Tinh",
+            "phuoctinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39177 +0700 +07 m=+0.028107054",
+        "UpdatedAt": "2020-09-29 13:51:37.757891 +0700 +07 m=+122.422381577",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520405",
+        "DistrictID": 1689,
+        "WardName": "Xã Phước Hưng",
+        "NameExtension": [
+            "Xã Phước Hưng",
+            "X.Phước Hưng",
+            "X Phước Hưng",
+            "Phước Hưng",
+            "Phuoc Hung",
+            "Xa Phuoc Hung",
+            "phuochung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391771 +0700 +07 m=+0.028108535",
+        "UpdatedAt": "2020-09-29 13:51:37.792574 +0700 +07 m=+122.457063848",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520404",
+        "DistrictID": 1689,
+        "WardName": "Xã An Nhứt",
+        "NameExtension": [
+            "Xã An Nhứt",
+            "X.An Nhứt",
+            "X An Nhứt",
+            "An Nhứt",
+            "An Nhut",
+            "Xa An Nhut",
+            "annhut"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391768 +0700 +07 m=+0.028105642",
+        "UpdatedAt": "2020-09-29 13:51:37.834982 +0700 +07 m=+122.499471172",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520403",
+        "DistrictID": 1689,
+        "WardName": "Xã An Ngãi",
+        "NameExtension": [
+            "Xã An Ngãi",
+            "X.An Ngãi",
+            "X An Ngãi",
+            "An Ngãi",
+            "An Ngai",
+            "Xa An Ngai",
+            "anngai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391766 +0700 +07 m=+0.028102829",
+        "UpdatedAt": "2020-09-29 13:51:37.872056 +0700 +07 m=+122.536544825",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520402",
+        "DistrictID": 1689,
+        "WardName": "Thị trấn Long Hải",
+        "NameExtension": [
+            "Thị trấn Long Hải",
+            "TT.Long Hải",
+            "TT Long Hải",
+            "Long Hải",
+            "Long Hai",
+            "Thi tran Long Hai",
+            "longhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391764 +0700 +07 m=+0.028101310",
+        "UpdatedAt": "2020-09-29 13:51:37.971444 +0700 +07 m=+122.635930547",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "520401",
+        "DistrictID": 1689,
+        "WardName": "Thị trấn Long Điền",
+        "NameExtension": [
+            "Thị trấn Long Điền",
+            "TT.Long Điền",
+            "TT Long Điền",
+            "Long Điền",
+            "Long Dien",
+            "Thi tran Long Dien",
+            "longdien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.391763 +0700 +07 m=+0.028099928",
+        "UpdatedAt": "2020-09-29 13:51:38.035336 +0700 +07 m=+122.699821610",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

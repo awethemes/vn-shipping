@@ -1,0 +1,263 @@
+[
+    {
+        "WardCode": "20110",
+        "DistrictID": 1442,
+        "WardName": "Phường Tân Định",
+        "NameExtension": [
+            "Phường Tân Định",
+            "P.Tân Định",
+            "P Tân Định",
+            "Tân Định",
+            "Tan Dinh",
+            "Phuong Tan Dinh",
+            "tandinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400474 +0700 +07 m=+0.036811665",
+        "UpdatedAt": "2020-09-29 13:57:32.673604 +0700 +07 m=+477.331358488",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20109",
+        "DistrictID": 1442,
+        "WardName": "Phường Phạm Ngũ Lão",
+        "NameExtension": [
+            "Phường Phạm Ngũ Lão",
+            "P.Phạm Ngũ Lão",
+            "P Phạm Ngũ Lão",
+            "Phạm Ngũ Lão",
+            "Pham Ngu Lao",
+            "Phuong Pham Ngu Lao",
+            "phamngulao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400482 +0700 +07 m=+0.036819291",
+        "UpdatedAt": "2020-09-29 13:57:32.977043 +0700 +07 m=+477.634791663",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20108",
+        "DistrictID": 1442,
+        "WardName": "Phường Nguyễn Thái Bình",
+        "NameExtension": [
+            "Phường Nguyễn Thái Bình",
+            "P.Nguyễn Thái Bình",
+            "P Nguyễn Thái Bình",
+            "Nguyễn Thái Bình",
+            "Nguyen Thai Binh",
+            "Phuong Nguyen Thai Binh",
+            "nguyenthaibinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40048 +0700 +07 m=+0.036817793",
+        "UpdatedAt": "2020-09-29 13:57:33.012449 +0700 +07 m=+477.670196844",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20107",
+        "DistrictID": 1442,
+        "WardName": "Phường Nguyễn Cư Trinh",
+        "NameExtension": [
+            "Phường Nguyễn Cư Trinh",
+            "P.Nguyễn Cư Trinh",
+            "P Nguyễn Cư Trinh",
+            "Nguyễn Cư Trinh",
+            "Nguyen Cu Trinh",
+            "Phuong Nguyen Cu Trinh",
+            "nguyencutrinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400486 +0700 +07 m=+0.036823649",
+        "UpdatedAt": "2020-09-29 13:57:33.046999 +0700 +07 m=+477.704746146",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20106",
+        "DistrictID": 1442,
+        "WardName": "Phường Đa Kao",
+        "NameExtension": [
+            "Phường Đakao",
+            "Phường Đa Kao",
+            "P.Đa Kao",
+            "P Đa Kao",
+            "Đa Kao",
+            "Da Kao",
+            "Phuong Da Kao",
+            "dakao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400476 +0700 +07 m=+0.036813173",
+        "UpdatedAt": "2020-09-29 13:57:33.081991 +0700 +07 m=+477.739738171",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20105",
+        "DistrictID": 1442,
+        "WardName": "Phường Cô Giang",
+        "NameExtension": [
+            "Phường Cô Giang",
+            "P.Cô Giang",
+            "P Cô Giang",
+            "Cô Giang",
+            "Co Giang",
+            "Phuong Co Giang",
+            "cogiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400485 +0700 +07 m=+0.036822166",
+        "UpdatedAt": "2020-09-29 13:57:33.144691 +0700 +07 m=+477.802436623",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20104",
+        "DistrictID": 1442,
+        "WardName": "Phường Cầu Ông Lãnh",
+        "NameExtension": [
+            "Phường Cầu Ông Lãnh",
+            "P.Cầu Ông Lãnh",
+            "P Cầu Ông Lãnh",
+            "Cầu Ông Lãnh",
+            "Cau Ong Lanh",
+            "Phuong Cau Ong Lanh",
+            "cauonglanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400483 +0700 +07 m=+0.036820719",
+        "UpdatedAt": "2020-09-29 13:57:33.180638 +0700 +07 m=+477.838382670",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20103",
+        "DistrictID": 1442,
+        "WardName": "Phường Cầu Kho",
+        "NameExtension": [
+            "Phường Cầu Kho",
+            "P.Cầu Kho",
+            "P Cầu Kho",
+            "Cầu Kho",
+            "Cau Kho",
+            "Phuong Cau Kho",
+            "caukho"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400488 +0700 +07 m=+0.036825069",
+        "UpdatedAt": "2020-09-29 13:57:33.218079 +0700 +07 m=+477.875823465",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20102",
+        "DistrictID": 1442,
+        "WardName": "Phường Bến Thành",
+        "NameExtension": [
+            "Phường Bến Thành",
+            "P.Bến Thành",
+            "P Bến Thành",
+            "Bến Thành",
+            "Ben Thanh",
+            "Phuong Ben Thanh",
+            "benthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400479 +0700 +07 m=+0.036816217",
+        "UpdatedAt": "2020-09-29 13:57:33.253079 +0700 +07 m=+477.910822158",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "20101",
+        "DistrictID": 1442,
+        "WardName": "Phường Bến Nghé",
+        "NameExtension": [
+            "Phường Bến Nghé",
+            "P.Bến Nghé",
+            "P Bến Nghé",
+            "Bến Nghé",
+            "Ben Nghe",
+            "Phuong Ben Nghe",
+            "bennghe"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.400477 +0700 +07 m=+0.036814731",
+        "UpdatedAt": "2020-09-29 13:57:33.294065 +0700 +07 m=+477.951807801",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

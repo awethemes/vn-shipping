@@ -1,0 +1,160 @@
+[
+    {
+        "WardCode": "420606",
+        "DistrictID": 1956,
+        "WardName": "Xã Lát",
+        "NameExtension": [
+            "Xã Lát",
+            "X.Lát",
+            "X Lát",
+            "Lát",
+            "Lat",
+            "Xa Lat",
+            "lat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.4027 +0700 +07 m=+0.039036905",
+        "UpdatedAt": "2020-09-29 13:52:44.914592 +0700 +07 m=+189.577808179",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420605",
+        "DistrictID": 1956,
+        "WardName": "Xã Đưng KNớ",
+        "NameExtension": [
+            "Xã Đưng KNớ",
+            "X.Đưng KNớ",
+            "X Đưng KNớ",
+            "Đưng KNớ",
+            "Dung KNo",
+            "Xa Dung KNo",
+            "dungkno"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402698 +0700 +07 m=+0.039035448",
+        "UpdatedAt": "2020-09-29 13:52:44.984104 +0700 +07 m=+189.647319256",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420604",
+        "DistrictID": 1956,
+        "WardName": "Xã Đạ Sar",
+        "NameExtension": [
+            "Xã Đạ Sar",
+            "X.Đạ Sar",
+            "X Đạ Sar",
+            "Đạ Sar",
+            "Da Sar",
+            "Đasar",
+            "Dasar",
+            "Xa Da Sar",
+            "dasar"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402701 +0700 +07 m=+0.039038366",
+        "UpdatedAt": "2020-09-29 13:52:45.024615 +0700 +07 m=+189.687829571",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420603",
+        "DistrictID": 1956,
+        "WardName": "Xã Đạ Nhim",
+        "NameExtension": [
+            "Xã Đạ Nhim",
+            "X.Đạ Nhim",
+            "X Đạ Nhim",
+            "Đạ Nhim",
+            "Da Nhim",
+            "Xa Da Nhim",
+            "danhim"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402697 +0700 +07 m=+0.039033987",
+        "UpdatedAt": "2020-09-29 13:52:45.134331 +0700 +07 m=+189.797542917",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420602",
+        "DistrictID": 1956,
+        "WardName": "Xã Đạ Chais",
+        "NameExtension": [
+            "Xã Đạ Chais",
+            "X.Đạ Chais",
+            "X Đạ Chais",
+            "Đạ Chais",
+            "Da Chais",
+            "Xa Da Chais",
+            "dachais"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402695 +0700 +07 m=+0.039032580",
+        "UpdatedAt": "2020-09-29 13:52:45.180854 +0700 +07 m=+189.844064970",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420601",
+        "DistrictID": 1956,
+        "WardName": "Thị trấn Lạc Dương",
+        "NameExtension": [
+            "Thị trấn Lạc Dương",
+            "TT.Lạc Dương",
+            "TT Lạc Dương",
+            "Lạc Dương",
+            "Lac Duong",
+            "Thi tran Lac Duong",
+            "lacduong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402694 +0700 +07 m=+0.039031208",
+        "UpdatedAt": "2020-09-29 13:52:45.222703 +0700 +07 m=+189.885913386",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

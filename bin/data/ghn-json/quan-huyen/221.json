@@ -1,0 +1,264 @@
+[
+    {
+        "DistrictID": 3271,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Tam Đảo",
+        "Code": "1609",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Đảo",
+            "Huỵên Tam Đảo",
+            "H.Tam Đảo",
+            "H Tam Đảo",
+            "Tam Đảo",
+            "Tam Dao",
+            "Huyen Tam Dao",
+            "tamdao"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432642 +0700 +07 m=+0.016587898",
+        "UpdatedAt": "2020-09-29 13:42:43.389237 +0700 +07 m=+15.891640054",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3265,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Sông Lô",
+        "Code": "1607",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sông Lô",
+            "H.Sông Lô",
+            "H Sông Lô",
+            "Sông Lô",
+            "Song Lo",
+            "Huyen Song Lo",
+            "songlo"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432644 +0700 +07 m=+0.016589373",
+        "UpdatedAt": "2020-09-29 13:42:43.541903 +0700 +07 m=+16.044302875",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2065,
+        "ProvinceID": 221,
+        "DistrictName": "Thành phố Phúc Yên",
+        "Code": "1608",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Phúc Yên",
+            "TX.Phúc Yên",
+            "TX Phúc Yên",
+            "Phúc Yên",
+            "Phuc Yen",
+            "Thi xa Phuc Yen",
+            "Thành Phố Phúc Yên",
+            "phucyen",
+            "Thành phố Phúc Yên",
+            "TP Phúc Yên",
+            "TP Phuc Yen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432833 +0700 +07 m=+0.016778941",
+        "UpdatedAt": "2020-09-29 13:42:51.844415 +0700 +07 m=+24.346656973",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T07:06:43.8Z"
+    },
+    {
+        "DistrictID": 2009,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Tam Dương",
+        "Code": "1602",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Dương",
+            "H.Tam Dương",
+            "H Tam Dương",
+            "Tam Dương",
+            "Tam Duong",
+            "Huyen Tam Duong",
+            "tamduong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432597 +0700 +07 m=+0.016542403",
+        "UpdatedAt": "2020-09-29 13:42:54.483965 +0700 +07 m=+26.986157667",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1960,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Lập Thạch",
+        "Code": "1603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lập Thạch",
+            "H.Lập Thạch",
+            "H Lập Thạch",
+            "Lập Thạch",
+            "Lap Thach",
+            "Huyen Lap Thach",
+            "lapthach"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432519 +0700 +07 m=+0.016464916",
+        "UpdatedAt": "2020-09-29 13:42:56.813675 +0700 +07 m=+29.315822860",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1734,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Yên Lạc",
+        "Code": "1605",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Lạc",
+            "Huyên Yên Lạc",
+            "H.Yên Lạc",
+            "H Yên Lạc",
+            "Yên Lạc",
+            "Yen Lac",
+            "Huyen Yen Lac",
+            "yenlac"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431775 +0700 +07 m=+0.015720842",
+        "UpdatedAt": "2020-09-29 13:43:07.131183 +0700 +07 m=+39.633135328",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1733,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Vĩnh Tường",
+        "Code": "1604",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Vĩnh Tường",
+            "H.Vĩnh Tường",
+            "H Vĩnh Tường",
+            "Vĩnh Tường",
+            "Vinh Tuong",
+            "Huyen Vinh Tuong",
+            "vinhtuong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431774 +0700 +07 m=+0.015719412",
+        "UpdatedAt": "2020-09-29 13:43:07.188807 +0700 +07 m=+39.690757950",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1732,
+        "ProvinceID": 221,
+        "DistrictName": "Huyện Bình Xuyên",
+        "Code": "1606",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Xuyên",
+            "H.Bình Xuyên",
+            "H Bình Xuyên",
+            "Bình Xuyên",
+            "Binh Xuyen",
+            "Huyen Binh Xuyen",
+            "binhxuyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431772 +0700 +07 m=+0.015717956",
+        "UpdatedAt": "2020-09-29 13:43:07.222235 +0700 +07 m=+39.724185727",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1578,
+        "ProvinceID": 221,
+        "DistrictName": "Thành phố Vĩnh Yên",
+        "Code": "1601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Vĩnh Yên",
+            "TP.Vĩnh Yên",
+            "TP Vĩnh Yên",
+            "Vĩnh Yên",
+            "Vinh Yen",
+            "Thanh pho Vinh Yen",
+            "vinhyen"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431607 +0700 +07 m=+0.015552645",
+        "UpdatedAt": "2020-09-29 13:43:11.406579 +0700 +07 m=+43.908450304",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

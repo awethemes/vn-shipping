@@ -1,0 +1,443 @@
+[
+    {
+        "WardCode": "1B1517",
+        "DistrictID": 1542,
+        "WardName": "Phường Yết Kiêu",
+        "NameExtension": [
+            "Phường Yết Kiêu",
+            "P.Yết Kiêu",
+            "P Yết Kiêu",
+            "Yết Kiêu",
+            "Yet Kieu",
+            "Phuong Yet Kieu",
+            "yetkieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398438 +0700 +07 m=+0.034775665",
+        "UpdatedAt": "2020-09-29 13:57:55.798401 +0700 +07 m=+500.455716579",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1516",
+        "DistrictID": 1542,
+        "WardName": "Phường Yên Nghĩa",
+        "NameExtension": [
+            "Phường Yên Nghĩa",
+            "P.Yên Nghĩa",
+            "P Yên Nghĩa",
+            "Yên Nghĩa",
+            "Yen Nghia",
+            "Phuong Yen Nghia",
+            "yennghia"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398461 +0700 +07 m=+0.034798255",
+        "UpdatedAt": "2020-09-29 13:57:56.006397 +0700 +07 m=+500.663708169",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1515",
+        "DistrictID": 1542,
+        "WardName": "Phường Văn Quán",
+        "NameExtension": [
+            "Phường Văn Quán",
+            "P.Văn Quán",
+            "P Văn Quán",
+            "Văn Quán",
+            "Van Quan",
+            "Phuong Van Quan",
+            "vanquan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398435 +0700 +07 m=+0.034772165",
+        "UpdatedAt": "2020-09-29 13:57:56.04733 +0700 +07 m=+500.704640949",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1514",
+        "DistrictID": 1542,
+        "WardName": "Phường Vạn Phúc",
+        "NameExtension": [
+            "Phường Vạn Phúc",
+            "P.Vạn Phúc",
+            "P Vạn Phúc",
+            "Vạn Phúc",
+            "Van Phuc",
+            "Phuong Van Phuc",
+            "vanphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398437 +0700 +07 m=+0.034773887",
+        "UpdatedAt": "2020-09-29 13:57:56.372671 +0700 +07 m=+501.029975780",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1513",
+        "DistrictID": 1542,
+        "WardName": "Phường Quang Trung",
+        "NameExtension": [
+            "Phường Quang Trung",
+            "P.Quang Trung",
+            "P Quang Trung",
+            "Quang Trung",
+            "Phuong Quang Trung",
+            "quangtrung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39844 +0700 +07 m=+0.034777408",
+        "UpdatedAt": "2020-09-29 13:57:56.423269 +0700 +07 m=+501.080572592",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1512",
+        "DistrictID": 1542,
+        "WardName": "Phường Phúc La",
+        "NameExtension": [
+            "Phường Phúc La",
+            "P.Phúc La",
+            "P Phúc La",
+            "Phúc La",
+            "Phuc La",
+            "Phuong Phuc La",
+            "phucla"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398446 +0700 +07 m=+0.034782867",
+        "UpdatedAt": "2020-09-29 13:57:56.488848 +0700 +07 m=+501.146150747",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1511",
+        "DistrictID": 1542,
+        "WardName": "Phường Phú Lương",
+        "NameExtension": [
+            "Phường Phú Lương",
+            "P.Phú Lương",
+            "P Phú Lương",
+            "Phú Lương",
+            "Phu Luong",
+            "Phuong Phu Luong",
+            "phuluong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398466 +0700 +07 m=+0.034803695",
+        "UpdatedAt": "2020-09-29 13:57:56.549154 +0700 +07 m=+501.206455406",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1510",
+        "DistrictID": 1542,
+        "WardName": "Phường Phú Lãm",
+        "NameExtension": [
+            "Phường Phú Lãm",
+            "P.Phú Lãm",
+            "P Phú Lãm",
+            "Phú Lãm",
+            "Phu Lam",
+            "Phuong Phu Lam",
+            "phulam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398464 +0700 +07 m=+0.034801803",
+        "UpdatedAt": "2020-09-29 13:57:56.584593 +0700 +07 m=+501.241893811",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1509",
+        "DistrictID": 1542,
+        "WardName": "Phường Phú La",
+        "NameExtension": [
+            "Phường Phú La",
+            "P.Phú La",
+            "P Phú La",
+            "Phú La",
+            "Phu La",
+            "Phuong Phu La",
+            "phula"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398444 +0700 +07 m=+0.034781024",
+        "UpdatedAt": "2020-09-29 13:57:56.627143 +0700 +07 m=+501.284442806",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1508",
+        "DistrictID": 1542,
+        "WardName": "Phường Nguyễn Trãi",
+        "NameExtension": [
+            "Phường Nguyễn Trãi",
+            "P.Nguyễn Trãi",
+            "P Nguyễn Trãi",
+            "Nguyễn Trãi",
+            "Nguyen Trai",
+            "Phuong Nguyen Trai",
+            "nguyentrai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398431 +0700 +07 m=+0.034768574",
+        "UpdatedAt": "2020-09-29 13:57:56.680544 +0700 +07 m=+501.337843280",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1507",
+        "DistrictID": 1542,
+        "WardName": "Phường Mộ Lao",
+        "NameExtension": [
+            "Phường Mộ Lao",
+            "P.Mộ Lao",
+            "P Mộ Lao",
+            "Mộ Lao",
+            "Mo Lao",
+            "Phuong Mo Lao",
+            "molao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398433 +0700 +07 m=+0.034770380",
+        "UpdatedAt": "2020-09-29 13:57:57.009071 +0700 +07 m=+501.666363370",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1506",
+        "DistrictID": 1542,
+        "WardName": "Phường La Khê",
+        "NameExtension": [
+            "Phường La Khê",
+            "P.La Khê",
+            "P La Khê",
+            "La Khê",
+            "La Khe",
+            "Phuong La Khe",
+            "lakhe"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398442 +0700 +07 m=+0.034779261",
+        "UpdatedAt": "2020-09-29 13:57:57.065992 +0700 +07 m=+501.723283443",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1505",
+        "DistrictID": 1542,
+        "WardName": "Phường Kiến Hưng",
+        "NameExtension": [
+            "Phường Kiến Hưng",
+            "P.Kiến Hưng",
+            "P Kiến Hưng",
+            "Kiến Hưng",
+            "Kien Hung",
+            "Phuong Kien Hung",
+            "kienhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398463 +0700 +07 m=+0.034800053",
+        "UpdatedAt": "2020-09-29 13:57:57.128524 +0700 +07 m=+501.785814087",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1504",
+        "DistrictID": 1542,
+        "WardName": "Phường Hà Cầu",
+        "NameExtension": [
+            "Phường Hà Cầu",
+            "P.Hà Cầu",
+            "P Hà Cầu",
+            "Hà Cầu",
+            "Ha Cau",
+            "Phuong Ha Cau",
+            "hacau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398457 +0700 +07 m=+0.034794403",
+        "UpdatedAt": "2020-09-29 13:57:57.164525 +0700 +07 m=+501.821814900",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1503",
+        "DistrictID": 1542,
+        "WardName": "Phường Dương Nội",
+        "NameExtension": [
+            "Phường Dương Nội",
+            "P.Dương Nội",
+            "P Dương Nội",
+            "Dương Nội",
+            "Duong Noi",
+            "Phuong Duong Noi",
+            "duongnoi"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398469 +0700 +07 m=+0.034805903",
+        "UpdatedAt": "2020-09-29 13:57:57.213225 +0700 +07 m=+501.870513722",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1502",
+        "DistrictID": 1542,
+        "WardName": "Phường Đồng Mai",
+        "NameExtension": [
+            "Phường Đồng Mai",
+            "P.Đồng Mai",
+            "P Đồng Mai",
+            "Đồng Mai",
+            "Dong Mai",
+            "Phuong Dong Mai",
+            "dongmai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39847 +0700 +07 m=+0.034807671",
+        "UpdatedAt": "2020-09-29 13:57:57.271714 +0700 +07 m=+501.929001285",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "1B1501",
+        "DistrictID": 1542,
+        "WardName": "Phường Biên Giang",
+        "NameExtension": [
+            "Phường Biên Giang",
+            "P.Biên Giang",
+            "P Biên Giang",
+            "Biên Giang",
+            "Bien Giang",
+            "Phuong Bien Giang",
+            "biengiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.398472 +0700 +07 m=+0.034809507",
+        "UpdatedAt": "2020-09-29 13:57:57.59291 +0700 +07 m=+502.250191576",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

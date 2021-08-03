@@ -1,0 +1,185 @@
+[
+    {
+        "WardCode": "290207",
+        "DistrictID": 1842,
+        "WardName": "Phường Thu Thuỷ",
+        "NameExtension": [
+            "Phường Thu Thuỷ",
+            "P.Thu Thuỷ",
+            "P Thu Thuỷ",
+            "Thu Thuỷ",
+            "Thu Thuy",
+            "Phuong Thu Thuy",
+            "Phường Thu Thủy",
+            "thuthuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405698 +0700 +07 m=+0.042035329",
+        "UpdatedAt": "2020-09-29 13:55:04.283887 +0700 +07 m=+328.944458539",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290206",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Thuỷ",
+        "NameExtension": [
+            "Phường Nghi Thuỷ",
+            "P.Nghi Thuỷ",
+            "P Nghi Thuỷ",
+            "Nghi Thuỷ",
+            "Nghi Thuy",
+            "Phuong Nghi Thuy",
+            "Phường Nghi Thủy",
+            "nghithuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405695 +0700 +07 m=+0.042032317",
+        "UpdatedAt": "2020-09-29 13:55:04.331345 +0700 +07 m=+328.991915583",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290205",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Thu",
+        "NameExtension": [
+            "Phường Nghi Thu",
+            "P.Nghi Thu",
+            "P Nghi Thu",
+            "Nghi Thu",
+            "Phuong Nghi Thu",
+            "nghithu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405704 +0700 +07 m=+0.042041352",
+        "UpdatedAt": "2020-09-29 13:55:04.376639 +0700 +07 m=+329.037208218",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290204",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Tân",
+        "NameExtension": [
+            "Phường Nghi Tân",
+            "P.Nghi Tân",
+            "P Nghi Tân",
+            "Nghi Tân",
+            "Nghi Tan",
+            "Phuong Nghi Tan",
+            "nghitan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405696 +0700 +07 m=+0.042033775",
+        "UpdatedAt": "2020-09-29 13:55:04.415979 +0700 +07 m=+329.076547678",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290203",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Hương",
+        "NameExtension": [
+            "Phường Nghi Hương",
+            "P.Nghi Hương",
+            "P Nghi Hương",
+            "Nghi Hương",
+            "Nghi Huong",
+            "Phuong Nghi Huong",
+            "nghihuong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405703 +0700 +07 m=+0.042039857",
+        "UpdatedAt": "2020-09-29 13:55:04.450515 +0700 +07 m=+329.111082839",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290202",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Hòa",
+        "NameExtension": [
+            "Phường Nghi Hòa",
+            "P.Nghi Hòa",
+            "P Nghi Hòa",
+            "Nghi Hòa",
+            "Nghi Hoa",
+            "Phuong Nghi Hoa",
+            "nghihoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.4057 +0700 +07 m=+0.042036864",
+        "UpdatedAt": "2020-09-29 13:55:04.485301 +0700 +07 m=+329.145868036",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "290201",
+        "DistrictID": 1842,
+        "WardName": "Phường Nghi Hải",
+        "NameExtension": [
+            "Phường Nghi Hải",
+            "P.Nghi Hải",
+            "P Nghi Hải",
+            "Nghi Hải",
+            "Nghi Hai",
+            "Phuong Nghi Hai",
+            "nghihai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.405701 +0700 +07 m=+0.042038395",
+        "UpdatedAt": "2020-09-29 13:55:04.52005 +0700 +07 m=+329.180616504",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

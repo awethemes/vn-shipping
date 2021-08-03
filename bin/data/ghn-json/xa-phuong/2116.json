@@ -1,0 +1,79 @@
+[
+    {
+        "WardCode": "470903",
+        "DistrictID": 2116,
+        "WardName": "Xã Tam Thanh",
+        "NameExtension": [
+            "Xã Tam Thanh",
+            "X.Tam Thanh",
+            "X Tam Thanh",
+            "Tam Thanh",
+            "Xa Tam Thanh",
+            "tamthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.39432 +0700 +07 m=+0.030656975",
+        "UpdatedAt": "2020-09-29 13:52:17.035944 +0700 +07 m=+161.699689804",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "470902",
+        "DistrictID": 2116,
+        "WardName": "Xã Ngũ Phụng",
+        "NameExtension": [
+            "Xã Ngũ Phụng",
+            "X.Ngũ Phụng",
+            "X Ngũ Phụng",
+            "Ngũ Phụng",
+            "Ngu Phung",
+            "Xa Ngu Phung",
+            "nguphung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394317 +0700 +07 m=+0.030654173",
+        "UpdatedAt": "2020-09-29 13:52:17.076869 +0700 +07 m=+161.740613456",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "470901",
+        "DistrictID": 2116,
+        "WardName": "Xã Long Hải",
+        "NameExtension": [
+            "Xã Long Hải",
+            "X.Long Hải",
+            "X Long Hải",
+            "Long Hải",
+            "Long Hai",
+            "Xa Long Hai",
+            "longhai"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.394318 +0700 +07 m=+0.030655569",
+        "UpdatedAt": "2020-09-29 13:52:17.118533 +0700 +07 m=+161.782277155",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "DistrictID": 2027,
+        "ProvinceID": 232,
+        "DistrictName": "Huyện Thanh Liêm",
+        "Code": "2405",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Liêm",
+            "H.Thanh Liêm",
+            "H Thanh Liêm",
+            "Thanh Liêm",
+            "Thanh Liem",
+            "Huyen Thanh Liem",
+            "thanhliem"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432769 +0700 +07 m=+0.016714745",
+        "UpdatedAt": "2020-09-29 13:42:53.768339 +0700 +07 m=+26.270544429",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1970,
+        "ProvinceID": 232,
+        "DistrictName": "Huyện Lý Nhân",
+        "Code": "2404",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lý Nhân",
+            "H.Lý Nhân",
+            "H Lý Nhân",
+            "Lý Nhân",
+            "Ly Nhan",
+            "Huyen Ly Nhan",
+            "lynhan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432536 +0700 +07 m=+0.016481481",
+        "UpdatedAt": "2020-09-29 13:42:56.324906 +0700 +07 m=+28.827063003",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1952,
+        "ProvinceID": 232,
+        "DistrictName": "Huyện Kim Bảng",
+        "Code": "2403",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kim Bảng",
+            "H.Kim Bảng",
+            "H Kim Bảng",
+            "Kim Bảng",
+            "Kim Bang",
+            "Huyen Kim Bang",
+            "kimbang"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432498 +0700 +07 m=+0.016443501",
+        "UpdatedAt": "2020-09-29 13:42:57.126496 +0700 +07 m=+29.628638210",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1897,
+        "ProvinceID": 232,
+        "DistrictName": "Huyện Bình Lục",
+        "Code": "2406",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Lục",
+            "H.Bình Lục",
+            "H Bình Lục",
+            "Bình Lục",
+            "Binh Luc",
+            "Huyen Binh Luc",
+            "binhluc"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431964 +0700 +07 m=+0.015910113",
+        "UpdatedAt": "2020-09-29 13:42:59.721774 +0700 +07 m=+32.223866648",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1802,
+        "ProvinceID": 232,
+        "DistrictName": "Thị xã Duy Tiên",
+        "Code": "2402",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Duy Tiên",
+            "H.Duy Tiên",
+            "H Duy Tiên",
+            "Duy Tiên",
+            "Duy Tien",
+            "Huyen Duy Tien",
+            "Thị xã Duy Tiên",
+            "duytien",
+            "TX Duy Tiên",
+            "TX Duy Tien"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432301 +0700 +07 m=+0.016247273",
+        "UpdatedAt": "2020-09-29 13:43:04.01431 +0700 +07 m=+36.516321142",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:51:59.215Z"
+    },
+    {
+        "DistrictID": 1614,
+        "ProvinceID": 232,
+        "DistrictName": "Thành phố Phủ Lý",
+        "Code": "2401",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Phủ Lý",
+            "Thị Xã Phủ Lý",
+            "TP.Phủ Lý",
+            "TP Phủ Lý",
+            "Phủ Lý",
+            "Phu Ly",
+            "Thanh pho Phu Ly",
+            "phuly"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431629 +0700 +07 m=+0.015574367",
+        "UpdatedAt": "2020-09-29 13:43:10.673842 +0700 +07 m=+43.175727007",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

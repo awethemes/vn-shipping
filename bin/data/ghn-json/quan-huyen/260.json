@@ -1,0 +1,269 @@
+[
+    {
+        "DistrictID": 3284,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Tuy An",
+        "Code": "3904",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tuy An",
+            "H.Tuy An",
+            "H Tuy An",
+            "Tuy An",
+            "Huyen Tuy An",
+            "tuyan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432737 +0700 +07 m=+0.016682732",
+        "UpdatedAt": "2020-09-29 13:42:42.929942 +0700 +07 m=+15.432353850",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3278,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Tây Hòa",
+        "Code": "3909",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tây Hòa",
+            "H.Tây Hòa",
+            "H Tây Hòa",
+            "Tây Hòa",
+            "Tay Hoa",
+            "Huyen Tay Hoa",
+            "tayhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432055 +0700 +07 m=+0.016001150",
+        "UpdatedAt": "2020-09-29 13:42:43.165214 +0700 +07 m=+15.667620521",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3186,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Đồng Xuân",
+        "Code": "3902",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đồng Xuân",
+            "H.Đồng Xuân",
+            "H Đồng Xuân",
+            "Đồng Xuân",
+            "Dong Xuan",
+            "Huyen Dong Xuan",
+            "dongxuan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432058 +0700 +07 m=+0.016004186",
+        "UpdatedAt": "2020-09-29 13:42:45.518857 +0700 +07 m=+18.021219818",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3184,
+        "ProvinceID": 260,
+        "DistrictName": "Thị xã Đông Hòa",
+        "Code": "3907",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đông Hòa",
+            "H.Đông Hòa",
+            "H Đông Hòa",
+            "Đông Hòa",
+            "Dong Hoa",
+            "Huyen Dong Hoa",
+            "donghoa",
+            "Thị xã Đông Hòa",
+            "TX Đông Hòa",
+            "TX Dong Hoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432072 +0700 +07 m=+0.016018044",
+        "UpdatedAt": "2020-09-29 13:42:45.616912 +0700 +07 m=+18.119272606",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-01-19T06:59:31.878Z"
+    },
+    {
+        "DistrictID": 2211,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Sơn Hòa",
+        "Code": "3905",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sơn Hòa",
+            "H.Sơn Hòa",
+            "H Sơn Hòa",
+            "Sơn Hòa",
+            "Son Hoa",
+            "Huyen Son Hoa",
+            "Huyện Sơn Hoà",
+            "sonhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432092 +0700 +07 m=+0.016037402",
+        "UpdatedAt": "2020-09-29 13:42:48.080631 +0700 +07 m=+20.582944904",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "14.161.15.48",
+        "UpdatedEmployee": 1718600,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-09-28T06:43:34.094Z"
+    },
+    {
+        "DistrictID": 2206,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Sông Hinh",
+        "Code": "3906",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sông Hinh",
+            "H.Sông Hinh",
+            "H Sông Hinh",
+            "Sông Hinh",
+            "Song Hinh",
+            "Huyen Song Hinh",
+            "songhinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432089 +0700 +07 m=+0.016034406",
+        "UpdatedAt": "2020-09-29 13:42:48.182045 +0700 +07 m=+20.684356427",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1993,
+        "ProvinceID": 260,
+        "DistrictName": "Huyện Phú Hòa",
+        "Code": "3908",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phú Hòa",
+            "H.Phú Hòa",
+            "H Phú Hòa",
+            "Phú Hòa",
+            "Phu Hoa",
+            "Huyen Phu Hoa",
+            "Huyện Phú Hoà",
+            "phuhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432574 +0700 +07 m=+0.016519574",
+        "UpdatedAt": "2020-09-29 13:42:55.043519 +0700 +07 m=+27.545700067",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.205.29.215",
+        "UpdatedEmployee": 1718600,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-09-28T07:16:53.848Z"
+    },
+    {
+        "DistrictID": 1856,
+        "ProvinceID": 260,
+        "DistrictName": "Thị Xã Sông Cầu",
+        "Code": "3903",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị Xã Sông Cầu",
+            "TX.Sông Cầu",
+            "TX Sông Cầu",
+            "Sông Cầu",
+            "Thi Xa Song Cau",
+            "songcau"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431869 +0700 +07 m=+0.015814672",
+        "UpdatedAt": "2020-09-29 13:43:01.521408 +0700 +07 m=+34.023466536",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1663,
+        "ProvinceID": 260,
+        "DistrictName": "Thành phố Tuy Hòa",
+        "Code": "3901",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Tuy Hòa",
+            "TP.Tuy Hòa",
+            "TP Tuy Hòa",
+            "Tuy Hòa",
+            "Tuy Hoa",
+            "Thanh pho Tuy Hoa",
+            "tuyhoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432198 +0700 +07 m=+0.016143944",
+        "UpdatedAt": "2020-09-29 13:43:09.670448 +0700 +07 m=+42.172351957",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

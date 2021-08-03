@@ -1,0 +1,464 @@
+[
+    {
+        "WardCode": "800152",
+        "DistrictID": 1881,
+        "WardName": "Xã Minh Tân",
+        "NameExtension": [
+            "Xã Minh Tân",
+            "Minh Tan",
+            "Xa Minh Tan",
+            "minhtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:11.432057 +0700 +07 m=+36.098186693",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800133",
+        "DistrictID": 1881,
+        "WardName": "Xã Ninh Khang",
+        "NameExtension": [
+            "Xã Ninh Khang",
+            "Ninh Khang",
+            "Xa Ninh Khang",
+            "ninhkhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:12.306324 +0700 +07 m=+36.972437094",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281616",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Yên",
+        "NameExtension": [
+            "Xã Vĩnh Yên",
+            "X.Vĩnh Yên",
+            "X Vĩnh Yên",
+            "Vĩnh Yên",
+            "Vinh Yen",
+            "Xa Vinh Yen",
+            "vinhyen"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412145 +0700 +07 m=+0.048482636",
+        "UpdatedAt": "2020-09-29 13:55:23.531595 +0700 +07 m=+348.191800816",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281615",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Tiến",
+        "NameExtension": [
+            "Xã Vĩnh Tiến",
+            "X.Vĩnh Tiến",
+            "X Vĩnh Tiến",
+            "Vĩnh Tiến",
+            "Vinh Tien",
+            "Xa Vinh Tien",
+            "vinhtien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412147 +0700 +07 m=+0.048484110",
+        "UpdatedAt": "2020-09-29 13:55:23.580398 +0700 +07 m=+348.240602449",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281614",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Thịnh",
+        "NameExtension": [
+            "Xã Vĩnh Thịnh",
+            "X.Vĩnh Thịnh",
+            "X Vĩnh Thịnh",
+            "Vĩnh Thịnh",
+            "Vinh Thinh",
+            "Xa Vinh Thinh",
+            "vinhthinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412162 +0700 +07 m=+0.048498887",
+        "UpdatedAt": "2020-09-29 13:55:23.625951 +0700 +07 m=+348.286154725",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281613",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Thành",
+        "NameExtension": [
+            "Xã Vĩnh Thành",
+            "X.Vĩnh Thành",
+            "X Vĩnh Thành",
+            "Vĩnh Thành",
+            "Vinh Thanh",
+            "Xa Vinh Thanh",
+            "vinhthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412143 +0700 +07 m=+0.048479949",
+        "UpdatedAt": "2020-09-29 13:55:23.685328 +0700 +07 m=+348.345530481",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281612",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Tân",
+        "NameExtension": [
+            "Xã Vĩnh Tân",
+            "X.Vĩnh Tân",
+            "X Vĩnh Tân",
+            "Vĩnh Tân",
+            "Vinh Tan",
+            "Xa Vinh Tan",
+            "vinhtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412159 +0700 +07 m=+0.048496020",
+        "UpdatedAt": "2020-09-29 13:55:23.728459 +0700 +07 m=+348.388661234",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281611",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Quang",
+        "NameExtension": [
+            "Xã Vĩnh Quang",
+            "X.Vĩnh Quang",
+            "X Vĩnh Quang",
+            "Vĩnh Quang",
+            "Vinh Quang",
+            "Xa Vinh Quang",
+            "vinhquang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412144 +0700 +07 m=+0.048481285",
+        "UpdatedAt": "2020-09-29 13:55:23.78412 +0700 +07 m=+348.444321251",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281610",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Phúc",
+        "NameExtension": [
+            "Xã Vĩnh Phúc",
+            "X.Vĩnh Phúc",
+            "X Vĩnh Phúc",
+            "Vĩnh Phúc",
+            "Vinh Phuc",
+            "Xa Vinh Phuc",
+            "vinhphuc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41215 +0700 +07 m=+0.048487738",
+        "UpdatedAt": "2020-09-29 13:55:24.111744 +0700 +07 m=+348.771938244",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281609",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Ninh",
+        "NameExtension": [
+            "Xã Vĩnh Ninh",
+            "X.Vĩnh Ninh",
+            "X Vĩnh Ninh",
+            "Vĩnh Ninh",
+            "Vinh Ninh",
+            "Xa Vinh Ninh",
+            "vinhninh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.41216 +0700 +07 m=+0.048497471",
+        "UpdatedAt": "2020-09-29 13:55:24.159672 +0700 +07 m=+348.819865997",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281608",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Minh",
+        "NameExtension": [
+            "Xã Vĩnh Minh",
+            "X.Vĩnh Minh",
+            "X Vĩnh Minh",
+            "Vĩnh Minh",
+            "Vinh Minh",
+            "Xa Vinh Minh",
+            "vinhminh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412153 +0700 +07 m=+0.048490489",
+        "UpdatedAt": "2020-09-29 13:55:24.208479 +0700 +07 m=+348.868671620",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281607",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Long",
+        "NameExtension": [
+            "Xã Vĩnh Long",
+            "X.Vĩnh Long",
+            "X Vĩnh Long",
+            "Vĩnh Long",
+            "Vinh Long",
+            "Xa Vinh Long",
+            "vinhlong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412149 +0700 +07 m=+0.048485921",
+        "UpdatedAt": "2020-09-29 13:55:24.243653 +0700 +07 m=+348.903844623",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281606",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Khang",
+        "NameExtension": [
+            "Xã Vĩnh Khang",
+            "X.Vĩnh Khang",
+            "X Vĩnh Khang",
+            "Vĩnh Khang",
+            "Vinh Khang",
+            "Xa Vinh Khang",
+            "vinhkhang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412155 +0700 +07 m=+0.048491849",
+        "UpdatedAt": "2020-09-29 13:55:24.299983 +0700 +07 m=+348.960174415",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281605",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Hưng",
+        "NameExtension": [
+            "Xã Vĩnh Hưng",
+            "X.Vĩnh Hưng",
+            "X Vĩnh Hưng",
+            "Vĩnh Hưng",
+            "Vinh Hung",
+            "Xa Vinh Hung",
+            "vinhhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412152 +0700 +07 m=+0.048489122",
+        "UpdatedAt": "2020-09-29 13:55:24.346571 +0700 +07 m=+349.006761676",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281604",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Hùng",
+        "NameExtension": [
+            "Xã Vĩnh Hùng",
+            "X.Vĩnh Hùng",
+            "X Vĩnh Hùng",
+            "Vĩnh Hùng",
+            "Vinh Hung",
+            "Xa Vinh Hung",
+            "vinhhung"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412157 +0700 +07 m=+0.048494579",
+        "UpdatedAt": "2020-09-29 13:55:24.384888 +0700 +07 m=+349.045077321",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281603",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh Hòa",
+        "NameExtension": [
+            "Xã Vĩnh Hòa",
+            "X.Vĩnh Hòa",
+            "X Vĩnh Hòa",
+            "Vĩnh Hòa",
+            "Vinh Hoa",
+            "Xa Vinh Hoa",
+            "vinhhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412156 +0700 +07 m=+0.048493217",
+        "UpdatedAt": "2020-09-29 13:55:24.423681 +0700 +07 m=+349.083870122",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281602",
+        "DistrictID": 1881,
+        "WardName": "Xã Vĩnh An",
+        "NameExtension": [
+            "Xã Vĩnh An",
+            "X.Vĩnh An",
+            "X Vĩnh An",
+            "Vĩnh An",
+            "Vinh An",
+            "Xa Vinh An",
+            "vinhan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412163 +0700 +07 m=+0.048500264",
+        "UpdatedAt": "2020-09-29 13:55:24.47279 +0700 +07 m=+349.132978222",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "281601",
+        "DistrictID": 1881,
+        "WardName": "Thị trấn Vĩnh Lộc",
+        "NameExtension": [
+            "Thị trấn Vĩnh Lộc",
+            "TT.Vĩnh Lộc",
+            "TT Vĩnh Lộc",
+            "Vĩnh Lộc",
+            "Vinh Loc",
+            "Thi tran Vinh Loc",
+            "vinhloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.412141 +0700 +07 m=+0.048478566",
+        "UpdatedAt": "2020-09-29 13:55:24.533028 +0700 +07 m=+349.193214487",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

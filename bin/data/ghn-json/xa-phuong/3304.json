@@ -1,0 +1,400 @@
+[
+    {
+        "WardCode": "800299",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Tây",
+        "NameExtension": [
+            "Xã Trà Tây",
+            "Tra Tay",
+            "Xa Tra Tay",
+            "tratay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.163607 +0700 +07 m=+26.829911956",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800298",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Xinh",
+        "NameExtension": [
+            "Xã Trà Xinh",
+            "Tra Xinh",
+            "Xa Tra Xinh",
+            "traxinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.204169 +0700 +07 m=+26.870474139",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800297",
+        "DistrictID": 3304,
+        "WardName": "Xã Hương Trà",
+        "NameExtension": [
+            "Xã Hương Trà",
+            "Huong Tra",
+            "Xa Huong Tra",
+            "huongtra"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.239375 +0700 +07 m=+26.905678998",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800296",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Phong",
+        "NameExtension": [
+            "Xã Trà Phong",
+            "Tra Phong",
+            "Xa Tra Phong",
+            "traphong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.304557 +0700 +07 m=+26.970859864",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800295",
+        "DistrictID": 3304,
+        "WardName": "Xã Sơn Trà",
+        "NameExtension": [
+            "Xã Sơn Trà",
+            "Son Tra",
+            "Xa Son Tra",
+            "sontra"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.342081 +0700 +07 m=+27.008383111",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "800294",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Thanh",
+        "NameExtension": [
+            "Xã Trà Thanh",
+            "Tra Thanh",
+            "Xa Tra Thanh",
+            "trathanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
+        "UpdatedAt": "2020-09-29 13:50:02.391013 +0700 +07 m=+27.057313580",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350410",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Thủy",
+        "NameExtension": [
+            "Xã Trà Thủy",
+            "X.Trà Thủy",
+            "X Trà Thủy",
+            "Trà Thủy",
+            "Tra Thuy",
+            "Xa Tra Thuy",
+            "trathuy"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408698 +0700 +07 m=+0.045035541",
+        "UpdatedAt": "2020-09-29 13:53:43.080055 +0700 +07 m=+247.742167451",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350409",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Tân",
+        "NameExtension": [
+            "Xã Trà Tân",
+            "X.Trà Tân",
+            "X Trà Tân",
+            "Trà Tân",
+            "Tra Tan",
+            "Xa Tra Tan",
+            "tratan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408706 +0700 +07 m=+0.045042860",
+        "UpdatedAt": "2020-09-29 13:53:43.118431 +0700 +07 m=+247.780542671",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350408",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Sơn",
+        "NameExtension": [
+            "Xã Trà Sơn",
+            "X.Trà Sơn",
+            "X Trà Sơn",
+            "Trà Sơn",
+            "Tra Son",
+            "Xa Tra Son",
+            "trason"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408707 +0700 +07 m=+0.045044202",
+        "UpdatedAt": "2020-09-29 13:53:43.151954 +0700 +07 m=+247.814065033",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350407",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Phú",
+        "NameExtension": [
+            "Xã Trà Phú",
+            "X.Trà Phú",
+            "X Trà Phú",
+            "Trà Phú",
+            "Tra Phu",
+            "Xa Tra Phu",
+            "traphu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408703 +0700 +07 m=+0.045040125",
+        "UpdatedAt": "2020-09-29 13:53:43.187065 +0700 +07 m=+247.849175129",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350406",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Lâm",
+        "NameExtension": [
+            "Xã Trà Lâm",
+            "X.Trà Lâm",
+            "X Trà Lâm",
+            "Trà Lâm",
+            "Tra Lam",
+            "Xa Tra Lam",
+            "tralam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408704 +0700 +07 m=+0.045041475",
+        "UpdatedAt": "2020-09-29 13:53:43.244034 +0700 +07 m=+247.906143771",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350405",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Hiệp",
+        "NameExtension": [
+            "Xã Trà Hiệp",
+            "X.Trà Hiệp",
+            "X Trà Hiệp",
+            "Trà Hiệp",
+            "Tra Hiep",
+            "Xa Tra Hiep",
+            "trahiep"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.4087 +0700 +07 m=+0.045036903",
+        "UpdatedAt": "2020-09-29 13:53:43.280187 +0700 +07 m=+247.942296062",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350404",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Giang",
+        "NameExtension": [
+            "Xã Trà Giang",
+            "X.Trà Giang",
+            "X Trà Giang",
+            "Trà Giang",
+            "Tra Giang",
+            "Xa Tra Giang",
+            "tragiang"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408697 +0700 +07 m=+0.045034109",
+        "UpdatedAt": "2020-09-29 13:53:43.315257 +0700 +07 m=+247.977364445",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350403",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Bùi",
+        "NameExtension": [
+            "Xã Trà Bùi",
+            "X.Trà Bùi",
+            "X Trà Bùi",
+            "Trà Bùi",
+            "Tra Bui",
+            "Xa Tra Bui",
+            "trabui"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408708 +0700 +07 m=+0.045045567",
+        "UpdatedAt": "2020-09-29 13:53:43.38147 +0700 +07 m=+248.043576606",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350402",
+        "DistrictID": 3304,
+        "WardName": "Xã Trà Bình",
+        "NameExtension": [
+            "Xã Trà Bình",
+            "X.Trà Bình",
+            "X Trà Bình",
+            "Trà Bình",
+            "Tra Binh",
+            "Xa Tra Binh",
+            "trabinh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408701 +0700 +07 m=+0.045038737",
+        "UpdatedAt": "2020-09-29 13:53:43.427144 +0700 +07 m=+248.089249340",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "350401",
+        "DistrictID": 3304,
+        "WardName": "Thị trấn Trà Xuân",
+        "NameExtension": [
+            "Thị trấn Trà Xuân",
+            "TT.Trà Xuân",
+            "TT Trà Xuân",
+            "Trà Xuân",
+            "Tra Xuan",
+            "Thi tran Tra Xuan",
+            "traxuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.408695 +0700 +07 m=+0.045032688",
+        "UpdatedAt": "2020-09-29 13:53:43.482017 +0700 +07 m=+248.144121575",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "WardCode": "420211",
+        "DistrictID": 1838,
+        "WardName": "Xã Lộc Thanh",
+        "NameExtension": [
+            "Xã Lộc Thanh",
+            "X.Lộc Thanh",
+            "X Lộc Thanh",
+            "Lộc Thanh",
+            "Loc Thanh",
+            "Xa Loc Thanh",
+            "locthanh"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402677 +0700 +07 m=+0.039014432",
+        "UpdatedAt": "2020-09-29 13:52:47.624918 +0700 +07 m=+192.288082976",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420210",
+        "DistrictID": 1838,
+        "WardName": "Xã Lộc Nga",
+        "NameExtension": [
+            "Xã Lộc Nga",
+            "X.Lộc Nga",
+            "X Lộc Nga",
+            "Lộc Nga",
+            "Loc Nga",
+            "Xa Loc Nga",
+            "locnga"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402678 +0700 +07 m=+0.039015813",
+        "UpdatedAt": "2020-09-29 13:52:47.665728 +0700 +07 m=+192.328892486",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420209",
+        "DistrictID": 1838,
+        "WardName": "Xã Lộc Châu",
+        "NameExtension": [
+            "Xã Lộc Châu",
+            "X.Lộc Châu",
+            "X Lộc Châu",
+            "Lộc Châu",
+            "Loc Chau",
+            "Xa Loc Chau",
+            "locchau"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40268 +0700 +07 m=+0.039017204",
+        "UpdatedAt": "2020-09-29 13:52:47.708207 +0700 +07 m=+192.371370306",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420208",
+        "DistrictID": 1838,
+        "WardName": "Xã Đạm Bri",
+        "NameExtension": [
+            "Xã Đạm Bri",
+            "X.Đạm Bri",
+            "X Đạm Bri",
+            "Đạm Bri",
+            "Dam Bri",
+            "Xa Dam Bri",
+            "dambri"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402676 +0700 +07 m=+0.039013023",
+        "UpdatedAt": "2020-09-29 13:52:47.744475 +0700 +07 m=+192.407637652",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420207",
+        "DistrictID": 1838,
+        "WardName": "Xã Đại Lào",
+        "NameExtension": [
+            "Xã Đại Lào",
+            "X.Đại Lào",
+            "X Đại Lào",
+            "Đại Lào",
+            "Dai Lao",
+            "Xa Dai Lao",
+            "dailao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402681 +0700 +07 m=+0.039018662",
+        "UpdatedAt": "2020-09-29 13:52:47.780367 +0700 +07 m=+192.443528891",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420206",
+        "DistrictID": 1838,
+        "WardName": "Phường Lộc Tiến",
+        "NameExtension": [
+            "Phường Lộc Tiến",
+            "P.Lộc Tiến",
+            "P Lộc Tiến",
+            "Lộc Tiến",
+            "Loc Tien",
+            "Phuong Loc Tien",
+            "loctien"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402668 +0700 +07 m=+0.039005527",
+        "UpdatedAt": "2020-09-29 13:52:47.817861 +0700 +07 m=+192.481022446",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420205",
+        "DistrictID": 1838,
+        "WardName": "Phường Lộc Sơn",
+        "NameExtension": [
+            "Phường Lộc Sơn",
+            "P.Lộc Sơn",
+            "P Lộc Sơn",
+            "Lộc Sơn",
+            "Loc Son",
+            "Phuong Loc Son",
+            "locson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402674 +0700 +07 m=+0.039011546",
+        "UpdatedAt": "2020-09-29 13:52:47.875475 +0700 +07 m=+192.538635214",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420204",
+        "DistrictID": 1838,
+        "WardName": "Phường Lộc Phát",
+        "NameExtension": [
+            "Phường Lộc Phát",
+            "P.Lộc Phát",
+            "P Lộc Phát",
+            "Lộc Phát",
+            "Loc Phat",
+            "Phuong Loc Phat",
+            "locphat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402667 +0700 +07 m=+0.039004028",
+        "UpdatedAt": "2020-09-29 13:52:47.910524 +0700 +07 m=+192.573683996",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420203",
+        "DistrictID": 1838,
+        "WardName": "Phường B'lao",
+        "NameExtension": [
+            "Phường B'lao",
+            "P.B'lao",
+            "P B'lao",
+            "B'lao",
+            "Phuong B'lao",
+            "blao"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402673 +0700 +07 m=+0.039010096",
+        "UpdatedAt": "2020-09-29 13:52:47.943698 +0700 +07 m=+192.606856629",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420202",
+        "DistrictID": 1838,
+        "WardName": "Phường 2",
+        "NameExtension": [
+            "Phường 2",
+            "P.2",
+            "P 2",
+            "2",
+            "Phuong 2"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.40267 +0700 +07 m=+0.039007215",
+        "UpdatedAt": "13 May 20 18:17 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "420201",
+        "DistrictID": 1838,
+        "WardName": "Phường 1",
+        "NameExtension": [
+            "Phường 1",
+            "P.1",
+            "P 1",
+            "1",
+            "Phuong 1"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402671 +0700 +07 m=+0.039008576",
+        "UpdatedAt": "13 May 20 18:17 +07",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

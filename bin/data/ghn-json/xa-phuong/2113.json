@@ -1,0 +1,105 @@
+[
+    {
+        "WardCode": "541304",
+        "DistrictID": 2113,
+        "WardName": "Xã Nam Du",
+        "NameExtension": [
+            "Xã Nam Du",
+            "X.Nam Du",
+            "X Nam Du",
+            "Nam Du",
+            "Xa Nam Du",
+            "namdu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402321 +0700 +07 m=+0.038657867",
+        "UpdatedAt": "2020-09-29 13:51:24.502681 +0700 +07 m=+109.167423041",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541303",
+        "DistrictID": 2113,
+        "WardName": "Xã Lại Sơn",
+        "NameExtension": [
+            "Xã Lại Sơn",
+            "X.Lại Sơn",
+            "X Lại Sơn",
+            "Lại Sơn",
+            "Lai Son",
+            "Xa Lai Son",
+            "laison"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402318 +0700 +07 m=+0.038655104",
+        "UpdatedAt": "2020-09-29 13:51:24.543276 +0700 +07 m=+109.208018011",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541302",
+        "DistrictID": 2113,
+        "WardName": "Xã Hòn Tre",
+        "NameExtension": [
+            "Xã Hòn Tre",
+            "X.Hòn Tre",
+            "X Hòn Tre",
+            "Hòn Tre",
+            "Hon Tre",
+            "Xa Hon Tre",
+            "hontre"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402316 +0700 +07 m=+0.038653732",
+        "UpdatedAt": "2020-09-29 13:51:24.57801 +0700 +07 m=+109.242750766",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "541301",
+        "DistrictID": 2113,
+        "WardName": "Xã An Sơn",
+        "NameExtension": [
+            "Xã An Sơn",
+            "X.An Sơn",
+            "X An Sơn",
+            "An Sơn",
+            "An Son",
+            "Xa An Son",
+            "anson"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402319 +0700 +07 m=+0.038656502",
+        "UpdatedAt": "2020-09-29 13:51:24.616052 +0700 +07 m=+109.280791939",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

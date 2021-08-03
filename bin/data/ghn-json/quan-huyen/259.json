@@ -1,0 +1,299 @@
+[
+    {
+        "DistrictID": 3446,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Ia H Drai",
+        "Code": "3610",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ia H Drai",
+            "Huyện Ia H' Drai",
+            "H.Ia H Drai",
+            "H Ia H Drai",
+            "Ia H Drai",
+            "Ia H'Drai",
+            "Huyen Ia H Drai",
+            "Huyen Ia H'Drai",
+            "Ia HDrai",
+            "Huyện Ia H' Drai",
+            "iahdrai"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432117 +0700 +07 m=+0.016063155",
+        "UpdatedAt": "2020-09-29 13:42:41.29855 +0700 +07 m=+13.800992713",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2225,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Tu Mơ Rông",
+        "Code": "3609",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tu Mơ Rông",
+            "H.Tu Mơ Rông",
+            "H Tu Mơ Rông",
+            "Tu Mơ Rông",
+            "Tu Mo Rong",
+            "Huyen Tu Mo Rong",
+            "tumorong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432099 +0700 +07 m=+0.016044635",
+        "UpdatedAt": "2020-09-29 13:42:47.803169 +0700 +07 m=+20.305487841",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-04-08T02:27:51.227Z"
+    },
+    {
+        "DistrictID": 2205,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Sa Thầy",
+        "Code": "3605",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Sa Thầy",
+            "H.Sa Thầy",
+            "H Sa Thầy",
+            "Sa Thầy",
+            "Sa Thay",
+            "Huyen Sa Thay",
+            "sathay"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432087 +0700 +07 m=+0.016032991",
+        "UpdatedAt": "2020-09-29 13:42:48.216529 +0700 +07 m=+20.718840147",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2187,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Ngọc Hồi",
+        "Code": "3603",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Ngọc Hồi",
+            "H.Ngọc Hồi",
+            "H Ngọc Hồi",
+            "Ngọc Hồi",
+            "Ngoc Hoi",
+            "Huyen Ngoc Hoi",
+            "ngochoi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432068 +0700 +07 m=+0.016014209",
+        "UpdatedAt": "2020-09-29 13:42:48.597314 +0700 +07 m=+21.099617993",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2148,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Kon Rẫy",
+        "Code": "3608",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kon Rẫy",
+            "H.Kon Rẫy",
+            "H Kon Rẫy",
+            "Kon Rẫy",
+            "Kon Ray",
+            "Huyen Kon Ray",
+            "konray"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432019 +0700 +07 m=+0.015964836",
+        "UpdatedAt": "2020-09-29 13:42:49.65143 +0700 +07 m=+22.153714045",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2121,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Đắk Tô",
+        "Code": "3604",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Tô",
+            "H.Đắk Tô",
+            "H Đắk Tô",
+            "Đắk Tô",
+            "Dak To",
+            "Huyen Dak To",
+            "dakto"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431986 +0700 +07 m=+0.015931530",
+        "UpdatedAt": "2020-09-29 13:42:50.21449 +0700 +07 m=+22.716763099",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1921,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Đắk Glei",
+        "Code": "3602",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Glei",
+            "H.Đắk Glei",
+            "H Đắk Glei",
+            "Đắk Glei",
+            "Dak Glei",
+            "Huyen Dak Glei",
+            "dakglei"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.4324 +0700 +07 m=+0.016345540",
+        "UpdatedAt": "2020-09-29 13:42:58.603411 +0700 +07 m=+31.105524595",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1835,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Đắk Hà",
+        "Code": "3607",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đắk Hà",
+            "H.Đắk Hà",
+            "H Đắk Hà",
+            "Đắk Hà",
+            "Dak Ha",
+            "Huyen Dak Ha",
+            "Huyện Đak Hà",
+            "dakha"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431834 +0700 +07 m=+0.015779426",
+        "UpdatedAt": "2020-09-29 13:43:02.548641 +0700 +07 m=+35.050680645",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.205.29.215",
+        "UpdatedEmployee": 1718600,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-09-28T06:53:49.272Z"
+    },
+    {
+        "DistrictID": 1834,
+        "ProvinceID": 259,
+        "DistrictName": "Huyện Kon Plông",
+        "Code": "3606",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Kon Plông",
+            "H.Kon Plông",
+            "H Kon Plông",
+            "Kon Plông",
+            "Kon Plong",
+            "Huyen Kon Plong",
+            "Huyện Kon Plong",
+            "konplong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431832 +0700 +07 m=+0.015777941",
+        "UpdatedAt": "2020-09-29 13:43:02.593195 +0700 +07 m=+35.095233189",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "203.205.29.215",
+        "UpdatedEmployee": 1718600,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-09-28T07:10:20.615Z"
+    },
+    {
+        "DistrictID": 1660,
+        "ProvinceID": 259,
+        "DistrictName": "Thành phố Kon Tum",
+        "Code": "3601",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Kon Tum",
+            "TP.Kon Tum",
+            "TP Kon Tum",
+            "Kon Tum",
+            "Thanh pho Kon Tum",
+            "kontum"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432215 +0700 +07 m=+0.016160382",
+        "UpdatedAt": "2020-09-29 13:43:09.738704 +0700 +07 m=+42.240606435",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

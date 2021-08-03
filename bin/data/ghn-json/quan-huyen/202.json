@@ -1,0 +1,757 @@
+[
+    {
+        "DistrictID": 3695,
+        "ProvinceID": 202,
+        "DistrictName": "Thành Phố Thủ Đức",
+        "Code": "3695",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "TP Thủ Đức",
+            "thành phố thủ đức",
+            "TP. Thủ Đức",
+            "TP. Thu Duc",
+            "thuduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "CreatedIP": "35.247.155.234",
+        "CreatedEmployee": 242614,
+        "CreatedSource": "internal",
+        "CreatedDate": "2020-12-25T08:02:27.479Z",
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 245573,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2020-12-26T07:36:22.66Z"
+    },
+    {
+        "DistrictID": 3449,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Vật Tư HCM",
+        "Code": "VT1358",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Vật Tư HCM"
+        ],
+        "IsEnable": 1,
+        "CreatedAt": "2020-10-04 11:19:37.080564 +0700 +07 m=+30.297594972",
+        "UpdatedAt": "2020-10-04 11:19:37.080564 +0700 +07 m=+30.297594972",
+        "CanUpdateCOD": false,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3448,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Đặc Biệt DC",
+        "Code": "02202b",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Đặc Biệt DC"
+        ],
+        "IsEnable": 1,
+        "CreatedAt": "2020-10-04 11:19:37.008205 +0700 +07 m=+30.225236817",
+        "UpdatedAt": "2020-10-04 11:19:37.008205 +0700 +07 m=+30.225236817",
+        "CanUpdateCOD": false,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2090,
+        "ProvinceID": 202,
+        "DistrictName": "Huyện Cần Giờ",
+        "Code": "0224",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cần Giờ",
+            "H.Cần Giờ",
+            "H Cần Giờ",
+            "Cần Giờ",
+            "Can Gio",
+            "Huyen Can Gio",
+            "cangio"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43286 +0700 +07 m=+0.016806156",
+        "UpdatedAt": "2020-09-29 13:42:51.30901 +0700 +07 m=+23.811262702",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1580,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Đặc Biệt",
+        "Code": "02202",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Đặc Biệt"
+        ],
+        "IsEnable": 1,
+        "CreatedAt": "2020-10-04 11:19:16.078592 +0700 +07 m=+9.295826532",
+        "UpdatedAt": "2020-10-04 11:19:16.078592 +0700 +07 m=+9.295826532",
+        "CanUpdateCOD": false,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1534,
+        "ProvinceID": 202,
+        "DistrictName": "Huyện Nhà Bè",
+        "Code": "0223",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Nhà Bè",
+            "H.Nhà Bè",
+            "H Nhà Bè",
+            "Nhà Bè",
+            "Nha Be",
+            "Huyen Nha Be",
+            "nhabe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431561 +0700 +07 m=+0.015506491",
+        "UpdatedAt": "2020-09-29 13:43:12.393683 +0700 +07 m=+44.895535145",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1533,
+        "ProvinceID": 202,
+        "DistrictName": "Huyện Bình Chánh",
+        "Code": "0220",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Chánh",
+            "H.Bình Chánh",
+            "H Bình Chánh",
+            "Bình Chánh",
+            "Binh Chanh",
+            "Huyen Binh Chanh",
+            "binhchanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431559 +0700 +07 m=+0.015504988",
+        "UpdatedAt": "2020-09-29 13:43:12.446563 +0700 +07 m=+44.948414080",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1463,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Thủ Đức",
+        "Code": "0218",
+        "Type": 2,
+        "SupportType": 3,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431478 +0700 +07 m=+0.015424117",
+        "UpdatedAt": "2020-09-29 13:43:13.2912 +0700 +07 m=+45.793035011",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 245573,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-03-01T03:12:08.109Z"
+    },
+    {
+        "DistrictID": 1462,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Bình Thạnh",
+        "Code": "0216",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Bình Thạnh",
+            "Q.Bình Thạnh",
+            "Q Bình Thạnh",
+            "Bình Thạnh",
+            "Binh Thanh",
+            "Quan Binh Thanh",
+            "binhthanh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431477 +0700 +07 m=+0.015422592",
+        "UpdatedAt": "2020-09-29 13:43:13.334947 +0700 +07 m=+45.836781381",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "171.240.149.62",
+        "UpdatedEmployee": 1004,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-26T07:37:14.193Z"
+    },
+    {
+        "DistrictID": 1461,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Gò Vấp",
+        "Code": "0213",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Gò Vấp",
+            "Q.Gò Vấp",
+            "Q Gò Vấp",
+            "Gò Vấp",
+            "Go Vap",
+            "Quan Go Vap",
+            "govap"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431475 +0700 +07 m=+0.015421092",
+        "UpdatedAt": "2020-09-29 13:43:13.36741 +0700 +07 m=+45.869244019",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1460,
+        "ProvinceID": 202,
+        "DistrictName": "Huyện Củ Chi",
+        "Code": "0221",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Củ Chi",
+            "H.Củ Chi",
+            "H Củ Chi",
+            "Củ Chi",
+            "Cu Chi",
+            "Huyen Cu Chi",
+            "cuchi"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431471 +0700 +07 m=+0.015417090",
+        "UpdatedAt": "2020-09-29 13:43:13.399768 +0700 +07 m=+45.901601232",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1459,
+        "ProvinceID": 202,
+        "DistrictName": "Huyện Hóc Môn",
+        "Code": "0222",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hóc Môn",
+            "H.Hóc Môn",
+            "H Hóc Môn",
+            "Hóc Môn",
+            "Hoc Mon",
+            "Huyen Hoc Mon",
+            "hocmon"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43147 +0700 +07 m=+0.015415491",
+        "UpdatedAt": "2020-09-29 13:43:13.441762 +0700 +07 m=+45.943594173",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1458,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Bình Tân",
+        "Code": "0219",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Bình Tân",
+            "Q.Bình Tân",
+            "Q Bình Tân",
+            "Bình Tân",
+            "Binh Tan",
+            "Quan Binh Tan",
+            "binhtan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431468 +0700 +07 m=+0.015413875",
+        "UpdatedAt": "2020-09-29 13:43:13.480582 +0700 +07 m=+45.982413136",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1457,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Phú Nhuận",
+        "Code": "0217",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Phú Nhuận",
+            "Q.Phú Nhuận",
+            "Q Phú Nhuận",
+            "Phú Nhuận",
+            "Phu Nhuan",
+            "Quan Phu Nhuan",
+            "phunhuan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431467 +0700 +07 m=+0.015412366",
+        "UpdatedAt": "2020-09-29 13:43:13.518115 +0700 +07 m=+46.019946098",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1456,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Tân Phú",
+        "Code": "0215",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Tân Phú",
+            "Q.Tân Phú",
+            "Q Tân Phú",
+            "Tân Phú",
+            "Tan Phu",
+            "Quan Tan Phu",
+            "tanphu"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431465 +0700 +07 m=+0.015410774",
+        "UpdatedAt": "2020-09-29 13:43:13.552295 +0700 +07 m=+46.054124942",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1455,
+        "ProvinceID": 202,
+        "DistrictName": "Quận Tân Bình",
+        "Code": "0214",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận Tân Bình",
+            "Q.Tân Bình",
+            "Q Tân Bình",
+            "Tân Bình",
+            "Tan Binh",
+            "Quan Tan Binh",
+            "tanbinh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431463 +0700 +07 m=+0.015409028",
+        "UpdatedAt": "2020-09-29 13:43:13.586836 +0700 +07 m=+46.088665614",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 1005,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-24T11:12:13.479Z"
+    },
+    {
+        "DistrictID": 1454,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 12",
+        "Code": "0212",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 12",
+            "Q.12",
+            "Q 12",
+            "12",
+            "Quan 12"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431461 +0700 +07 m=+0.015406435",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 1004,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-24T08:55:45.575Z"
+    },
+    {
+        "DistrictID": 1453,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 11",
+        "Code": "0211",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 11",
+            "Q.11",
+            "Q 11",
+            "11",
+            "Quan 11"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431459 +0700 +07 m=+0.015405036",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1452,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 10",
+        "Code": "0210",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 10",
+            "Q.10",
+            "Q 10",
+            "10",
+            "Quan 10"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431458 +0700 +07 m=+0.015403597",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 1004,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-24T09:58:24.602Z"
+    },
+    {
+        "DistrictID": 1451,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 9",
+        "Code": "0209",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 9",
+            "Q.9",
+            "Q 9",
+            "9",
+            "Quan 9"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431449 +0700 +07 m=+0.015395171",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1450,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 8",
+        "Code": "0208",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 8",
+            "Q.8",
+            "Q 8",
+            "8",
+            "Quan 8"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431448 +0700 +07 m=+0.015393438",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1449,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 7",
+        "Code": "0207",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 7",
+            "Q.7",
+            "Q 7",
+            "7",
+            "Quan 7"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431446 +0700 +07 m=+0.015391715",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1448,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 6",
+        "Code": "0206",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 6",
+            "Q.6",
+            "Q 6",
+            "6",
+            "Quan 6"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431444 +0700 +07 m=+0.015390331",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1447,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 5",
+        "Code": "0205",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 5",
+            "Q.5",
+            "Q 5",
+            "5",
+            "Quan 5"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431442 +0700 +07 m=+0.015388357",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1446,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 4",
+        "Code": "0204",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 4",
+            "Q.4",
+            "Q 4",
+            "4",
+            "Quan 4"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431441 +0700 +07 m=+0.015386954",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1444,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 3",
+        "Code": "0203",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 3",
+            "Q.3",
+            "Q 3",
+            "3",
+            "Quan 3"
+        ],
+        "DistrictEncode": "Q3",
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431439 +0700 +07 m=+0.015384875",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 1004,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-24T10:51:10.998Z"
+    },
+    {
+        "DistrictID": 1443,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 2",
+        "Code": "0202",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 2",
+            "Q.2",
+            "Q 2",
+            "2",
+            "Quan 2"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431433 +0700 +07 m=+0.015379303",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1442,
+        "ProvinceID": 202,
+        "DistrictName": "Quận 1",
+        "Code": "0201",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Quận 1",
+            "Q.1",
+            "Q 1",
+            "1",
+            "Quan 1"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43142 +0700 +07 m=+0.015365672",
+        "UpdatedAt": "13 May 20 17:51 +07",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "UpdatedDate": "2021-07-16T17:00:09.531Z"
+    }
+]

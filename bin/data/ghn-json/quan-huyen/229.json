@@ -1,0 +1,367 @@
+[
+    {
+        "DistrictID": 3290,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Thanh Ba",
+        "Code": "1504",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Ba",
+            "H.Thanh Ba",
+            "H Thanh Ba",
+            "Thanh Ba",
+            "Huyen Thanh Ba",
+            "thanhba"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432618 +0700 +07 m=+0.016564191",
+        "UpdatedAt": "2020-09-29 13:42:42.715918 +0700 +07 m=+15.218333313",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 3272,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Tam Nông",
+        "Code": "1511",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tam Nông",
+            "H.Tam Nông",
+            "H Tam Nông",
+            "Tam Nông",
+            "Tam Nong",
+            "Huyen Tam Nong",
+            "tamnong"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.43262 +0700 +07 m=+0.016565724",
+        "UpdatedAt": "2020-09-29 13:42:43.354611 +0700 +07 m=+15.857014233",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2268,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Yên Lập",
+        "Code": "1507",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Yên Lập",
+            "H.Yên Lập",
+            "H Yên Lập",
+            "Yên Lập",
+            "Yen Lap",
+            "Huyen Yen Lap",
+            "yenlap"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432147 +0700 +07 m=+0.016092688",
+        "UpdatedAt": "2020-09-29 13:42:46.991123 +0700 +07 m=+19.493456983",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2237,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Thanh Thủy",
+        "Code": "1512",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Thủy",
+            "H.Thanh Thủy",
+            "H Thanh Thủy",
+            "Thanh Thủy",
+            "Thanh Thuy",
+            "Huyen Thanh Thuy",
+            "thanhthuy"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432122 +0700 +07 m=+0.016067367",
+        "UpdatedAt": "2020-09-29 13:42:47.70777 +0700 +07 m=+20.210090756",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2064,
+        "ProvinceID": 229,
+        "DistrictName": "Thị xã Phú Thọ",
+        "Code": "1502",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thị xã Phú Thọ",
+            "Thi Xã Phú Thọ",
+            "TX.Phú Thọ",
+            "TX Phú Thọ",
+            "Phú Thọ",
+            "Phu Tho",
+            "Thi xa Phu Tho",
+            "Thi Xa Phu Tho",
+            "phutho"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432832 +0700 +07 m=+0.016777495",
+        "UpdatedAt": "2020-09-29 13:42:51.889562 +0700 +07 m=+24.391803208",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2029,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Thanh Sơn",
+        "Code": "1508",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Thanh Sơn",
+            "H.Thanh Sơn",
+            "H Thanh Sơn",
+            "Thanh Sơn",
+            "Thanh Son",
+            "Huyen Thanh Son",
+            "thanhson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432775 +0700 +07 m=+0.016720436",
+        "UpdatedAt": "2020-09-29 13:42:53.592481 +0700 +07 m=+26.094690321",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 2015,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Tân Sơn",
+        "Code": "1513",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Tân Sơn",
+            "H.Tân Sơn",
+            "H Tân Sơn",
+            "Tân Sơn",
+            "Tan Son",
+            "Huyen Tan Son",
+            "tanson"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432745 +0700 +07 m=+0.016691314",
+        "UpdatedAt": "2020-09-29 13:42:54.244729 +0700 +07 m=+26.746925810",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1994,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Phù Ninh",
+        "Code": "1509",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Phù Ninh",
+            "H.Phù Ninh",
+            "H Phù Ninh",
+            "Phù Ninh",
+            "Phu Ninh",
+            "Huyen Phu Ninh",
+            "phuninh"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432575 +0700 +07 m=+0.016520991",
+        "UpdatedAt": "2020-09-29 13:42:55.003106 +0700 +07 m=+27.505287988",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1959,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Lâm Thao",
+        "Code": "1510",
+        "Type": 2,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Lâm Thao",
+            "H.Lâm Thao",
+            "H Lâm Thao",
+            "Lâm Thao",
+            "Lam Thao",
+            "Huyen Lam Thao",
+            "lamthao"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432518 +0700 +07 m=+0.016463433",
+        "UpdatedAt": "2020-09-29 13:42:56.848202 +0700 +07 m=+29.350349068",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1938,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Hạ Hòa",
+        "Code": "1505",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Hạ Hòa",
+            "H.Hạ Hòa",
+            "H Hạ Hòa",
+            "Hạ Hòa",
+            "Ha Hoa",
+            "Huyen Ha Hoa",
+            "hahoa"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432425 +0700 +07 m=+0.016370857",
+        "UpdatedAt": "2020-09-29 13:42:57.819584 +0700 +07 m=+30.321712946",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1925,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Đoan Hùng",
+        "Code": "1503",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Đoan Hùng",
+            "H.Đoan Hùng",
+            "H Đoan Hùng",
+            "Đoan Hùng",
+            "Doan Hung",
+            "Huyen Doan Hung",
+            "doanhung"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432406 +0700 +07 m=+0.016351508",
+        "UpdatedAt": "2020-09-29 13:42:58.3772 +0700 +07 m=+30.879318420",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1905,
+        "ProvinceID": 229,
+        "DistrictName": "Huyện Cẩm Khê",
+        "Code": "1506",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Cẩm Khê",
+            "H.Cẩm Khê",
+            "H Cẩm Khê",
+            "Cẩm Khê",
+            "Cam Khe",
+            "Huyen Cam Khe",
+            "camkhe"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431976 +0700 +07 m=+0.015921965",
+        "UpdatedAt": "2020-09-29 13:42:59.42867 +0700 +07 m=+31.930768047",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    },
+    {
+        "DistrictID": 1602,
+        "ProvinceID": 229,
+        "DistrictName": "Thành phố Việt Trì",
+        "Code": "1501",
+        "Type": 1,
+        "SupportType": 3,
+        "NameExtension": [
+            "Thành phố Việt Trì",
+            "TP.Việt Trì",
+            "TP Việt Trì",
+            "Việt Trì",
+            "Viet Tri",
+            "Thanh pho Viet Tri",
+            "viettri"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.431816 +0700 +07 m=+0.015761528",
+        "UpdatedAt": "2020-09-29 13:43:10.846738 +0700 +07 m=+43.348619536",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        }
+    }
+]

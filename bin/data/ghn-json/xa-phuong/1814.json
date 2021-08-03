@@ -1,0 +1,159 @@
+[
+    {
+        "WardCode": "300206",
+        "DistrictID": 1814,
+        "WardName": "Xã Thuận Lộc",
+        "NameExtension": [
+            "Xã Thuận Lộc",
+            "X.Thuận Lộc",
+            "X Thuận Lộc",
+            "Thuận Lộc",
+            "Thuan Loc",
+            "Xa Thuan Loc",
+            "Phường Thuận Lộc",
+            "thuanloc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399162 +0700 +07 m=+0.035499278",
+        "UpdatedAt": "2020-09-29 13:54:45.002315 +0700 +07 m=+309.663252269",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "300205",
+        "DistrictID": 1814,
+        "WardName": "Phường Trung Lương",
+        "NameExtension": [
+            "Phường Trung Lương",
+            "P.Trung Lương",
+            "P Trung Lương",
+            "Trung Lương",
+            "Trung Luong",
+            "Phuong Trung Luong",
+            "trungluong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399158 +0700 +07 m=+0.035494827",
+        "UpdatedAt": "2020-09-29 13:54:45.10222 +0700 +07 m=+309.763154708",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "300204",
+        "DistrictID": 1814,
+        "WardName": "Phường Nam Hồng",
+        "NameExtension": [
+            "Phường Nam Hồng",
+            "P.Nam Hồng",
+            "P Nam Hồng",
+            "Nam Hồng",
+            "Nam Hong",
+            "Phuong Nam Hong",
+            "namhong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399156 +0700 +07 m=+0.035493398",
+        "UpdatedAt": "2020-09-29 13:54:45.139568 +0700 +07 m=+309.800502125",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "300203",
+        "DistrictID": 1814,
+        "WardName": "Phường Đức Thuận",
+        "NameExtension": [
+            "Phường Đức Thuận",
+            "P.Đức Thuận",
+            "P Đức Thuận",
+            "Đức Thuận",
+            "Duc Thuan",
+            "Phuong Duc Thuan",
+            "ducthuan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399159 +0700 +07 m=+0.035496354",
+        "UpdatedAt": "2020-09-29 13:54:45.178973 +0700 +07 m=+309.839907257",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "300202",
+        "DistrictID": 1814,
+        "WardName": "Phường Đậu Liêu",
+        "NameExtension": [
+            "Phường Đậu Liêu",
+            "P.Đậu Liêu",
+            "P Đậu Liêu",
+            "Đậu Liêu",
+            "Dau Lieu",
+            "Phuong Dau Lieu",
+            "daulieu"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399161 +0700 +07 m=+0.035497856",
+        "UpdatedAt": "2020-09-29 13:54:45.225171 +0700 +07 m=+309.886103766",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "300201",
+        "DistrictID": 1814,
+        "WardName": "Phường Bắc Hồng",
+        "NameExtension": [
+            "Phường Bắc Hồng",
+            "P.Bắc Hồng",
+            "P Bắc Hồng",
+            "Bắc Hồng",
+            "Bac Hong",
+            "Phuong Bac Hong",
+            "bachong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.399155 +0700 +07 m=+0.035491956",
+        "UpdatedAt": "2020-09-29 13:54:45.27604 +0700 +07 m=+309.936971978",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]

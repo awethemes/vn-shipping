@@ -1,0 +1,365 @@
+[
+    {
+        "WardCode": "410914",
+        "DistrictID": 1902,
+        "WardName": "Xã Suối Tân",
+        "NameExtension": [
+            "Xã Suối Tân",
+            "X.Suối Tân",
+            "X Suối Tân",
+            "Suối Tân",
+            "Suoi Tan",
+            "Xa Suoi Tan",
+            "suoitan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402006 +0700 +07 m=+0.038343550",
+        "UpdatedAt": "2020-09-29 13:52:48.148432 +0700 +07 m=+192.811587197",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410913",
+        "DistrictID": 1902,
+        "WardName": "Xã Suối Cát",
+        "NameExtension": [
+            "Xã Suối Cát",
+            "X.Suối Cát",
+            "X Suối Cát",
+            "Suối Cát",
+            "Suoi Cat",
+            "Xa Suoi Cat",
+            "suoicat"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402005 +0700 +07 m=+0.038342188",
+        "UpdatedAt": "2020-09-29 13:52:48.220812 +0700 +07 m=+192.883965667",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410912",
+        "DistrictID": 1902,
+        "WardName": "Xã Sơn Tân",
+        "NameExtension": [
+            "Xã Sơn Tân",
+            "X.Sơn Tân",
+            "X Sơn Tân",
+            "Sơn Tân",
+            "Son Tan",
+            "Xa Son Tan",
+            "sontan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401994 +0700 +07 m=+0.038331093",
+        "UpdatedAt": "2020-09-29 13:52:48.258572 +0700 +07 m=+192.921724943",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410911",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Thành Bắc",
+        "NameExtension": [
+            "Xã Cam Thành Bắc",
+            "X.Cam Thành Bắc",
+            "X Cam Thành Bắc",
+            "Cam Thành Bắc",
+            "Cam Thanh Bac",
+            "Xa Cam Thanh Bac",
+            "camthanhbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402001 +0700 +07 m=+0.038337994",
+        "UpdatedAt": "2020-09-29 13:52:48.30616 +0700 +07 m=+192.969312298",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410910",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Tân",
+        "NameExtension": [
+            "Xã Cam Tân",
+            "X.Cam Tân",
+            "X Cam Tân",
+            "Cam Tân",
+            "Cam Tan",
+            "Xa Cam Tan",
+            "camtan"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401987 +0700 +07 m=+0.038324551",
+        "UpdatedAt": "2020-09-29 13:52:48.357303 +0700 +07 m=+193.020454195",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410909",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Phước Tây",
+        "NameExtension": [
+            "Xã Cam Phước Tây",
+            "X.Cam Phước Tây",
+            "X Cam Phước Tây",
+            "Cam Phước Tây",
+            "Cam Phuoc Tay",
+            "Xa Cam Phuoc Tay",
+            "camphuoctay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401999 +0700 +07 m=+0.038336587",
+        "UpdatedAt": "2020-09-29 13:52:48.393688 +0700 +07 m=+193.056838471",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410908",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Hòa",
+        "NameExtension": [
+            "Xã Cam Hòa",
+            "X.Cam Hòa",
+            "X Cam Hòa",
+            "Cam Hòa",
+            "Cam Hoa",
+            "Xa Cam Hoa",
+            "camhoa"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401989 +0700 +07 m=+0.038325951",
+        "UpdatedAt": "2020-09-29 13:52:48.442162 +0700 +07 m=+193.105311858",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410907",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Hiệp Nam",
+        "NameExtension": [
+            "Xã Cam Hiệp Nam",
+            "X.Cam Hiệp Nam",
+            "X Cam Hiệp Nam",
+            "Cam Hiệp Nam",
+            "Cam Hiep Nam",
+            "Xa Cam Hiep Nam",
+            "camhiepnam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401998 +0700 +07 m=+0.038335217",
+        "UpdatedAt": "2020-09-29 13:52:48.517562 +0700 +07 m=+193.180709843",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410906",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Hiệp Bắc",
+        "NameExtension": [
+            "Xã Cam Hiệp Bắc",
+            "X.Cam Hiệp Bắc",
+            "X Cam Hiệp Bắc",
+            "Cam Hiệp Bắc",
+            "Cam Hiep Bac",
+            "Xa Cam Hiep Bac",
+            "camhiepbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401995 +0700 +07 m=+0.038332454",
+        "UpdatedAt": "2020-09-29 13:52:48.648973 +0700 +07 m=+193.312118583",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410905",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Hải Tây",
+        "NameExtension": [
+            "Xã Cam Hải Tây",
+            "X.Cam Hải Tây",
+            "X Cam Hải Tây",
+            "Cam Hải Tây",
+            "Cam Hai Tay",
+            "Xa Cam Hai Tay",
+            "camhaitay"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401992 +0700 +07 m=+0.038329718",
+        "UpdatedAt": "2020-09-29 13:52:48.694569 +0700 +07 m=+193.357713713",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410904",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam Hải Đông",
+        "NameExtension": [
+            "Xã Cam Hải Đông",
+            "X.Cam Hải Đông",
+            "X Cam Hải Đông",
+            "Cam Hải Đông",
+            "Cam Hai Dong",
+            "Xa Cam Hai Dong",
+            "camhaidong"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401991 +0700 +07 m=+0.038328344",
+        "UpdatedAt": "2020-09-29 13:52:48.735569 +0700 +07 m=+193.398713115",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410903",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam An Nam",
+        "NameExtension": [
+            "Xã Cam An Nam",
+            "X.Cam An Nam",
+            "X Cam An Nam",
+            "Cam An Nam",
+            "Xa Cam An Nam",
+            "camannam"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402003 +0700 +07 m=+0.038340810",
+        "UpdatedAt": "2020-09-29 13:52:48.800766 +0700 +07 m=+193.463909237",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410902",
+        "DistrictID": 1902,
+        "WardName": "Xã Cam An Bắc",
+        "NameExtension": [
+            "Xã Cam An Bắc",
+            "X.Cam An Bắc",
+            "X Cam An Bắc",
+            "Cam An Bắc",
+            "Cam An Bac",
+            "Xa Cam An Bac",
+            "camanbac"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.402002 +0700 +07 m=+0.038339387",
+        "UpdatedAt": "2020-09-29 13:52:48.868324 +0700 +07 m=+193.531465484",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    },
+    {
+        "WardCode": "410901",
+        "DistrictID": 1902,
+        "WardName": "Thị trấn Cam Đức",
+        "NameExtension": [
+            "Thị trấn Cam Đức",
+            "TT.Cam Đức",
+            "TT Cam Đức",
+            "Cam Đức",
+            "Cam Duc",
+            "Thi tran Cam Duc",
+            "camduc"
+        ],
+        "IsEnable": 1,
+        "CanUpdateCOD": false,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 16:02:20.401997 +0700 +07 m=+0.038333857",
+        "UpdatedAt": "2020-09-29 13:52:48.913508 +0700 +07 m=+193.576648263",
+        "SupportType": 3,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
+        "Status": 1
+    }
+]
