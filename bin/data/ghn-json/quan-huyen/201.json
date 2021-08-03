@@ -288,7 +288,8 @@
             "From": null,
             "To": null,
             "Return": null
-        }
+        },
+        "UpdatedDate": "2021-08-02T11:42:01.841Z"
     },
     {
         "DistrictID": 1806,
@@ -400,7 +401,8 @@
             "From": null,
             "To": null,
             "Return": null
-        }
+        },
+        "UpdatedDate": "2021-08-02T11:42:01.836Z"
     },
     {
         "DistrictID": 1711,
@@ -456,11 +458,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-24T07:25:54.232Z"
+        }
     },
     {
         "DistrictID": 1703,
@@ -612,7 +610,7 @@
         "DistrictName": "Quận Thanh Xuân",
         "Code": "1A07",
         "Type": 1,
-        "SupportType": 0,
+        "SupportType": 3,
         "NameExtension": [
             "Quận Thanh Xuân",
             "Q.Thanh Xuân",
@@ -635,11 +633,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T08:31:17.187Z"
+        }
     },
     {
         "DistrictID": 1492,

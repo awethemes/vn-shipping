@@ -222,11 +222,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "171.240.149.62",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T07:37:14.193Z"
+        }
     },
     {
         "DistrictID": 1461,
@@ -422,11 +418,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-24T11:12:13.479Z"
+        }
     },
     {
         "DistrictID": 1454,
@@ -452,11 +444,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-24T08:55:45.575Z"
+        }
     },
     {
         "DistrictID": 1453,
@@ -508,11 +496,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-24T09:58:24.602Z"
+        }
     },
     {
         "DistrictID": 1451,
@@ -538,7 +522,11 @@
             "From": null,
             "To": null,
             "Return": null
-        }
+        },
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-30T17:00:09.414Z"
     },
     {
         "DistrictID": 1450,
@@ -696,10 +684,10 @@
             "To": null,
             "Return": null
         },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
+        "UpdatedIP": "203.128.243.45",
+        "UpdatedEmployee": 1005,
         "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-24T10:51:10.998Z"
+        "UpdatedDate": "2020-07-15T09:57:00.627Z"
     },
     {
         "DistrictID": 1443,
@@ -748,10 +736,79 @@
         "CanUpdateCOD": false,
         "Status": 1,
         "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
+            "From": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "To": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "Return": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ]
         },
-        "UpdatedDate": "2021-07-16T17:00:09.531Z"
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal",
+        "UpdatedDate": "2021-07-24T14:31:51.176Z"
     }
 ]

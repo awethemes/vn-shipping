@@ -61,7 +61,7 @@
         "DistrictName": "Huyện đảo Trường Sa",
         "Code": "4108",
         "Type": 2,
-        "SupportType": 3,
+        "SupportType": 0,
         "NameExtension": [
             "Huyện đảo Trường Sa",
             "Huyện Đảo Trường Sa",
@@ -82,8 +82,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedDate": "2021-07-17T04:51:09.823Z"
+        }
     },
     {
         "DistrictID": 2061,

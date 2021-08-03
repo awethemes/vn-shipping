@@ -15,17 +15,7 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400596 +0700 +07 m=+0.036932954",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 0,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1,
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-23T14:24:51.829Z"
+        "Status": 1
     },
     {
         "WardCode": "21619",
@@ -43,17 +33,7 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400572 +0700 +07 m=+0.036909563",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1,
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T10:06:00.513Z"
+        "Status": 1
     },
     {
         "WardCode": "21618",
@@ -71,17 +51,7 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400574 +0700 +07 m=+0.036910935",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1,
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T10:07:40.56Z"
+        "Status": 1
     },
     {
         "WardCode": "21617",
@@ -99,12 +69,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400576 +0700 +07 m=+0.036913718",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -123,12 +87,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400581 +0700 +07 m=+0.036917824",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -147,12 +105,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400593 +0700 +07 m=+0.036930235",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -171,12 +123,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400592 +0700 +07 m=+0.036928854",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -195,12 +141,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400594 +0700 +07 m=+0.036931613",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -219,12 +159,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.40059 +0700 +07 m=+0.036927448",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -243,12 +177,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400585 +0700 +07 m=+0.036921945",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -267,12 +195,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400583 +0700 +07 m=+0.036920571",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -291,12 +213,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400569 +0700 +07 m=+0.036906810",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -315,17 +231,7 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400575 +0700 +07 m=+0.036912337",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1,
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T03:54:44.375Z"
+        "Status": 1
     },
     {
         "WardCode": "21607",
@@ -343,12 +249,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400571 +0700 +07 m=+0.036908201",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -367,12 +267,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400579 +0700 +07 m=+0.036916454",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -391,12 +285,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400582 +0700 +07 m=+0.036919205",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -415,12 +303,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400578 +0700 +07 m=+0.036915102",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -439,12 +321,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400589 +0700 +07 m=+0.036926063",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -463,12 +339,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400586 +0700 +07 m=+0.036923336",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -487,16 +357,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.400587 +0700 +07 m=+0.036924705",
         "UpdatedAt": "13 May 20 18:13 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1,
-        "UpdatedIP": "171.240.149.62",
-        "UpdatedEmployee": 1004,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-26T08:48:58.755Z"
+        "Status": 1
     }
 ]

@@ -14,12 +14,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.414338 +0700 +07 m=+0.050675313",
         "UpdatedAt": "2020-09-29 13:50:10.741823 +0700 +07 m=+35.407965209",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -40,13 +34,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395951 +0700 +07 m=+0.032288558",
         "UpdatedAt": "2020-09-29 13:52:12.421225 +0700 +07 m=+157.085058154",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480509",
@@ -66,12 +57,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395954 +0700 +07 m=+0.032291123",
         "UpdatedAt": "2020-09-29 13:52:12.458231 +0700 +07 m=+157.122063410",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -91,13 +76,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395886 +0700 +07 m=+0.032223303",
         "UpdatedAt": "2020-09-29 13:52:12.494025 +0700 +07 m=+157.157856898",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480507",
@@ -117,13 +99,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395949 +0700 +07 m=+0.032286148",
         "UpdatedAt": "2020-09-29 13:52:12.528908 +0700 +07 m=+157.192739377",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480506",
@@ -143,13 +122,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395946 +0700 +07 m=+0.032283797",
         "UpdatedAt": "2020-09-29 13:52:12.567482 +0700 +07 m=+157.231312273",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480505",
@@ -169,13 +145,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395882 +0700 +07 m=+0.032219467",
         "UpdatedAt": "2020-09-29 13:52:12.60041 +0700 +07 m=+157.264239960",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480504",
@@ -195,13 +168,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395881 +0700 +07 m=+0.032218063",
         "UpdatedAt": "2020-09-29 13:52:12.643715 +0700 +07 m=+157.307543326",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480503",
@@ -221,13 +191,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395879 +0700 +07 m=+0.032215863",
         "UpdatedAt": "2020-09-29 13:52:12.677483 +0700 +07 m=+157.341310724",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480502",
@@ -247,13 +214,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395884 +0700 +07 m=+0.032220843",
         "UpdatedAt": "2020-09-29 13:52:12.711802 +0700 +07 m=+157.375629331",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "480501",
@@ -273,12 +237,9 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.395943 +0700 +07 m=+0.032280033",
         "UpdatedAt": "2020-09-29 13:52:12.749107 +0700 +07 m=+157.412933954",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     }
 ]

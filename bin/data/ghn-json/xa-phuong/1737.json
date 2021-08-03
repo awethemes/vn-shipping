@@ -10,12 +10,6 @@
             "xa son hoa"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -23,8 +17,7 @@
         "CreatedDate": "2021-01-11T09:23:04.949Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:23:04.949Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "90785",
@@ -37,12 +30,6 @@
             "xa son hoi"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -50,8 +37,7 @@
         "CreatedDate": "2021-01-11T09:22:22.752Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:22:22.752Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "90784",
@@ -64,12 +50,6 @@
             "xa son hai"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -77,8 +57,7 @@
         "CreatedDate": "2021-01-11T09:06:23.554Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:06:23.554Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "90783",
@@ -91,12 +70,6 @@
             "Xa Son My"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -104,8 +77,7 @@
         "CreatedDate": "2021-01-11T09:01:26.794Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:01:26.794Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "90782",
@@ -117,12 +89,6 @@
             "Xa Son Quang"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -130,8 +96,7 @@
         "CreatedDate": "2021-01-11T09:00:49.496Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:00:49.496Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "90781",
@@ -143,12 +108,6 @@
             "Xa Son Thanh"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -156,8 +115,7 @@
         "CreatedDate": "2021-01-11T09:00:06.649Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T09:00:06.649Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "350511",
@@ -177,12 +135,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408725 +0700 +07 m=+0.045062142",
         "UpdatedAt": "2020-09-29 13:53:42.635515 +0700 +07 m=+247.297636168",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -203,12 +155,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408723 +0700 +07 m=+0.045060708",
         "UpdatedAt": "2020-09-29 13:53:42.686759 +0700 +07 m=+247.348879237",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -229,12 +175,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408734 +0700 +07 m=+0.045071268",
         "UpdatedAt": "2020-09-29 13:53:42.726008 +0700 +07 m=+247.388127210",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -255,12 +195,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408726 +0700 +07 m=+0.045063560",
         "UpdatedAt": "2020-09-29 13:53:42.761446 +0700 +07 m=+247.423564427",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -281,12 +215,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408738 +0700 +07 m=+0.045075433",
         "UpdatedAt": "2020-09-29 13:53:42.795911 +0700 +07 m=+247.458028783",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -307,12 +235,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408728 +0700 +07 m=+0.045064913",
         "UpdatedAt": "2020-09-29 13:53:42.830097 +0700 +07 m=+247.492213802",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -333,12 +255,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408735 +0700 +07 m=+0.045072685",
         "UpdatedAt": "2020-09-29 13:53:42.868128 +0700 +07 m=+247.530244388",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -359,12 +275,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408737 +0700 +07 m=+0.045074053",
         "UpdatedAt": "2020-09-29 13:53:42.915487 +0700 +07 m=+247.577602328",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -385,12 +295,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408731 +0700 +07 m=+0.045068502",
         "UpdatedAt": "2020-09-29 13:53:42.947939 +0700 +07 m=+247.610054208",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -411,12 +315,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408729 +0700 +07 m=+0.045066291",
         "UpdatedAt": "2020-09-29 13:53:42.996143 +0700 +07 m=+247.658257161",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -437,12 +335,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.408733 +0700 +07 m=+0.045069870",
         "UpdatedAt": "2020-09-29 13:53:43.035407 +0700 +07 m=+247.697520385",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     }
 ]

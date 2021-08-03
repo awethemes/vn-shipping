@@ -44,11 +44,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-17T04:40:13.051Z"
+        }
     },
     {
         "DistrictID": 2046,
@@ -76,11 +72,7 @@
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-17T04:51:09.825Z"
+        }
     },
     {
         "DistrictID": 2045,
@@ -144,7 +136,7 @@
         "DistrictName": "Huyện Yên Mỹ",
         "Code": "2205",
         "Type": 3,
-        "SupportType": 0,
+        "SupportType": 3,
         "NameExtension": [
             "Huyện Yên Mỹ",
             "H.Yên Mỹ",
@@ -234,7 +226,7 @@
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
         "UpdatedSource": "internal",
-        "UpdatedDate": "2021-06-27T11:49:39.076Z"
+        "UpdatedDate": "2021-07-10T02:29:50.708Z"
     },
     {
         "DistrictID": 1827,

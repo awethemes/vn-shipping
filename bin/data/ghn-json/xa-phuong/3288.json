@@ -10,12 +10,6 @@
             "thi tran thach giam"
         ],
         "CanUpdateCOD": true,
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1,
         "CreatedIP": "35.247.155.234",
         "CreatedEmployee": 242614,
@@ -23,8 +17,7 @@
         "CreatedDate": "2021-01-11T08:56:00.01Z",
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-01-11T08:56:00.01Z"
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "290818",
@@ -44,12 +37,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405793 +0700 +07 m=+0.042130370",
         "UpdatedAt": "2020-09-29 13:54:59.02981 +0700 +07 m=+323.690480604",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -70,12 +57,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405808 +0700 +07 m=+0.042145543",
         "UpdatedAt": "2020-09-29 13:54:59.064959 +0700 +07 m=+323.725629558",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -96,12 +77,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.4058 +0700 +07 m=+0.042137209",
         "UpdatedAt": "2020-09-29 13:54:59.102326 +0700 +07 m=+323.762995646",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -122,12 +97,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405799 +0700 +07 m=+0.042135823",
         "UpdatedAt": "2020-09-29 13:54:59.137643 +0700 +07 m=+323.798311752",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -148,12 +117,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405796 +0700 +07 m=+0.042133102",
         "UpdatedAt": "2020-09-29 13:54:59.179613 +0700 +07 m=+323.840280949",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -174,12 +137,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405804 +0700 +07 m=+0.042141412",
         "UpdatedAt": "2020-09-29 13:54:59.219291 +0700 +07 m=+323.879958439",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -200,12 +157,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405803 +0700 +07 m=+0.042139952",
         "UpdatedAt": "2020-09-29 13:54:59.252763 +0700 +07 m=+323.913429985",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -226,12 +177,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405805 +0700 +07 m=+0.042142804",
         "UpdatedAt": "2020-09-29 13:54:59.286259 +0700 +07 m=+323.946925265",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -251,12 +196,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.40581 +0700 +07 m=+0.042146892",
         "UpdatedAt": "2020-09-29 13:54:59.320001 +0700 +07 m=+323.980666699",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -277,12 +216,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405811 +0700 +07 m=+0.042148274",
         "UpdatedAt": "2020-09-29 13:54:59.357424 +0700 +07 m=+324.018088679",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -303,12 +236,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405807 +0700 +07 m=+0.042144179",
         "UpdatedAt": "2020-09-29 13:54:59.399311 +0700 +07 m=+324.059974715",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -329,12 +256,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.40579 +0700 +07 m=+0.042127619",
         "UpdatedAt": "2020-09-29 13:54:59.434006 +0700 +07 m=+324.094669117",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -354,12 +275,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405794 +0700 +07 m=+0.042131737",
         "UpdatedAt": "2020-09-29 13:54:59.471456 +0700 +07 m=+324.132118377",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -380,12 +295,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405789 +0700 +07 m=+0.042126241",
         "UpdatedAt": "2020-09-29 13:54:59.506323 +0700 +07 m=+324.166984923",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -406,12 +315,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405801 +0700 +07 m=+0.042138584",
         "UpdatedAt": "2020-09-29 13:54:59.543445 +0700 +07 m=+324.204106118",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -433,12 +336,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405797 +0700 +07 m=+0.042134438",
         "UpdatedAt": "2020-09-29 13:54:59.578222 +0700 +07 m=+324.238882035",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -459,12 +356,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405792 +0700 +07 m=+0.042128997",
         "UpdatedAt": "2020-09-29 13:54:59.616049 +0700 +07 m=+324.276708597",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -485,12 +376,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.405787 +0700 +07 m=+0.042124803",
         "UpdatedAt": "2020-09-29 13:54:59.652072 +0700 +07 m=+324.312731084",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     }
 ]

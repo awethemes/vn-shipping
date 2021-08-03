@@ -17,12 +17,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409531 +0700 +07 m=+0.045868485",
         "UpdatedAt": "2020-09-29 13:50:56.526173 +0700 +07 m=+81.191446282",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -43,12 +37,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409524 +0700 +07 m=+0.045861262",
         "UpdatedAt": "2020-09-29 13:50:56.560603 +0700 +07 m=+81.225876086",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -69,13 +57,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409525 +0700 +07 m=+0.045862655",
         "UpdatedAt": "2020-09-29 13:50:56.60207 +0700 +07 m=+81.267342163",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "590707",
@@ -95,12 +80,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409533 +0700 +07 m=+0.045870794",
         "UpdatedAt": "2020-09-29 13:50:56.641728 +0700 +07 m=+81.306999719",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -121,12 +100,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409527 +0700 +07 m=+0.045864034",
         "UpdatedAt": "2020-09-29 13:50:56.682132 +0700 +07 m=+81.347402998",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -147,12 +120,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409521 +0700 +07 m=+0.045858310",
         "UpdatedAt": "2020-09-29 13:50:56.715253 +0700 +07 m=+81.380522688",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -174,13 +141,10 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.40953 +0700 +07 m=+0.045867033",
         "UpdatedAt": "2020-09-29 13:50:56.748119 +0700 +07 m=+81.413388028",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
-        "Status": 1
+        "Status": 1,
+        "UpdatedIP": "35.247.155.234",
+        "UpdatedEmployee": 242614,
+        "UpdatedSource": "internal"
     },
     {
         "WardCode": "590703",
@@ -201,12 +165,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409523 +0700 +07 m=+0.045859839",
         "UpdatedAt": "2020-09-29 13:50:56.780466 +0700 +07 m=+81.445734284",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -225,12 +183,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.409528 +0700 +07 m=+0.045865571",
         "UpdatedAt": "13 May 20 18:25 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     },
     {
@@ -249,12 +201,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 16:02:20.40952 +0700 +07 m=+0.045856909",
         "UpdatedAt": "13 May 20 18:25 +07",
-        "SupportType": 3,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        },
         "Status": 1
     }
 ]

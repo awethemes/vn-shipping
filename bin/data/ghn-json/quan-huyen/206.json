@@ -814,16 +814,12 @@
         "CreatedAt": "2019-12-05 15:53:32.431715 +0700 +07 m=+0.015660995",
         "UpdatedAt": "2020-09-29 13:43:09.066733 +0700 +07 m=+41.568648460",
         "CanUpdateCOD": false,
-        "Status": 2,
+        "Status": 1,
         "WhiteListClient": {
             "From": null,
             "To": null,
             "Return": null
-        },
-        "UpdatedIP": "35.247.155.234",
-        "UpdatedEmployee": 1005,
-        "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-09T08:25:03.635Z"
+        }
     },
     {
         "DistrictID": 1667,
