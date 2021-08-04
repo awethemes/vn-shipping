@@ -7,7 +7,7 @@
  * Author URI:      https://awethemes.com
  * Text Domain:     vn-shipping
  * Domain Path:     /languages
- * Version:         0.1.1
+ * Version:         0.1.2
  *
  * @package         VNShipping
  */
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'VN_SHIPPING_VERSION', '0.1.1' );
+define( 'VN_SHIPPING_VERSION', '0.1.2' );
 define( 'VN_SHIPPING_DB_VERSION', '1.0.0' );
 define( 'VN_SHIPPING_PLUGIN_FILE', __FILE__ );
 define( 'VN_SHIPPING_PLUGIN_DIR_PATH', plugin_dir_path( VN_SHIPPING_PLUGIN_FILE ) );
