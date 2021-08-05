@@ -1,6 +1,6 @@
 import $ from 'jquery';
 
-import * as api from './ajax';
+import * as api from './request';
 import { createSelect2 } from './select2';
 
 /**

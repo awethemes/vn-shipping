@@ -2,6 +2,7 @@
 
 namespace VNShipping;
 
+use VNShipping\Courier\Couriers;
 use VNShipping\ShippingMethod\GHNShippingMethod;
 
 class Plugin {
@@ -123,11 +124,6 @@ class Plugin {
 			true
 		);
 
-		// Scripts data.
-		wp_localize_script( 'vn-shipping-edit-order', 'vnShippingSettings', [
-			'publicPath' => VN_SHIPPING_PLUGIN_DIR_URL,
-		] );
-
 		// Enqueue scripts.
 		$current_screen = get_current_screen();
 		if ( $current_screen && 'shop_order' === $current_screen->id ) {
@@ -171,10 +167,13 @@ class Plugin {
 	 */
 	public function register_meta_box() {
 		$renderCallback = function ( $post ) {
-			echo sprintf(
-				'<div id="VNShippingRoot" data-config="%s"></div>',
-				wc_esc_json( json_encode( $this->get_order_config( $post ) ) )
+			wp_add_inline_script(
+				'vn-shipping-order-shipping',
+				'window._vnShippingInitialStates = ' . wp_json_encode( $this->get_order_config( $post ) ),
+				'before'
 			);
+
+			echo '<div id="VNShippingRoot"></div>';
 		};
 
 		add_meta_box(
@@ -199,9 +198,10 @@ class Plugin {
 		}
 
 		return [
-			'postId' => $theorder->get_id(),
+			'orderId' => $theorder->get_id(),
+			'orderShippingData' => ShippingData::get( $theorder->get_id() ),
 			'orderShippingMethods' => OrderHelper::get_order_shipping_methods( $theorder ),
-			'shipmentInfo' => ShippingData::get( $theorder->get_id() ),
+			'availableCouriers' => array_values( Couriers::getCouriers() ),
 		];
 	}
 }

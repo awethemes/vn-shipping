@@ -9,16 +9,13 @@ const DependencyExtractionWebpackPlugin = require(
  *
  * @type {Object}
  */
-const externals = {
-  'jquery': 'jQuery',
-  'lodash': 'lodash'
-};
+const externals = {};
 
 mix.sass('resources/scss/admin.scss', 'dist/');
 
 mix.js('resources/js/checkout.js', 'dist/');
 mix.js('resources/js/edit-order.js', 'dist/');
-mix.js('resources/js/order-shipping.js', 'dist/').react();
+mix.js('resources/js/order-shipping.js', 'dist/').vue();
 
 mix.sourceMaps(false, 'source-map');
 if (mix.inProduction()) {
