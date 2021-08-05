@@ -1,66 +1,3 @@
-@import "~sweetalert2/dist/sweetalert2.css";
-@import "./components/sweetalert2";
-
-#toplevel_page_wellway .wp-menu-image > img {
-  max-width: 20px;
-}
-
-.wellway-dropdown {
-  position: relative;
-
-  &:not(.is-open) .wellway-dropdown__contents {
-    display: none;
-  }
-
-  &__toggle {
-    transform: rotate(90deg);
-  }
-
-  &__contents {
-    position: absolute;
-    z-index: 100;
-    right: 0;
-    top: 100%;
-
-    height: 100%;
-    min-width: 180px;
-    background: #fff;
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-    border-radius: 2px;
-  }
-
-  .is-danger,
-  .is-danger:hover {
-    color: #c62518;
-  }
-}
-
-.wp-list-table .column-wellway_action {
-  text-align: right;
-}
-
-
-/*
-.WEDialog.components-modal__frame {
-  max-width: 100%;
-  min-width: auto;
-  max-height: 100%;
-  height: 100%;
-  width: calc(100% - 230px);
-  transform: none;
-  //animation: none;
-  top: 0;
-  bottom: 0;
-  left: auto !important;
-  right: 0;
-}
-*/
-
-.components-modal__content {
-  max-width: 920px;
-  width: 920px;
-}
 
 .form-group {
   width: 100%;
@@ -129,12 +66,4 @@
   > div:not(:last-child) {
     padding-right: 1rem
   }
-}
-
-.components-form__container {
-  min-width: 780px;
-}
-
-.components-disabled {
-  opacity: 0.5;
 }

@@ -5,6 +5,7 @@
     :value="service.service_id"
     :id="`service_${service.service_id}`"
     @change="$emit('service-selected', service)"
+    required
   />
 
   <label :for="`service_${service.service_id}`">
@@ -28,6 +29,7 @@ export default {
 
   mixins: [FormattingMixin],
 
-  props: ['service', 'feeInfo', 'leadTimeInfo']
+  props: ['service', 'feeInfo', 'leadTimeInfo'],
+  emits: ['service-selected']
 };
 </script>

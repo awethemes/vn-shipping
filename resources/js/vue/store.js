@@ -12,6 +12,7 @@ const initialOrderStates = {
 export const store = {
   states: reactive({
     orderId: 0,
+    canCreateShipping: false,
     orderShippingData: null,
     orderShippingMethods: [],
     availableCouriers: [],

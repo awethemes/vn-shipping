@@ -1,5 +1,5 @@
 <template>
-  <select>
+  <select class="">
     <slot></slot>
   </select>
 </template>
@@ -13,13 +13,9 @@ const transformOptions = (options) => {
     return [];
   }
 
-  let array = Array
+  return Array
     .from(options || [])
     .map(opt => ({ id: opt.value, text: opt.label }));
-
-  array.unshift({ id: '', text: '' });
-
-  return array;
 };
 
 export default {

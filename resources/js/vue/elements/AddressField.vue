@@ -7,10 +7,13 @@
 </template>
 
 <script>
+import WooSelect from './WooSelect';
 import { getProvince, getDistrict, getWards } from '../../utils/request';
 
 export default {
   name: 'AddressField',
+
+  components: { WooSelect },
 
   props: ['modelValue'],
 
@@ -82,7 +85,3 @@ export default {
   }
 };
 </script>
-
-<style scoped>
-
-</style>

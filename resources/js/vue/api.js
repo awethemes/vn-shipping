@@ -5,6 +5,23 @@ import { addQueryArgs } from '@wordpress/url';
 
 import { store, currency } from './store';
 
+const safeApiFetch = async (...args) => {
+  try {
+    return await apiFetch(...args);
+  } catch (error) {
+    console.error(error);
+
+    let message = error instanceof Error || error.message
+      ? error.message
+      : null;
+
+    if (message) {
+    }
+
+    throw error;
+  }
+};
+
 export const InteractsWithAPI = {
   data() {
     return {
@@ -31,7 +48,7 @@ export const InteractsWithAPI = {
 
       this.isRequesting['getOrderShippingInfo'] = true;
 
-      return apiFetch({ path }).finally(() => {
+      return safeApiFetch({ path }).finally(() => {
         this.isRequesting['getOrderShippingInfo'] = false;
       });
     },
@@ -43,11 +60,11 @@ export const InteractsWithAPI = {
      */
     createShippingOrder(courier, data) {
       const path = `/awethemes/vn-shipping/shipping/${courier}/create`;
-      data = { order_id: postId, ...data };
+      data = { order_id: this.currentOrderId, ...data };
 
       this.isRequesting['getAvailableServices'] = true;
 
-      return apiFetch({ method: 'POST', path, data }).finally(() => {
+      return safeApiFetch({ method: 'POST', path, data }).finally(() => {
         this.isRequesting['getAvailableServices'] = false;
       });
     },
@@ -63,7 +80,7 @@ export const InteractsWithAPI = {
 
       this.isRequesting['getAvailableServices'] = true;
 
-      return apiFetch({ method: 'POST', path, data }).finally(() => {
+      return safeApiFetch({ method: 'POST', path, data }).finally(() => {
         this.isRequesting['getAvailableServices'] = false;
       });
     },
@@ -78,7 +95,7 @@ export const InteractsWithAPI = {
 
       data = { order_id: this.currentOrderId, ...data };
 
-      return apiFetch({ method: 'POST', path, data });
+      return safeApiFetch({ method: 'POST', path, data });
     },
 
     /**
@@ -91,7 +108,7 @@ export const InteractsWithAPI = {
 
       data = { order_id: this.currentOrderId, ...data };
 
-      return apiFetch({ method: 'POST', path, data });
+      return safeApiFetch({ method: 'POST', path, data });
     }
   },
 
@@ -107,6 +124,8 @@ export const InteractsWithCreateOrder = {
     'courier',
     'orderShippingInfo'
   ],
+
+  emits: ['order-created'],
 
   data() {
     const shipping = this.orderShippingInfo.shipping || {};
@@ -124,6 +143,48 @@ export const InteractsWithCreateOrder = {
       weight: shipping.weight || null,
       note: shipping.note || null
     };
+  },
+
+  methods: {
+    async submit() {
+      const validated = await this.validate();
+      if (validated === false) {
+        return;
+      }
+
+      const response = await this.createShippingOrder('ghn', this.ghnCreationData);
+
+      if (response.tracking_number) {
+        this.$emit('order-created', response.tracking_number, response);
+      }
+    },
+
+    validate() {
+    }
+  },
+
+  computed: {
+    ghnCreationData() {
+      return {
+        width: this.width,
+        height: this.height,
+        weight: this.weight,
+        length: this.length,
+        note: this.note,
+        required_note: this.required_note,
+        coupon: this.coupon,
+        to_name: this.name || '',
+        to_phone: this.phone || '',
+        to_address: this.address || '',
+        to_district_id: this.address_data?.district || 0,
+        to_ward_code: this.address_data?.ward || '',
+        cod_amount: parseInt(this.cod || 0, 10),
+        insurance_value: this.insurance || 0,
+        service_type_id: parseInt(this.service_type_id, 10),
+        service_id: parseInt(this.service_id, 10),
+        payment_type_id: 1
+      };
+    }
   }
 };
 

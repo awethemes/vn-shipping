@@ -28,13 +28,21 @@
       @modal-close="isCreateOrderModalOpen = false">
       <loading v-if="isLoading('getOrderShippingInfo')" />
 
-      <component
-        v-else-if="states.orderShippingInfo"
-        :is="createOrderComponent"
-        :order-shipping-info="states.orderShippingInfo"
-      />
+      <template v-else-if="states.orderShippingInfo">
+        <component
+          :is="createOrderComponent"
+          :order-shipping-info="states.orderShippingInfo"
+          @order-created="onOrderCreated"
+        />
+      </template>
     </modal>
   </template>
+
+  <dialog-message
+    ref="createOrderSuccess"
+    title="Tạo đơn hàng thành công!"
+    :is-confirm="false"
+  />
 </template>
 
 <script>
@@ -46,7 +54,7 @@ import Loading from './elements/Loading';
 import ShippingInfo from './components/shipping-info/ShippingInfo';
 import ChooseCourier from './components/create-order/ChooseCourier';
 import CreateGHNOrder from './components/create-order/CreateGHNOrder';
-import AddressField from './elements/AddressField';
+import DialogMessage from './elements/DialogMessage';
 
 export default {
   name: 'App',
@@ -54,7 +62,7 @@ export default {
   mixins: [InteractsWithAPI],
 
   components: {
-    AddressField,
+    DialogMessage,
     Modal,
     Loading,
     ShippingInfo,
@@ -81,6 +89,15 @@ export default {
   },
 
   methods: {
+    onOrderCreated(trackingNumber, orderData) {
+      this.isCreateOrderModalOpen = false;
+      store.setShippingData(orderData);
+
+      this.$refs.createOrderSuccess.open(
+        `Tạo đơn hàng thành công. Mã vận đơn: ${trackingNumber}.`
+      );
+    },
+
     async onChooseCourier(setSelectedCourier) {
       store.setSelectedCourier(setSelectedCourier);
       store.setOrderShippingInfo(null);

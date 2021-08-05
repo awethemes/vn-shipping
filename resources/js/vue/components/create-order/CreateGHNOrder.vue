@@ -1,5 +1,5 @@
 <template>
-  <div style="min-width: 920px">
+  <form ref="form" style="min-width: 920px" @submit.prevent="submit">
     <section>
       <h3>Bên nhận</h3>
 
@@ -175,12 +175,17 @@
         <textarea name="note" id="note" cols="30" rows="10" v-model="note"></textarea>
       </div>
     </section>
-  </div>
+
+    <button type="submit">
+      Tạo mã vận đơn
+    </button>
+  </form>
 </template>
 
 <script>
 import { castArray, debounce } from 'lodash';
 
+import AddressField from '../../elements/AddressField';
 import GhnServiceItem from './GHNServiceItem';
 import { InteractsWithAPI, InteractsWithCreateOrder } from '../../api';
 
@@ -188,6 +193,7 @@ export default {
   name: 'CreateGHNOrder',
 
   components: {
+    AddressField,
     GhnServiceItem
   },
 
