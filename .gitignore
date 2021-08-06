@@ -9,7 +9,6 @@ node_modules/
 *.zip
 composer.lock
 package-lock.json
-/vendor/
 .env
 .idea/
 bin/data

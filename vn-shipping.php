@@ -25,7 +25,7 @@ define( 'VN_SHIPPING_ASSETS_URL', VN_SHIPPING_PLUGIN_DIR_URL . 'dist' );
 define( 'VN_SHIPPING_MINIMUM_PHP_VERSION', '7.1.3' );
 
 require __DIR__ . '/third-party/vendor/scoper-autoload.php';
-require __DIR__ . '/inc/vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 // Main plugin initialization happens there so that this file is still parsable in PHP < 5.6.
 require __DIR__ . '/inc/namespace.php';
