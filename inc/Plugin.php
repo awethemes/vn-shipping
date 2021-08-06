@@ -2,6 +2,7 @@
 
 namespace VNShipping;
 
+use VNShipping\Address\Province;
 use VNShipping\ShippingMethod\GHNShippingMethod;
 
 class Plugin {
@@ -123,14 +124,13 @@ class Plugin {
 			true
 		);
 
-		// Scripts data.
-		wp_localize_script( 'vn-shipping-edit-order', 'vnShippingSettings', [
-			'publicPath' => VN_SHIPPING_PLUGIN_DIR_URL,
-		] );
-
 		// Enqueue scripts.
 		$current_screen = get_current_screen();
 		if ( $current_screen && 'shop_order' === $current_screen->id ) {
+			wp_localize_script( 'vn-shipping-edit-order', '_vnsOrderData', [
+				'provinces' => array_values( Province::all() ),
+			] );
+
 			wp_enqueue_style( 'vn-shipping-admin-css' );
 			wp_enqueue_script( 'vn-shipping-edit-order' );
 			wp_enqueue_script( 'vn-shipping-order-shipping' );
@@ -171,10 +171,26 @@ class Plugin {
 	 */
 	public function register_meta_box() {
 		$renderCallback = function ( $post ) {
-			echo sprintf(
-				'<div id="VNShippingRoot" data-config="%s"></div>',
-				wc_esc_json( json_encode( $this->get_order_config( $post ) ) )
+			global $theorder;
+
+			if ( ! is_object( $theorder ) ) {
+				$theorder = wc_get_order( $post->ID );
+			}
+
+			$orderStates = OrderHelper::get_order_states( $theorder );
+			if ( empty( $orderStates['orderShippingData'] ) && ! $orderStates['canCreateShipping'] ) {
+				echo sprintf( '<p>%s</p>', esc_html__( 'Không thể tạo mã vận đơn cho đơn hàng này.' ) );
+
+				return;
+			}
+
+			wp_add_inline_script(
+				'vn-shipping-order-shipping',
+				'window._vnShippingInitialStates = ' . wp_json_encode( $orderStates ),
+				'before'
 			);
+
+			echo '<div id="VNShippingRoot"></div>';
 		};
 
 		add_meta_box(
@@ -185,23 +201,5 @@ class Plugin {
 			'side',
 			'high'
 		);
-	}
-
-	/**
-	 * @param \WP_Post $post
-	 * @return array
-	 */
-	protected function get_order_config( $post ) {
-		global $theorder;
-
-		if ( ! is_object( $theorder ) ) {
-			$theorder = wc_get_order( $post->ID );
-		}
-
-		return [
-			'postId' => $theorder->get_id(),
-			'orderShippingMethods' => OrderHelper::get_order_shipping_methods( $theorder ),
-			'shipmentInfo' => ShippingData::get( $theorder->get_id() ),
-		];
 	}
 }

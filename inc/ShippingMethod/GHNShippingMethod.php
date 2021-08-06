@@ -84,7 +84,7 @@ class GHNShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 
 		// Bail if the weight is not provided.
 		if ( ( $weight = $context->get_total_weight() ) <= 0 ) {
-			return;
+			// return;
 		}
 
 		$ghn = Factory::createFromShippingMethod( $this );

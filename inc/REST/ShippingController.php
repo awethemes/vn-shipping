@@ -206,12 +206,10 @@ class ShippingController extends WP_REST_Controller {
 			);
 		}
 
-		$context = OrderShippingContext::create_from_order( $order );
-
 		return rest_ensure_response( [
 			'order_id' => $order->get_id(),
 			'order_number' => $order->get_order_number(),
-			'shipping' => $context->to_array(),
+			'shipping' => OrderShippingContext::create_from_order( $order ),
 		] );
 	}
 
@@ -222,14 +220,13 @@ class ShippingController extends WP_REST_Controller {
 	public function cancel( $request ) {
 		try {
 			$order = $this->resolve_order( $request );
-
-			/** @var \VNShipping\Courier\AbstractCourier $courier */
-			[ $courier ] = $this->resolve_courier( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_error', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
 
-		if ( ! $shipping_code = $order->get_meta( '_shipping_order_code' ) ) {
+		$shipping_data = ShippingData::get( $order->get_id() );
+
+		if ( ! $shipping_data ) {
 			return new WP_Error(
 				'rest_invalid_order',
 				esc_html__( 'Shipping code not created yet.', 'vn-shipping' ),
@@ -237,11 +234,18 @@ class ShippingController extends WP_REST_Controller {
 			);
 		}
 
-		$response = $courier->cancel_order( [
-			'order_codes' => [ $shipping_code ],
-		] );
+		/** @var \VNShipping\Courier\AbstractCourier $courier */
+		$courier = $this->resolve_courier( $request );
 
-		return $response;
+		return $this->make_response(
+			function () use ( $shipping_data, $courier ) {
+				$response = $courier->cancel_order( [
+					'order_codes' => [ $shipping_data->tracking_number ],
+				] );
+
+				return $response;
+			}
+		);
 	}
 
 	/**
@@ -276,6 +280,14 @@ class ShippingController extends WP_REST_Controller {
 				if ( is_wp_error( $shipping_data ) ) {
 					return $shipping_data;
 				}
+
+				$order->add_order_note(
+					sprintf(
+						__( 'Shipping order created: %s - %s' ),
+						$shipping_data->get_courier_name(),
+						$shipping_data->tracking_number
+					)
+				);
 
 				return rest_ensure_response( $shipping_data->to_array() );
 			}

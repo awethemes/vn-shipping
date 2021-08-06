@@ -46,9 +46,10 @@ const getEnhancedSelectFormatString = () => {
 
 /**
  * @param {HTMLSelectElement} element
+ * @param options
  * @return {Object|void}
  */
-export function createSelect2(element) {
+export function createSelect2(element, options = {}) {
   if (!$.fn.selectWoo) {
     console.warn('Warning: $.fn.selectWoo is not defined');
     return;
@@ -60,6 +61,7 @@ export function createSelect2(element) {
     select.on('select2:select', () => select.focus());
 
     select.selectWoo({
+      ...options,
       ...getEnhancedSelectFormatString(),
       placeholder: select.attr('data-placeholder') || select.attr('placeholder'),
       width: '100%'
