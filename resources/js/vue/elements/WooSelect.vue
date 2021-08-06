@@ -52,8 +52,7 @@ export default {
     options(options) {
       $(this.$el)
         .empty()
-        .selectWoo({ data: transformOptions(options) })
-        .trigger('change');
+        .selectWoo({ data: transformOptions(options) });
     }
   }
 };

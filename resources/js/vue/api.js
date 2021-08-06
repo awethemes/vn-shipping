@@ -131,9 +131,9 @@ export const InteractsWithCreateOrder = {
     const shipping = this.orderShippingInfo.shipping || {};
 
     return {
-      name: shipping.name || null,
-      phone: shipping.phone || null,
-      address: shipping.address || null,
+      name: shipping.name || '',
+      phone: shipping.phone || '',
+      address: shipping.address || '',
       address_data: shipping.address_data || {},
       cod: shipping.cod || 0,
       insurance: shipping.insurance || 0,
@@ -141,7 +141,7 @@ export const InteractsWithCreateOrder = {
       height: shipping.height || 0,
       length: shipping.length || 0,
       weight: shipping.weight || 0,
-      note: shipping.note || null
+      note: shipping.note || ''
     };
   },
 

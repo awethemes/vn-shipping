@@ -26,21 +26,26 @@ export default {
   props: ['modelValue'],
 
   data() {
-    return {
-      provinceOptions: [],
-      districtOptions: [],
-      wardOptions: [],
-
+    const address = {
       province: this.modelValue.province || null,
       district: this.modelValue.district || null,
       ward: this.modelValue.ward || null
+    };
+
+    return {
+      ...address,
+      provinceOptions: address.province ? [{ value: address.province, label: '' }] : [],
+      districtOptions: address.province ? [{ value: address.province, district: '' }] : [],
+      wardOptions: address.province ? [{ value: address.province, ward: '' }] : [],
     };
   },
 
   created() {
     this.loadProvinces();
 
-    this.$watch('province', () => {
+    this.$watch('province', (newCode, oldCode) => {
+      console.log(newCode, oldCode);
+
       this.ward = null;
       this.district = null;
 
@@ -48,7 +53,9 @@ export default {
       this.loadDistrict();
     });
 
-    this.$watch('district', () => {
+    this.$watch('district', (newCode, oldCode) => {
+      console.log(newCode, oldCode);
+
       this.ward = null;
 
       this.emitChange();
