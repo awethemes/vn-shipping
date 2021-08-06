@@ -1,7 +1,20 @@
 import $ from 'jquery';
 
-let cacheProvinces;
 let cachedResponse = {};
+
+/**
+ * @param {Array} data
+ * @returns {{label: *, value: *}[]}
+ */
+const castOptions = (data) => {
+  if (!Array.isArray(data)) {
+    return [];
+  }
+
+  return Array.from(data).map(
+    ({ code: value, name_with_type: label }) => ({ value, label })
+  );
+};
 
 /**
  * @param url
@@ -31,28 +44,24 @@ export async function request(url, data, method = 'POST') {
 }
 
 /**
- * @param {Array} data
- * @returns {{label: *, value: *}[]}
- */
-const transformDataForOptions = (data) => {
-  return Array.from(data).map(
-    ({ code: value, name_with_type: label }) => ({ value, label })
-  );
-};
-
-/**
  * Get the provinces.
  *
  * @returns {Promise}
  */
 export async function getProvince() {
-  if (cacheProvinces) {
-    return transformDataForOptions(cacheProvinces);
+  const data = window._vnsOrderData || {};
+
+  if (data.hasOwnProperty('provinces') && data.provinces) {
+    return castOptions(data.provinces);
   }
 
-  cacheProvinces = await request('/wp-json/awethemes/vn-shipping/address', null, 'GET');
+  const response = await request(
+    '/wp-json/awethemes/vn-shipping/address',
+    null,
+    'GET'
+  );
 
-  return transformDataForOptions(cacheProvinces);
+  return castOptions(response);
 }
 
 /**
@@ -62,10 +71,10 @@ export async function getProvince() {
  * @returns {Promise}
  */
 export async function getDistrict(province) {
-  const cache = `province_${province}`
+  const cache = `province_${province}`;
 
   if (cachedResponse.hasOwnProperty(cache)) {
-    return transformDataForOptions(cachedResponse[cache]);
+    return castOptions(cachedResponse[cache]);
   }
 
   let response = await request(
@@ -77,7 +86,7 @@ export async function getDistrict(province) {
   if (Array.isArray(response) && response.length > 0) {
     cachedResponse[cache] = response;
 
-    return transformDataForOptions(response);
+    return castOptions(response);
   }
 
   return [];
@@ -91,10 +100,10 @@ export async function getDistrict(province) {
  * @returns {Promise}
  */
 export async function getWards(district, province) {
-  const cache = `district_${district}`
+  const cache = `district_${district}`;
 
   if (cachedResponse.hasOwnProperty(cache)) {
-    return transformDataForOptions(cachedResponse[cache]);
+    return castOptions(cachedResponse[cache]);
   }
 
   let response = await request(
@@ -106,7 +115,7 @@ export async function getWards(district, province) {
   if (Array.isArray(response) && response.length > 0) {
     cachedResponse[cache] = response;
 
-    return transformDataForOptions(response);
+    return castOptions(response);
   }
 
   return [];

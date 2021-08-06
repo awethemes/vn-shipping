@@ -2,6 +2,7 @@
 
 namespace VNShipping;
 
+use VNShipping\Address\Province;
 use VNShipping\ShippingMethod\GHNShippingMethod;
 
 class Plugin {
@@ -126,6 +127,10 @@ class Plugin {
 		// Enqueue scripts.
 		$current_screen = get_current_screen();
 		if ( $current_screen && 'shop_order' === $current_screen->id ) {
+			wp_localize_script( 'vn-shipping-edit-order', '_vnsOrderData', [
+				'provinces' => array_values( Province::all() ),
+			] );
+
 			wp_enqueue_style( 'vn-shipping-admin-css' );
 			wp_enqueue_script( 'vn-shipping-edit-order' );
 			wp_enqueue_script( 'vn-shipping-order-shipping' );
@@ -173,7 +178,6 @@ class Plugin {
 			}
 
 			$orderStates = OrderHelper::get_order_states( $theorder );
-
 			if ( empty( $orderStates['orderShippingData'] ) && ! $orderStates['canCreateShipping'] ) {
 				echo sprintf( '<p>%s</p>', esc_html__( 'Không thể tạo mã vận đơn cho đơn hàng này.' ) );
 

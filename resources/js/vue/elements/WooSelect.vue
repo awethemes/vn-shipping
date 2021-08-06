@@ -1,14 +1,11 @@
 <template>
-  <select class="">
-    <slot></slot>
-  </select>
+  <select :id="id" :name="name" :disabled="disabled" :required="required"></select>
 </template>
 
 <script>
 import $ from 'jquery';
-import { createSelect2 } from '../../utils/select2';
 
-const transformOptions = (options) => {
+const castOptions = (options) => {
   if (!Array.isArray(options)) {
     return [];
   }
@@ -21,19 +18,31 @@ const transformOptions = (options) => {
 export default {
   name: 'WooSelect',
 
-  props: ['options', 'modelValue'],
+  emits: ['update:modelValue'],
+
+  props: [
+    'id',
+    'name',
+    'placeholder',
+    'options',
+    'disabled',
+    'required',
+    'modelValue'
+  ],
 
   mounted() {
-    createSelect2(this.$el, {
-      data: transformOptions(this.options)
-    });
-
     $(this.$el)
-      .val(this.modelValue)
-      .trigger('change')
-      .on('change', (e) => {
-        this.$emit('update:modelValue', e.currentTarget.value);
+      .selectWoo({
+        width: '100%',
+        placeholder: this.placeholder,
+        data: castOptions(this.options)
+      })
+      .on('select2:select select2:unselect', ev => {
+        this.$emit('update:modelValue', $(this.$el).val());
+        this.$emit('select', ev['params']['data']);
       });
+
+    this.setValue(this.modelValue);
   },
 
   beforeUnmount() {
@@ -43,16 +52,56 @@ export default {
   },
 
   watch: {
-    modelValue(value) {
-      $(this.$el)
-        .val(value)
-        .trigger('change');
+    options: {
+      deep: true,
+      handler(options) {
+        this.setOptions(options);
+      }
     },
 
-    options(options) {
-      $(this.$el)
-        .empty()
-        .selectWoo({ data: transformOptions(options) });
+    modelValue: {
+      deep: true,
+      handler(value) {
+        this.setValue(value);
+      }
+    }
+  },
+
+  methods: {
+    /**
+     * Set selected value.
+     *
+     * @param {*} value
+     */
+    setValue(value) {
+      const element = $(this.$el);
+
+      if (value instanceof Array) {
+        element.val([...value]);
+      } else {
+        element.val([value]);
+      }
+
+      element.trigger('change');
+    },
+
+    /**
+     * Set the options.
+     *
+     * @param {Array} options
+     */
+    setOptions(options = []) {
+      const element = $(this.$el);
+
+      element.empty();
+
+      element.selectWoo({
+        width: '100%',
+        placeholder: this.placeholder,
+        data: castOptions(options)
+      });
+
+      this.setValue(this.modelValue);
     }
   }
 };

@@ -202,11 +202,11 @@
             </tr>
           </tbody>
         </table>
-
-        <button type="submit" class="button button-primary">
-          Tạo mã vận đơn
-        </button>
       </div>
+
+      <button type="submit" class="button button-primary">
+        Tạo mã vận đơn
+      </button>
     </div>
   </form>
 </template>

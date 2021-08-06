@@ -64,7 +64,7 @@ class OrderHelper {
 			return false;
 		}
 
-		$status = [ 'trash', 'pending', 'completed', 'cancelled', 'failed', 'refunded' ];
+		$status = [ 'trash', 'pending', 'cancelled', 'failed', 'refunded' ];
 
 		return ! in_array( $order->get_status(), $status, true );
 	}
