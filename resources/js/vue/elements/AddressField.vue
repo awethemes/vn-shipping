@@ -1,8 +1,16 @@
 <template>
-  <div>
-    <woo-select v-model="province" :options="provinceOptions" />
-    <woo-select v-model="district" :options="districtOptions" />
-    <woo-select v-model="ward" :options="wardOptions" />
+  <div class="vns-form-group is-3-columns">
+    <div>
+      <woo-select v-model="province" :options="provinceOptions" />
+    </div>
+
+    <div>
+      <woo-select v-model="district" :options="districtOptions" />
+    </div>
+
+    <div>
+      <woo-select v-model="ward" :options="wardOptions" />
+    </div>
   </div>
 </template>
 
@@ -85,3 +93,9 @@ export default {
   }
 };
 </script>
+
+<style scoped lang="scss">
+.vns-address-control {
+  display: flex;
+}
+</style>

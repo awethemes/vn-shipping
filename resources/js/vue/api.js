@@ -134,13 +134,13 @@ export const InteractsWithCreateOrder = {
       name: shipping.name || null,
       phone: shipping.phone || null,
       address: shipping.address || null,
-      address_data: shipping.address_data || null,
-      cod: shipping.cod || null,
-      insurance: shipping.insurance || null,
-      width: shipping.width || null,
-      height: shipping.height || null,
-      length: shipping.length || null,
-      weight: shipping.weight || null,
+      address_data: shipping.address_data || {},
+      cod: shipping.cod || 0,
+      insurance: shipping.insurance || 0,
+      width: shipping.width || 0,
+      height: shipping.height || 0,
+      length: shipping.length || 0,
+      weight: shipping.weight || 0,
       note: shipping.note || null
     };
   },
@@ -152,10 +152,16 @@ export const InteractsWithCreateOrder = {
         return;
       }
 
-      const response = await this.createShippingOrder('ghn', this.ghnCreationData);
+      try {
+        const response = await this.createShippingOrder('ghn', this.ghnCreationData);
 
-      if (response.tracking_number) {
-        this.$emit('order-created', response.tracking_number, response);
+        if (response.tracking_number) {
+          this.$emit('order-created', response.tracking_number, response);
+        }
+      } catch (error) {
+        if (error.message) {
+          alert(error.message);
+        }
       }
     },
 
@@ -182,7 +188,7 @@ export const InteractsWithCreateOrder = {
         insurance_value: this.insurance || 0,
         service_type_id: parseInt(this.service_type_id, 10),
         service_id: parseInt(this.service_id, 10),
-        payment_type_id: 1
+        payment_type_id: parseInt(this.payment_type_id, 10)
       };
     }
   }

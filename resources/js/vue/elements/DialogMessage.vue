@@ -21,7 +21,7 @@
 import Modal from './Modal';
 
 export default {
-  name: 'ConfirmDialog',
+  name: 'DialogMessage',
 
   components: { Modal },
 

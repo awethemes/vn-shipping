@@ -2,6 +2,7 @@
   <input
     type="radio"
     name="service_id"
+    :checked="isChecked"
     :value="service.service_id"
     :id="`service_${service.service_id}`"
     @change="$emit('service-selected', service)"
@@ -9,13 +10,12 @@
   />
 
   <label :for="`service_${service.service_id}`">
-    <p><strong>{{ service.short_name }}</strong></p>
-
-    <p v-if="feeInfo && feeInfo.total">
-      {{ formatCurrency(feeInfo.total) }}
+    <p>
+      <span>{{ service.short_name }}</span> -
+      <strong v-if="feeInfo && feeInfo.total">{{ formatCurrency(feeInfo.total) }}</strong>
     </p>
 
-    <p v-if="leadTimeInfo && leadTimeInfo.leadtime">
+    <p v-if="leadTimeInfo && leadTimeInfo.leadtime" style="color: #666">
       Ngày giao dự kiến: {{ formatDateString(leadTimeInfo.leadtime) }}
     </p>
   </label>
@@ -29,7 +29,8 @@ export default {
 
   mixins: [FormattingMixin],
 
-  props: ['service', 'feeInfo', 'leadTimeInfo'],
+  props: ['service', 'feeInfo', 'leadTimeInfo', 'isChecked'],
+
   emits: ['service-selected']
 };
 </script>

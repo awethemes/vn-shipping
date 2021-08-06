@@ -1,5 +1,5 @@
 <template>
-  <div class="loading">
+  <div class="vns-loading">
     <div class="hourglass"></div>
   </div>
 </template>
@@ -11,13 +11,13 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.loading {
+.vns-loading {
   display: flex;
   justify-content: center;
   padding: 1rem;
 }
 
-.hourglass {
+.vns-loading .hourglass {
   display: inline-block;
   position: relative;
   width: 80px;
