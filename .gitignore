@@ -16,3 +16,5 @@ bin/address-manager/vendor
 bin/vendor
 *.css.map
 *.js.map
+/hot
+mix-manifest.json
