@@ -11,5 +11,8 @@ composer.lock
 package-lock.json
 .env
 .idea/
-#bin/data
+bin/data
 bin/address-manager/vendor
+bin/vendor
+*.css.map
+*.js.map

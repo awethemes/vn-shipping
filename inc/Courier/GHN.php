@@ -275,7 +275,7 @@ class GHN extends AbstractCourier {
 				$options->define( 'height' )->asInt()->required();
 				$options->define( 'length' )->asInt()->required();
 
-				$options->define( 'payment_type_id' )->asInt()->required();
+				$options->define( 'payment_type_id' )->asInt()->required()->allowedValues(1, 2);
 				$options->define( 'service_type_id' )->asInt();
 				$options->define( 'service_id' )->asInt();
 

@@ -7,6 +7,20 @@ use WC_Order;
 
 class OrderHelper {
 	/**
+	 * @param WC_Order $order
+	 * @return array
+	 */
+	public static function get_order_states( WC_Order $order ) {
+		return [
+			'orderId' => $order->get_id(),
+			'orderShippingData' => ShippingData::get( $order->get_id() ),
+			'canCreateShipping' => static::order_can_create_shipping( $order ),
+			'orderShippingMethods' => static::get_order_shipping_methods( $order ),
+			'availableCouriers' => array_values( Couriers::getCouriers() ),
+		];
+	}
+
+	/**
 	 * Get available order shipping methods, response for API.
 	 *
 	 * @param WC_Order $order
@@ -35,5 +49,23 @@ class OrderHelper {
 				array_values( $items )
 			)
 		);
+	}
+
+	/**
+	 * @param WC_Order|int $order
+	 * @return bool
+	 */
+	public static function order_can_create_shipping( $order ) {
+		if ( ! $order instanceof WC_Order ) {
+			$order = wc_get_order( $order );
+		}
+
+		if ( false === $order ) {
+			return false;
+		}
+
+		$status = [ 'trash', 'pending', 'cancelled', 'failed', 'refunded' ];
+
+		return ! in_array( $order->get_status(), $status, true );
 	}
 }

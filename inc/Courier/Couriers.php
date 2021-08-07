@@ -40,7 +40,7 @@ class Couriers {
 			static::GHN => [
 				'id' => static::GHN,
 				'name' => esc_html__( 'Giao Hàng Nhanh', 'vn-shipping' ),
-				'icon' => untrailingslashit( VN_SHIPPING_PLUGIN_DIR_URL ) . 'resources/icons/ghn.png',
+				'icon' => untrailingslashit( VN_SHIPPING_PLUGIN_DIR_URL ) . '/resources/icons/ghn.png',
 			],
 			static::GHTK => [
 				'id' => static::GHTK,

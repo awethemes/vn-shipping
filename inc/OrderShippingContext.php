@@ -3,6 +3,9 @@
 namespace VNShipping;
 
 use JsonSerializable;
+use VNShipping\Address\District;
+use VNShipping\Address\Province;
+use VNShipping\Address\Ward;
 use WC_Order;
 
 class OrderShippingContext implements JsonSerializable {
@@ -76,10 +79,14 @@ class OrderShippingContext implements JsonSerializable {
 
 		$isShipToVietnam = $order->get_shipping_country() === 'VN';
 
+		$province = $isShipToVietnam ? Province::get_by_code( $order->get_shipping_state() ) : null;
+		$district = $isShipToVietnam ? District::get_by_code( $order->get_shipping_city() ) : null;
+		$ward = $isShipToVietnam ? Ward::get_by_code( $order->get_shipping_address_2() ) : null;
+
 		$context->address_data = [
-			'province' => $isShipToVietnam ? $order->get_shipping_state() : '',
-			'district' => $isShipToVietnam ? $order->get_shipping_city() : '',
-			'ward' => $isShipToVietnam ? $order->get_shipping_address_2() : '',
+			'province' => $province ? $province->get_code() : null,
+			'district' => $district ? $district->get_code() : null,
+			'ward' => $ward ? $ward->get_code() : null,
 		];
 
 		$context->cod = 0;
