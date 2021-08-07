@@ -2,14 +2,14 @@
 # This file is distributed under the same license as the VNShipping for WooCommerce plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: VNShipping for WooCommerce 0.1.0\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vietnam-shipping\n"
+"Project-Id-Version: VNShipping for WooCommerce 0.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vn-shipping\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-08-02T17:44:16+00:00\n"
+"POT-Creation-Date: 2021-08-07T15:42:01+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.5.0\n"
 "X-Domain: vn-shipping\n"
@@ -49,20 +49,10 @@ msgstr ""
 msgid "Ward"
 msgstr ""
 
-#: inc/Courier/Couriers.php:37
-msgid "Viettel Post"
-msgstr ""
-
 #: inc/Courier/Couriers.php:42
 #: inc/ShippingMethod/GHNShippingMethod.php:26
-#: inc/ShippingMethod/GHNShippingMethod.php:195
-#: dist/order-shipping.js:2
-#: resources/js/react/utils/couriers.js:12
+#: inc/ShippingMethod/GHNShippingMethod.php:190
 msgid "Giao Hàng Nhanh"
-msgstr ""
-
-#: inc/Courier/Couriers.php:47
-msgid "Giao Hàng Tiết Kiệm"
 msgstr ""
 
 #: inc/Courier/Exception/InvalidAddressDataException.php:14
@@ -171,164 +161,70 @@ msgid "Plugin could not be activated"
 msgstr ""
 
 #: inc/OrderListTable.php:54
-#: inc/Plugin.php:182
+#: inc/Plugin.php:198
 msgid "Shipping"
 msgstr ""
 
-#: inc/OrderListTable.php:142
+#: inc/OrderListTable.php:149
 msgid "Shipping courier"
 msgstr ""
 
-#: inc/OrderListTable.php:155
+#: inc/OrderListTable.php:162
 msgid "Shipping status"
 msgstr ""
 
-#: inc/REST/ShippingController.php:123
-#: inc/REST/ShippingController.php:142
-#: inc/REST/ShippingController.php:161
+#: inc/REST/ShippingController.php:92
+#: inc/REST/ShippingController.php:111
+#: inc/REST/ShippingController.php:130
+#: inc/REST/ShippingController.php:149
 msgid "An alphanumeric identifier for the courier."
 msgstr ""
 
-#: inc/REST/ShippingController.php:186
-#: inc/REST/ShippingController.php:389
+#: inc/REST/ShippingController.php:163
+msgid "Sorry, you cannot view the resources."
+msgstr ""
+
+#: inc/REST/ShippingController.php:178
+msgid "Sorry, you are not allowed to update resources."
+msgstr ""
+
+#: inc/REST/ShippingController.php:196
+#: inc/REST/ShippingController.php:410
 msgid "Invalid order ID."
 msgstr ""
 
-#: inc/REST/ShippingController.php:217
+#: inc/REST/ShippingController.php:224
 msgid "Shipping code not created yet."
 msgstr ""
 
-#: inc/REST/ShippingController.php:410
-msgid "Shipping method is missing or invalid"
+#: inc/REST/ShippingController.php:426
+msgid "Shipping courier is invalid"
+msgstr ""
+
+#: inc/REST/ShippingController.php:441
+msgid "Shipping method is invalid"
 msgstr ""
 
 #: inc/ShippingMethod/GHNShippingMethod.php:27
 msgid "Giao hàng qua đơn vị Giao Hàng Nhanh"
 msgstr ""
 
-#: inc/ShippingMethod/GHNShippingMethod.php:156
+#: inc/ShippingMethod/GHNShippingMethod.php:151
 msgid "Token API"
 msgstr ""
 
-#: inc/ShippingMethod/GHNShippingMethod.php:157
+#: inc/ShippingMethod/GHNShippingMethod.php:152
 msgid "Token API do Giao Hàng Nhanh cung cấp. Truy cập **GHN - Thông tin tài khoản**"
 msgstr ""
 
-#: inc/ShippingMethod/GHNShippingMethod.php:165
+#: inc/ShippingMethod/GHNShippingMethod.php:160
 msgid "Debug mode"
 msgstr ""
 
-#: inc/ShippingMethod/GHNShippingMethod.php:166
+#: inc/ShippingMethod/GHNShippingMethod.php:161
 msgid "Is API under debug mode?"
 msgstr ""
 
-#: inc/ShippingMethod/GHNShippingMethod.php:173
+#: inc/ShippingMethod/GHNShippingMethod.php:168
 msgid "Store ID from GHN"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/elements/AddressSelect.js:208
-msgid "Select province..."
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/elements/AddressSelect.js:220
-msgid "Select district..."
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/elements/AddressSelect.js:232
-msgid "Select ward..."
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/schema.js:7
-#: resources/js/react/components/ghn/schema.js:11
-#: resources/js/react/components/ghn/schema.js:15
-msgid "Required"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/schema.js:10
-msgid "Vui lòng nhập đúng SĐT"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/schema.js:14
-msgid "Trường này là bắt buộc"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:97
-msgid "Họ tên"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:105
-msgid "Điện thoại"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:116
-msgid "Địa Chỉ"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:148
-msgid "Thu hộ tiền COD (VNĐ)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:160
-msgid "Tổng giá trị hàng hoá (VNĐ)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:182
-msgid "Khối lượng (gram)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:192
-msgid "Dài (cm)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:204
-msgid "Rộng (cm)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:214
-msgid "Cao (cm)"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:250
-msgid "Lưu ý giao hàng"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/ghn/CreateOrderForm.js:259
-msgid "Ghi chú"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/create-shipping/ChooseCourier.js:35
-msgid "Chọn đơn vị vận chuyển"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/create-shipping/ChooseCourier.js:53
-msgid "Tiếp theo"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/create-shipping/CreateShippingOrder.js:84
-msgid "Tạo mã đơn vận chuyển"
-msgstr ""
-
-#: dist/order-shipping.js:2
-#: resources/js/react/components/create-shipping/CreateShippingOrder.js:99
-msgid "Tạo đơn: %s"
 msgstr ""
