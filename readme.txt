@@ -4,7 +4,7 @@ Tags: shipping, couriers, ghn, ghtk, viettel
 Requires at least: 5.4
 Tested up to: 5.8.0
 Requires PHP: 7.1
-Stable tag: 0.1.1
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,11 @@ Nothing notice yet!
 3. Cài đặt
 
 == Changelog ==
+
+= 0.2.0 =
+* Chức năng hủy đơn hàng trong admin
+* Chuyển đổi JS framework sử dụng Vue 3
+* Sửa 1 số lỗi nhỏ
 
 = 0.1.2 =
 * Cập nhật address-mapping cho GHN.
