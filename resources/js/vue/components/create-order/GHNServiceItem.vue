@@ -2,6 +2,7 @@
   <input
     type="radio"
     name="service_id"
+    :disabled="!(feeInfo && leadTimeInfo)"
     :checked="isChecked"
     :value="service.service_id"
     :id="`service_${service.service_id}`"

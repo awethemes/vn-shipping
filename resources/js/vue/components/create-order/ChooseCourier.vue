@@ -18,7 +18,7 @@
     </li>
   </ul>
 
-  <div class="vns-actions">
+  <div class="vns-actions is-center">
     <button
       class="button button-primary"
       :disabled="!courierValue"
@@ -35,6 +35,8 @@ export default {
   name: 'ChooseCourier',
 
   components: { BlockUi },
+
+  emit: ['press-next'],
 
   props: [
     'currentCourier',

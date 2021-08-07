@@ -137,7 +137,13 @@
       <div class="vns-create-form__submit">
         <h3>Gói cước</h3>
 
+        <notice
+          v-if="errors.services"
+          :error="errors.services"
+        />
+
         <block-ui
+          v-else
           :is-loading="isLoading('getAvailableServices')"
           :is-small="true">
           <ul class="vns-service-list" v-if="availableServices">
@@ -158,9 +164,9 @@
           <label style="display: inline-block; margin-right: 1.5rem;">
             <input
               v-model.number="payment_type_id"
+              :value="1"
               type="radio"
               name="payment_type_id"
-              value="1"
             />
             <span>Người gửi</span>
           </label>
@@ -168,9 +174,9 @@
           <label style="display: inline-block;">
             <input
               v-model.number="payment_type_id"
+              :value="2"
               type="radio"
               name="payment_type_id"
-              value="2"
             />
             <span>Người nhận</span>
           </label>
@@ -189,24 +195,29 @@
           />
         </div>
 
-        <table class="table">
+        <table class="table" style="margin-bottom: 1rem;">
           <tbody>
             <tr>
-              <th></th>
-              <td></td>
+              <th>
+                Phí vận chuyển ({{ payment_type_id === 1 ? 'shop trả' : 'khách trả' }}):
+              </th>
+              <td>
+                {{ this.shippingFee ? formatCurrency(this.shippingFee.service_fee) : null }}
+              </td>
             </tr>
 
             <tr>
-              <th>Tổng phí</th>
-              <td></td>
+              <th>Tổng phí:</th>
+              <td>{{ this.shippingFee ? formatCurrency(this.shippingFee.total) : null }}</td>
             </tr>
           </tbody>
         </table>
+
+        <button type="submit" class="button button-primary" :disabled="!isValid">
+          Tạo mã vận đơn
+        </button>
       </div>
 
-      <button type="submit" class="button button-primary">
-        Tạo mã vận đơn
-      </button>
     </div>
   </form>
 </template>
@@ -214,22 +225,29 @@
 <script>
 import { castArray, debounce } from 'lodash';
 
+import Notice from '../../elements/Notice';
 import BlockUi from '../../elements/BlockUi';
 import AddressField from '../../elements/AddressField';
 import GhnServiceItem from './GHNServiceItem';
 
-import { InteractsWithAPI, InteractsWithCreateOrder } from '../../api';
+import {
+  FormattingMixin,
+  InteractsWithAPI,
+  InteractsWithCreateOrder
+} from '../../api';
 
 export default {
   name: 'CreateGHNOrder',
 
   components: {
+    Notice,
     BlockUi,
     AddressField,
     GhnServiceItem
   },
 
   mixins: [
+    FormattingMixin,
     InteractsWithAPI,
     InteractsWithCreateOrder
   ],
@@ -241,6 +259,7 @@ export default {
       payment_type_id: 1,
       required_note: 'KHONGCHOXEMHANG',
 
+      errors: {},
       serviceFees: {},
       serviceLeadTimes: {},
       availableServices: []
@@ -253,10 +272,9 @@ export default {
 
     this.fetchServices();
 
-    this.$watch(
-      () => this.address_data?.district,
-      this.debounceFetchServices
-    );
+    this.$watch(() => this.address_data?.province, this.debounceFetchServices);
+    this.$watch(() => this.address_data?.district, this.debounceFetchServices);
+    this.$watch(() => this.address_data?.ward, this.debounceFetchServices);
 
     this.$watch('width', this.debounceFetchFees);
     this.$watch('height', this.debounceFetchFees);
@@ -280,6 +298,22 @@ export default {
     }
   },
 
+  watch: {
+    /*payment_type_id(value) {
+     if (!this.shippingFee) {
+     return;
+     }
+
+     if (value === 1) {
+     this.cod = 0;
+     } else if (value === 2) {
+     this.cod = this.shippingFee.total;
+     }
+
+     console.log(this.cod)
+     }*/
+  },
+
   methods: {
     setServiceId(serviceInfo) {
       this.service_id = serviceInfo.service_id;
@@ -294,6 +328,9 @@ export default {
       if (!this.width || !this.height || !this.weight || !this.length) {
         return;
       }
+
+      this.serviceFees = [];
+      this.serviceLeadTimes = [];
 
       for (const service of this.availableServices) {
         this.getShippingFee('ghn', {
@@ -321,26 +358,60 @@ export default {
     },
 
     async fetchServices() {
-      if (!this.address_data?.district) {
+      if (
+        !this.address_data?.province ||
+        !this.address_data?.district ||
+        !this.address_data?.ward
+      ) {
+        this.serviceFees = [];
+        this.serviceLeadTimes = [];
         return;
       }
 
-      this.availableServices = null;
+      this.serviceFees = [];
+      this.serviceLeadTimes = [];
 
-      const response = await this.getAvailableServices('ghn', {
-        to_district: this.address_data.district
-      });
+      this.service_id = 0;
+      this.service_type_id = 0;
 
-      this.availableServices = castArray(response);
-      if (this.availableServices) {
-        this.fetchFees();
+      try {
+        const response = await this.getAvailableServices(
+          'ghn',
+          { to_district: this.address_data.district }
+        );
+
+        this.availableServices = castArray(response);
+        if (this.availableServices) {
+          this.fetchFees();
+        }
+      } catch (error) {
+        this.availableServices = null;
+
+        this.errors.services = 'Không thể lấy gói cước cho địa chỉ này. Vui lòng thử lại.';
       }
     }
   },
 
   computed: {
+    isValid() {
+      return this.service_id && this.shippingFee;
+    },
+
     shippingFee() {
-      // return this.
+      if (!this.selectedService) {
+        return null;
+      }
+
+      return this.serviceFees[this.selectedService.service_id] || null;
+    },
+
+    selectedService() {
+      if (!this.service_id || !this.availableServices) {
+        return null;
+      }
+
+      return this.availableServices
+        .find((value) => parseInt(value.service_id, 10) === parseInt(this.service_id, 10));
     }
   }
 };

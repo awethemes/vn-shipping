@@ -1,0 +1,19 @@
+.vns-component-notice {
+  display: flex;
+  font-size: 13px;
+  background-color: #fff;
+  border-left: 4px solid #ff9800;
+  margin: 0 0 6px;
+  padding: 6px 12px;
+  align-items: center;
+  box-sizing: border-box;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  &.is-error {
+    border-left-color: #b9263b;
+  }
+}

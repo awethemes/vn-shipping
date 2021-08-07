@@ -1,3 +1,8 @@
+@import "components/modal";
+@import "components/dialog";
+@import "components/notice";
+@import "components/loading";
+
 .vns-form-group {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -50,8 +55,17 @@
 
 .vns-actions {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
   margin-top: 1rem;
+
+  &.is-center {
+    justify-content: center;
+  }
+
+  .is-destroy {
+    color: #b32d2e;
+  }
 }
 
 .vns-couriers {
@@ -180,26 +194,37 @@
   }
 }
 
-.trackingCode {
-  border: dashed 2px #737373;
-  display: flex;
-  padding: 1rem;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+.vns-tracking-info {
+  padding-top: 1rem;
+  margin-bottom: 1rem;
   box-sizing: border-box;
+  text-align: center;
 
   p {
     margin: 0;
+    margin-bottom: 5px;
   }
 
-  strong {
-    color: #737373;
+  img {
+    max-height: 32px;
+    max-width: 100%;
+    height: auto;
   }
 
-  span {
-    color: #ff9800;
+  &__code {
+    display: inline-block;
+    padding: 5px 20px;
     font-weight: 700;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
+    border: dashed 2px #737373;
+    box-sizing: border-box;
+  }
+
+  &__logo {
+    top: 2px;
+    left: 5px;
+    position: absolute;
+    width: 5rem;
+    z-index: 2;
   }
 }

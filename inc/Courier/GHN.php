@@ -275,7 +275,7 @@ class GHN extends AbstractCourier {
 				$options->define( 'height' )->asInt()->required();
 				$options->define( 'length' )->asInt()->required();
 
-				$options->define( 'payment_type_id' )->asInt()->required()->allowedValues(1, 2);
+				$options->define( 'payment_type_id' )->asInt()->required()->allowedValues( 1, 2 );
 				$options->define( 'service_type_id' )->asInt();
 				$options->define( 'service_id' )->asInt();
 
@@ -317,9 +317,13 @@ class GHN extends AbstractCourier {
 			$parameters = new RequestParameters( $parameters );
 		}
 
-		$parameters->validate( 'order_codes' );
+		$values = $parameters->validate(
+			function ( OptionsResolver $options ) {
+				$options->define( 'order_codes' )->asString()->required();
+			}
+		);
 
-		$data = [ 'order_codes' => $parameters->get( 'order_codes' ) ];
+		$data = [ 'order_codes' => [ $values['order_codes'] ] ];
 		$this->with_header( 'ShopId', (int) $parameters->get( 'shop_id' ) ?: $this->get_shop_id() );
 
 		$response = $this->request(

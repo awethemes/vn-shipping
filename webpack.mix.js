@@ -42,6 +42,10 @@ mix.webpackConfig({
 
 mix.options({
   processCssUrls: false,
+  hmrOptions: {
+    host: 'localhost',
+    port: 8889
+  },
   fileLoaderDirs: {
     images: 'dist/img'
   }

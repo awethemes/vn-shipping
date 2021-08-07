@@ -164,6 +164,29 @@ class ShippingData implements JsonSerializable {
 	}
 
 	/**
+	 * Delete this shipping data.
+	 */
+	public function delete() {
+		global $wpdb;
+
+		if ( ! $this->id ) {
+			return false;
+		}
+
+		$deleted = $wpdb->delete(
+			"{$wpdb->prefix}vn_shipping_data",
+			[ 'id' => $this->id ],
+			[ '%d' ]
+		);
+
+		if ( $deleted ) {
+			wp_cache_delete( $this->order_id, 'vn_shipping_data' );
+		}
+
+		return $deleted;
+	}
+
+	/**
 	 * Convert object to array.
 	 *
 	 * @return array Object as array.

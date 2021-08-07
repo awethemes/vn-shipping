@@ -9,13 +9,14 @@ const safeApiFetch = async (...args) => {
   try {
     return await apiFetch(...args);
   } catch (error) {
-    console.error(error);
+    const code = error.status || 0;
 
-    let message = error instanceof Error || error.message
-      ? error.message
-      : null;
+    if (code >= 500) {
+      throw new Error('Lỗi hệ thống, vui lòng thử lại!');
+    }
 
-    if (message) {
+    if (error.message) {
+      throw new Error(error.message);
     }
 
     throw error;
@@ -66,6 +67,20 @@ export const InteractsWithAPI = {
 
       return safeApiFetch({ method: 'POST', path, data }).finally(() => {
         this.isRequesting['getAvailableServices'] = false;
+      });
+    },
+
+    /**
+     * @param {Object} data
+     * @returns {Promise}
+     */
+    cancelShippingOrder(data = {}) {
+      const path = `/awethemes/vn-shipping/shipping/${this.currentOrderId}/cancel`;
+
+      this.isRequesting['cancelShippingOrder'] = true;
+
+      return safeApiFetch({ method: 'POST', path, data }).finally(() => {
+        this.isRequesting['cancelShippingOrder'] = false;
       });
     },
 

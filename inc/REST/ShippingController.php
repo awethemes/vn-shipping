@@ -3,14 +3,15 @@
 namespace VNShipping\REST;
 
 use Exception;
+use InvalidArgumentException;
 use RuntimeException;
+use VNShipping\Courier\Couriers;
 use VNShipping\Courier\Exception\InvalidParameterException;
 use VNShipping\Courier\Exception\RequestException;
 use VNShipping\Courier\Factory;
 use VNShipping\Courier\RequestParameters;
 use VNShipping\OrderShippingContext;
 use VNShipping\ShippingData;
-use VNShipping\ShippingMethod\ShippingMethodInterface;
 use WP_Error;
 use WP_REST_Controller;
 use WP_REST_Request;
@@ -26,15 +27,6 @@ class ShippingController extends WP_REST_Controller {
 	 * @var string
 	 */
 	protected $rest_base = 'shipping';
-
-	/**
-	 * @var string[]
-	 */
-	protected $shipping_method_alias = [
-		'vtp' => 'viettel_post',
-		'ghn' => 'giao_hang_nhanh',
-		'ghtk' => 'giao_hang_tiet_kiem',
-	];
 
 	/**
 	 * {@inheritdoc}
@@ -57,7 +49,7 @@ class ShippingController extends WP_REST_Controller {
 
 		register_rest_route(
 			$this->namespace,
-			'/' . $this->rest_base . '/cancel',
+			'/' . $this->rest_base . '/(?P<order_id>[\d]+)/cancel',
 			[
 				[
 					'methods' => WP_REST_Server::EDITABLE,
@@ -234,14 +226,15 @@ class ShippingController extends WP_REST_Controller {
 			);
 		}
 
-		/** @var \VNShipping\Courier\AbstractCourier $courier */
-		$courier = $this->resolve_courier( $request );
-
 		return $this->make_response(
-			function () use ( $shipping_data, $courier ) {
+			function () use ( $shipping_data ) {
+				$courier = Factory::create( $shipping_data->courier );
+
 				$response = $courier->cancel_order( [
-					'order_codes' => [ $shipping_data->tracking_number ],
+					'order_codes' => $shipping_data->tracking_number,
 				] );
+
+				$shipping_data->delete();
 
 				return $response;
 			}
@@ -256,8 +249,8 @@ class ShippingController extends WP_REST_Controller {
 		try {
 			$order = $this->resolve_order( $request );
 
-			/** @var $courier \VNShipping\Courier\AbstractCourier */
-			[ $courier, $shipping_method ] = $this->resolve_courier( $request );
+			$courier = $this->resolve_courier( $request );
+			$shipping_method = $this->resolve_shipping_method( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
@@ -302,7 +295,8 @@ class ShippingController extends WP_REST_Controller {
 		try {
 			$order = $this->resolve_order( $request );
 
-			[ $courier, $shipping_method ] = $this->resolve_courier( $request );
+			$courier = $this->resolve_courier( $request );
+			$shipping_method = $this->resolve_shipping_method( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
@@ -323,8 +317,7 @@ class ShippingController extends WP_REST_Controller {
 	 */
 	public function get_lead_time( $request ) {
 		try {
-			/** @var \VNShipping\Courier\AbstractCourier $courier */
-			[ $courier ] = $this->resolve_courier( $request );
+			$courier = $this->resolve_courier( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
@@ -344,8 +337,7 @@ class ShippingController extends WP_REST_Controller {
 	 */
 	public function get_shipping_fee( $request ) {
 		try {
-			/** @var \VNShipping\Courier\AbstractCourier $courier */
-			[ $courier ] = $this->resolve_courier( $request );
+			$courier = $this->resolve_courier( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
@@ -365,8 +357,7 @@ class ShippingController extends WP_REST_Controller {
 	 */
 	public function get_available_services( $request ) {
 		try {
-			/** @var \VNShipping\Courier\AbstractCourier $courier */
-			[ $courier ] = $this->resolve_courier( $request );
+			$courier = $this->resolve_courier( $request );
 		} catch ( RuntimeException $e ) {
 			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
 		}
@@ -423,26 +414,33 @@ class ShippingController extends WP_REST_Controller {
 	}
 
 	/**
-	 * @param $request
-	 * @return array{\VNShipping\Courier\AbstractCourier, \WC_Shipping_Method}
+	 * @param WP_REST_Request $request
+	 * @return \VNShipping\Courier\AbstractCourier|mixed
 	 */
 	protected function resolve_courier( $request ) {
 		$name = $request->get_param( 'shipping_method' );
 
-		if ( array_key_exists( $name, $this->shipping_method_alias ) ) {
-			$name = $this->shipping_method_alias[ $name ];
+		try {
+			return Factory::create( $name );
+		} catch ( InvalidArgumentException $e ) {
+			throw new RuntimeException( esc_html__( 'Shipping courier is invalid', 'vn-shipping' ), 400 );
 		}
+	}
+
+	/**
+	 * @param WP_REST_Request $request
+	 * @return \WC_Shipping_Method
+	 */
+	protected function resolve_shipping_method( $request ) {
+		$name = $request->get_param( 'shipping_method' );
 
 		$shipping_methods = WC()->shipping()->get_shipping_methods();
-		$shipping_method = $shipping_methods[ $name ] ?? null;
 
-		if ( ! $shipping_method || ! $shipping_method instanceof ShippingMethodInterface ) {
-			throw new RuntimeException( esc_html__( 'Shipping method is missing or invalid', 'vn-shipping' ), 400 );
+		$info = Couriers::getCourier( $name );
+		if ( ! $info || ! isset( $shipping_methods[ $info['id'] ] ) ) {
+			throw new RuntimeException( esc_html__( 'Shipping method is invalid', 'vn-shipping' ), 400 );
 		}
 
-		return [
-			Factory::createFromShippingMethod( $shipping_method ),
-			$shipping_method,
-		];
+		return $shipping_methods[ $info['id'] ];
 	}
 }

@@ -1,6 +1,13 @@
 <template>
   <template v-if="states.orderShippingData">
     <shipping-info :shipping-data="states.orderShippingData" />
+
+    <div class="vns-actions">
+      <a href="#" class="is-destroy" @click.prevent="deleteShippingOrder">Hủy</a>
+<!--      <button class="button btn-check">Chi tiết</button>-->
+    </div>
+
+    <dialog-message ref="deleteDialog" :is-confirm="true"></dialog-message>
   </template>
 
   <template v-else>
@@ -62,9 +69,9 @@ export default {
   mixins: [InteractsWithAPI],
 
   components: {
-    DialogMessage,
     Modal,
     Loading,
+    DialogMessage,
     ShippingInfo,
     ChooseCourier,
     CreateGHNOrder
@@ -107,6 +114,23 @@ export default {
 
       const response = await this.getOrderShippingInfo();
       store.setOrderShippingInfo(response);
+    },
+
+    async deleteShippingOrder() {
+      const isConfirmed = await this.$refs.deleteDialog.open(
+        'Bạn có chắc muốn xóa mã vận đơn này?'
+      );
+
+      if (!isConfirmed) {
+        return;
+      }
+
+      const response = await this.cancelShippingOrder();
+
+      if (response) {
+        store.setShippingData(null);
+        store.setOrderShippingInfo(null);
+      }
     }
   }
 };
