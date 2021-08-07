@@ -62,7 +62,7 @@ class ShippingController extends WP_REST_Controller {
 				[
 					'methods' => WP_REST_Server::EDITABLE,
 					'callback' => [ $this, 'cancel' ],
-					'permission_callback' => [ $this, 'get_item_permissions_check' ],
+					'permission_callback' => [ $this, 'update_item_permissions_check' ],
 				],
 				'args' => [
 				],
@@ -77,13 +77,9 @@ class ShippingController extends WP_REST_Controller {
 				[
 					'methods' => WP_REST_Server::EDITABLE,
 					'callback' => [ $this, 'create_shipping_order' ],
-					'permission_callback' => [ $this, 'get_item_permissions_check' ],
+					'permission_callback' => [ $this, 'update_item_permissions_check' ],
 				],
 				'args' => [
-					'province' => [
-						'type' => 'integer',
-						'description' => 'The province code.',
-					],
 				],
 				'schema' => [ $this, 'get_public_item_schema' ],
 			]
@@ -99,9 +95,9 @@ class ShippingController extends WP_REST_Controller {
 					'permission_callback' => [ $this, 'get_item_permissions_check' ],
 				],
 				'args' => [
-					'province' => [
-						'type' => 'integer',
-						'description' => 'The province code.',
+					'shipping_method' => [
+						'type' => 'string',
+						'description' => __( 'An alphanumeric identifier for the courier.', 'vn-shipping' ),
 					],
 				],
 				'schema' => [ $this, 'get_public_item_schema' ],
@@ -170,6 +166,28 @@ class ShippingController extends WP_REST_Controller {
 	 * {@inheritdoc}
 	 */
 	public function get_item_permissions_check( $request ) {
+		if ( ! wc_rest_check_post_permissions( 'shop_order', 'read' ) ) {
+			return new WP_Error( 'vn_shipping_rest_cannot_view',
+				__( 'Sorry, you cannot view the resources.', 'vn-shipping' ),
+				[ 'status' => rest_authorization_required_code() ]
+			);
+		}
+
+		return true;
+	}
+
+	/**
+	 * {@inheritdoc}
+	 */
+	public function update_item_permissions_check( $request ) {
+		if ( ! wc_rest_check_post_permissions( 'shop_order', 'edit', $request->get_param( 'order_id' ) ) ) {
+			return new WP_Error(
+				'vn_shipping_rest_cannot_edit',
+				__( 'Sorry, you are not allowed to update resources.', 'vn-shipping' ),
+				[ 'status' => rest_authorization_required_code() ]
+			);
+		}
+
 		return true;
 	}
 
