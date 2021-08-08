@@ -4,19 +4,19 @@ namespace VNShipping\Courier\Exception;
 
 class RequestException extends \RuntimeException {
 	/**
-	 * @var string
+	 * @var mixed
 	 */
 	protected $rawBody;
 
 	/**
-	 * @return string
+	 * @return mixed
 	 */
 	public function getRawBody() {
 		return $this->rawBody;
 	}
 
 	/**
-	 * @param string $rawBody
+	 * @param mixed $rawBody
 	 * @return $this
 	 */
 	public function setRawBody( $rawBody ) {

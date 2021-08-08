@@ -4,6 +4,7 @@ namespace VNShipping\ShippingMethod;
 
 use Exception;
 use VNShipping\CartShippingContext;
+use VNShipping\Courier\Couriers;
 use VNShipping\Courier\Exception\RequestException;
 use VNShipping\Courier\Factory;
 use VNShipping\Courier\RequestParameters;
@@ -11,9 +12,6 @@ use WC_Order;
 use WC_Shipping_Method;
 
 class GHNShippingMethod extends WC_Shipping_Method implements ShippingMethodInterface {
-	/* Const */
-	const METHOD_NAME = 'giao_hang_nhanh';
-
 	/**
 	 * Constructor.
 	 *
@@ -22,7 +20,7 @@ class GHNShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 	public function __construct( $instance_id = 0 ) {
 		parent::__construct( $instance_id );
 
-		$this->id = self::METHOD_NAME;
+		$this->id = Couriers::GHN;
 		$this->method_title = __( 'Giao Hàng Nhanh', 'vn-shipping' );
 		$this->method_description = __(
 			'Giao hàng qua đơn vị Giao Hàng Nhanh',

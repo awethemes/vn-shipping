@@ -36,31 +36,31 @@ abstract class AbstractCourier {
 	abstract public function get_base_url();
 
 	/**
-	 * @param RequestParameters|array|mixed $parameters
+	 * @param RequestParameters|array $parameters
 	 * @return JsonResponseData
 	 */
 	abstract public function get_shipping_fee( $parameters );
 
 	/**
-	 * @param RequestParameters|array|mixed $parameters
+	 * @param RequestParameters|array $parameters
 	 * @return JsonResponseData
 	 */
 	abstract public function get_lead_time( $parameters );
 
 	/**
-	 * @param RequestParameters|array|mixed $parameters
+	 * @param RequestParameters|array $parameters
 	 * @return JsonResponseData
 	 */
 	abstract public function get_order( $parameters );
 
 	/**
-	 * @param RequestParameters|array|mixed $parameters
+	 * @param RequestParameters|array $parameters
 	 * @return ShippingOrderResponseData
 	 */
 	abstract public function create_order( $parameters );
 
 	/**
-	 * @param RequestParameters|array|mixed $parameters
+	 * @param RequestParameters|array $parameters
 	 * @return JsonResponseData
 	 */
 	abstract public function cancel_order( $parameters );
