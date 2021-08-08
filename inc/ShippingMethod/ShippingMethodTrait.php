@@ -2,6 +2,9 @@
 
 namespace VNShipping\ShippingMethod;
 
+use Exception;
+use InvalidArgumentException;
+use VNShipping\Courier\Exception\RequestException;
 use VNShipping\Courier\Factory;
 
 trait ShippingMethodTrait {
@@ -21,35 +24,62 @@ trait ShippingMethodTrait {
 		return $this->courier;
 	}
 
+	/**
+	 * @return \VNShipping\Courier\Response\CollectionResponseData|null
+	 */
 	public function get_stores() {
-		return $this->get_cache_value( 'get_stores', function () {
-			return $this->get_courier()->get_stores()->get_data();
-		} );
-	}
+		try {
+			if ( isset( $_REQUEST['invalidate'] ) && 1 === (int) $_REQUEST['invalidate'] ) {
+				return $this->get_courier()->get_stores( [] );
+			}
 
-	public function get_primary_store() {
+			return $this->get_cache_value(
+				'stores',
+				function () {
+					return $this->get_courier()->get_stores( [] );
+				},
+				30
+			);
+		} catch ( RequestException | InvalidArgumentException $e ) {
+			return null;
+		}
 	}
 
 	/**
 	 * @param string   $key
-	 * @param callable $set_value_callback
+	 * @param callable $callback
 	 * @param int      $lifetime
 	 * @return mixed
 	 */
-	protected function get_cache_value( $key, $set_value_callback, $lifetime = 0 ) {
+	protected function get_cache_value( $key, $callback, $lifetime = 0 ) {
 		$transient_key = $this->get_field_key( $key );
 
 		if ( $value = get_transient( $transient_key ) ) {
 			return $value;
 		}
 
-		$value = $set_value_callback();
+		$value = $callback();
 
 		if ( $value !== null ) {
-			set_transient( $transient_key, $value, $lifetime );
+			set_transient( $transient_key, $value, $lifetime * MINUTE_IN_SECONDS );
 		}
 
 		return $value;
+	}
+
+	/**
+	 * {@inheritdoc}
+	 */
+	public function process_admin_options() {
+		$old_api_token = $this->get_option( 'api_token' );
+
+		$saved = parent::process_admin_options();
+
+		$new_api_token = $this->get_option( 'api_token' );
+
+		if ( $saved && $new_api_token !== $old_api_token ) {
+			delete_transient( $this->get_field_key( 'stores' ) );
+		}
 	}
 
 	/**
@@ -97,7 +127,8 @@ trait ShippingMethodTrait {
 					</legend>
 
 					<?php foreach ( (array) $options as $option_key => $option_value ) : ?>
-						<label for="<?php echo esc_attr( $field_key . '_' . $option_key ); ?>" style="display: inline-block; margin-bottom: 1.5rem;">
+						<label for="<?php echo esc_attr( $field_key . '_' . $option_key ); ?>"
+							   style="display: inline-block; margin-bottom: 1.5rem;">
 							<input
 								type="radio"
 								id="<?php echo esc_attr( $field_key . '_' . $option_key ); ?>"

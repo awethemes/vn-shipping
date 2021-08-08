@@ -5,6 +5,7 @@ namespace VNShipping\OptionsResolver;
 use Closure;
 use VNShipping\Vendor\Symfony\Component\OptionsResolver\Exception\AccessException;
 use VNShipping\Vendor\Symfony\Component\OptionsResolver\Options;
+use VNShipping\Vendor\Symfony\Component\OptionsResolver\OptionsResolver as SymfonyOptionsResolver;
 
 final class OptionConfigurator {
 	/**
@@ -13,17 +14,17 @@ final class OptionConfigurator {
 	private $name;
 
 	/**
-	 * @var OptionsResolver
+	 * @var SymfonyOptionsResolver
 	 */
 	private $resolver;
 
 	/**
 	 * OptionConfigurator constructor.
 	 *
-	 * @param string          $name
-	 * @param OptionsResolver $resolver
+	 * @param string                 $name
+	 * @param SymfonyOptionsResolver $resolver
 	 */
-	public function __construct( string $name, OptionsResolver $resolver ) {
+	public function __construct( string $name, SymfonyOptionsResolver $resolver ) {
 		$this->name = $name;
 		$this->resolver = $resolver;
 		$this->resolver->setDefined( $name );

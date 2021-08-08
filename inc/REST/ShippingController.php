@@ -38,7 +38,7 @@ class ShippingController extends WP_REST_Controller {
 			[
 				[
 					'methods' => WP_REST_Server::READABLE,
-					'callback' => [ $this, 'show' ],
+					'callback' => [ $this, 'get_shipping_data' ],
 					'permission_callback' => [ $this, 'get_item_permissions_check' ],
 				],
 				'args' => [
@@ -47,13 +47,28 @@ class ShippingController extends WP_REST_Controller {
 			]
 		);
 
+		/*register_rest_route(
+			$this->namespace,
+			'/' . $this->rest_base . '/(?P<order_id>[\d]+)/show',
+			[
+				[
+					'methods' => WP_REST_Server::EDITABLE,
+					'callback' => [ $this, 'cancel_shipment' ],
+					'permission_callback' => [ $this, 'update_item_permissions_check' ],
+				],
+				'args' => [
+				],
+				'schema' => [ $this, 'get_public_item_schema' ],
+			]
+		);*/
+
 		register_rest_route(
 			$this->namespace,
 			'/' . $this->rest_base . '/(?P<order_id>[\d]+)/cancel',
 			[
 				[
 					'methods' => WP_REST_Server::EDITABLE,
-					'callback' => [ $this, 'cancel' ],
+					'callback' => [ $this, 'cancel_shipment' ],
 					'permission_callback' => [ $this, 'update_item_permissions_check' ],
 				],
 				'args' => [
@@ -72,25 +87,6 @@ class ShippingController extends WP_REST_Controller {
 					'permission_callback' => [ $this, 'update_item_permissions_check' ],
 				],
 				'args' => [
-				],
-				'schema' => [ $this, 'get_public_item_schema' ],
-			]
-		);
-
-		register_rest_route(
-			$this->namespace,
-			'/' . $this->rest_base . '/(?P<shipping_method>[\w-]+)/preview',
-			[
-				[
-					'methods' => WP_REST_Server::EDITABLE,
-					'callback' => [ $this, 'preview_shipping_order' ],
-					'permission_callback' => [ $this, 'get_item_permissions_check' ],
-				],
-				'args' => [
-					'shipping_method' => [
-						'type' => 'string',
-						'description' => __( 'An alphanumeric identifier for the courier.', 'vn-shipping' ),
-					],
 				],
 				'schema' => [ $this, 'get_public_item_schema' ],
 			]
@@ -187,7 +183,7 @@ class ShippingController extends WP_REST_Controller {
 	 * @param WP_REST_Request $request
 	 * @return WP_Error|mixed
 	 */
-	public function show( WP_REST_Request $request ) {
+	public function get_shipping_data( WP_REST_Request $request ) {
 		$order = wc_get_order( $request->get_param( 'order_id' ) );
 
 		if ( ! $order || 'shop_order' !== $order->get_type() ) {
@@ -209,7 +205,7 @@ class ShippingController extends WP_REST_Controller {
 	 * @param WP_REST_Request $request
 	 * @return WP_Error|mixed
 	 */
-	public function cancel( $request ) {
+	public function cancel_shipment( $request ) {
 		try {
 			$order = $this->resolve_order( $request );
 		} catch ( RuntimeException $e ) {
@@ -231,7 +227,7 @@ class ShippingController extends WP_REST_Controller {
 				$courier = Factory::create( $shipping_data->courier );
 
 				$response = $courier->cancel_order( [
-					'order_codes' => $shipping_data->tracking_number,
+					'order_code' => $shipping_data->tracking_number,
 				] );
 
 				$shipping_data->delete();
@@ -283,30 +279,6 @@ class ShippingController extends WP_REST_Controller {
 				);
 
 				return rest_ensure_response( $shipping_data->to_array() );
-			}
-		);
-	}
-
-	/**
-	 * @param WP_REST_Request $request
-	 * @return WP_Error|mixed
-	 */
-	public function preview_shipping_order( $request ) {
-		try {
-			$order = $this->resolve_order( $request );
-
-			$courier = $this->resolve_courier( $request );
-			$shipping_method = $this->resolve_shipping_method( $request );
-		} catch ( RuntimeException $e ) {
-			return new WP_Error( 'rest_invalid_request', $e->getMessage(), [ 'status' => $e->getCode() ] );
-		}
-
-		$parameter = new RequestParameters( $request );
-		$shipping_method->initialize_creation( $parameter, $order );
-
-		return $this->make_response(
-			function () use ( $courier, $parameter ) {
-				return $courier->preview_order( $parameter );
 			}
 		);
 	}
@@ -386,7 +358,7 @@ class ShippingController extends WP_REST_Controller {
 			);
 		} catch ( RequestException $e ) {
 			return new WP_Error(
-				'rest_request_error',
+				'rest_api_request_error',
 				$e->getMessage(),
 				[ 'status' => $e->getCode() < 500 ? 400 : 500 ]
 			);

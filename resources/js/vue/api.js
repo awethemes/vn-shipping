@@ -140,7 +140,10 @@ export const InteractsWithCreateOrder = {
     'orderShippingInfo'
   ],
 
-  emits: ['order-created'],
+  emits: [
+    'order-created',
+    'create-order-error'
+  ],
 
   data() {
     const shipping = this.orderShippingInfo.shipping || {};
@@ -167,15 +170,30 @@ export const InteractsWithCreateOrder = {
         return;
       }
 
+      let data = {};
+      switch (store.states.selectedCourier) {
+        case 'giao_hang_nhanh':
+          data = this.ghnCreationData;
+          break;
+        case 'giao_hang_tiet_kiem':
+          data = this.ghtkCreationData;
+          break;
+      }
+
       try {
-        const response = await this.createShippingOrder('ghn', this.ghnCreationData);
+        const response = await this.createShippingOrder(
+          store.states.selectedCourier,
+          data
+        );
 
         if (response.tracking_number) {
           this.$emit('order-created', response.tracking_number, response);
         }
       } catch (error) {
+        console.warn(error);
+
         if (error.message) {
-          alert(error.message);
+          this.$emit('create-order-error', error.message);
         }
       }
     },
@@ -204,6 +222,31 @@ export const InteractsWithCreateOrder = {
         service_type_id: parseInt(this.service_type_id, 10),
         service_id: parseInt(this.service_id, 10),
         payment_type_id: parseInt(this.payment_type_id, 10)
+      };
+    },
+
+    ghtkCreationData() {
+      return {
+        order: {
+          id: String(store.states.orderId),
+          name: this.name || '',
+          email: this.email || '',
+          tel: this.phone || '',
+          address: this.address || '',
+          province: this.address_data?.province || 0,
+          district: this.address_data?.district || 0,
+          ward: this.address_data?.ward || 0,
+          note: this.note,
+
+          value: this.insurance,
+          pick_money: this.cod,
+          total_weight: this.weight,
+
+          transport: this.transport,
+          pick_option: this.pick_option,
+          is_freeship: this.is_freeship,
+          tags: this.tags
+        }
       };
     }
   }

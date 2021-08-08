@@ -99,9 +99,7 @@ class RequestParameters {
 
 		$configureOptions( $options );
 
-		$data = $this->only(
-			$options->getDefinedOptions()
-		);
+		$data = $this->only( $options->getDefinedOptions() );
 
 		try {
 			return $options->resolve( $data );

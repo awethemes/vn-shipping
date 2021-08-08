@@ -4,6 +4,7 @@ namespace VNShipping\Courier;
 
 use InvalidArgumentException;
 use VNShipping\ShippingMethod\GHNShippingMethod;
+use VNShipping\ShippingMethod\GHTKShippingMethod;
 use VNShipping\ShippingMethod\VTPShippingMethod;
 use WC_Shipping_Method;
 
@@ -38,6 +39,12 @@ class Factory {
 					(int) $method->get_option( 'shop_id', 0 ),
 					'yes' === $method->get_option( 'is_debug', 'no' )
 				);
+
+			case $method instanceof GHTKShippingMethod:
+				return ( new GHTK(
+					$method->get_option( 'api_token' ),
+					'yes' === $method->get_option( 'is_debug', 'no' )
+				) )->set_store_id( $method->get_option( 'shop_id' ) );
 
 			/*case $method instanceof VTPShippingMethod:
 				$instance = new ViettelPost(

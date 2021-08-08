@@ -4,7 +4,7 @@
     :title="title"
     @modal-close="isOpen = false">
     <div class="vns_confirm-dialog__message">
-      <p v-if="messageForDisplay">{{ messageForDisplay }}</p>
+      <div v-if="messageForDisplay" v-html="messageForDisplay"></div>
       <slot />
     </div>
 
@@ -62,7 +62,9 @@ export default {
 
   computed: {
     messageForDisplay() {
-      return this.runtimeMessage || this.message || '';
+      const message = this.runtimeMessage || this.message || '';
+
+      return message;
     }
   }
 };

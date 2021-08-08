@@ -29,14 +29,14 @@
 </template>
 
 <script>
-import BlockUi from '../../elements/BlockUi';
+import BlockUi from '../elements/BlockUi';
 
 export default {
   name: 'ChooseCourier',
 
   components: { BlockUi },
 
-  emit: ['press-next'],
+  emits: ['press-next'],
 
   props: [
     'currentCourier',

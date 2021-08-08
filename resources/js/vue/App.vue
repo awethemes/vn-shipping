@@ -4,7 +4,7 @@
 
     <div class="vns-actions">
       <a href="#" class="is-destroy" @click.prevent="deleteShippingOrder">Hủy</a>
-<!--      <button class="button btn-check">Chi tiết</button>-->
+      <!--      <button class="button btn-check">Chi tiết</button>-->
     </div>
 
     <dialog-message ref="deleteDialog" :is-confirm="true"></dialog-message>
@@ -37,10 +37,16 @@
 
       <template v-else-if="states.orderShippingInfo">
         <component
+          v-if="createOrderComponent"
           :is="createOrderComponent"
           :order-shipping-info="states.orderShippingInfo"
           @order-created="onOrderCreated"
+          @create-order-error="onOrderCreateError"
         />
+
+        <div v-else>
+          <p>Tạo đơn hàng cho nhà vận chuyển chưa được hỗ trợ</p>
+        </div>
       </template>
     </modal>
   </template>
@@ -48,6 +54,12 @@
   <dialog-message
     ref="createOrderSuccess"
     title="Tạo đơn hàng thành công!"
+    :is-confirm="false"
+  />
+
+  <dialog-message
+    ref="createOrderError"
+    title="Lỗi tạo đơn hàng"
     :is-confirm="false"
   />
 </template>
@@ -58,10 +70,12 @@ import { InteractsWithAPI } from './api';
 
 import Modal from './elements/Modal';
 import Loading from './elements/Loading';
-import ShippingInfo from './components/shipping-info/ShippingInfo';
-import ChooseCourier from './components/create-order/ChooseCourier';
-import CreateGHNOrder from './components/create-order/CreateGHNOrder';
 import DialogMessage from './elements/DialogMessage';
+
+import ShippingInfo from './components/ShippingInfo';
+import ChooseCourier from './components/ChooseCourier';
+import CreateGHNOrder from './components/create/CreateGHNOrder';
+import CreateGHTKOrder from './components/create/CreateGHTKOrder';
 
 export default {
   name: 'App',
@@ -72,9 +86,12 @@ export default {
     Modal,
     Loading,
     DialogMessage,
+
     ShippingInfo,
     ChooseCourier,
-    CreateGHNOrder
+
+    CreateGHNOrder,
+    CreateGHTKOrder
   },
 
   data() {
@@ -91,11 +108,24 @@ export default {
         case 'ghn':
         case 'giao_hang_nhanh':
           return 'CreateGHNOrder';
+
+        case 'ghtk':
+        case 'giao_hang_tiet_kiem':
+          return 'CreateGHTKOrder';
+
+        default:
+          return null;
       }
     }
   },
 
   methods: {
+    onOrderCreateError(message) {
+      if (message) {
+        this.$refs.createOrderError.open(message);
+      }
+    },
+
     onOrderCreated(trackingNumber, orderData) {
       this.isCreateOrderModalOpen = false;
       store.setShippingData(orderData);

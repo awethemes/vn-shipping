@@ -37,6 +37,12 @@ abstract class AbstractCourier {
 
 	/**
 	 * @param RequestParameters|array $parameters
+	 * @return CollectionResponseData
+	 */
+	abstract public function get_stores( $parameters );
+
+	/**
+	 * @param RequestParameters|array $parameters
 	 * @return JsonResponseData
 	 */
 	abstract public function get_shipping_fee( $parameters );
@@ -49,7 +55,7 @@ abstract class AbstractCourier {
 
 	/**
 	 * @param RequestParameters|array $parameters
-	 * @return JsonResponseData
+	 * @return ShippingOrderResponseData
 	 */
 	abstract public function get_order( $parameters );
 
@@ -184,7 +190,7 @@ abstract class AbstractCourier {
 	 * @param array $data
 	 * @return JsonResponseData
 	 */
-	public static function newJsonResponseData( array $data ) {
+	protected static function newJsonResponseData( array $data ) {
 		return new JsonResponseData( $data );
 	}
 
@@ -192,7 +198,7 @@ abstract class AbstractCourier {
 	 * @param array $data
 	 * @return CollectionResponseData
 	 */
-	public static function newCollectionResponseData( array $data ) {
+	protected static function newCollectionResponseData( array $data ) {
 		return new CollectionResponseData( $data );
 	}
 
@@ -200,7 +206,7 @@ abstract class AbstractCourier {
 	 * @param array  $response
 	 * @param string ...$keys
 	 */
-	public static function assertResponseHasKey( $response, ...$keys ) {
+	protected static function assertResponseHasKey( $response, ...$keys ) {
 		foreach ( $keys as $key ) {
 			if ( ! array_key_exists( $key, $response ) ) {
 				throw new BadResponseException( "The `$key` key in response is missing." );

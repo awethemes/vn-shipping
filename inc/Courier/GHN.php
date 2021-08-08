@@ -63,10 +63,9 @@ class GHN extends AbstractCourier {
 	}
 
 	/**
-	 * @param RequestParameters|array $parameters
-	 * @return CollectionResponseData
+	 * {@inheritdoc}
 	 */
-	public function get_store( $parameters = [] ) {
+	public function get_stores( $parameters = [] ) {
 		if ( ! $parameters instanceof RequestParameters ) {
 			$parameters = new RequestParameters( $parameters );
 		}
@@ -190,12 +189,15 @@ class GHN extends AbstractCourier {
 
 		$response = $this->request(
 			'/shiip/public-api/v2/shipping-order/detail',
-			json_encode( [ 'order_codes' => $data['order_code'] ] )
+			json_encode( $data )
 		);
 
 		self::assertResponseHasKey( $response, 'data' );
 
-		return self::newJsonResponseData( $response['data'] ?: [] );
+		return new ShippingOrderResponseData(
+			$response['data']['order_code'],
+			$response['data']
+		);
 	}
 
 	/**
@@ -317,18 +319,20 @@ class GHN extends AbstractCourier {
 			$parameters = new RequestParameters( $parameters );
 		}
 
-		$values = $parameters->validate(
+		$data = $parameters->validate(
 			function ( OptionsResolver $options ) {
-				$options->define( 'order_codes' )->asString()->required();
+				$options->define( 'order_code' )->asString()->required();
 			}
 		);
 
-		$data = [ 'order_codes' => [ $values['order_codes'] ] ];
-		$this->with_header( 'ShopId', (int) $parameters->get( 'shop_id' ) ?: $this->get_shop_id() );
+		$this->with_header(
+			'ShopId',
+			(int) $parameters->get( 'shop_id' ) ?: $this->get_shop_id()
+		);
 
 		$response = $this->request(
 			'/shiip/public-api/v2/switch-status/cancel',
-			json_encode( $data )
+			json_encode( [ 'order_codes' => [ $data['order_code'] ] ] )
 		);
 
 		self::assertResponseHasKey( $response, 'data' );

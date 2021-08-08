@@ -11,6 +11,7 @@
   "dependencies": {
     "@woocommerce/number": "^2.1.1",
     "@wordpress/api-fetch": "^5.2.1",
+    "@wordpress/autop": "^3.2.1",
     "@wordpress/date": "^4.2.1",
     "@wordpress/hooks": "^3.2.0",
     "@wordpress/i18n": "^4.2.1",

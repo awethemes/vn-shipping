@@ -3,7 +3,7 @@
 namespace VNShipping;
 
 use VNShipping\Address\Province;
-use VNShipping\ShippingMethod\GHNShippingMethod;
+use VNShipping\Courier\Couriers;
 
 class Plugin {
 	use Traits\SingletonTrait;
@@ -53,8 +53,9 @@ class Plugin {
 	 * @return array
 	 */
 	public function register_shipping_methods( array $methods ) {
+		$methods[ Couriers::GHN ] = ShippingMethod\GHNShippingMethod::class;
+		$methods[ Couriers::GHTK ] = ShippingMethod\GHTKShippingMethod::class;
 		// $methods[ VTPShippingMethod::METHOD_NAME ] = VTPShippingMethod::class;
-		$methods[ GHNShippingMethod::METHOD_NAME ] = GHNShippingMethod::class;
 
 		return $methods;
 	}
