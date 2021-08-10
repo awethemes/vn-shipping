@@ -232,33 +232,6 @@ class GHN extends AbstractCourier {
 	}
 
 	/**
-	 * @param $parameters
-	 * @return Response\JsonResponseData
-	 */
-	public function preview_order( $parameters ) {
-		if ( ! $parameters instanceof RequestParameters ) {
-			$parameters = new RequestParameters( $parameters );
-		}
-
-		$data = $this->validate_for_creation( $parameters );
-		$this->remap_address_code( $data );
-
-		$this->with_header(
-			'ShopId',
-			$parameters->get( 'shop_id' ) ?: $this->get_shop_id()
-		);
-
-		$response = $this->request(
-			'/shiip/public-api/v2/shipping-order/preview',
-			json_encode( $data )
-		);
-
-		self::assertResponseHasKey( $response, 'data' );
-
-		return self::newJsonResponseData( $response['data'] ?: [] );
-	}
-
-	/**
 	 * @param RequestParameters $parameters
 	 * @return array
 	 */
