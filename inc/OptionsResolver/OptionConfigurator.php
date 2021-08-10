@@ -19,6 +19,11 @@ final class OptionConfigurator {
 	private $resolver;
 
 	/**
+	 * @var array
+	 */
+	private $allowedTypes = [];
+
+	/**
 	 * OptionConfigurator constructor.
 	 *
 	 * @param string                 $name
@@ -28,6 +33,15 @@ final class OptionConfigurator {
 		$this->name = $name;
 		$this->resolver = $resolver;
 		$this->resolver->setDefined( $name );
+	}
+
+	/**
+	 * @return $this
+	 */
+	public function nullable() {
+		$this->allowedTypes( 'null' );
+
+		return $this;
 	}
 
 	/**
@@ -70,7 +84,9 @@ final class OptionConfigurator {
 	 * @throws AccessException If called from a lazy option or normalizer
 	 */
 	public function allowedTypes( string ...$types ): self {
-		$this->resolver->setAllowedTypes( $this->name, $types );
+		$this->allowedTypes = array_merge( $this->allowedTypes, $types );
+
+		$this->resolver->setAllowedTypes( $this->name, $this->allowedTypes );
 
 		return $this;
 	}
@@ -101,16 +117,6 @@ final class OptionConfigurator {
 		$this->resolver->setDefault( $this->name, $value );
 
 		return $this;
-	}
-
-	/**
-	 * Defines an option configurator with the given name.
-	 *
-	 * @param string $option
-	 * @return self
-	 */
-	public function define( string $option ): self {
-		return $this->resolver->define( $option );
 	}
 
 	/**

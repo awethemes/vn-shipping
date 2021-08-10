@@ -52,6 +52,8 @@ class Factory {
 					$method->get_option( 'password' )
 				);
 
+				$instance->set_store_id( $method->get_option( 'store_id' ) );
+
 				if ( $access_token = $method->get_access_token() ) {
 					$instance->set_access_token( $access_token );
 				}

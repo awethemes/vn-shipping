@@ -74,6 +74,7 @@ import DialogMessage from './elements/DialogMessage';
 
 import ShippingInfo from './components/ShippingInfo';
 import ChooseCourier from './components/ChooseCourier';
+import CreateVTPOrder from './components/create/CreateVTPOrder';
 import CreateGHNOrder from './components/create/CreateGHNOrder';
 import CreateGHTKOrder from './components/create/CreateGHTKOrder';
 
@@ -90,6 +91,7 @@ export default {
     ShippingInfo,
     ChooseCourier,
 
+    CreateVTPOrder,
     CreateGHNOrder,
     CreateGHTKOrder
   },
@@ -112,6 +114,10 @@ export default {
         case 'ghtk':
         case 'giao_hang_tiet_kiem':
           return 'CreateGHTKOrder';
+
+        case 'vtp':
+        case 'viettel_post':
+          return 'CreateVTPOrder';
 
         default:
           return null;

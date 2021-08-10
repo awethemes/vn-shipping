@@ -178,6 +178,9 @@ export const InteractsWithCreateOrder = {
         case 'giao_hang_tiet_kiem':
           data = this.ghtkCreationData;
           break;
+        case 'viettel_post':
+          data = this.vtpCreationData;
+          break;
       }
 
       try {
@@ -247,6 +250,30 @@ export const InteractsWithCreateOrder = {
           is_freeship: this.is_freeship,
           tags: this.tags
         }
+      };
+    },
+
+    vtpCreationData() {
+      return {
+        PRODUCT_WIDTH: this.width,
+        PRODUCT_HEIGHT: this.height,
+        PRODUCT_WEIGHT: this.weight,
+        PRODUCT_LENGTH: this.length,
+
+        ORDER_NOTE: this.note,
+        ORDER_VOUCHER: this.coupon,
+
+        RECEIVER_FULLNAME: this.name || '',
+        RECEIVER_PHONE: this.phone || '',
+        RECEIVER_ADDRESS: this.address || '',
+        RECEIVER_PROVINCE: this.address_data?.province || 0,
+        RECEIVER_DISTRICT: this.address_data?.district || 0,
+        RECEIVER_WARD: this.address_data?.ward || '',
+
+        PRODUCT_PRICE: this.insurance || 0,
+        MONEY_COLLECTION: parseInt(this.cod || 0, 10),
+        ORDER_SERVICE: this.ORDER_SERVICE,
+        ORDER_SERVICE_ADD: this.ORDER_SERVICE_ADD
       };
     }
   }

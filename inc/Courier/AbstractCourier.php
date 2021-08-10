@@ -230,7 +230,7 @@ abstract class AbstractCourier {
 	 */
 	protected static function assertResponseHasKey( $response, ...$keys ) {
 		foreach ( $keys as $key ) {
-			if ( ! array_key_exists( $key, $response ) ) {
+			if ( ! array_key_exists( $key, $response ) || $response[ $key ] === null ) {
 				throw new BadResponseException( "The `$key` key in response is missing." );
 			}
 		}

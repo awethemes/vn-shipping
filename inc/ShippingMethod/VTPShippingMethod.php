@@ -2,8 +2,6 @@
 
 namespace VNShipping\ShippingMethod;
 
-use Exception;
-use VNShipping\Address\AddressMapper;
 use VNShipping\CartShippingContext;
 use VNShipping\Courier\Couriers;
 use VNShipping\Courier\RequestParameters;
@@ -176,6 +174,11 @@ class VTPShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 		}
 
 		if ( $this->get_option( 'access_token' ) ) {
+			$form_fields['store_title'] = [
+				'title' => esc_html__( 'Kho hàng', 'vn-shipping' ),
+				'type' => 'title',
+			];
+
 			$form_fields['store_id'] = [
 				'type' => 'radio',
 				'title' => esc_html__( 'Lựa chọn kho hàng', 'vn-shipping' ),
@@ -199,6 +202,27 @@ class VTPShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 
 					return $options;
 				},
+			];
+
+			$form_fields['sender_tile'] = [
+				'title' => esc_html__( 'Thông tin người gửi', 'vn-shipping' ),
+				'type' => 'title',
+			];
+
+			$form_fields['sender_name'] = [
+				'title' => esc_html__( 'Tên người gửi', 'vn-shipping' ) . '<sup style="color: red;">*</sup>',
+				'type' => 'text',
+				'description' => '',
+				'default' => '',
+				'custom_attributes' => [ 'required' => true ],
+			];
+
+			$form_fields['sender_phone'] = [
+				'title' => esc_html__( 'SĐT người gửi', 'vn-shipping' ) . '<sup style="color: red;">*</sup>',
+				'type' => 'text',
+				'description' => '',
+				'default' => '',
+				'custom_attributes' => [ 'required' => true ],
 			];
 		}
 
@@ -226,9 +250,7 @@ class VTPShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 	 * {@inheritdoc}
 	 */
 	protected function settings_changed( $dirty ) {
-		if ( isset( $dirty['store_id'] ) ) {
-			$this->update_option( 'current_store_info', $this->get_store_info() );
-		}
+		$this->update_option( 'current_store_info', $this->get_store_info() );
 	}
 
 	/**
@@ -243,6 +265,31 @@ class VTPShippingMethod extends WC_Shipping_Method implements ShippingMethodInte
 	 * {@inheritdoc}
 	 */
 	public function initialize_creation( RequestParameters $parameters, WC_Order $order ) {
-		// TODO: Implement initialize_create_parameters() method.
+		$parameters->set( 'ORDER_NUMBER', (string) $order->get_id() );
+		$parameters->set( 'GROUPADDRESS_ID', $this->get_option( 'store_id' ) );
+		$parameters->set( 'CUS_ID', $order->get_customer_id() );
+
+		$parameters->set( 'SENDER_FULLNAME', $this->get_option( 'sender_name' ) );
+		$parameters->set( 'SENDER_PHONE', $this->get_option( 'sender_phone' ) );
+
+		$parameters->set(
+			'LIST_ITEM',
+			array_map(
+				function ( $item ) {
+					/** @var \WC_Order_Item_Product $item */
+					$product = $item->get_product();
+
+					$weight = $product ? $product->get_weight() : 0;
+
+					return [
+						'PRODUCT_NAME' => $item->get_name(),
+						'PRODUCT_PRICE' => $item->get_total(),
+						'PRODUCT_WEIGHT' => $weight ? wc_get_weight( $weight, 'g' ) : 100,
+						'PRODUCT_QUANTITY' => $item->get_quantity(),
+					];
+				},
+				array_values( $order->get_items() )
+			)
+		);
 	}
 }
