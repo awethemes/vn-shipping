@@ -33,7 +33,7 @@
         "DistrictName": "Huyện Mang Thít",
         "Code": "5703",
         "Type": 3,
-        "SupportType": 3,
+        "SupportType": 0,
         "NameExtension": [
             "Huyện Mang Thít",
             "H.Mang Thít",
@@ -47,34 +47,6 @@
         "UpdatedBy": 1718600,
         "CreatedAt": "2019-12-05 15:53:32.43204 +0700 +07 m=+0.015985412",
         "UpdatedAt": "2020-09-29 13:42:49.172717 +0700 +07 m=+21.675009938",
-        "CanUpdateCOD": false,
-        "Status": 1,
-        "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        }
-    },
-    {
-        "DistrictID": 2081,
-        "ProvinceID": 215,
-        "DistrictName": "Huyện Bình Tân",
-        "Code": "5708",
-        "Type": 3,
-        "SupportType": 0,
-        "NameExtension": [
-            "Huyện Bình Tân",
-            "H.Bình Tân",
-            "H Bình Tân",
-            "Bình Tân",
-            "Binh Tan",
-            "Huyen Binh Tan",
-            "binhtan"
-        ],
-        "IsEnable": 1,
-        "UpdatedBy": 1718600,
-        "CreatedAt": "2019-12-05 15:53:32.432855 +0700 +07 m=+0.016800527",
-        "UpdatedAt": "2020-09-29 13:42:51.550599 +0700 +07 m=+24.052847047",
         "CanUpdateCOD": false,
         "Status": 1,
         "WhiteListClient": {
@@ -148,10 +120,39 @@
                 2590595
             ]
         },
+        "UpdatedDate": "2021-08-08T17:00:02.602Z"
+    },
+    {
+        "DistrictID": 2081,
+        "ProvinceID": 215,
+        "DistrictName": "Huyện Bình Tân",
+        "Code": "5708",
+        "Type": 3,
+        "SupportType": 3,
+        "NameExtension": [
+            "Huyện Bình Tân",
+            "H.Bình Tân",
+            "H Bình Tân",
+            "Bình Tân",
+            "Binh Tan",
+            "Huyen Binh Tan",
+            "binhtan"
+        ],
+        "IsEnable": 1,
+        "UpdatedBy": 1718600,
+        "CreatedAt": "2019-12-05 15:53:32.432855 +0700 +07 m=+0.016800527",
+        "UpdatedAt": "2020-09-29 13:42:51.550599 +0700 +07 m=+24.052847047",
+        "CanUpdateCOD": false,
+        "Status": 1,
+        "WhiteListClient": {
+            "From": null,
+            "To": null,
+            "Return": null
+        },
         "UpdatedIP": "35.247.155.234",
         "UpdatedEmployee": 242614,
         "UpdatedSource": "internal",
-        "UpdatedDate": "2021-07-14T09:58:49.434Z"
+        "UpdatedDate": "2021-08-05T17:00:08.559Z"
     },
     {
         "DistrictID": 2054,
@@ -310,7 +311,7 @@
         "DistrictName": "Huyện Long Hồ",
         "Code": "5702",
         "Type": 2,
-        "SupportType": 3,
+        "SupportType": 0,
         "NameExtension": [
             "Huyện Long Hồ",
             "H.Long Hồ",
@@ -327,10 +328,77 @@
         "CanUpdateCOD": false,
         "Status": 1,
         "WhiteListClient": {
-            "From": null,
-            "To": null,
-            "Return": null
-        }
+            "From": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "To": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ],
+            "Return": [
+                1160281,
+                1160293,
+                1160321,
+                1160336,
+                1160365,
+                1160301,
+                1160902,
+                1160904,
+                1160905,
+                1539,
+                2000036,
+                2000037,
+                2000038,
+                9794,
+                1618,
+                1041351,
+                156651,
+                18692,
+                224845,
+                1367,
+                2590595
+            ]
+        },
+        "UpdatedDate": "2021-08-08T17:00:02.6Z"
     },
     {
         "DistrictID": 1562,

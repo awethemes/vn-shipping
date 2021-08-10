@@ -460,3 +460,5 @@ function _export_indexes( $name = 'ghn' ) {
 		"<?php\n\nreturn " . var_export( $maps, true ) . ';'
 	);
 }
+
+// _export_indexes('vtp');

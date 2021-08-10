@@ -48,6 +48,7 @@ function __save_xa_phuong( $ma_quan ) {
 	foreach ( $data as &$datum ) {
 		unset( $datum['WhiteListClient'], $datum['SupportType'], $datum['UpdatedDate'] );
 	}
+	unset( $datum);
 
 	file_put_contents(
 		__SAVE_PATH . '/xa-phuong/' . $ma_quan . '.json',
