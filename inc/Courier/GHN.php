@@ -114,7 +114,7 @@ class GHN extends AbstractCourier {
 		);
 
 		// Convert internal address to GHN address code.
-		$this->remapAddressCode( $data );
+		$this->remap_address_code( $data );
 
 		// Prepare sending data.
 		$this->with_header(
@@ -151,7 +151,7 @@ class GHN extends AbstractCourier {
 		);
 
 		// Convert internal address to GHN address code.
-		$this->remapAddressCode( $data );
+		$this->remap_address_code( $data );
 
 		$this->with_header(
 			'ShopId',
@@ -211,7 +211,7 @@ class GHN extends AbstractCourier {
 		}
 
 		$data = $this->validate_for_creation( $parameters );
-		$this->remapAddressCode( $data );
+		$this->remap_address_code( $data );
 
 		$this->with_header(
 			'ShopId',
@@ -241,7 +241,7 @@ class GHN extends AbstractCourier {
 		}
 
 		$data = $this->validate_for_creation( $parameters );
-		$this->remapAddressCode( $data );
+		$this->remap_address_code( $data );
 
 		$this->with_header(
 			'ShopId',
@@ -442,7 +442,10 @@ class GHN extends AbstractCourier {
 		return self::newCollectionResponseData( $response['data'] ?: [] );
 	}
 
-	protected function remapAddressCode( array &$data ) {
+	/**
+	 * @param array $data
+	 */
+	protected function remap_address_code( array &$data ) {
 		$addressMapper = new AddressMapper( 'ghn' );
 
 		// to address
