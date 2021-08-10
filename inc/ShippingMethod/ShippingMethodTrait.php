@@ -2,7 +2,6 @@
 
 namespace VNShipping\ShippingMethod;
 
-use Exception;
 use InvalidArgumentException;
 use VNShipping\Courier\Exception\RequestException;
 use VNShipping\Courier\Factory;
@@ -71,15 +70,49 @@ trait ShippingMethodTrait {
 	 * {@inheritdoc}
 	 */
 	public function process_admin_options() {
-		$old_api_token = $this->get_option( 'api_token' );
-
-		$saved = parent::process_admin_options();
-
-		$new_api_token = $this->get_option( 'api_token' );
-
-		if ( $saved && $new_api_token !== $old_api_token ) {
-			delete_transient( $this->get_field_key( 'stores' ) );
+		if ( $this->instance_id ) {
+			return parent::process_admin_options();
 		}
+
+		if ( empty( $this->settings ) ) {
+			$this->init_settings();
+		}
+
+		$olds = $this->settings;
+		$saved = parent::process_admin_options();
+		$dirty = array_diff( $olds, $this->settings );
+
+		if ( $saved && ! empty( $dirty ) ) {
+			$this->settings_changed( $dirty );
+
+			if ( isset( $dirty['access_token'] ) ||
+				 isset( $dirty['api_token'] ) ||
+				 isset( $dirty['username'] ) ||
+				 isset( $dirty['password'] )
+			) {
+				delete_transient( $this->get_field_key( 'stores' ) );
+
+				$this->api_token_changed();
+			}
+		}
+
+		return $saved;
+	}
+
+	/**
+	 * Perform actions when setting changes.
+	 *
+	 * @param array $dirty
+	 */
+	protected function settings_changed( $dirty ) {
+		// Sub-class implements this!
+	}
+
+	/**
+	 * Perform actions when API token changed.
+	 */
+	protected function api_token_changed() {
+		// Sub-class implements this!
 	}
 
 	/**

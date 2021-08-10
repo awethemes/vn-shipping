@@ -55,7 +55,7 @@ class Plugin {
 	public function register_shipping_methods( array $methods ) {
 		$methods[ Couriers::GHN ] = ShippingMethod\GHNShippingMethod::class;
 		$methods[ Couriers::GHTK ] = ShippingMethod\GHTKShippingMethod::class;
-		// $methods[ VTPShippingMethod::METHOD_NAME ] = VTPShippingMethod::class;
+		$methods[ Couriers::VTP ] = ShippingMethod\VTPShippingMethod::class;
 
 		return $methods;
 	}

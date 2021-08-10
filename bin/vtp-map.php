@@ -11,6 +11,9 @@ function mapping_provinces() {
 
 	foreach ( $provinces as $province ) {
 		$row = _find_province_code( $province['PROVINCE_NAME'], [] );
+		if ( $row && $row->vtp_code ) {
+			continue;
+		}
 
 		if ( $row ) {
 			$found++;
@@ -19,8 +22,6 @@ function mapping_provinces() {
 				->execute( [ $province['PROVINCE_ID'], $row->code ] );
 
 			success( sprintf( "[VTP] Found: %s ~> %s(%s)", $province['PROVINCE_NAME'], $row->name, $row->code ) );
-
-			mapping_districts( $province, $row );
 		} else {
 			$missing++;
 
@@ -31,9 +32,9 @@ function mapping_provinces() {
 	message( "=> Found: {$found}. Missing: {$missing}" );
 }
 
-function mapping_districts( $provinceInfo, $dbProvince ) {
+function mapping_districts( $provinceCode, $dbProvince ) {
 	$districts = json_decode(
-		file_get_contents( __DIR__ . '/data/vtp-json/quan-huyen/' . $provinceInfo['PROVINCE_ID'] . '.json' ),
+		file_get_contents( __DIR__ . '/data/vtp-json/quan-huyen/' . $provinceCode . '.json' ),
 		true
 	);
 
@@ -41,6 +42,9 @@ function mapping_districts( $provinceInfo, $dbProvince ) {
 
 	foreach ( $districts as $district ) {
 		$row = _find_district_code( $dbProvince->code, $district['DISTRICT_NAME'] );
+		if ( $row && $row->vtp_code ) {
+			continue;
+		}
 
 		if ( $row ) {
 			$found++;
@@ -49,9 +53,6 @@ function mapping_districts( $provinceInfo, $dbProvince ) {
 				->execute( [ $district['DISTRICT_ID'], $row->code ] );
 
 			success( sprintf( "......Found: %s ~> %s(%s)", $district['DISTRICT_NAME'], $row->name, $row->code ) );
-
-			// mapping_wards( $district, $row );
-			echo PHP_EOL . PHP_EOL;
 		} else {
 			$missing++;
 
@@ -60,15 +61,11 @@ function mapping_districts( $provinceInfo, $dbProvince ) {
 	}
 
 	message( "......=> Found: {$found}. Missing: {$missing}" );
-
-	if ( $missing > 2 ) {
-		exit( $missing );
-	}
 }
 
-function mapping_wards($districtInfo, $districtRow) {
+function mapping_wards( $districtCode, $districtRow ) {
 	$wards = json_decode(
-		file_get_contents( __DIR__ . '/data/vtp-json/xa-phuong/' . $districtInfo['DISTRICT_ID'] . '.json' ),
+		file_get_contents( __DIR__ . '/data/vtp-json/xa-phuong/' . $districtCode . '.json' ),
 		true
 	);
 
@@ -76,6 +73,9 @@ function mapping_wards($districtInfo, $districtRow) {
 
 	foreach ( $wards as $province ) {
 		$row = _find_wards_code( $districtRow->code, $province['WARDS_NAME'], [] );
+		if ( $row && $row->vtp_code ) {
+			continue;
+		}
 
 		if ( $row ) {
 			$found++;
@@ -95,3 +95,17 @@ function mapping_wards($districtInfo, $districtRow) {
 }
 
 mapping_provinces();
+
+$provinceRows = _query_rows( "SELECT * FROM provinces WHERE vtp_code IS NOT NULL" );
+foreach ( $provinceRows as $province_row ) {
+	success( sprintf( "[VTP] Mapping districts: %s", $province_row->name ) );
+
+	mapping_districts( $province_row->vtp_code, $province_row );
+}
+
+$districtRows = _query_rows( "SELECT * FROM districts WHERE vtp_code IS NOT NULL" );
+foreach ( $districtRows as $districtRow ) {
+	success( sprintf( "[VTP] Mapping wards: %s", $districtRow->name ) );
+
+	mapping_wards( $districtRow->vtp_code, $districtRow );
+}

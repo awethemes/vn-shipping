@@ -41,15 +41,6 @@ class GHTK extends AbstractCourier {
 	/**
 	 * {@inheritdoc}
 	 */
-	public function get_lead_time( $parameters ) {
-		throw new UnsupportedMethodException(
-			__( 'Thấy thông tin ngày giao hàng không được hỗ trợ bởi GHTK.', 'vn-shipping' )
-		);
-	}
-
-	/**
-	 * {@inheritdoc}
-	 */
 	public function get_stores( $parameters ) {
 		$response = $this->request( '/services/shipment/list_pick_add' );
 

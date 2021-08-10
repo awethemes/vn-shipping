@@ -2,7 +2,9 @@
 
 namespace VNShipping\Courier;
 
+use ReflectionClass;
 use VNShipping\Courier\Exception\BadResponseException;
+use VNShipping\Courier\Exception\UnsupportedMethodException;
 use VNShipping\Courier\Response\CollectionResponseData;
 use VNShipping\Courier\Response\JsonResponseData;
 use VNShipping\Courier\Response\ShippingOrderResponseData;
@@ -49,12 +51,6 @@ abstract class AbstractCourier {
 
 	/**
 	 * @param RequestParameters|array $parameters
-	 * @return JsonResponseData
-	 */
-	abstract public function get_lead_time( $parameters );
-
-	/**
-	 * @param RequestParameters|array $parameters
 	 * @return ShippingOrderResponseData
 	 */
 	abstract public function get_order( $parameters );
@@ -70,6 +66,32 @@ abstract class AbstractCourier {
 	 * @return JsonResponseData
 	 */
 	abstract public function cancel_order( $parameters );
+
+	/**
+	 * @param RequestParameters|array $parameters
+	 * @return JsonResponseData
+	 */
+	public function get_available_services( $parameters ) {
+		throw new UnsupportedMethodException(
+			sprintf(
+				__( 'Lấy thông tin dịch vụ giao hàng không được hỗ trợ bởi %s.', 'vn-shipping' ),
+				( new ReflectionClass( $this ) )->getShortName()
+			)
+		);
+	}
+
+	/**
+	 * @param RequestParameters|array $parameters
+	 * @return JsonResponseData
+	 */
+	public function get_lead_time( $parameters ) {
+		throw new UnsupportedMethodException(
+			sprintf(
+				__( 'Lấy thông tin ngày giao hàng không được hỗ trợ bởi %s.', 'vn-shipping' ),
+				( new ReflectionClass( $this ) )->getShortName()
+			)
+		);
+	}
 
 	/**
 	 * @param bool $debug

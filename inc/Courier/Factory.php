@@ -46,7 +46,7 @@ class Factory {
 					'yes' === $method->get_option( 'is_debug', 'no' )
 				) )->set_store_id( $method->get_option( 'shop_id' ) );
 
-			/*case $method instanceof VTPShippingMethod:
+			case $method instanceof VTPShippingMethod:
 				$instance = new ViettelPost(
 					$method->get_option( 'username' ),
 					$method->get_option( 'password' )
@@ -56,7 +56,7 @@ class Factory {
 					$instance->set_access_token( $access_token );
 				}
 
-				return $instance;*/
+				return $instance;
 
 			default:
 				throw new InvalidArgumentException( 'Invalid courier' );

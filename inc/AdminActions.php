@@ -3,6 +3,8 @@
 namespace VNShipping;
 
 use Exception;
+use VNShipping\Courier\Factory;
+use VNShipping\ShippingMethod\AccessTokenAwareInterface;
 use VNShipping\Traits\SingletonTrait;
 
 class AdminActions {
@@ -36,13 +38,20 @@ class AdminActions {
 			$string_length = 4096;
 		}
 
-		echo str_repeat( ' ', $string_length ); // Print 4096 empty string first.
+		// Print 4096 empty string first.
+		$chars = [ ' ', "\n", "\t" ];
+		for ( $i = 0; $i < $string_length; $i++ ) {
+			echo $chars[ array_rand( $chars ) ];
+		}
 
-		$shipping_method_name = sanitize_text_field( $_REQUEST['shipping-method'] ?? null );
-		$shipping_methods = WC()->shipping()->get_shipping_methods();
+		$name = sanitize_text_field( $_REQUEST['shipping-method'] ?? null );
 
-		$shipping_method = $shipping_methods[ $shipping_method_name ] ?? null;
-		$client = $shipping_method->get_courier();
+		$client = Factory::create( $name );
+		$shipping_method = WC()->shipping()->get_shipping_methods()[ $name ] ?? null;
+
+		if ( ! $shipping_method || ! $shipping_method instanceof AccessTokenAwareInterface ) {
+			return;
+		}
 
 		echo '<pre style="color: #2c4b4c">Info: Request access token...</pre>';
 		ob_flush();
