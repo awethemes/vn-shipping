@@ -380,8 +380,6 @@ class GHN extends AbstractCourier {
 	public function get_province() {
 		$response = $this->request( '/shiip/public-api/master-data/province' );
 
-		self::assertResponseHasKey( $response, 'data' );
-
 		return self::newCollectionResponseData( $response['data'] ?: [] );
 	}
 
@@ -395,8 +393,6 @@ class GHN extends AbstractCourier {
 			json_encode( [ 'province_id' => $province ] )
 		);
 
-		self::assertResponseHasKey( $response, 'data' );
-
 		return self::newCollectionResponseData( $response['data'] ?: [] );
 	}
 
@@ -409,8 +405,6 @@ class GHN extends AbstractCourier {
 			'/shiip/public-api/master-data/ward',
 			json_encode( [ 'district_id' => $district ] )
 		);
-
-		self::assertResponseHasKey( $response, 'data' );
 
 		return self::newCollectionResponseData( $response['data'] ?: [] );
 	}
