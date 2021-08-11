@@ -177,7 +177,7 @@ class Plugin {
 			}
 
 			wp_add_inline_script(
-				'vn-shipping-order-shipping',
+				'vn-shipping-edit-order',
 				'window._vnShippingInitialStates = ' . wp_json_encode( $orderStates ),
 				'before'
 			);
