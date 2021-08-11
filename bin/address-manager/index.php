@@ -350,27 +350,31 @@ function get_wards_list( $name, $districtCode ) {
 		$wards = wp_list_pluck( $wards, 'WardName', 'WardCode' );
 	}
 
+	asort( $wards );
+
 	return $wards;
 }
 
 function get_districts_list( $name, $provinceCode ) {
 	if ( $name === 'vtp' ) {
-		$wards = json_decode(
+		$districts = json_decode(
 			file_get_contents( dirname( __DIR__ ) . '/data/vtp-json/quan-huyen/' . $provinceCode . '.json' ),
 			true
 		);
 
-		$wards = wp_list_pluck( $wards, 'DISTRICT_NAME', 'DISTRICT_ID' );
+		$districts = wp_list_pluck( $districts, 'DISTRICT_NAME', 'DISTRICT_ID' );
 	} else {
-		$wards = json_decode(
+		$districts = json_decode(
 			file_get_contents( dirname( __DIR__ ) . '/data/ghn-json/quan-huyen/' . $provinceCode . '.json' ),
 			true
 		);
 
-		$wards = wp_list_pluck( $wards, 'DistrictName', 'DistrictID' );
+		$districts = wp_list_pluck( $districts, 'DistrictName', 'DistrictID' );
 	}
 
-	return $wards;
+	asort( $districts );
+
+	return $districts;
 }
 
 function ajax_show_assign_wards() {
