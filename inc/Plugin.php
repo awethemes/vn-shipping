@@ -117,14 +117,6 @@ class Plugin {
 			true
 		);
 
-		wp_register_script(
-			'vn-shipping-order-shipping',
-			VN_SHIPPING_ASSETS_URL . '/order-shipping.js',
-			$this->get_asset_info( 'order-shipping', 'dependencies' ),
-			$this->get_asset_info( 'order-shipping', 'version' ),
-			true
-		);
-
 		// Enqueue scripts.
 		$current_screen = get_current_screen();
 		if ( $current_screen && 'shop_order' === $current_screen->id ) {
@@ -134,7 +126,6 @@ class Plugin {
 
 			wp_enqueue_style( 'vn-shipping-admin-css' );
 			wp_enqueue_script( 'vn-shipping-edit-order' );
-			wp_enqueue_script( 'vn-shipping-order-shipping' );
 		}
 	}
 

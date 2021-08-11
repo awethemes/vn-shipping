@@ -14,8 +14,7 @@ const externals = {};
 mix.sass('resources/scss/admin.scss', 'dist/');
 
 mix.js('resources/js/checkout.js', 'dist/');
-mix.js('resources/js/edit-order.js', 'dist/');
-mix.js('resources/js/order-shipping.js', 'dist/').vue();
+mix.js('resources/js/edit-order.js', 'dist/').vue();
 
 mix.sourceMaps(false, 'source-map');
 if (mix.inProduction()) {

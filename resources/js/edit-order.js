@@ -1,5 +1,8 @@
 import $ from 'jquery';
 
+import { createApp } from 'vue';
+import AppComponent from './vue';
+
 import {
   replaceElement,
   createAddressSelection
@@ -9,7 +12,17 @@ const PROVINCE_SELECTOR = 'select.js_field-state, [name="_billing_state"], [name
 const DISTRICT_SELECTOR = '[name="_billing_city"], [name="_shipping_city"]';
 const WARDS_SELECTOR = '[name="_billing_address_2"], [name="_shipping_address_2"]';
 
-$(document.body).on('country-change.woocommerce', (e, country, wrapper) => {
+function initMetaBox() {
+  if (!document.getElementsByTagName('VNShippingRoot')) {
+    return;
+  }
+
+  const app = createApp({ template: '<app/>' });
+  app.component('App', AppComponent);
+  app.mount('#VNShippingRoot');
+}
+
+function handleCountryChange(e, country, wrapper) {
   let inputType = country === 'VN' ? 'select' : 'input';
 
   replaceElement(wrapper.find(DISTRICT_SELECTOR)[0], inputType);
@@ -22,4 +35,13 @@ $(document.body).on('country-change.woocommerce', (e, country, wrapper) => {
       wardElement: wrapper.find(WARDS_SELECTOR)[0]
     });
   }
+}
+
+$(function() {
+  initMetaBox();
 });
+
+$(document.body).on(
+  'country-change.woocommerce',
+  handleCountryChange
+);
